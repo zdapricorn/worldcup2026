@@ -359,22 +359,31 @@
 
     // === API data available — show real predictions ===
     const wt = analysis.winProb;
-    const apiPred = analysis.apiPrediction || {};
-    const overUnder = analysis.overUnder || '';
-    const advice = analysis.advice || '';
+    const srcLabel = analysis.labeled ? 'Ước tính' : '';
+    const homeForm = analysis.homeForm || [];
+    const awayForm = analysis.awayForm || [];
+
+    function renderFormBadge(form) {
+      if (!form || !form.length) return '';
+      return form.map(f => {
+        const color = f === 'W' ? 'var(--green)' : f === 'D' ? 'var(--yellow)' : 'var(--red)';
+        return `<span style="display:inline-block;width:16px;height:16px;border-radius:50%;background:${color};color:#000;font-size:0.6rem;font-weight:800;text-align:center;line-height:16px;margin:0 1px">${f}</span>`;
+      }).join('');
+    }
 
     container.innerHTML = `
       ${renderMatchSelector(matchId)}
 
       <div class="analysis-dashboard">
-        <!-- Win Probability from API -->
+        <!-- Win Probability -->
         <div class="analysis-card">
-          <h3>📊 Tỉ lệ thắng <span style="font-size:0.7rem;color:var(--green);font-weight:400">(API-Football)</span></h3>
+          <h3>📊 Tỉ lệ thắng <span style="font-size:0.7rem;color:var(--gold);font-weight:400">(${srcLabel})</span></h3>
           <div class="prob-display">
             <div class="prob-team">
               <div class="flag">${getFlag(match.home_team_id)}</div>
               <div class="name" style="color:var(--blue)">${getTeamName(match.home_team_id)}</div>
               <div style="font-size:1.5rem;font-weight:800;color:var(--blue);margin-top:4px">${wt.homeWin}%</div>
+              <div style="margin-top:6px">${renderFormBadge(homeForm)}</div>
             </div>
             <div class="prob-bar-container">
               <div class="progress-bar" style="height:30px;border-radius:15px">
@@ -392,13 +401,14 @@
               <div class="flag">${getFlag(match.away_team_id)}</div>
               <div class="name" style="color:var(--red)">${getTeamName(match.away_team_id)}</div>
               <div style="font-size:1.5rem;font-weight:800;color:var(--red);margin-top:4px">${wt.awayWin}%</div>
+              <div style="margin-top:6px">${renderFormBadge(awayForm)}</div>
             </div>
           </div>
         </div>
 
-        <!-- Score Prediction from API -->
+        <!-- Score Prediction -->
         <div class="analysis-card">
-          <h3>⚽ Dự đoán tỉ số</h3>
+          <h3>⚽ Dự đoán tỉ số <span style="font-size:0.7rem;color:var(--gold);font-weight:400">(${srcLabel})</span></h3>
           <div style="text-align:center;padding:1rem">
             <div style="display:flex;align-items:center;justify-content:center;gap:2rem;flex-wrap:wrap">
               <div style="text-align:center">
@@ -411,14 +421,13 @@
                 <div style="font-weight:600;color:var(--text-bright)">${getTeamName(match.away_team_id)}</div>
               </div>
             </div>
-            ${overUnder ? `<div style="margin-top:0.5rem;display:inline-block;background:rgba(255,215,0,0.1);padding:4px 12px;border-radius:12px;color:var(--gold);font-size:0.8rem">${overUnder}</div>` : ''}
           </div>
         </div>
 
         <!-- Additional Predictions -->
         <div class="analysis-grid">
           <div class="analysis-card">
-            <h3>🏳️ Tổng phạt góc</h3>
+            <h3>🏳️ Tổng phạt góc <span style="font-size:0.65rem;color:var(--gold);font-weight:400">(${srcLabel})</span></h3>
             <div style="text-align:center;padding:1rem">
               <div class="big-num" style="font-size:3rem;font-weight:800;color:var(--gold)">
                 ${typeof analysis.corners === 'number' ? analysis.corners : '?'}
@@ -427,7 +436,7 @@
             </div>
           </div>
           <div class="analysis-card">
-            <h3>🟨 Tổng thẻ</h3>
+            <h3>🟨 Tổng thẻ <span style="font-size:0.65rem;color:var(--gold);font-weight:400">(${srcLabel})</span></h3>
             <div style="text-align:center;padding:1rem">
               <div class="big-num" style="font-size:3rem;font-weight:800;color:var(--gold)">
                 ${typeof analysis.cards === 'number' ? analysis.cards : '?'}
@@ -436,13 +445,10 @@
             </div>
           </div>
           <div class="analysis-card">
-            <h3>⭐ Cầu thủ ghi bàn</h3>
+            <h3>⭐ Cầu thủ ghi bàn <span style="font-size:0.65rem;color:var(--gold);font-weight:400">(${srcLabel})</span></h3>
             <div style="text-align:center;padding:1rem">
-              <div style="font-size:1.5rem;font-weight:700;color:var(--text-bright)">
-                ${apiPred.winner?.name || 'Dữ liệu từ API'}
-              </div>
+              <div style="font-size:1.5rem;font-weight:700;color:var(--text-bright)">${analysis.predictedScorer}</div>
               <div style="color:var(--text-light);margin-top:4px">dự đoán ghi bàn đầu tiên</div>
-              ${apiPred.winner?.comment ? `<div style="color:var(--gold);font-size:0.75rem;margin-top:4px">${apiPred.winner.comment}</div>` : ''}
             </div>
           </div>
           <div class="analysis-card">
@@ -457,21 +463,17 @@
           </div>
         </div>
 
-        <!-- Advice from API -->
-        ${advice ? `
-        <div class="analysis-card" style="border:1px solid rgba(255,215,0,0.2)">
-          <h3>💡 Nhận định từ API</h3>
-          <div style="padding:0.5rem 0">
-            <p style="color:var(--gold);font-size:1rem;line-height:1.6">${advice}</p>
-          </div>
-        </div>` : ''}
-
-        <!-- Analysis Text (from team data) -->
-        <div class="analysis-card">
-          <h3>📝 Phân tích trận đấu</h3>
+        <!-- Analysis Text -->
+        <div class="analysis-card" style="border:1px solid rgba(255,215,0,0.15)">
+          <h3>📝 Nhận định trận đấu</h3>
           <div style="padding:0.5rem 0">
             <p style="color:var(--text-light);line-height:1.8">${analysis.analysis.summary}</p>
-            <p style="color:var(--text-light);line-height:1.8;margin-top:0.5rem">${analysis.analysis.details}</p>
+            <p style="color:var(--text-light);font-size:0.85rem;margin-top:0.5rem">${analysis.analysis.details}</p>
+            <div style="margin-top:0.8rem;padding:0.8rem;background:rgba(255,215,0,0.05);border-radius:8px">
+              <p style="color:var(--gold);font-size:0.75rem">
+                ℹ️ Các dự đoán trên được tính toán từ phong độ gần đây và xếp hạng FIFA. Dữ liệu trận đấu được cập nhật từ LiveScore.com.
+              </p>
+            </div>
           </div>
         </div>
       </div>

@@ -398,25 +398,79 @@ def fetch_incidents(ls_eid_map):
     print(f"  ✅ Fetched incidents for {fetched} matches")
     return incidents_data
 
-# ====== 6. Build team stats from incidents ======
-def build_team_stats(incidents_data, ls_eid_map, lineups_data):
-    """Build team statistics (avg goals, cards, corners) from incidents."""
-    team_goals = {}
-    team_cards = {}
-    team_matches = {}
+# ====== 6. Build team stats from matches ======
+def build_team_stats():
+    """Build team statistics from match results."""
+    data = load_json("matches.json")
+    if not data:
+        return
 
-    for eid, incs in incidents_data.items():
-        match_info = ls_eid_map.get(eid, {})
-        home_slug = match_info.get("home_slug", "")
-        away_slug = match_info.get("away_slug", "")
+    matches = data.get("matches", data) if isinstance(data, dict) else data
+    team_stats = {}
 
-        for inc in incs:
-            it = inc.get("type", 0)
-            if it == 36:  # Goal
-                # Increment goals for the scoring team
-                pass  # Would need team tracking
+    for m in matches:
+        if m.get("status") != "finished":
+            continue
+        home = m.get("home_team_id", "")
+        away = m.get("away_team_id", "")
+        hs = m.get("home_score", 0)
+        as_ = m.get("away_score", 0)
 
-    print("  ✅ Built team statistics")
+        if not home or not away:
+            continue
+
+        # Init
+        for team in [home, away]:
+            if team not in team_stats:
+                team_stats[team] = {"played": 0, "wins": 0, "draws": 0, "losses": 0,
+                                     "goals_for": 0, "goals_against": 0, "form": []}
+
+        # Home team
+        team_stats[home]["played"] += 1
+        team_stats[home]["goals_for"] += hs
+        team_stats[home]["goals_against"] += as_
+        if hs > as_:
+            team_stats[home]["wins"] += 1
+            team_stats[home]["form"].append("W")
+        elif hs == as_:
+            team_stats[home]["draws"] += 1
+            team_stats[home]["form"].append("D")
+        else:
+            team_stats[home]["losses"] += 1
+            team_stats[home]["form"].append("L")
+
+        # Away team
+        team_stats[away]["played"] += 1
+        team_stats[away]["goals_for"] += as_
+        team_stats[away]["goals_against"] += hs
+        if as_ > hs:
+            team_stats[away]["wins"] += 1
+            team_stats[away]["form"].append("W")
+        elif as_ == hs:
+            team_stats[away]["draws"] += 1
+            team_stats[away]["form"].append("D")
+        else:
+            team_stats[away]["losses"] += 1
+            team_stats[away]["form"].append("L")
+
+    # Add derived stats
+    for team, stats in team_stats.items():
+        p = max(stats["played"], 1)
+        stats["avg_goals_for"] = round(stats["goals_for"] / p, 2)
+        stats["avg_goals_against"] = round(stats["goals_against"] / p, 2)
+        stats["win_rate"] = round(stats["wins"] / p * 100, 1)
+        # Last 5 form
+        stats["form"] = stats["form"][-5:]
+
+    if team_stats:
+        save_json("team_stats.json", {
+            "teams": team_stats,
+            "source": "livescore",
+            "last_updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+        })
+        print(f"  ✅ Built stats for {len(team_stats)} teams")
+
+    return team_stats
 
 # ====== Main ======
 def main():
@@ -450,9 +504,9 @@ def main():
     incidents = fetch_incidents(ls_map)
     print()
 
-    # Step 5: Build stats
-    if incidents:
-        build_team_stats(incidents, ls_map, lineups)
+    # Step 5: Build stats from match results
+    print("📊 Building team statistics...")
+    build_team_stats()
 
     print("\n✅ Complete!")
     print(f"   Fixtures: {len(events)} | Lineups: {len(lineups)} | Incidents: {len(incidents)}")
