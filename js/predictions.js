@@ -1,149 +1,176 @@
 /**
  * World Cup 2026 - Prediction Engine
- * Data-driven prediction models using Elo ratings, Poisson distribution,
- * and team statistics. All calculations are client-side.
+ * Powered by API-Football predictions + real statistics.
+ *
+ * Fallback behavior: if API data is not yet available (workflow hasn't run),
+ * show a loading message instead of generating synthetic predictions.
  */
 const WC2026_Predictions = {
-  // Elo-based win probability calculation — FIXED formula
-  calculateWinProb(homeRank, awayRank, homeAttack, awayDef, awayAttack, homeDef) {
-    // Base Elo: expected score for home team
-    // FIFA ranking: lower number = better team, so we invert for Elo
-    const rankDiff = homeRank - awayRank;
-    const baseElo = 1.0 / (1.0 + Math.pow(10, rankDiff / 400.0));
-    const baseEloPct = baseElo * 100;
 
-    // Team-strength adjustment (±8% max)
-    const strDiff = (homeAttack + homeDef) - (awayAttack + awayDef);
-    const strengthAdj = Math.max(-8, Math.min(8, strDiff * 0.05));
+  // Load API predictions from predictions.json
+  apiPredictions: null,
+  apiH2H: null,
+  apiLineups: null,
+  apiLoaded: false,
 
-    let homePct = baseEloPct + strengthAdj;
-    let awayPct = 100 - baseEloPct - strengthAdj;
-
-    // Draw probability: highest when teams are evenly matched (max ~26%)
-    const rankGap = Math.abs(rankDiff);
-    let drawPct = Math.round(26 * Math.exp(-rankGap / 120));
-    if (drawPct < 5) drawPct = 5;
-
-    // Scale win probs to make room for draw
-    const winTotal = 100 - drawPct;
-    if (winTotal > 0) {
-      homePct = Math.round(homePct * winTotal / (homePct + awayPct));
-      awayPct = winTotal - homePct;
+  async loadAPIData() {
+    if (this.apiLoaded) return;
+    try {
+      const [predResp, h2hResp, lineupResp] = await Promise.all([
+        fetch('data/predictions.json').then(r => r.ok ? r.json() : null).catch(() => null),
+        fetch('data/h2h.json').then(r => r.ok ? r.json() : null).catch(() => null),
+        fetch('data/lineups.json').then(r => r.ok ? r.json() : null).catch(() => null)
+      ]);
+      this.apiPredictions = predResp?.predictions || null;
+      this.apiH2H = h2hResp?.h2h || null;
+      this.apiLineups = lineupResp?.lineups || null;
+      this.apiLoaded = true;
+    } catch (e) {
+      console.warn('API data not yet available:', e.message);
+      this.apiLoaded = true;
     }
-
-    return {
-      homeWin: Math.max(1, Math.min(99, homePct)),
-      draw: drawPct,
-      awayWin: Math.max(1, Math.min(99, awayPct))
-    };
   },
 
-  // Simple Poisson-based score prediction
-  predictScore(homeAttack, awayDef, awayAttack, homeDef) {
-    const homeStrength = (homeAttack / 100) * (1 - awayDef / 200);
-    const awayStrength = (awayAttack / 100) * (1 - homeDef / 200);
-
-    let homeGoals = Math.round(homeStrength * 3.2 - 0.3);
-    let awayGoals = Math.round(awayStrength * 3.2 - 0.3);
-
-    // Ensure at least some goals for non-zero games
-    if (homeGoals < 0) homeGoals = 0;
-    if (awayGoals < 0) awayGoals = 0;
-    if (homeGoals === 0 && awayGoals === 0) {
-      if (homeAttack > awayDef) homeGoals = 1;
-      else if (awayAttack > homeDef) awayGoals = 1;
-      else { homeGoals = 1; awayGoals = 1; }
-    }
-
-    return {
-      home: Math.min(5, homeGoals),
-      away: Math.min(5, awayGoals)
-    };
+  /**
+   * Get prediction for a specific match by its API fixture ID.
+   */
+  getAPIPrediction(apiFixtureId) {
+    if (!this.apiPredictions || !apiFixtureId) return null;
+    return this.apiPredictions[String(apiFixtureId)] || null;
   },
 
-  // Corner prediction based on team style
-  predictCorners(homeCornersAvg, awayCornersAvg, homeGoals, awayGoals) {
-    let total = homeCornersAvg + awayCornersAvg + (homeGoals + awayGoals) * 0.5;
-    return Math.max(4, Math.min(15, Math.round(total)));
+  /**
+   * Get H2H matches between two API team IDs.
+   */
+  getH2H(teamApiId1, teamApiId2) {
+    if (!this.apiH2H) return null;
+    // Try both orderings
+    const key = `${Math.min(teamApiId1, teamApiId2)}-${Math.max(teamApiId1, teamApiId2)}`;
+    const reverseKey = `${Math.max(teamApiId1, teamApiId2)}-${Math.min(teamApiId1, teamApiId2)}`;
+    return this.apiH2H[key] || this.apiH2H[reverseKey] || null;
   },
 
-  // Card prediction based on discipline
-  predictCards(homeDiscipline, awayDiscipline, homeGoals, awayGoals) {
-    const avgDiscipline = (homeDiscipline + awayDiscipline) / 2;
-    let cards = Math.round((100 - avgDiscipline) / 12 + (homeGoals + awayGoals) * 0.4);
-    return Math.max(1, Math.min(10, cards));
+  /**
+   * Get lineups for a specific fixture.
+   */
+  getLineups(apiFixtureId) {
+    if (!this.apiLineups || !apiFixtureId) return null;
+    return this.apiLineups[String(apiFixtureId)] || null;
   },
 
-  // Full match analysis
+  /**
+   * Main analysis for a match — uses API data if available.
+   * Returns null if no data yet (caller should show "Loading...").
+   */
   analyzeMatch(match, teamsData) {
     const homeTeam = teamsData.find(t => t.id === match.home_team_id);
     const awayTeam = teamsData.find(t => t.id === match.away_team_id);
     if (!homeTeam || !awayTeam) return null;
 
-    const winProb = this.calculateWinProb(
-      homeTeam.fifa_ranking, awayTeam.fifa_ranking,
-      homeTeam.attacking_strength, awayTeam.defensive_strength,
-      awayTeam.attacking_strength, homeTeam.defensive_strength
-    );
+    const apiFixtureId = match.api_fixture_id;
+    const apiPred = this.getAPIPrediction(apiFixtureId);
 
-    const score = this.predictScore(
-      homeTeam.attacking_strength, awayTeam.defensive_strength,
-      awayTeam.attacking_strength, homeTeam.defensive_strength
-    );
+    if (apiPred) {
+      // Use REAL API data for predictions
+      const pct = apiPred.percent || {};
+      const compare = apiPred.comparison || {};
+      const h2hComp = compare['h2h'] || {};
+      const goalsPred = apiPred.goals || {};
+      const winner = apiPred.winner || {};
 
-    const corners = this.predictCorners(
-      homeTeam.corners_avg, awayTeam.corners_avg,
-      score.home, score.away
-    );
+      // Win probabilities
+      const homeWinPct = parseFloat(pct.home) || 0;
+      const drawPct = parseFloat(pct.draw) || 0;
+      const awayWinPct = parseFloat(pct.away) || 0;
 
-    const cards = this.predictCards(
-      homeTeam.discipline, awayTeam.discipline,
-      score.home, score.away
-    );
+      // Predicted score
+      const predictedScore = {
+        home: parseInt(goalsPred.home) || 0,
+        away: parseInt(goalsPred.away) || 0
+      };
 
-    // Predict goal scorer based on which team is favored
-    let predictedScorer = 'Không có bàn thắng';
-    if (score.home > score.away && score.home > 0) {
-      predictedScorer = homeTeam.star_player;
-    } else if (score.away > score.home && score.away > 0) {
-      predictedScorer = awayTeam.star_player;
-    } else if (score.home > 0) {
-      predictedScorer = homeTeam.star_player;
+      // Under/Over
+      const underOver = apiPred.under_over || '';
+
+      // Extract corner & card stats from comparison if available
+      const homeStats = {};
+      const awayStats = {};
+      if (compare['attacks']) {
+        homeStats.attacks = compare['attacks'].home;
+        awayStats.attacks = compare['attacks'].away;
+      }
+      if (compare['dangerous_attacks']) {
+        homeStats.dangerousAttacks = compare['dangerous_attacks'].home;
+        awayStats.dangerousAttacks = compare['dangerous_attacks'].away;
+      }
+      if (compare['corners']) {
+        homeStats.corners = compare['corners'].home;
+        awayStats.corners = compare['corners'].away;
+      }
+      if (compare['yellow_cards']) {
+        homeStats.yellowCards = compare['yellow_cards'].home;
+        awayStats.yellowCards = compare['yellow_cards'].away;
+      }
+
+      // Predicted corners (from API comparison or estimate from goals)
+      const avgHomeCorners = parseFloat(homeStats.corners) || homeTeam.corners_avg || 5;
+      const avgAwayCorners = parseFloat(awayStats.corners) || awayTeam.corners_avg || 4;
+      const predictCorners = Math.max(4, Math.min(15,
+        Math.round(avgHomeCorners + avgAwayCorners + (predictedScore.home + predictedScore.away) * 0.3)
+      ));
+
+      // Predicted cards (from API comparison or estimate)
+      const avgHomeCards = parseFloat(homeStats.yellowCards) || 2;
+      const avgAwayCards = parseFloat(awayStats.yellowCards) || 2;
+      const predictCards = Math.max(1, Math.min(10,
+        Math.round(avgHomeCards + avgAwayCards + (predictedScore.home + predictedScore.away) * 0.2)
+      ));
+
+      return {
+        homeTeam,
+        awayTeam,
+        source: 'api',
+        apiPrediction: apiPred,
+        winProb: {
+          homeWin: Math.round(homeWinPct),
+          draw: Math.round(drawPct),
+          awayWin: Math.round(awayWinPct)
+        },
+        score: predictedScore,
+        corners: predictCorners,
+        cards: predictCards,
+        predictedScorer: winner?.name || (predictedScore.home > 0 ? homeTeam.star_player : awayTeam.star_player),
+        overUnder: underOver,
+        advice: apiPred.advice || '',
+        comparison: compare,
+        analysis: {
+          summary: apiPred.advice ||
+            `${homeTeam.name_vi} ${homeWinPct}% — ${awayTeam.name_vi} ${awayWinPct}% — Hòa ${drawPct}%. ${underOver ? 'Tổng bàn: ' + underOver : ''}`,
+          details: `Dựa trên dữ liệu thống kê thực tế từ API-Football.`
+        }
+      };
     }
 
+    // No API data yet — return a lightweight object with status info
     return {
-      homeTeam: { ...homeTeam, predicted_goals: score.home },
-      awayTeam: { ...awayTeam, predicted_goals: score.away },
-      winProb,
-      score,
-      corners,
-      cards,
-      predictedScorer,
-      analysis: this.generateAnalysis(homeTeam, awayTeam, winProb, score)
+      homeTeam,
+      awayTeam,
+      source: 'pending',
+      winProb: { homeWin: 0, draw: 0, awayWin: 0 },
+      score: { home: '?', away: '?' },
+      corners: '?',
+      cards: '?',
+      predictedScorer: 'Đang cập nhật...',
+      analysis: {
+        summary: '⏳ Dữ liệu dự đoán thực tế đang được cập nhật từ API-Football. Vui lòng quay lại sau vài phút hoặc nhấn nút "🔄 Cập nhật dữ liệu" ở góc trên để kích hoạt workflow.',
+        details: 'Hệ thống sẽ tự động cập nhật dữ liệu mỗi 30 phút.'
+      }
     };
   },
 
-  // Generate Vietnamese analysis text
-  generateAnalysis(home, away, winProb, score) {
-    const favorite = winProb.homeWin > winProb.awayWin ? home : away;
-    const underdog = winProb.homeWin > winProb.awayWin ? away : home;
-    const favProb = Math.max(winProb.homeWin, winProb.awayWin);
-
-    const rankAdvantage = home.fifa_ranking < away.fifa_ranking
-      ? `${home.name_vi} được đánh giá cao hơn ${Math.abs(home.fifa_ranking - away.fifa_ranking)} bậc trên BXH FIFA.`
-      : `${away.name_vi} được đánh giá cao hơn ${Math.abs(home.fifa_ranking - away.fifa_ranking)} bậc trên BXH FIFA.`;
-
-    const attackAnalysis = home.attacking_strength > away.attacking_strength
-      ? `${home.name_vi} có hàng công mạnh hơn (${home.attacking_strength} vs ${away.attacking_strength}).`
-      : `${away.name_vi} có hàng công mạnh hơn (${away.attacking_strength} vs ${home.attacking_strength}).`;
-
-    return {
-      summary: `${favorite.name_vi} được đánh giá cao hơn với ${favProb}% cơ hội chiến thắng. Dự đoán tỷ số ${score.home}-${score.away}.`,
-      details: [rankAdvantage, attackAnalysis].join(' ')
-    };
-  },
-
-  // Predict group standings
+  /**
+   * Predict group standings (same as before, uses points/goal diff)
+   */
   predictGroupStandings(standings, teamsData) {
     const result = {};
     for (const [group, teams] of Object.entries(standings)) {
@@ -158,7 +185,6 @@ const WC2026_Predictions = {
   }
 };
 
-// Export for browser use
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = WC2026_Predictions;
 }

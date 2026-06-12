@@ -327,15 +327,49 @@
       return;
     }
 
+    // Pending state — waiting for API data
+    if (analysis.source === 'pending') {
+      container.innerHTML = `
+        ${renderMatchSelector(matchId)}
+        <div class="analysis-card" style="text-align:center;padding:2rem;margin:1rem 0">
+          <div style="font-size:3rem;margin-bottom:1rem">⏳</div>
+          <h3 style="color:var(--gold);margin-bottom:0.5rem">Đang chờ dữ liệu phân tích</h3>
+          <p style="color:var(--text-light);line-height:1.8">
+            Dự đoán trận đấu (tỉ số, phạt góc, thẻ phạt) và lịch sử đối đầu sẽ được
+            <strong style="color:var(--text-bright)">API-Football tính toán dựa trên dữ liệu thống kê thực tế</strong>.
+          </p>
+          <div style="margin:1.5rem 0;padding:1rem;background:rgba(255,215,0,0.08);border-radius:8px;border:1px solid rgba(255,215,0,0.15);display:inline-block">
+            <p style="color:var(--text-light);font-size:0.9rem;margin-bottom:0.5rem">📌 Nhấn nút</p>
+            <span style="background:var(--gold);color:var(--dark);padding:6px 16px;border-radius:20px;font-weight:700;font-size:0.85rem">🔄 Cập nhật dữ liệu</span>
+            <p style="color:var(--text-light);font-size:0.9rem;margin-top:0.5rem">để kích hoạt workflow lấy dữ liệu thực tế</p>
+          </div>
+          <p style="color:var(--text-light);font-size:0.85rem;margin-top:1.5rem">
+            Hoặc quay lại sau 30 phút — hệ thống tự động cập nhật theo lịch.
+          </p>
+        </div>
+      `;
+      const selector = $('#match-selector');
+      if (selector) {
+        selector.addEventListener('change', () => {
+          if (selector.value) window.location.href = `phan-tich-tran-dau.html?match=${selector.value}`;
+        });
+      }
+      return;
+    }
+
+    // === API data available — show real predictions ===
     const wt = analysis.winProb;
+    const apiPred = analysis.apiPrediction || {};
+    const overUnder = analysis.overUnder || '';
+    const advice = analysis.advice || '';
 
     container.innerHTML = `
       ${renderMatchSelector(matchId)}
 
       <div class="analysis-dashboard">
-        <!-- Win Probability -->
+        <!-- Win Probability from API -->
         <div class="analysis-card">
-          <h3>📊 Tỉ lệ thắng</h3>
+          <h3>📊 Tỉ lệ thắng <span style="font-size:0.7rem;color:var(--green);font-weight:400">(API-Football)</span></h3>
           <div class="prob-display">
             <div class="prob-team">
               <div class="flag">${getFlag(match.home_team_id)}</div>
@@ -362,7 +396,7 @@
           </div>
         </div>
 
-        <!-- Score Prediction -->
+        <!-- Score Prediction from API -->
         <div class="analysis-card">
           <h3>⚽ Dự đoán tỉ số</h3>
           <div style="text-align:center;padding:1rem">
@@ -377,6 +411,7 @@
                 <div style="font-weight:600;color:var(--text-bright)">${getTeamName(match.away_team_id)}</div>
               </div>
             </div>
+            ${overUnder ? `<div style="margin-top:0.5rem;display:inline-block;background:rgba(255,215,0,0.1);padding:4px 12px;border-radius:12px;color:var(--gold);font-size:0.8rem">${overUnder}</div>` : ''}
           </div>
         </div>
 
@@ -385,26 +420,33 @@
           <div class="analysis-card">
             <h3>🏳️ Tổng phạt góc</h3>
             <div style="text-align:center;padding:1rem">
-              <div class="big-num" style="font-size:3rem;font-weight:800;color:var(--gold)">${analysis.corners}</div>
+              <div class="big-num" style="font-size:3rem;font-weight:800;color:var(--gold)">
+                ${typeof analysis.corners === 'number' ? analysis.corners : '?'}
+              </div>
               <div style="color:var(--text-light)">quả phạt góc dự kiến</div>
             </div>
           </div>
           <div class="analysis-card">
             <h3>🟨 Tổng thẻ</h3>
             <div style="text-align:center;padding:1rem">
-              <div class="big-num" style="font-size:3rem;font-weight:800;color:var(--gold)">${analysis.cards}</div>
+              <div class="big-num" style="font-size:3rem;font-weight:800;color:var(--gold)">
+                ${typeof analysis.cards === 'number' ? analysis.cards : '?'}
+              </div>
               <div style="color:var(--text-light)">thẻ dự kiến (vàng + đỏ)</div>
             </div>
           </div>
           <div class="analysis-card">
             <h3>⭐ Cầu thủ ghi bàn</h3>
             <div style="text-align:center;padding:1rem">
-              <div style="font-size:2rem;font-weight:700;color:var(--text-bright)">${analysis.predictedScorer}</div>
+              <div style="font-size:1.5rem;font-weight:700;color:var(--text-bright)">
+                ${apiPred.winner?.name || 'Dữ liệu từ API'}
+              </div>
               <div style="color:var(--text-light);margin-top:4px">dự đoán ghi bàn đầu tiên</div>
+              ${apiPred.winner?.comment ? `<div style="color:var(--gold);font-size:0.75rem;margin-top:4px">${apiPred.winner.comment}</div>` : ''}
             </div>
           </div>
           <div class="analysis-card">
-            <h3>📊 Chênh lệch FIFA Ranking</h3>
+            <h3>📊 Xếp hạng FIFA</h3>
             <div style="text-align:center;padding:1rem">
               <div style="display:flex;justify-content:center;gap:1.5rem">
                 <div><span style="font-size:0.8rem;color:var(--text-light)">${getTeamName(match.home_team_id)}</span><br><span style="font-size:1.5rem;font-weight:800;color:var(--blue)">${analysis.homeTeam.fifa_ranking}</span></div>
@@ -415,35 +457,110 @@
           </div>
         </div>
 
-        <!-- Analysis Text -->
+        <!-- Advice from API -->
+        ${advice ? `
+        <div class="analysis-card" style="border:1px solid rgba(255,215,0,0.2)">
+          <h3>💡 Nhận định từ API</h3>
+          <div style="padding:0.5rem 0">
+            <p style="color:var(--gold);font-size:1rem;line-height:1.6">${advice}</p>
+          </div>
+        </div>` : ''}
+
+        <!-- Analysis Text (from team data) -->
         <div class="analysis-card">
-          <h3>📝 Nhận định trận đấu</h3>
+          <h3>📝 Phân tích trận đấu</h3>
           <div style="padding:0.5rem 0">
             <p style="color:var(--text-light);line-height:1.8">${analysis.analysis.summary}</p>
             <p style="color:var(--text-light);line-height:1.8;margin-top:0.5rem">${analysis.analysis.details}</p>
-            <div style="margin-top:1rem;padding:1rem;background:rgba(255,215,0,0.05);border-radius:8px;border:1px solid rgba(255,215,0,0.1)">
-              <p style="color:var(--gold);font-weight:600;margin-bottom:0.5rem">🔍 Phân tích chuyên sâu:</p>
-              <ul style="color:var(--text-light);font-size:0.9rem;padding-left:1.2rem;line-height:2">
-                <li><strong style="color:var(--text-bright)">${analysis.homeTeam.name_vi}:</strong> ${analysis.homeTeam.strengths_vi.join(', ')}</li>
-                <li><strong style="color:var(--text-bright)">${analysis.awayTeam.name_vi}:</strong> ${analysis.awayTeam.strengths_vi.join(', ')}</li>
-                <li><strong style="color:var(--gold)">Dự đoán:</strong> ${analysis.predictedScorer} sẽ ghi bàn.</li>
-                <li><strong style="color:var(--gold)">Phạt góc:</strong> Khoảng ${analysis.corners} quả.</li>
-                <li><strong style="color:var(--gold)">Thẻ phạt:</strong> Khoảng ${analysis.cards} thẻ.</li>
-              </ul>
-            </div>
           </div>
         </div>
-      </div>`;
+      </div>
+
+      <!-- Head-to-Head Section -->
+      <div id="h2h-container" style="margin-top:1.5rem">
+        <h3 style="color:var(--gold);margin-bottom:0.8rem">📜 Lịch sử đối đầu</h3>
+        <p style="color:var(--text-light);font-size:0.85rem">Đang tải dữ liệu lịch sử đối đầu...</p>
+      </div>
+    `;
 
     // Handle match selector change
     const selector = $('#match-selector');
     if (selector) {
       selector.addEventListener('change', () => {
-        if (selector.value) {
-          window.location.href = `phan-tich-tran-dau.html?match=${selector.value}`;
-        }
+        if (selector.value) window.location.href = `phan-tich-tran-dau.html?match=${selector.value}`;
       });
     }
+
+    // Render H2H asynchronously
+    renderH2H(match);
+  }
+
+  // ===== Head-to-Head Rendering =====
+  function renderH2H(match) {
+    const h2hContainer = $('#h2h-container');
+    if (!h2hContainer) return;
+
+    // We need team API IDs from the fixture data in predictions.json
+    // Fall back to team names if IDs not available
+    const apiPred = WC2026_Predictions.getAPIPrediction(match.api_fixture_id);
+    let h2hData = null;
+
+    if (apiPred?.h2h && Array.isArray(apiPred.h2h) && apiPred.h2h.length > 0) {
+      h2hData = apiPred.h2h;
+    } else if (match.api_fixture_id) {
+      // Try via the H2H endpoint data
+      // The API prediction response already includes H2H if available
+    }
+
+    if (!h2hData || h2hData.length === 0) {
+      h2hContainer.innerHTML = `
+        <h3 style="color:var(--gold);margin-bottom:0.8rem">📜 Lịch sử đối đầu</h3>
+        <div style="padding:1rem;background:var(--card-bg);border-radius:var(--radius);border:1px solid var(--card-border);text-align:center">
+          <p style="color:var(--text-light)">Chưa có dữ liệu lịch sử đối đầu giữa <strong style="color:var(--text-bright)">${getTeamName(match.home_team_id)}</strong> và <strong style="color:var(--text-bright)">${getTeamName(match.away_team_id)}</strong>.</p>
+          <p style="color:var(--text-light);font-size:0.85rem;margin-top:0.5rem">Dữ liệu sẽ được cập nhật sau khi workflow chạy.</p>
+        </div>`;
+      return;
+    }
+
+    let h2hHtml = '<h3 style="color:var(--gold);margin-bottom:0.8rem">📜 Lịch sử đối đầu</h3>';
+    h2hHtml += '<div style="overflow-x:auto"><table style="width:100%;border-collapse:collapse;font-size:0.85rem">';
+    h2hHtml += '<thead><tr style="background:rgba(255,215,0,0.08)">' +
+      '<th style="padding:8px;border-bottom:1px solid var(--card-border);text-align:left">Ngày</th>' +
+      '<th style="padding:8px;border-bottom:1px solid var(--card-border);text-align:left">Giải đấu</th>' +
+      '<th style="padding:8px;border-bottom:1px solid var(--card-border);text-align:center" colspan="3">Kết quả</th>' +
+      '</tr></thead><tbody>';
+
+    let homeSlug = match.home_team_id;
+    let awaySlug = match.away_team_id;
+
+    h2hData.forEach(h => {
+      const hDate = (h.date || '').slice(0, 10) || (h.fixture?.date || '').slice(0, 10) || '';
+      const hLeague = h.league?.name || '';
+      const hHome = h.teams?.home?.name || h.home || '';
+      const hAway = h.teams?.away?.name || h.away || '';
+      const hHomeScore = h.goals?.home ?? h.home_score;
+      const hAwayScore = h.goals?.away ?? h.away_score;
+
+      // Determine if home team in this H2H match is our tracked team
+      const isHomeOurTeam = hHome.toLowerCase().includes(homeSlug.replace(/-/g, ' ')) || homeSlug.includes(slugify(hHome));
+
+      h2hHtml += '<tr style="border-bottom:1px solid var(--card-border)">';
+      h2hHtml += `<td style="padding:6px 8px;color:var(--text-light)">${hDate}</td>`;
+      h2hHtml += `<td style="padding:6px 8px;color:var(--text-light);font-size:0.8rem">${hLeague}</td>`;
+      h2hHtml += `<td style="padding:6px 8px;text-align:right;color:${isHomeOurTeam ? 'var(--blue)' : 'var(--text-light)'}">${hHome}</td>`;
+      h2hHtml += `<td style="padding:6px 8px;text-align:center;font-weight:700;color:var(--gold)">${hHomeScore ?? '?'} - ${hAwayScore ?? '?'}</td>`;
+      h2hHtml += `<td style="padding:6px 8px;text-align:left;color:${!isHomeOurTeam ? 'var(--red)' : 'var(--text-light)'}">${hAway}</td>`;
+      h2hHtml += '</tr>';
+    });
+
+    h2hHtml += '</tbody></table></div>';
+    h2hHtml += '<p style="color:var(--text-light);font-size:0.75rem;margin-top:0.5rem">Nguồn: API-Football</p>';
+    h2hContainer.innerHTML = h2hHtml;
+  }
+
+  function slugify(name) {
+    if (!name) return '';
+    return name.toLowerCase().replace(/[^a-z0-9\s-]/g, '').trim().replace(/\s+/g, '-');
   }
 
   function renderMatchSelector(selectedId) {
@@ -561,6 +678,15 @@
     const predictions = WC2026_Predictions.predictGroupStandings(APP.standings, APP.teams);
 
     let html = `
+      <div class="card" style="margin-bottom:1rem;padding:0.8rem;background:rgba(255,215,0,0.06);border:1px solid rgba(255,215,0,0.12)">
+        <p style="color:var(--text-light);font-size:0.85rem">
+          ⚠️ Dự đoán dưới đây dựa trên xếp hạng FIFA và thống kê lịch sử,
+          <strong style="color:var(--gold)">không phải dữ liệu từ API-Football</strong>.
+          Dữ liệu dự đoán chính xác (tỉ lệ thắng, BTTS, over/under) sẽ hiển thị
+          trên trang <a href="phan-tich-tran-dau.html" style="color:var(--gold)">Phân tích trận đấu</a>
+          sau khi workflow cập nhật.
+        </p>
+      </div>
       <div class="card" style="margin-bottom:2rem">
         <h3 style="color:var(--gold);margin-bottom:1rem">🏆 Dự đoán đội vô địch</h3>
         <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem">
@@ -861,11 +987,16 @@
     initUpdateButton();
     initAutoRefresh();
 
-    // Load lineups
+    // Load lineups + predictions + H2H
     try {
       const res = await fetch('data/lineups.json');
-      if (res.ok) APP.lineups = await res.json();
+      if (res.ok) {
+        const raw = await res.json();
+        // Handle both formats: old (direct object) and new ({lineups: ..., last_updated: ...})
+        APP.lineups = raw.lineups || raw;
+      }
     } catch (e) { APP.lineups = {}; }
+    await WC2026_Predictions.loadAPIData();
 
     // Determine current page
     const path = window.location.pathname.split('/').pop() || 'index.html';
