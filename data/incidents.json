@@ -139,8 +139,82 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417915": [
+      {
+        "minute": 11,
+        "type": 43,
+        "player": "Alistair Johnston",
+        "number": 2,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 36,
+        "player": "Jovo Lukic",
+        "number": 25,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 63,
+        "player": "Sead Kolasinac",
+        "number": 5,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 44,
+        "type": 43,
+        "player": "Ermedin Demirovic",
+        "number": 10,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 43,
+        "player": "Jovo Lukic",
+        "number": 25,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 53,
+        "type": 43,
+        "player": "Luc De Fougerolles",
+        "number": 4,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 78,
+        "type": 36,
+        "player": "Cyle Larin",
+        "number": 9,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 78,
+        "type": 63,
+        "player": "Promise David",
+        "number": 24,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Nikola Katic",
+        "number": 18,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-12T20:35:53Z"
+  "last_updated": "2026-06-12T22:23:10Z"
 }
