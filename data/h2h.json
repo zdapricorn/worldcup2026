@@ -1,0 +1,922 @@
+{
+  "h2h": {
+    "1417909": [
+      {
+        "date": "20100611",
+        "home": "South Africa",
+        "away": "Mexico",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "World Cup grp. A",
+        "competition": "World Championship 1",
+        "status": "FT"
+      },
+      {
+        "date": "20050709",
+        "home": "South Africa",
+        "away": "Mexico",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "CONCACAF Gold Cup grp. C",
+        "competition": "CONCACAF Gold Cup 1",
+        "status": "FT"
+      }
+    ],
+    "1417910": [
+      {
+        "date": "20160605",
+        "home": "Czechia",
+        "away": "South Korea",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20010815",
+        "home": "Czechia",
+        "away": "South Korea",
+        "home_score": 5,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417927": [
+      {
+        "date": "20251115",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Friendlies 2025",
+        "competition": "International Friendlies",
+        "status": "FT"
+      },
+      {
+        "date": "20180327",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20160611",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Copa America Centenario Grp. A",
+        "competition": "Copa America 1",
+        "status": "FT"
+      },
+      {
+        "date": "20110330",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20070702",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "Copa America Grp. C",
+        "competition": "Copa America 1",
+        "status": "FT"
+      },
+      {
+        "date": "20030706",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417916": [
+      {
+        "date": "20181114",
+        "home": "Switzerland",
+        "away": "Qatar",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417921": [
+      {
+        "date": "20230325",
+        "home": "Morocco",
+        "away": "Brazil",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "International Friendlies",
+        "status": "FT"
+      }
+    ],
+    "1417928": [
+      {
+        "date": "20040524",
+        "home": "Australia",
+        "away": "Turkiye",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20040521",
+        "home": "Australia",
+        "away": "Turkiye",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417939": [
+      {
+        "date": "20131116",
+        "home": "Netherlands",
+        "away": "Japan",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20100619",
+        "home": "Netherlands",
+        "away": "Japan",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "World Cup grp. E",
+        "competition": "World Championship 1",
+        "status": "FT"
+      },
+      {
+        "date": "20090905",
+        "home": "Netherlands",
+        "away": "Japan",
+        "home_score": 3,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417940": [
+      {
+        "date": "20030212",
+        "home": "Tunisia",
+        "away": "Sweden",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417945": [
+      {
+        "date": "20221118",
+        "home": "Belgium",
+        "away": "Egypt",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "King's Cup 2022",
+        "competition": "International",
+        "status": "FT"
+      },
+      {
+        "date": "20180606",
+        "home": "Belgium",
+        "away": "Egypt",
+        "home_score": 3,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20050209",
+        "home": "Egypt",
+        "away": "Belgium",
+        "home_score": 4,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417952": [
+      {
+        "date": "20180620",
+        "home": "Uruguay",
+        "away": "Saudi Arabia",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "World Cup Grp. A",
+        "competition": "World Championship 1",
+        "status": "FT"
+      },
+      {
+        "date": "20141010",
+        "home": "Saudi Arabia",
+        "away": "Uruguay",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20020327",
+        "home": "Saudi Arabia",
+        "away": "Uruguay",
+        "home_score": 3,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417957": [
+      {
+        "date": "20020531",
+        "home": "France",
+        "away": "Senegal",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "World Cup grp. A",
+        "competition": "World Championship 1",
+        "status": "FT"
+      }
+    ],
+    "1417963": [
+      {
+        "date": "20070605",
+        "home": "Argentina",
+        "away": "Algeria",
+        "home_score": 4,
+        "away_score": 3,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417980": [
+      {
+        "date": "20210613",
+        "home": "England",
+        "away": "Croatia",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Group D 2020",
+        "competition": "Euro 2020",
+        "status": "FT"
+      },
+      {
+        "date": "20181118",
+        "home": "England",
+        "away": "Croatia",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "UEFA Nations League A Grp. 4",
+        "competition": "Nations League 1",
+        "status": "FT"
+      },
+      {
+        "date": "20181012",
+        "home": "Croatia",
+        "away": "England",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "UEFA Nations League A Grp. 4",
+        "competition": "Nations League 1",
+        "status": "FT"
+      },
+      {
+        "date": "20180711",
+        "home": "Croatia",
+        "away": "England",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "World Cup Semi Finals",
+        "competition": "World Championship 1",
+        "status": "AET"
+      },
+      {
+        "date": "20090909",
+        "home": "England",
+        "away": "Croatia",
+        "home_score": 5,
+        "away_score": 1,
+        "stage": "World Cup Qualification UEFA 1st round grp. 6",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      },
+      {
+        "date": "20080910",
+        "home": "Croatia",
+        "away": "England",
+        "home_score": 1,
+        "away_score": 4,
+        "stage": "World Cup Qualification UEFA 1st round grp. 6",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      },
+      {
+        "date": "20071121",
+        "home": "England",
+        "away": "Croatia",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "EURO qualification grp. E",
+        "competition": "European Championship Qualification 1",
+        "status": "FT"
+      },
+      {
+        "date": "20061011",
+        "home": "Croatia",
+        "away": "England",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "EURO qualification grp. E",
+        "competition": "European Championship Qualification 1",
+        "status": "FT"
+      },
+      {
+        "date": "20040621",
+        "home": "Croatia",
+        "away": "England",
+        "home_score": 2,
+        "away_score": 4,
+        "stage": "EURO Grp. B",
+        "competition": "European Championship 1",
+        "status": "FT"
+      },
+      {
+        "date": "20030820",
+        "home": "England",
+        "away": "Croatia",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417917": [
+      {
+        "date": "20160329",
+        "home": "Switzerland",
+        "away": "Bosnia and Herzegovina",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417918": [
+      {
+        "date": "20220923",
+        "home": "Qatar",
+        "away": "Canada",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "King's Cup 2022",
+        "competition": "International",
+        "status": "FT"
+      }
+    ],
+    "1417912": [
+      {
+        "date": "20250910",
+        "home": "Mexico",
+        "away": "South Korea",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Featured Friendlies",
+        "competition": "International Friendlies",
+        "status": "FT"
+      },
+      {
+        "date": "20201114",
+        "home": "Mexico",
+        "away": "South Korea",
+        "home_score": 3,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "International",
+        "status": "FT"
+      },
+      {
+        "date": "20180623",
+        "home": "South Korea",
+        "away": "Mexico",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "World Cup Grp. F",
+        "competition": "World Championship 1",
+        "status": "FT"
+      },
+      {
+        "date": "20140130",
+        "home": "Mexico",
+        "away": "South Korea",
+        "home_score": 4,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20060216",
+        "home": "Mexico",
+        "away": "South Korea",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417930": [
+      {
+        "date": "20251015",
+        "home": "USA",
+        "away": "Australia",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Friendlies 2025",
+        "competition": "International Friendlies",
+        "status": "FT"
+      },
+      {
+        "date": "20100605",
+        "home": "Australia",
+        "away": "USA",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417923": [
+      {
+        "date": "20160608",
+        "home": "Brazil",
+        "away": "Haiti",
+        "home_score": 7,
+        "away_score": 1,
+        "stage": "Copa America Centenario Grp. B",
+        "competition": "Copa America 1",
+        "status": "FT"
+      },
+      {
+        "date": "20040818",
+        "home": "Haiti",
+        "away": "Brazil",
+        "home_score": 0,
+        "away_score": 6,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417942": [
+      {
+        "date": "20171010",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "World Cup Qualification UEFA 1st Round Grp. A",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      },
+      {
+        "date": "20160906",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "World Cup Qualification UEFA 1st Round Grp. A",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      },
+      {
+        "date": "20111011",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 3,
+        "away_score": 2,
+        "stage": "EURO qualification grp. E",
+        "competition": "European Championship Qualification 1",
+        "status": "FT"
+      },
+      {
+        "date": "20101012",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 4,
+        "away_score": 1,
+        "stage": "EURO qualification grp. E",
+        "competition": "European Championship Qualification 1",
+        "status": "FT"
+      },
+      {
+        "date": "20081119",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20040818",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20040626",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "EURO Quarter finals",
+        "competition": "European Championship 1",
+        "status": "AP"
+      }
+    ],
+    "1417936": [
+      {
+        "date": "20091118",
+        "home": "Germany",
+        "away": "Ivory Coast",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417941": [
+      {
+        "date": "20231017",
+        "home": "Japan",
+        "away": "Tunisia",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "International Friendlies",
+        "status": "FT"
+      },
+      {
+        "date": "20220614",
+        "home": "Japan",
+        "away": "Tunisia",
+        "home_score": 0,
+        "away_score": 3,
+        "stage": "King's Cup 2022",
+        "competition": "International",
+        "status": "FT"
+      },
+      {
+        "date": "20150327",
+        "home": "Japan",
+        "away": "Tunisia",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20020614",
+        "home": "Tunisia",
+        "away": "Japan",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "World Cup grp. H",
+        "competition": "World Championship 1",
+        "status": "FT"
+      }
+    ],
+    "1417954": [
+      {
+        "date": "20120907",
+        "home": "Spain",
+        "away": "Saudi Arabia",
+        "home_score": 5,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20100529",
+        "home": "Spain",
+        "away": "Saudi Arabia",
+        "home_score": 3,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20060623",
+        "home": "Saudi Arabia",
+        "away": "Spain",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "World Cup grp. H",
+        "competition": "World Championship 1",
+        "status": "FT"
+      }
+    ],
+    "1417947": [
+      {
+        "date": "20240322",
+        "home": "Egypt",
+        "away": "New Zealand",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies 2024",
+        "competition": "International Friendlies",
+        "status": "FT"
+      }
+    ],
+    "1417959": [
+      {
+        "date": "20060301",
+        "home": "Senegal",
+        "away": "Norway",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417965": [
+      {
+        "date": "20040530",
+        "home": "Algeria",
+        "away": "Jordan",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417972": [
+      {
+        "date": "20120918",
+        "home": "Portugal",
+        "away": "Uzbekistan",
+        "home_score": 5,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417977": [
+      {
+        "date": "20110329",
+        "home": "England",
+        "away": "Ghana",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417919": [
+      {
+        "date": "20020515",
+        "home": "Switzerland",
+        "away": "Canada",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417920": [
+      {
+        "date": "20100810",
+        "home": "Bosnia and Herzegovina",
+        "away": "Qatar",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417925": [
+      {
+        "date": "20110327",
+        "home": "Brazil",
+        "away": "Scotland",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417937": [
+      {
+        "date": "20130529",
+        "home": "Ecuador",
+        "away": "Germany",
+        "home_score": 2,
+        "away_score": 4,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20060620",
+        "home": "Ecuador",
+        "away": "Germany",
+        "home_score": 0,
+        "away_score": 3,
+        "stage": "World Cup grp. A",
+        "competition": "World Championship 1",
+        "status": "FT"
+      }
+    ],
+    "1417943": [
+      {
+        "date": "20090211",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417944": [
+      {
+        "date": "20020525",
+        "home": "Japan",
+        "away": "Sweden",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417932": [
+      {
+        "date": "20101009",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20061007",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417931": [
+      {
+        "date": "20250607",
+        "home": "USA",
+        "away": "Turkiye",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Featured Friendlies",
+        "competition": "International Friendlies",
+        "status": "FT"
+      },
+      {
+        "date": "20140601",
+        "home": "USA",
+        "away": "Turkiye",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20100529",
+        "home": "USA",
+        "away": "Turkiye",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417961": [
+      {
+        "date": "20140527",
+        "home": "France",
+        "away": "Norway",
+        "home_score": 4,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20100811",
+        "home": "Norway",
+        "away": "France",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417955": [
+      {
+        "date": "20130206",
+        "home": "Spain",
+        "away": "Uruguay",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20050817",
+        "home": "Spain",
+        "away": "Uruguay",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417978": [
+      {
+        "date": "20180624",
+        "home": "England",
+        "away": "Panama",
+        "home_score": 6,
+        "away_score": 1,
+        "stage": "World Cup Grp. G",
+        "competition": "World Championship 1",
+        "status": "FT"
+      }
+    ]
+  },
+  "source": "livescore",
+  "last_updated": "2026-06-12T20:35:52Z"
+}

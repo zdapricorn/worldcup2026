@@ -1,0 +1,146 @@
+{
+  "incidents": {
+    "1417909": [
+      {
+        "minute": 9,
+        "type": 36,
+        "player": "Julian Quinones",
+        "number": 16,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 9,
+        "type": 63,
+        "player": "Erik Lira",
+        "number": 6,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 17,
+        "type": 43,
+        "player": "Teboho Mokoena",
+        "number": 4,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 23,
+        "type": 43,
+        "player": "Brian Gutierrez",
+        "number": 26,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 49,
+        "type": 45,
+        "player": "Sphephelo Sithole",
+        "number": 13,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 67,
+        "type": 36,
+        "player": "Raul Jimenez",
+        "number": 9,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 67,
+        "type": 63,
+        "player": "Roberto Alvarado",
+        "number": 25,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 74,
+        "type": 43,
+        "player": "Nkosinathi Sibisi",
+        "number": 19,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 84,
+        "type": 45,
+        "player": "Themba Zwane",
+        "number": "",
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 45,
+        "player": "Cesar Montes",
+        "number": 3,
+        "score": "",
+        "period": "2"
+      }
+    ],
+    "1417910": [
+      {
+        "minute": 59,
+        "type": 36,
+        "player": "Ladislav Krejci",
+        "number": 7,
+        "score": "0-1",
+        "period": "2"
+      },
+      {
+        "minute": 59,
+        "type": 63,
+        "player": "Vladimir Coufal",
+        "number": 5,
+        "score": "0-1",
+        "period": "2"
+      },
+      {
+        "minute": 67,
+        "type": 36,
+        "player": "In-Beom Hwang",
+        "number": 6,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 67,
+        "type": 63,
+        "player": "Kang-In Lee",
+        "number": 19,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 80,
+        "type": 36,
+        "player": "Hyun-Gyu Oh",
+        "number": 18,
+        "score": "2-1",
+        "period": "2"
+      },
+      {
+        "minute": 80,
+        "type": 63,
+        "player": "In-Beom Hwang",
+        "number": 6,
+        "score": "2-1",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Gi-Hyuk Lee",
+        "number": "",
+        "score": "",
+        "period": "2"
+      }
+    ]
+  },
+  "source": "livescore",
+  "last_updated": "2026-06-12T20:35:53Z"
+}

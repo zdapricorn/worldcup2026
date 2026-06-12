@@ -1,0 +1,62 @@
+{
+  "teams": {
+    "mexico": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 2,
+      "goals_against": 0,
+      "form": [
+        "W"
+      ],
+      "avg_goals_for": 2.0,
+      "avg_goals_against": 0.0,
+      "win_rate": 100.0
+    },
+    "south-africa": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 2,
+      "form": [
+        "L"
+      ],
+      "avg_goals_for": 0.0,
+      "avg_goals_against": 2.0,
+      "win_rate": 0.0
+    },
+    "korea-republic": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 2,
+      "goals_against": 1,
+      "form": [
+        "W"
+      ],
+      "avg_goals_for": 2.0,
+      "avg_goals_against": 1.0,
+      "win_rate": 100.0
+    },
+    "czechia": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 1,
+      "goals_against": 2,
+      "form": [
+        "L"
+      ],
+      "avg_goals_for": 1.0,
+      "avg_goals_against": 2.0,
+      "win_rate": 0.0
+    }
+  },
+  "source": "livescore",
+  "last_updated": "2026-06-12T20:35:53Z"
+}
