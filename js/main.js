@@ -500,16 +500,21 @@
     const h2hContainer = $('#h2h-container');
     if (!h2hContainer) return;
 
-    // We need team API IDs from the fixture data in predictions.json
-    // Fall back to team names if IDs not available
-    const apiPred = WC2026_Predictions.getAPIPrediction(match.api_fixture_id);
+    // LiveScore H2H data is keyed by match EID
+    const lsEid = match.ls_eid || match.api_fixture_id;
     let h2hData = null;
 
-    if (apiPred?.h2h && Array.isArray(apiPred.h2h) && apiPred.h2h.length > 0) {
-      h2hData = apiPred.h2h;
-    } else if (match.api_fixture_id) {
-      // Try via the H2H endpoint data
-      // The API prediction response already includes H2H if available
+    // Try LiveScore format first
+    if (APP.h2hData?.h2h && lsEid) {
+      h2hData = APP.h2hData.h2h[lsEid];
+    }
+
+    // Fallback: API-Football format
+    if (!h2hData || h2hData.length === 0) {
+      const apiPred = WC2026_Predictions.getAPIPrediction(lsEid);
+      if (apiPred?.h2h && Array.isArray(apiPred.h2h) && apiPred.h2h.length > 0) {
+        h2hData = apiPred.h2h;
+      }
     }
 
     if (!h2hData || h2hData.length === 0) {
@@ -517,12 +522,13 @@
         <h3 style="color:var(--gold);margin-bottom:0.8rem">📜 Lịch sử đối đầu</h3>
         <div style="padding:1rem;background:var(--card-bg);border-radius:var(--radius);border:1px solid var(--card-border);text-align:center">
           <p style="color:var(--text-light)">Chưa có dữ liệu lịch sử đối đầu giữa <strong style="color:var(--text-bright)">${getTeamName(match.home_team_id)}</strong> và <strong style="color:var(--text-bright)">${getTeamName(match.away_team_id)}</strong>.</p>
-          <p style="color:var(--text-light);font-size:0.85rem;margin-top:0.5rem">Dữ liệu sẽ được cập nhật sau khi workflow chạy.</p>
+          <p style="color:var(--text-light);font-size:0.85rem;margin-top:0.5rem">Dữ liệu sẽ được cập nhật sau khi workflow chạy (từ LiveScore.com).</p>
         </div>`;
       return;
     }
 
     let h2hHtml = '<h3 style="color:var(--gold);margin-bottom:0.8rem">📜 Lịch sử đối đầu</h3>';
+    h2hHtml += '<p style="color:var(--text-light);font-size:0.75rem;margin-bottom:0.5rem">Nguồn: LiveScore.com</p>';
     h2hHtml += '<div style="overflow-x:auto"><table style="width:100%;border-collapse:collapse;font-size:0.85rem">';
     h2hHtml += '<thead><tr style="background:rgba(255,215,0,0.08)">' +
       '<th style="padding:8px;border-bottom:1px solid var(--card-border);text-align:left">Ngày</th>' +
@@ -530,31 +536,24 @@
       '<th style="padding:8px;border-bottom:1px solid var(--card-border);text-align:center" colspan="3">Kết quả</th>' +
       '</tr></thead><tbody>';
 
-    let homeSlug = match.home_team_id;
-    let awaySlug = match.away_team_id;
-
     h2hData.forEach(h => {
-      const hDate = (h.date || '').slice(0, 10) || (h.fixture?.date || '').slice(0, 10) || '';
-      const hLeague = h.league?.name || '';
-      const hHome = h.teams?.home?.name || h.home || '';
-      const hAway = h.teams?.away?.name || h.away || '';
-      const hHomeScore = h.goals?.home ?? h.home_score;
-      const hAwayScore = h.goals?.away ?? h.away_score;
-
-      // Determine if home team in this H2H match is our tracked team
-      const isHomeOurTeam = hHome.toLowerCase().includes(homeSlug.replace(/-/g, ' ')) || homeSlug.includes(slugify(hHome));
+      const hDate = (h.date || '').slice(0, 10);
+      const hLeague = h.competition || h.stage || h.league?.name || '';
+      const hHome = h.home || h.teams?.home?.name || '';
+      const hAway = h.away || h.teams?.away?.name || '';
+      const hHomeScore = h.home_score ?? h.goals?.home ?? '?';
+      const hAwayScore = h.away_score ?? h.goals?.away ?? '?';
 
       h2hHtml += '<tr style="border-bottom:1px solid var(--card-border)">';
-      h2hHtml += `<td style="padding:6px 8px;color:var(--text-light)">${hDate}</td>`;
-      h2hHtml += `<td style="padding:6px 8px;color:var(--text-light);font-size:0.8rem">${hLeague}</td>`;
-      h2hHtml += `<td style="padding:6px 8px;text-align:right;color:${isHomeOurTeam ? 'var(--blue)' : 'var(--text-light)'}">${hHome}</td>`;
-      h2hHtml += `<td style="padding:6px 8px;text-align:center;font-weight:700;color:var(--gold)">${hHomeScore ?? '?'} - ${hAwayScore ?? '?'}</td>`;
-      h2hHtml += `<td style="padding:6px 8px;text-align:left;color:${!isHomeOurTeam ? 'var(--red)' : 'var(--text-light)'}">${hAway}</td>`;
+      h2hHtml += `<td style="padding:6px 8px;color:var(--text-light);font-size:0.8rem">${hDate}</td>`;
+      h2hHtml += `<td style="padding:6px 8px;color:var(--text-light);font-size:0.75rem">${hLeague}</td>`;
+      h2hHtml += `<td style="padding:6px 8px;text-align:right;color:var(--text-light)">${hHome}</td>`;
+      h2hHtml += `<td style="padding:6px 8px;text-align:center;font-weight:700;color:var(--gold)">${hHomeScore} - ${hAwayScore}</td>`;
+      h2hHtml += `<td style="padding:6px 8px;text-align:left;color:var(--text-light)">${hAway}</td>`;
       h2hHtml += '</tr>';
     });
 
     h2hHtml += '</tbody></table></div>';
-    h2hHtml += '<p style="color:var(--text-light);font-size:0.75rem;margin-top:0.5rem">Nguồn: API-Football</p>';
     h2hContainer.innerHTML = h2hHtml;
   }
 
@@ -987,15 +986,18 @@
     initUpdateButton();
     initAutoRefresh();
 
-    // Load lineups + predictions + H2H
+  // Load lineups + predictions + H2H
     try {
       const res = await fetch('data/lineups.json');
       if (res.ok) {
         const raw = await res.json();
-        // Handle both formats: old (direct object) and new ({lineups: ..., last_updated: ...})
         APP.lineups = raw.lineups || raw;
       }
     } catch (e) { APP.lineups = {}; }
+    try {
+      const res = await fetch('data/h2h.json');
+      if (res.ok) APP.h2hData = await res.json();
+    } catch (e) { APP.h2hData = {}; }
     await WC2026_Predictions.loadAPIData();
 
     // Determine current page
