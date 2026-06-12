@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>World Cup 2026 🏆 - Lịch thi đấu, Bảng xếp hạng, Phân tích & Dự đoán</title>
+  <meta name="description" content="Trang thông tin tổng hợp về FIFA World Cup 2026: Lịch thi đấu, Bảng xếp hạng, Phân tích trận đấu, Dự đoán tỉ số chính xác nhất. Cập nhật liên tục từ các nguồn uy tín.">
+  <meta property="og:title" content="World Cup 2026 🏆 - Trang thông tin tổng hợp">
+  <meta property="og:description" content="Lịch thi đấu, Bảng xếp hạng, Phân tích & Dự đoán World Cup 2026 bằng tiếng Việt">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html" class="nav-logo">
+      <span class="trophy">🏆</span>
+      <h1>World Cup 2026</h1>
+    </a>
+    <ul class="nav-links">
+      <li><a href="index.html">Trang chủ</a></li>
+      <li><a href="lich-thi-dau.html">Lịch thi đấu</a></li>
+      <li><a href="bang-xep-hang.html">Bảng xếp hạng</a></li>
+      <li><a href="phan-tich-tran-dau.html">Phân tích</a></li>
+      <li><a href="du-doan.html">Dự đoán</a></li>
+    </ul>
+    <button class="hamburger" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+    <div style="display:flex;align-items:center;gap:8px">
+      <button id="update-btn" class="btn btn-gold" style="padding:6px 14px;font-size:0.75rem">🔄 Cập nhật dữ liệu</button>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h2>🏆 FIFA World Cup 2026</h2>
+      <p class="subtitle">🇨🇦 Canada · 🇲🇽 Mexico · 🇺🇸 Hoa Kỳ</p>
+      <p class="dates">11 Tháng 6 - 19 Tháng 7, 2026</p>
+      <div class="countdown">
+        <div class="countdown-item"><span class="num">--</span><span class="label">Ngày</span></div>
+        <div class="countdown-item"><span class="num">--</span><span class="label">Giờ</span></div>
+        <div class="countdown-item"><span class="num">--</span><span class="label">Phút</span></div>
+        <div class="countdown-item"><span class="num">--</span><span class="label">Giây</span></div>
+      </div>
+      <div style="margin-top:2rem">
+        <a href="lich-thi-dau.html" class="btn btn-gold">📅 Lịch thi đấu</a>
+        <a href="phan-tich-tran-dau.html" class="btn btn-outline" style="margin-left:0.5rem">📊 Phân tích</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><span class="num">48</span><span class="lbl">Đội tuyển</span></div>
+        <div class="stat"><span class="num">16</span><span class="lbl">Thành phố</span></div>
+        <div class="stat"><span class="num">104</span><span class="lbl">Trận đấu</span></div>
+        <div class="stat"><span class="num">3</span><span class="lbl">Quốc gia</span></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="ticker">
+    <div class="ticker-track">
+      <span class="ticker-item">🏆 World Cup 2026 đang diễn ra sôi động!</span>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="section-header">
+      <h2>⚽ <span class="gold">Kết quả & Lịch thi đấu</span> mới nhất</h2>
+      <p>Cập nhật trực tiếp từ FIFA.com</p>
+    </div>
+    <div id="featured-matches">
+      <div class="loading">Đang tải dữ liệu...</div>
+    </div>
+    <div style="text-align:center;margin-top:2rem">
+      <a href="lich-thi-dau.html" class="btn btn-outline">Xem toàn bộ lịch thi đấu →</a>
+    </div>
+  </section>
+
+  <section class="section" style="background:var(--navy-light);border-radius:var(--radius-lg);margin:2rem auto">
+    <div class="section-header">
+      <h2>📊 <span class="gold">Phân tích & Dự đoán</span> trận đấu</h2>
+      <p>Dựa trên số liệu thống kê, FIFA Ranking và mô hình dự đoán Elo</p>
+    </div>
+    <div class="card-grid">
+      <div class="card" style="text-align:center">
+        <div style="font-size:2.5rem;margin-bottom:0.5rem">📊</div>
+        <h3 style="color:var(--gold);margin-bottom:0.5rem">Tỉ lệ thắng</h3>
+        <p style="color:var(--text-light);font-size:0.9rem">Phân tích xác suất chiến thắng dựa trên Elo rating</p>
+      </div>
+      <div class="card" style="text-align:center">
+        <div style="font-size:2.5rem;margin-bottom:0.5rem">⚽</div>
+        <h3 style="color:var(--gold);margin-bottom:0.5rem">Dự đoán tỉ số</h3>
+        <p style="color:var(--text-light);font-size:0.9rem">Mô hình Poisson dự đoán tỉ số chính xác</p>
+      </div>
+      <div class="card" style="text-align:center">
+        <div style="font-size:2.5rem;margin-bottom:0.5rem">🏆</div>
+        <h3 style="color:var(--gold);margin-bottom:0.5rem">Dự đoán vô địch</h3>
+        <p style="color:var(--text-light);font-size:0.9rem">Ai sẽ lên ngôi tại World Cup 2026?</p>
+      </div>
+      <div class="card" style="text-align:center">
+        <div style="font-size:2.5rem;margin-bottom:0.5rem">⭐</div>
+        <h3 style="color:var(--gold);margin-bottom:0.5rem">Cầu thủ ghi bàn</h3>
+        <p style="color:var(--text-light);font-size:0.9rem">Dự đoán cầu thủ ghi bàn mỗi trận</p>
+      </div>
+    </div>
+    <div style="text-align:center;margin-top:2rem">
+      <a href="phan-tich-tran-dau.html" class="btn btn-gold">Xem phân tích chi tiết →</a>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-header">
+      <h2>🏟️ <span class="gold">Các sân vận động</span></h2>
+      <p>16 sân vận động đẳng cấp thế giới tại 3 quốc gia</p>
+    </div>
+    <div class="card-grid">
+      <div class="card">
+        <h3 style="color:var(--gold);margin-bottom:0.5rem">🇺🇸 Hoa Kỳ</h3>
+        <p style="color:var(--text-light);font-size:0.85rem">11 sân vận động</p>
+        <p style="color:var(--text-light);font-size:0.85rem;margin-top:0.3rem">New York, Dallas, Kansas City, Houston, Atlanta, Los Angeles, Philadelphia, Seattle, San Francisco, Boston, Miami</p>
+      </div>
+      <div class="card">
+        <h3 style="color:var(--gold);margin-bottom:0.5rem">🇲🇽 Mexico</h3>
+        <p style="color:var(--text-light);font-size:0.85rem">3 sân vận động</p>
+        <p style="color:var(--text-light);font-size:0.85rem;margin-top:0.3rem">Mexico City (Estadio Azteca), Guadalajara, Monterrey</p>
+      </div>
+      <div class="card">
+        <h3 style="color:var(--gold);margin-bottom:0.5rem">🇨🇦 Canada</h3>
+        <p style="color:var(--text-light);font-size:0.85rem">2 sân vận động</p>
+        <p style="color:var(--text-light);font-size:0.85rem;margin-top:0.3rem">Toronto (BMO Field), Vancouver (BC Place)</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-header">
+      <h2>📋 <span class="gold">Thể thức</span> giải đấu</h2>
+    </div>
+    <div class="card-grid">
+      <div class="card" style="text-align:center">
+        <div style="font-size:2rem;font-weight:800;color:var(--gold)">12</div>
+        <p style="color:var(--text-light)">Bảng đấu (A-L)</p>
+      </div>
+      <div class="card" style="text-align:center">
+        <div style="font-size:2rem;font-weight:800;color:var(--gold)">4</div>
+        <p style="color:var(--text-light)">Đội mỗi bảng</p>
+      </div>
+      <div class="card" style="text-align:center">
+        <div style="font-size:2rem;font-weight:800;color:var(--gold)">32</div>
+        <p style="color:var(--text-light)">Đội vào vòng loại trực tiếp</p>
+      </div>
+      <div class="card" style="text-align:center">
+        <div style="font-size:2rem;font-weight:800;color:var(--gold)">39</div>
+        <p style="color:var(--text-light)">Ngày thi đấu</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-content">
+      <div class="footer-col">
+        <h4>🏆 World Cup 2026</h4>
+        <p>Trang thông tin tổng hợp về FIFA World Cup 2026 dành cho người hâm mộ Việt Nam. Cập nhật lịch thi đấu, bảng xếp hạng, phân tích và dự đoán.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Liên kết</h4>
+        <a href="lich-thi-dau.html">Lịch thi đấu</a>
+        <a href="bang-xep-hang.html">Bảng xếp hạng</a>
+        <a href="phan-tich-tran-dau.html">Phân tích trận đấu</a>
+        <a href="du-doan.html">Dự đoán</a>
+      </div>
+      <div class="footer-col">
+        <h4>Nguồn dữ liệu</h4>
+        <p>FIFA.com</p>
+        <p>Wikipedia</p>
+        <p>FIFA Rankings</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 World Cup Vietnam Info · Dữ liệu được cập nhật từ các nguồn chính thống</p>
+    </div>
+  </footer>
+
+  <script src="js/predictions.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

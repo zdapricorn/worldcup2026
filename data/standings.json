@@ -1,0 +1,77 @@
+{
+  "standings": {
+    "A": [
+      {"team_id": "mexico", "p": 1, "w": 1, "d": 0, "l": 0, "gf": 2, "ga": 0, "gd": 2, "pts": 3, "form": ["W"]},
+      {"team_id": "korea-republic", "p": 1, "w": 1, "d": 0, "l": 0, "gf": 2, "ga": 1, "gd": 1, "pts": 3, "form": ["W"]},
+      {"team_id": "czechia", "p": 1, "w": 0, "d": 0, "l": 1, "gf": 1, "ga": 2, "gd": -1, "pts": 0, "form": ["L"]},
+      {"team_id": "south-africa", "p": 1, "w": 0, "d": 0, "l": 1, "gf": 0, "ga": 2, "gd": -2, "pts": 0, "form": ["L"]}
+    ],
+    "B": [
+      {"team_id": "switzerland", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "canada", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "qatar", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "bosnia-and-herzegovina", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []}
+    ],
+    "C": [
+      {"team_id": "brazil", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "morocco", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "scotland", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "haiti", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []}
+    ],
+    "D": [
+      {"team_id": "usa", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "turkiye", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "paraguay", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "australia", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []}
+    ],
+    "E": [
+      {"team_id": "germany", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "ecuador", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "cote-divoire", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "curacao", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []}
+    ],
+    "F": [
+      {"team_id": "netherlands", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "japan", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "sweden", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "tunisia", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []}
+    ],
+    "G": [
+      {"team_id": "belgium", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "iran", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "egypt", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "new-zealand", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []}
+    ],
+    "H": [
+      {"team_id": "spain", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "uruguay", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "saudi-arabia", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "cabo-verde", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []}
+    ],
+    "I": [
+      {"team_id": "france", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "senegal", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "norway", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "iraq", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []}
+    ],
+    "J": [
+      {"team_id": "argentina", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "austria", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "algeria", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "jordan", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []}
+    ],
+    "K": [
+      {"team_id": "portugal", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "colombia", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "uzbekistan", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "congo-dr", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []}
+    ],
+    "L": [
+      {"team_id": "england", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "croatia", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "ghana", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []},
+      {"team_id": "panama", "p": 0, "w": 0, "d": 0, "l": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "form": []}
+    ]
+  },
+  "last_updated": "2026-06-12T12:00:00Z"
+}

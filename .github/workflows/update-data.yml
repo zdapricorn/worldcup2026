@@ -1,0 +1,50 @@
+name: Cập nhật dữ liệu World Cup 2026
+
+on:
+  # Kích hoạt thủ công từ GitHub UI
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Lý do cập nhật'
+        required: false
+        default: 'manual'
+        type: choice
+        options:
+          - manual
+          - match-update
+          - lineup-update
+  
+  # Chạy tự động mỗi 30 phút trong giờ thi đấu
+  schedule:
+    - cron: '*/30 12-23 * * 0-6'  # 12:00-23:59 UTC, mỗi 30 phút
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 🔄 Fetch live data từ API-Football
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          python3 scripts/fetch_live_data.py
+
+      - name: 💾 Commit & push updates
+        run: |
+          git config user.name "WC26 Bot"
+          git config user.email "bot@worldcup2026.local"
+          git add data/
+          git diff --staged --quiet || git commit -m "🔄 Cập nhật dữ liệu trực tiếp từ API-Football ($(date +'%H:%M %d/%m'))"
+          git push origin main
