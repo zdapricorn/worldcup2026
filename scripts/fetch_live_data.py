@@ -60,12 +60,15 @@ def api_request(endpoint, params=None):
         if data.get("errors") and data["errors"]:
             print(f"  ⚠ API Error: {data['errors']}")
             return None
-        return data.get("response", [])
+        response_data = data.get("response", [])
+        print(f"  📡 {endpoint}?{'&'.join(f'{k}={v}' for k,v in (params or {}).items())} → {len(response_data)} results")
+        return response_data
     except urllib.error.HTTPError as e:
-        print(f"  ⚠ HTTP {e.code}: {e.reason}")
+        body = e.read().decode()[:200] if e.fp else ''
+        print(f"  ❌ HTTP {e.code}: {e.reason} | {body}")
         return None
     except Exception as e:
-        print(f"  ⚠ Request failed: {e}")
+        print(f"  ❌ Request failed: {e}")
         return None
 
 def load_json(filename):
@@ -442,6 +445,16 @@ def main():
         return
 
     print("🔍 World Cup 2026 Data Fetcher\n")
+
+    # Step 0: Test API connectivity
+    print("🔌 Testing API connection...")
+    status_test = api_request("status")
+    if status_test is None and get_api_key():
+        print("  ❌ API key may be invalid or expired. Check https://dashboard.api-football.com/")
+        print("  ⚠ Continuing anyway (standings/fixtures may still work)")
+    elif status_test:
+        print(f"  ✅ API key valid, {len(status_test)} status endpoints")
+    print()
 
     # Step 1: Fetch all fixtures
     print("📅 Fetching fixtures...")
