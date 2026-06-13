@@ -3106,9 +3106,9 @@
         }
       }
     },
-    "1417950": {
-      "home_team": "Egypt",
-      "away_team": "Iran",
+    "1417949": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
       "lineups": {
         "home": {
           "formation": "",
@@ -3122,9 +3122,9 @@
         }
       }
     },
-    "1417949": {
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
+    "1417950": {
+      "home_team": "Egypt",
+      "away_team": "Iran",
       "lineups": {
         "home": {
           "formation": "",
@@ -3170,22 +3170,6 @@
         }
       }
     },
-    "1417973": {
-      "home_team": "Colombia",
-      "away_team": "Portugal",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417974": {
       "home_team": "DR Congo",
       "away_team": "Uzbekistan",
@@ -3202,9 +3186,9 @@
         }
       }
     },
-    "1417967": {
-      "home_team": "Jordan",
-      "away_team": "Argentina",
+    "1417973": {
+      "home_team": "Colombia",
+      "away_team": "Portugal",
       "lineups": {
         "home": {
           "formation": "",
@@ -3233,8 +3217,24 @@
           "substitutes": []
         }
       }
+    },
+    "1417967": {
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-13T14:37:50Z"
+  "last_updated": "2026-06-13T16:12:31Z"
 }
