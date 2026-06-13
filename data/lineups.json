@@ -1813,13 +1813,147 @@
       "away_team": "Curacao",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 12,
+              "name": "Oliver Baumann",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 6,
+              "name": "Joshua Kimmich",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 4,
+              "name": "Jonathan Tah",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 15,
+              "name": "Nico Schlotterbeck",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 18,
+              "name": "Nathaniel Brown",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 23,
+              "name": "Felix Nmecha",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 5,
+              "name": "Aleksandar Pavlović",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 19,
+              "name": "Leroy Sané",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 10,
+              "name": "Jamal Musiala",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 17,
+              "name": "Florian Wirtz",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 7,
+              "name": "Kai Havertz",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
           "substitutes": []
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
+          "formation": "3-5-2",
+          "starting_xi": [
+            {
+              "number": 26,
+              "name": "Trevor Doornbusch",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 3,
+              "name": "Jurien Gaari",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 18,
+              "name": "Armando Obispo",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 23,
+              "name": "Riechedly Bazoer",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 5,
+              "name": "Sherel Floranus",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 8,
+              "name": "Livano Comenencia",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 10,
+              "name": "Leandro Bacuna",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 7,
+              "name": "Juninho Bacuna",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 24,
+              "name": "Deveron Fonville",
+              "pos": 3,
+              "grid": "3:5"
+            },
+            {
+              "number": 9,
+              "name": "Jurgen Locadia",
+              "pos": 4,
+              "grid": "4:1"
+            },
+            {
+              "number": 21,
+              "name": "Tahith Chong",
+              "pos": 4,
+              "grid": "4:2"
+            }
+          ],
           "substitutes": []
         }
       }
@@ -1829,13 +1963,147 @@
       "away_team": "Japan",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
+          "formation": "4-3-3",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Bart Verbruggen",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 22,
+              "name": "Denzel Dumfries",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 6,
+              "name": "Jan Paul van Hecke",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 4,
+              "name": "Virgil van Dijk",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 15,
+              "name": "Micky van de Ven",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 8,
+              "name": "Ryan Gravenberch",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 14,
+              "name": "Tijani Reijnders",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 21,
+              "name": "Frenkie De Jong",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 24,
+              "name": "Crysencio Summerville",
+              "pos": 4,
+              "grid": "4:1"
+            },
+            {
+              "number": 18,
+              "name": "Donyell Malen",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 11,
+              "name": "Cody Gakpo",
+              "pos": 4,
+              "grid": "4:3"
+            }
+          ],
           "substitutes": []
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
+          "formation": "3-4-2-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Zion Suzuki",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 16,
+              "name": "Tsuyoshi Watanabe",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 4,
+              "name": "Kou Itakura",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 21,
+              "name": "Hiroki Ito",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 10,
+              "name": "Ritsu Doan",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 15,
+              "name": "Daichi Kamada",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 7,
+              "name": "Ao Tanaka",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 13,
+              "name": "Keito Nakamura",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 8,
+              "name": "Takefusa Kubo",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 14,
+              "name": "Junya Ito",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 18,
+              "name": "Ayase Ueda",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
           "substitutes": []
         }
       }
@@ -2582,9 +2850,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -2598,9 +2866,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -2646,9 +2914,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -2662,9 +2930,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -2710,22 +2978,6 @@
         }
       }
     },
-    "1417943": {
-      "home_team": "Tunisia",
-      "away_team": "Netherlands",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417944": {
       "home_team": "Japan",
       "away_team": "Sweden",
@@ -2742,9 +2994,9 @@
         }
       }
     },
-    "1417932": {
-      "home_team": "Paraguay",
-      "away_team": "Australia",
+    "1417943": {
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
       "lineups": {
         "home": {
           "formation": "",
@@ -2761,6 +3013,22 @@
     "1417931": {
       "home_team": "Turkiye",
       "away_team": "USA",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417932": {
+      "home_team": "Paraguay",
+      "away_team": "Australia",
       "lineups": {
         "home": {
           "formation": "",
@@ -2968,5 +3236,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-13T12:23:00Z"
+  "last_updated": "2026-06-13T14:37:50Z"
 }
