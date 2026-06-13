@@ -1246,20 +1246,20 @@
               "grid": "2:4"
             },
             {
-              "number": 4,
-              "name": "Gueye Seydinaissa Laye",
+              "number": 5,
+              "name": "Jassem Gaber",
               "pos": 3,
               "grid": "3:1"
             },
             {
-              "number": 5,
-              "name": "Jassem Gaber",
+              "number": 23,
+              "name": "Assim Madibo",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 23,
-              "name": "Assim Madibo",
+              "number": 4,
+              "name": "Gueye Seydinaissa Laye",
               "pos": 3,
               "grid": "3:3"
             },
@@ -1361,7 +1361,7 @@
           ]
         },
         "away": {
-          "formation": "3-4-2-1",
+          "formation": "3-4-3",
           "starting_xi": [
             {
               "number": 1,
@@ -1376,20 +1376,20 @@
               "grid": "2:1"
             },
             {
-              "number": 4,
-              "name": "Nico Elvedi",
+              "number": 5,
+              "name": "Manuel Akanji",
               "pos": 2,
               "grid": "2:2"
             },
             {
-              "number": 5,
-              "name": "Manuel Akanji",
+              "number": 4,
+              "name": "Nico Elvedi",
               "pos": 2,
               "grid": "2:3"
             },
             {
-              "number": 11,
-              "name": "Dan Ndoye",
+              "number": 20,
+              "name": "Michel Aebischer",
               "pos": 3,
               "grid": "3:1"
             },
@@ -1412,22 +1412,22 @@
               "grid": "3:4"
             },
             {
-              "number": 20,
-              "name": "Michel Aebischer",
-              "pos": 3,
+              "number": 11,
+              "name": "Dan Ndoye",
+              "pos": 4,
               "grid": "4:1"
-            },
-            {
-              "number": 17,
-              "name": "Ruben Vargas",
-              "pos": 3,
-              "grid": "4:2"
             },
             {
               "number": 7,
               "name": "Breel Embolo",
               "pos": 4,
-              "grid": "5:1"
+              "grid": "4:2"
+            },
+            {
+              "number": 17,
+              "name": "Ruben Vargas",
+              "pos": 4,
+              "grid": "4:3"
             }
           ],
           "substitutes": [
@@ -3258,9 +3258,9 @@
         }
       }
     },
-    "1417950": {
-      "home_team": "Egypt",
-      "away_team": "Iran",
+    "1417949": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
       "lineups": {
         "home": {
           "formation": "",
@@ -3274,9 +3274,9 @@
         }
       }
     },
-    "1417949": {
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
+    "1417950": {
+      "home_team": "Egypt",
+      "away_team": "Iran",
       "lineups": {
         "home": {
           "formation": "",
@@ -3388,5 +3388,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-13T17:53:00Z"
+  "last_updated": "2026-06-13T19:19:43Z"
 }
