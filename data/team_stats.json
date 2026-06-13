@@ -84,6 +84,34 @@
       "avg_goals_against": 1.0,
       "win_rate": 0.0
     },
+    "qatar": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 1,
+      "goals_against": 1,
+      "form": [
+        "D"
+      ],
+      "avg_goals_for": 1.0,
+      "avg_goals_against": 1.0,
+      "win_rate": 0.0
+    },
+    "switzerland": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 1,
+      "goals_against": 1,
+      "form": [
+        "D"
+      ],
+      "avg_goals_for": 1.0,
+      "avg_goals_against": 1.0,
+      "win_rate": 0.0
+    },
     "usa": {
       "played": 1,
       "wins": 1,
@@ -114,5 +142,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-13T20:48:28Z"
+  "last_updated": "2026-06-13T22:01:02Z"
 }

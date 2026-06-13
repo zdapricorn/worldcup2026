@@ -335,8 +335,58 @@
         "score": "4-1",
         "period": "2"
       }
+    ],
+    "1417916": [
+      {
+        "minute": 16,
+        "type": 43,
+        "player": "Mahmud Abunada",
+        "number": "",
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 17,
+        "type": 37,
+        "player": "Breel Embolo",
+        "number": 7,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 23,
+        "type": 43,
+        "player": "Jassem Gaber",
+        "number": 5,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 42,
+        "type": 43,
+        "player": "Denis Zakaria",
+        "number": 6,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "Boualem Khoukhi",
+        "number": 16,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 63,
+        "player": "Homam Elamin",
+        "number": 14,
+        "score": "1-1",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-13T20:48:28Z"
+  "last_updated": "2026-06-13T22:01:02Z"
 }

@@ -2562,13 +2562,147 @@
       "away_team": "Tunisia",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
+          "formation": "3-4-1-2",
+          "starting_xi": [
+            {
+              "number": 23,
+              "name": "Kristoffer Nordfeldt",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 4,
+              "name": "Isak Hien",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 15,
+              "name": "Carl Starfelt",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 2,
+              "name": "Gustaf Lagerbielke",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 21,
+              "name": "Alexander Bernhardsson",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 16,
+              "name": "Jesper Karlstrom",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 18,
+              "name": "Yasin Ayari",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 5,
+              "name": "Gabriel Gudmundsson",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 10,
+              "name": "Benjamin Nygren",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 17,
+              "name": "Viktor Gyökeres",
+              "pos": 4,
+              "grid": "5:1"
+            },
+            {
+              "number": 9,
+              "name": "Alexander Isak",
+              "pos": 4,
+              "grid": "5:2"
+            }
+          ],
           "substitutes": []
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Abdelmouhib Chamakh",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 20,
+              "name": "Yan Valery",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 4,
+              "name": "Omar Rekik",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 3,
+              "name": "Montassar Talbi",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 2,
+              "name": "Ali Abdi",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 17,
+              "name": "Ellyes Skhiri",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 13,
+              "name": "Rani Khedira",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 7,
+              "name": "Elias Achouri",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 10,
+              "name": "Hannibal Mejbri",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 11,
+              "name": "Ismael Gharbi",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 19,
+              "name": "Firas Chaouat",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
           "substitutes": []
         }
       }
@@ -3149,9 +3283,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -3165,9 +3299,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -3213,9 +3347,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -3229,9 +3363,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -3469,22 +3603,6 @@
         }
       }
     },
-    "1417974": {
-      "home_team": "DR Congo",
-      "away_team": "Uzbekistan",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417973": {
       "home_team": "Colombia",
       "away_team": "Portugal",
@@ -3501,9 +3619,9 @@
         }
       }
     },
-    "1417968": {
-      "home_team": "Algeria",
-      "away_team": "Austria",
+    "1417974": {
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
       "lineups": {
         "home": {
           "formation": "",
@@ -3532,8 +3650,24 @@
           "substitutes": []
         }
       }
+    },
+    "1417968": {
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-13T20:48:01Z"
+  "last_updated": "2026-06-13T22:00:29Z"
 }
