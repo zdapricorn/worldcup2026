@@ -83,8 +83,36 @@
       "avg_goals_for": 1.0,
       "avg_goals_against": 1.0,
       "win_rate": 0.0
+    },
+    "usa": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 4,
+      "goals_against": 1,
+      "form": [
+        "W"
+      ],
+      "avg_goals_for": 4.0,
+      "avg_goals_against": 1.0,
+      "win_rate": 100.0
+    },
+    "paraguay": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 1,
+      "goals_against": 4,
+      "form": [
+        "L"
+      ],
+      "avg_goals_for": 1.0,
+      "avg_goals_against": 4.0,
+      "win_rate": 0.0
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-13T00:00:34Z"
+  "last_updated": "2026-06-13T12:23:32Z"
 }

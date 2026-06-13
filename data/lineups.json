@@ -911,7 +911,7 @@
       "away_team": "Paraguay",
       "lineups": {
         "home": {
-          "formation": "3-4-2-1",
+          "formation": "4-2-3-1",
           "starting_xi": [
             {
               "number": 24,
@@ -938,40 +938,40 @@
               "grid": "2:3"
             },
             {
-              "number": 2,
-              "name": "Sergiño Dest",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 8,
-              "name": "Weston McKennie",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 4,
-              "name": "Tyler Adams",
-              "pos": 3,
-              "grid": "3:3"
-            },
-            {
               "number": 5,
               "name": "Antonee Robinson",
-              "pos": 3,
-              "grid": "3:4"
+              "pos": 2,
+              "grid": "2:4"
             },
             {
               "number": 17,
               "name": "Malik Tillman",
               "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 4,
+              "name": "Tyler Adams",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 2,
+              "name": "Sergiño Dest",
+              "pos": 3,
               "grid": "4:1"
+            },
+            {
+              "number": 8,
+              "name": "Weston McKennie",
+              "pos": 3,
+              "grid": "4:2"
             },
             {
               "number": 10,
               "name": "Christian Pulisic",
               "pos": 3,
-              "grid": "4:2"
+              "grid": "4:3"
             },
             {
               "number": 20,
@@ -1074,8 +1074,8 @@
               "grid": "2:1"
             },
             {
-              "number": 15,
-              "name": "Gustavo Gómez",
+              "number": 6,
+              "name": "Júnior Alonso",
               "pos": 2,
               "grid": "2:2"
             },
@@ -1086,14 +1086,14 @@
               "grid": "2:3"
             },
             {
-              "number": 6,
-              "name": "Júnior Alonso",
+              "number": 15,
+              "name": "Gustavo Gómez",
               "pos": 2,
               "grid": "2:4"
             },
             {
-              "number": 10,
-              "name": "Miguel Almirón",
+              "number": 8,
+              "name": "Diego Gomez",
               "pos": 3,
               "grid": "3:1"
             },
@@ -1110,8 +1110,8 @@
               "grid": "3:3"
             },
             {
-              "number": 8,
-              "name": "Diego Gomez",
+              "number": 10,
+              "name": "Miguel Almirón",
               "pos": 3,
               "grid": "3:4"
             },
@@ -1845,13 +1845,147 @@
       "away_team": "Ecuador",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
+          "formation": "4-3-3",
+          "starting_xi": [
+            {
+              "number": 8,
+              "name": "Franck Kessié",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 18,
+              "name": "Ibrahim Sangaré",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 1,
+              "name": "Yahia Fofana",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 17,
+              "name": "Guela Doué",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 5,
+              "name": "Wilfried Singo",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 20,
+              "name": "Emmanuel Agbadou",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 3,
+              "name": "Ghislain Konan",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 6,
+              "name": "Seko Fofana",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 15,
+              "name": "Amad Diallo",
+              "pos": 4,
+              "grid": "4:1"
+            },
+            {
+              "number": 22,
+              "name": "Evann Guessand",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 11,
+              "name": "Yan Diomande",
+              "pos": 4,
+              "grid": "4:3"
+            }
+          ],
           "substitutes": []
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
+          "formation": "4-4-2",
+          "starting_xi": [
+            {
+              "number": 15,
+              "name": "Pedro Vite",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 19,
+              "name": "Gonzalo Plata",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 1,
+              "name": "Hernán Galíndez",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 4,
+              "name": "Joel Ordóñez",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 3,
+              "name": "Piero Hincapié",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 6,
+              "name": "Willian Pacho",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 7,
+              "name": "Pervis Estupiñán",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 23,
+              "name": "Moisés Caicedo",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 14,
+              "name": "Alan Minda",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 9,
+              "name": "John Yeboah",
+              "pos": 4,
+              "grid": "4:1"
+            },
+            {
+              "number": 13,
+              "name": "Enner Valencia",
+              "pos": 4,
+              "grid": "4:2"
+            }
+          ],
           "substitutes": []
         }
       }
@@ -2448,9 +2582,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -2464,9 +2598,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -2512,9 +2646,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -2528,9 +2662,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -2834,5 +2968,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-13T00:00:00Z"
+  "last_updated": "2026-06-13T12:23:00Z"
 }
