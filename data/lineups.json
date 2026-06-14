@@ -3023,8 +3023,8 @@
           "formation": "4-2-3-1",
           "starting_xi": [
             {
-              "number": 18,
-              "name": "Ibrahim Sangaré",
+              "number": 6,
+              "name": "Seko Fofana",
               "pos": 3,
               "grid": "3:1"
             },
@@ -3065,20 +3065,20 @@
               "grid": "2:4"
             },
             {
-              "number": 14,
-              "name": "Oumar Diakite",
+              "number": 11,
+              "name": "Yan Diomande",
               "pos": 3,
               "grid": "4:1"
             },
             {
-              "number": 15,
-              "name": "Amad Diallo",
+              "number": 24,
+              "name": "Bazoumana Toure",
               "pos": 3,
               "grid": "4:2"
             },
             {
-              "number": 10,
-              "name": "Simon Adingra",
+              "number": 19,
+              "name": "Nicolas Pepe",
               "pos": 3,
               "grid": "4:3"
             },
@@ -3089,22 +3089,98 @@
               "grid": "5:1"
             }
           ],
-          "substitutes": []
+          "substitutes": [
+            {
+              "number": 16,
+              "name": "Mohamed Kone",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Alban Lafont",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Ousmane Diomande",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Odilon Kossounou",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Christopher Operi",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Evan Ndicka",
+              "pos": 5
+            },
+            {
+              "number": 4,
+              "name": "Jean Michaël Seri",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Ibrahim Sangaré",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Parfait Guiagon",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Christ Ravynel Inao Oulai",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Ange Bonny",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Simon Adingra",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Oumar Diakite",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Amad Diallo",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Evann Guessand",
+              "pos": 5
+            }
+          ]
         },
         "away": {
-          "formation": "4-2-3-1",
+          "formation": "3-4-1-2",
           "starting_xi": [
             {
               "number": 21,
               "name": "Alan Franco",
               "pos": 3,
-              "grid": "3:2"
+              "grid": "3:3"
             },
             {
               "number": 23,
               "name": "Moisés Caicedo",
               "pos": 3,
-              "grid": "3:1"
+              "grid": "3:2"
             },
             {
               "number": 1,
@@ -3113,8 +3189,8 @@
               "grid": "1:1"
             },
             {
-              "number": 17,
-              "name": "Ángelo Preciado",
+              "number": 4,
+              "name": "Joel Ordóñez",
               "pos": 2,
               "grid": "2:1"
             },
@@ -3131,37 +3207,113 @@
               "grid": "2:3"
             },
             {
-              "number": 7,
-              "name": "Pervis Estupiñán",
-              "pos": 2,
-              "grid": "2:4"
+              "number": 14,
+              "name": "Alan Minda",
+              "pos": 3,
+              "grid": "3:1"
             },
             {
-              "number": 19,
-              "name": "Gonzalo Plata",
+              "number": 15,
+              "name": "Pedro Vite",
               "pos": 3,
-              "grid": "4:1"
-            },
-            {
-              "number": 10,
-              "name": "Kendry Páez",
-              "pos": 3,
-              "grid": "4:2"
+              "grid": "3:4"
             },
             {
               "number": 9,
               "name": "John Yeboah",
               "pos": 3,
-              "grid": "4:3"
+              "grid": "4:1"
             },
             {
               "number": 13,
               "name": "Enner Valencia",
               "pos": 4,
               "grid": "5:1"
+            },
+            {
+              "number": 19,
+              "name": "Gonzalo Plata",
+              "pos": 4,
+              "grid": "5:2"
             }
           ],
-          "substitutes": []
+          "substitutes": [
+            {
+              "number": 12,
+              "name": "Moisés Ramírez",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Gonzalo Valle",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Félix Torres",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Pervis Estupiñán",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Ángelo Preciado",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Jackson Porozo",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Jordy Alcivar",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Anthony Valencia",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Kendry Páez",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Denil Castillo",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Kevin Rodríguez",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Jordy Caicedo",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Nilson Angulo",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Jeremy Arevalo",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Yaimar Abel Medina Ortiz",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -4293,9 +4445,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -4309,9 +4461,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -4357,9 +4509,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -4373,9 +4525,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -4679,5 +4831,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-14T20:05:31Z"
+  "last_updated": "2026-06-14T21:51:07Z"
 }
