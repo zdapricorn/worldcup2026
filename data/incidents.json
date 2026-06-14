@@ -503,8 +503,122 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417933": [
+      {
+        "minute": 6,
+        "type": 36,
+        "player": "F. Nmecha",
+        "number": 23,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 6,
+        "type": 63,
+        "player": "F. Wirtz",
+        "number": 17,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 36,
+        "player": "L. Comenencia",
+        "number": 8,
+        "score": "1-1",
+        "period": "1"
+      },
+      {
+        "minute": 38,
+        "type": 36,
+        "player": "N. Schlotterbeck",
+        "number": 15,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 38,
+        "type": 63,
+        "player": "N. Brown",
+        "number": 18,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 37,
+        "player": "K. Havertz",
+        "number": 7,
+        "score": "3-1",
+        "period": "1"
+      },
+      {
+        "minute": 47,
+        "type": 36,
+        "player": "J. Musiala",
+        "number": 10,
+        "score": "4-1",
+        "period": "2"
+      },
+      {
+        "minute": 47,
+        "type": 63,
+        "player": "J. Kimmich",
+        "number": 6,
+        "score": "4-1",
+        "period": "2"
+      },
+      {
+        "minute": 68,
+        "type": 36,
+        "player": "N. Brown",
+        "number": 18,
+        "score": "5-1",
+        "period": "2"
+      },
+      {
+        "minute": 68,
+        "type": 63,
+        "player": "D. Undav",
+        "number": 26,
+        "score": "5-1",
+        "period": "2"
+      },
+      {
+        "minute": 78,
+        "type": 36,
+        "player": "D. Undav",
+        "number": 26,
+        "score": "6-1",
+        "period": "2"
+      },
+      {
+        "minute": 78,
+        "type": 63,
+        "player": "J. Kimmich",
+        "number": 6,
+        "score": "6-1",
+        "period": "2"
+      },
+      {
+        "minute": 88,
+        "type": 36,
+        "player": "K. Havertz",
+        "number": 7,
+        "score": "7-1",
+        "period": "2"
+      },
+      {
+        "minute": 88,
+        "type": 63,
+        "player": "D. Undav",
+        "number": 26,
+        "score": "7-1",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-14T18:11:10Z"
+  "last_updated": "2026-06-14T20:06:06Z"
 }

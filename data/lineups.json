@@ -2757,14 +2757,14 @@
               "grid": "3:1"
             },
             {
-              "number": 14,
-              "name": "Tijani Reijnders",
+              "number": 21,
+              "name": "Frenkie De Jong",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 21,
-              "name": "Frenkie De Jong",
+              "number": 14,
+              "name": "Tijani Reijnders",
               "pos": 3,
               "grid": "3:3"
             },
@@ -2787,7 +2787,83 @@
               "grid": "4:3"
             }
           ],
-          "substitutes": []
+          "substitutes": [
+            {
+              "number": 13,
+              "name": "Robin Roefs",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Mark Flekken",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Lutsharel Geertruida",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Nathan Aké",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Jorrel Hato",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Marten De Roon",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Mats Wieffer",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Guus Til",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Teun Koopmeiners",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Quinten Timber",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Justin Kluivert",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Wout Weghorst",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Memphis Depay",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Noa Lang",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Brian Brobbey",
+              "pos": 5
+            }
+          ]
         },
         "away": {
           "formation": "3-4-2-1",
@@ -2805,8 +2881,8 @@
               "grid": "2:1"
             },
             {
-              "number": 4,
-              "name": "Kou Itakura",
+              "number": 3,
+              "name": "Shogo Taniguchi",
               "pos": 2,
               "grid": "2:2"
             },
@@ -2823,14 +2899,14 @@
               "grid": "3:1"
             },
             {
-              "number": 15,
-              "name": "Daichi Kamada",
+              "number": 24,
+              "name": "Kaishu Sano",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 7,
-              "name": "Ao Tanaka",
+              "number": 15,
+              "name": "Daichi Kamada",
               "pos": 3,
               "grid": "3:3"
             },
@@ -2847,8 +2923,8 @@
               "grid": "4:1"
             },
             {
-              "number": 14,
-              "name": "Junya Ito",
+              "number": 11,
+              "name": "Daizen Maeda",
               "pos": 3,
               "grid": "4:2"
             },
@@ -2859,7 +2935,83 @@
               "grid": "5:1"
             }
           ],
-          "substitutes": []
+          "substitutes": [
+            {
+              "number": 12,
+              "name": "Keisuke Osako",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Tomoki Hayakawa",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Yukinari Sugawara",
+              "pos": 5
+            },
+            {
+              "number": 4,
+              "name": "Kou Itakura",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Yuto Nagatomo",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Ayumu Seko",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Takehiro Tomiyasu",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Junnosuke Suzuki",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Ao Tanaka",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Yuito Suzuki",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Shuto Machino",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Keisuke Goto",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Junya Ito",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Koki Ogawa",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Kento Shiogai",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -4141,9 +4293,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -4157,9 +4309,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -4205,9 +4357,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -4221,9 +4373,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -4269,22 +4421,6 @@
         }
       }
     },
-    "1417943": {
-      "home_team": "Tunisia",
-      "away_team": "Netherlands",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417944": {
       "home_team": "Japan",
       "away_team": "Sweden",
@@ -4301,9 +4437,9 @@
         }
       }
     },
-    "1417932": {
-      "home_team": "Paraguay",
-      "away_team": "Australia",
+    "1417943": {
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
       "lineups": {
         "home": {
           "formation": "",
@@ -4320,6 +4456,22 @@
     "1417931": {
       "home_team": "Turkiye",
       "away_team": "USA",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417932": {
+      "home_team": "Paraguay",
+      "away_team": "Australia",
       "lineups": {
         "home": {
           "formation": "",
@@ -4461,22 +4613,6 @@
         }
       }
     },
-    "1417973": {
-      "home_team": "Colombia",
-      "away_team": "Portugal",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417974": {
       "home_team": "DR Congo",
       "away_team": "Uzbekistan",
@@ -4493,9 +4629,9 @@
         }
       }
     },
-    "1417967": {
-      "home_team": "Jordan",
-      "away_team": "Argentina",
+    "1417973": {
+      "home_team": "Colombia",
+      "away_team": "Portugal",
       "lineups": {
         "home": {
           "formation": "",
@@ -4524,8 +4660,24 @@
           "substitutes": []
         }
       }
+    },
+    "1417967": {
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-14T18:10:41Z"
+  "last_updated": "2026-06-14T20:05:31Z"
 }
