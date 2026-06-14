@@ -371,17 +371,9 @@
       },
       {
         "minute": 90,
-        "type": 36,
-        "player": "Boualem Khoukhi",
-        "number": 16,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "Homam Elamin",
-        "number": 14,
+        "type": 39,
+        "player": "Miro Muheim",
+        "number": 2,
         "score": "1-1",
         "period": "2"
       }
@@ -435,8 +427,84 @@
         "score": "",
         "period": "1"
       }
+    ],
+    "1417926": [
+      {
+        "minute": 29,
+        "type": 36,
+        "player": "John McGinn",
+        "number": 7,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 39,
+        "type": 43,
+        "player": "Jean-Ricner Bellegarde",
+        "number": 10,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 46,
+        "type": 43,
+        "player": "Aaron Hickey",
+        "number": 2,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Findlay Curtis",
+        "number": 25,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Kenny McLean",
+        "number": 23,
+        "score": "",
+        "period": "2"
+      }
+    ],
+    "1417928": [
+      {
+        "minute": 27,
+        "type": 36,
+        "player": "Nestory Irankunda",
+        "number": 17,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 27,
+        "type": 63,
+        "player": "Paul Okon-Engstler",
+        "number": 24,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 75,
+        "type": 36,
+        "player": "Connor Metcalfe",
+        "number": 8,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 86,
+        "type": 43,
+        "player": "Yunus Akgun",
+        "number": 19,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-14T01:43:51Z"
+  "last_updated": "2026-06-14T13:00:49Z"
 }
