@@ -1560,14 +1560,14 @@
               "grid": "3:2"
             },
             {
-              "number": 20,
-              "name": "Lucas Paquetá",
+              "number": 11,
+              "name": "Raphinha",
               "pos": 3,
               "grid": "4:1"
             },
             {
-              "number": 11,
-              "name": "Raphinha",
+              "number": 20,
+              "name": "Lucas Paquetá",
               "pos": 3,
               "grid": "4:2"
             },
@@ -1851,14 +1851,14 @@
               "grid": "3:1"
             },
             {
-              "number": 10,
-              "name": "Jean-Ricner Bellegarde",
+              "number": 17,
+              "name": "Danley Jean Jacques",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 17,
-              "name": "Danley Jean Jacques",
+              "number": 10,
+              "name": "Jean-Ricner Bellegarde",
               "pos": 3,
               "grid": "3:3"
             },
@@ -1881,7 +1881,83 @@
               "grid": "4:2"
             }
           ],
-          "substitutes": []
+          "substitutes": [
+            {
+              "number": 12,
+              "name": "Alexandre Pierre",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Josue Duverger",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Keeto Thermoncy",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Duke Lacroix",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Garven Metusala",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Jean-Kevin Duverne",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Wilguens Paugain",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Carl Sainte",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Dominique Simon",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Woodensky Pierre",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Derrick Etienne Jr.",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Duckens Nazon",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Lenny Joseph",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Yassin Fortuné",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Josue Casimir",
+              "pos": 5
+            }
+          ]
         },
         "away": {
           "formation": "4-4-2",
@@ -1899,14 +1975,14 @@
               "grid": "2:1"
             },
             {
-              "number": 5,
-              "name": "Grant Hanley",
+              "number": 13,
+              "name": "Jack Hendry",
               "pos": 2,
               "grid": "2:2"
             },
             {
-              "number": 13,
-              "name": "Jack Hendry",
+              "number": 5,
+              "name": "Grant Hanley",
               "pos": 2,
               "grid": "2:3"
             },
@@ -1923,14 +1999,14 @@
               "grid": "3:1"
             },
             {
-              "number": 19,
-              "name": "Lewis Ferguson",
+              "number": 4,
+              "name": "Scott McTominay",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 4,
-              "name": "Scott McTominay",
+              "number": 19,
+              "name": "Lewis Ferguson",
               "pos": 3,
               "grid": "3:3"
             },
@@ -1953,7 +2029,83 @@
               "grid": "4:2"
             }
           ],
-          "substitutes": []
+          "substitutes": [
+            {
+              "number": 12,
+              "name": "Liam Kelly",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Craig Gordon",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Kieran Tierney",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "John Souttar",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Dominic Hyam",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Nathan Patterson",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Tony Ralston",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Scott McKenna",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Tyler Fletcher",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Ryan Christie",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Kenny McLean",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Lyndon Dykes",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Ross Stewart",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "George Hirst",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Findlay Curtis",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -3283,9 +3435,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -3299,9 +3451,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -3347,9 +3499,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -3363,9 +3515,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -3411,22 +3563,6 @@
         }
       }
     },
-    "1417944": {
-      "home_team": "Japan",
-      "away_team": "Sweden",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417943": {
       "home_team": "Tunisia",
       "away_team": "Netherlands",
@@ -3443,9 +3579,9 @@
         }
       }
     },
-    "1417931": {
-      "home_team": "Turkiye",
-      "away_team": "USA",
+    "1417944": {
+      "home_team": "Japan",
+      "away_team": "Sweden",
       "lineups": {
         "home": {
           "formation": "",
@@ -3462,6 +3598,22 @@
     "1417932": {
       "home_team": "Paraguay",
       "away_team": "Australia",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417931": {
+      "home_team": "Turkiye",
+      "away_team": "USA",
       "lineups": {
         "home": {
           "formation": "",
@@ -3539,9 +3691,9 @@
         }
       }
     },
-    "1417949": {
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
+    "1417950": {
+      "home_team": "Egypt",
+      "away_team": "Iran",
       "lineups": {
         "home": {
           "formation": "",
@@ -3555,9 +3707,9 @@
         }
       }
     },
-    "1417950": {
-      "home_team": "Egypt",
-      "away_team": "Iran",
+    "1417949": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
       "lineups": {
         "home": {
           "formation": "",
@@ -3603,22 +3755,6 @@
         }
       }
     },
-    "1417973": {
-      "home_team": "Colombia",
-      "away_team": "Portugal",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417974": {
       "home_team": "DR Congo",
       "away_team": "Uzbekistan",
@@ -3635,9 +3771,9 @@
         }
       }
     },
-    "1417967": {
-      "home_team": "Jordan",
-      "away_team": "Argentina",
+    "1417973": {
+      "home_team": "Colombia",
+      "away_team": "Portugal",
       "lineups": {
         "home": {
           "formation": "",
@@ -3666,8 +3802,24 @@
           "substitutes": []
         }
       }
+    },
+    "1417967": {
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-13T23:14:05Z"
+  "last_updated": "2026-06-14T01:43:16Z"
 }

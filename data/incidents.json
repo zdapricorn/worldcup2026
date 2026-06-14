@@ -385,8 +385,58 @@
         "score": "1-1",
         "period": "2"
       }
+    ],
+    "1417921": [
+      {
+        "minute": 21,
+        "type": 36,
+        "player": "Ismael Saibari",
+        "number": 11,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 63,
+        "player": "Brahim Diaz",
+        "number": 10,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 32,
+        "type": 36,
+        "player": "Vinicius Junior",
+        "number": 7,
+        "score": "1-1",
+        "period": "1"
+      },
+      {
+        "minute": 32,
+        "type": 63,
+        "player": "Bruno Guimaraes",
+        "number": 8,
+        "score": "1-1",
+        "period": "1"
+      },
+      {
+        "minute": 37,
+        "type": 43,
+        "player": "Casemiro",
+        "number": 5,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 43,
+        "type": 43,
+        "player": "Roger Ibanez",
+        "number": 24,
+        "score": "",
+        "period": "1"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-13T23:14:40Z"
+  "last_updated": "2026-06-14T01:43:51Z"
 }
