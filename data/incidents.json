@@ -140,202 +140,6 @@
         "period": "2"
       }
     ],
-    "1417915": [
-      {
-        "minute": 11,
-        "type": 43,
-        "player": "Alistair Johnston",
-        "number": 2,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 21,
-        "type": 36,
-        "player": "Jovo Lukic",
-        "number": 25,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 21,
-        "type": 63,
-        "player": "Sead Kolasinac",
-        "number": 5,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 44,
-        "type": 43,
-        "player": "Ermedin Demirovic",
-        "number": 10,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 43,
-        "player": "Jovo Lukic",
-        "number": 25,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 53,
-        "type": 43,
-        "player": "Luc De Fougerolles",
-        "number": 4,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 78,
-        "type": 36,
-        "player": "Cyle Larin",
-        "number": 9,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 78,
-        "type": 63,
-        "player": "Promise David",
-        "number": 24,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "Nikola Katic",
-        "number": 18,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417927": [
-      {
-        "minute": 7,
-        "type": 39,
-        "player": "Damian Bobadilla",
-        "number": 16,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 9,
-        "type": 43,
-        "player": "Juan Caceres",
-        "number": 4,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 31,
-        "type": 36,
-        "player": "Folarin Balogun",
-        "number": 20,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 31,
-        "type": 63,
-        "player": "Christian Pulisic",
-        "number": 10,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 36,
-        "player": "Folarin Balogun",
-        "number": 20,
-        "score": "3-0",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 63,
-        "player": "Malik Tillman",
-        "number": 17,
-        "score": "3-0",
-        "period": "1"
-      },
-      {
-        "minute": 53,
-        "type": 43,
-        "player": "Miguel Almiron",
-        "number": 10,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 59,
-        "type": 43,
-        "player": "Tyler Adams",
-        "number": 4,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 73,
-        "type": 36,
-        "player": "Mauricio",
-        "number": "",
-        "score": "3-1",
-        "period": "2"
-      },
-      {
-        "minute": 73,
-        "type": 63,
-        "player": "Julio Enciso",
-        "number": 19,
-        "score": "3-1",
-        "period": "2"
-      },
-      {
-        "minute": 79,
-        "type": 43,
-        "player": "Diego Gomez",
-        "number": 8,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 88,
-        "type": 43,
-        "player": "Alex Arce",
-        "number": 18,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "Junior Alonso",
-        "number": 6,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "Giovanni Reyna",
-        "number": 7,
-        "score": "4-1",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "Alex Freeman",
-        "number": 16,
-        "score": "4-1",
-        "period": "2"
-      }
-    ],
     "1417916": [
       {
         "minute": 16,
@@ -617,8 +421,90 @@
         "score": "7-1",
         "period": "2"
       }
+    ],
+    "1417939": [
+      {
+        "minute": 51,
+        "type": 36,
+        "player": "V. van Dijk",
+        "number": 4,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 51,
+        "type": 63,
+        "player": "R. Gravenberch",
+        "number": 8,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 57,
+        "type": 36,
+        "player": "K. Nakamura",
+        "number": 13,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 57,
+        "type": 63,
+        "player": "T. Kubo",
+        "number": 8,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 61,
+        "type": 43,
+        "player": "C. Summerville",
+        "number": 24,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 64,
+        "type": 36,
+        "player": "C. Summerville",
+        "number": 24,
+        "score": "2-1",
+        "period": "2"
+      },
+      {
+        "minute": 64,
+        "type": 63,
+        "player": "R. Gravenberch",
+        "number": 8,
+        "score": "2-1",
+        "period": "2"
+      },
+      {
+        "minute": 83,
+        "type": 43,
+        "player": "M. Depay",
+        "number": 10,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 89,
+        "type": 36,
+        "player": "D. Kamada",
+        "number": 15,
+        "score": "2-2",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "M. van de Ven",
+        "number": 15,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-14T21:51:36Z"
+  "last_updated": "2026-06-14T23:05:31Z"
 }

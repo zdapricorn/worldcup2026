@@ -44,68 +44,6 @@
         "status": "FT"
       }
     ],
-    "1417927": [
-      {
-        "date": "20251115",
-        "home": "USA",
-        "away": "Paraguay",
-        "home_score": 2,
-        "away_score": 1,
-        "stage": "Friendlies 2025",
-        "competition": "International Friendlies",
-        "status": "FT"
-      },
-      {
-        "date": "20180327",
-        "home": "USA",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      },
-      {
-        "date": "20160611",
-        "home": "USA",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "Copa America Centenario Grp. A",
-        "competition": "Copa America 1",
-        "status": "FT"
-      },
-      {
-        "date": "20110330",
-        "home": "USA",
-        "away": "Paraguay",
-        "home_score": 0,
-        "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      },
-      {
-        "date": "20070702",
-        "home": "USA",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 3,
-        "stage": "Copa America Grp. C",
-        "competition": "Copa America 1",
-        "status": "FT"
-      },
-      {
-        "date": "20030706",
-        "home": "USA",
-        "away": "Paraguay",
-        "home_score": 2,
-        "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      }
-    ],
     "1417916": [
       {
         "date": "20181114",
@@ -147,38 +85,6 @@
         "away": "Turkiye",
         "home_score": 1,
         "away_score": 3,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      }
-    ],
-    "1417939": [
-      {
-        "date": "20131116",
-        "home": "Netherlands",
-        "away": "Japan",
-        "home_score": 2,
-        "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      },
-      {
-        "date": "20100619",
-        "home": "Netherlands",
-        "away": "Japan",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "World Cup grp. E",
-        "competition": "World Championship 1",
-        "status": "FT"
-      },
-      {
-        "date": "20090905",
-        "home": "Netherlands",
-        "away": "Japan",
-        "home_score": 3,
-        "away_score": 0,
         "stage": "Friendlies",
         "competition": "Friendlies 1",
         "status": "FT"
@@ -918,5 +824,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-14T21:51:33Z"
+  "last_updated": "2026-06-14T23:05:28Z"
 }
