@@ -2564,7 +2564,7 @@
           ]
         },
         "away": {
-          "formation": "4-4-2",
+          "formation": "4-2-3-1",
           "starting_xi": [
             {
               "number": 1,
@@ -2573,26 +2573,26 @@
               "grid": "1:1"
             },
             {
-              "number": 24,
-              "name": "Deveron Fonville",
+              "number": 5,
+              "name": "Sherel Floranus",
               "pos": 2,
               "grid": "2:1"
-            },
-            {
-              "number": 18,
-              "name": "Armando Obispo",
-              "pos": 2,
-              "grid": "2:2"
             },
             {
               "number": 23,
               "name": "Riechedly Bazoer",
               "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 18,
+              "name": "Armando Obispo",
+              "pos": 2,
               "grid": "2:3"
             },
             {
-              "number": 5,
-              "name": "Sherel Floranus",
+              "number": 24,
+              "name": "Deveron Fonville",
               "pos": 2,
               "grid": "2:4"
             },
@@ -2609,28 +2609,28 @@
               "grid": "3:2"
             },
             {
-              "number": 7,
-              "name": "Juninho Bacuna",
+              "number": 12,
+              "name": "Sontje Hansen",
               "pos": 3,
-              "grid": "3:3"
+              "grid": "4:1"
             },
             {
               "number": 21,
               "name": "Tahith Chong",
               "pos": 3,
-              "grid": "3:4"
+              "grid": "4:2"
+            },
+            {
+              "number": 7,
+              "name": "Juninho Bacuna",
+              "pos": 3,
+              "grid": "4:3"
             },
             {
               "number": 9,
               "name": "Jurgen Locadia",
               "pos": 4,
-              "grid": "4:1"
-            },
-            {
-              "number": 12,
-              "name": "Sontje Hansen",
-              "pos": 4,
-              "grid": "4:2"
+              "grid": "5:1"
             }
           ],
           "substitutes": [
@@ -4141,9 +4141,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -4157,9 +4157,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -4205,9 +4205,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -4221,9 +4221,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -4269,22 +4269,6 @@
         }
       }
     },
-    "1417944": {
-      "home_team": "Japan",
-      "away_team": "Sweden",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417943": {
       "home_team": "Tunisia",
       "away_team": "Netherlands",
@@ -4301,9 +4285,9 @@
         }
       }
     },
-    "1417931": {
-      "home_team": "Turkiye",
-      "away_team": "USA",
+    "1417944": {
+      "home_team": "Japan",
+      "away_team": "Sweden",
       "lineups": {
         "home": {
           "formation": "",
@@ -4320,6 +4304,22 @@
     "1417932": {
       "home_team": "Paraguay",
       "away_team": "Australia",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417931": {
+      "home_team": "Turkiye",
+      "away_team": "USA",
       "lineups": {
         "home": {
           "formation": "",
@@ -4397,9 +4397,9 @@
         }
       }
     },
-    "1417949": {
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
+    "1417950": {
+      "home_team": "Egypt",
+      "away_team": "Iran",
       "lineups": {
         "home": {
           "formation": "",
@@ -4413,9 +4413,9 @@
         }
       }
     },
-    "1417950": {
-      "home_team": "Egypt",
-      "away_team": "Iran",
+    "1417949": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
       "lineups": {
         "home": {
           "formation": "",
@@ -4527,5 +4527,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-14T16:55:08Z"
+  "last_updated": "2026-06-14T18:10:41Z"
 }
