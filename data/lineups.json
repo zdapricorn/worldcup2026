@@ -3721,9 +3721,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -3737,9 +3737,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -3785,9 +3785,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -3801,9 +3801,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -4107,5 +4107,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-14T13:00:10Z"
+  "last_updated": "2026-06-14T15:10:41Z"
 }
