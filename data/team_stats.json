@@ -307,8 +307,36 @@
       "avg_goals_for": 1.0,
       "avg_goals_against": 5.0,
       "win_rate": 0.0
+    },
+    "belgium": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 1,
+      "goals_against": 1,
+      "form": [
+        "D"
+      ],
+      "avg_goals_for": 1.0,
+      "avg_goals_against": 1.0,
+      "win_rate": 0.0
+    },
+    "egypt": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 1,
+      "goals_against": 1,
+      "form": [
+        "D"
+      ],
+      "avg_goals_for": 1.0,
+      "avg_goals_against": 1.0,
+      "win_rate": 0.0
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-15T20:05:13Z"
+  "last_updated": "2026-06-15T22:34:57Z"
 }

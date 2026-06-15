@@ -841,8 +841,66 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417945": [
+      {
+        "minute": 13,
+        "type": 43,
+        "player": "Marwan Attia",
+        "number": 19,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 14,
+        "type": 43,
+        "player": "T. Castagne",
+        "number": 21,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 19,
+        "type": 36,
+        "player": "Emam Ashour",
+        "number": 8,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 19,
+        "type": 63,
+        "player": "Mohamed Salah",
+        "number": 10,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 34,
+        "type": 43,
+        "player": "Ahmed Fatouh",
+        "number": 13,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 66,
+        "type": 39,
+        "player": "Mohamed Hany",
+        "number": 3,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 75,
+        "type": 43,
+        "player": "M. De Cuyper",
+        "number": 5,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-15T20:05:13Z"
+  "last_updated": "2026-06-15T22:34:57Z"
 }
