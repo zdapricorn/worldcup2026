@@ -4,23 +4,15 @@
       {
         "minute": 9,
         "type": 36,
-        "player": "Julian Quinones",
+        "player": "J. Quiñones",
         "number": 16,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 9,
-        "type": 63,
-        "player": "Erik Lira",
-        "number": 6,
         "score": "1-0",
         "period": "1"
       },
       {
         "minute": 17,
         "type": 43,
-        "player": "Teboho Mokoena",
+        "player": "T. Mokoena",
         "number": 4,
         "score": "",
         "period": "1"
@@ -28,7 +20,7 @@
       {
         "minute": 23,
         "type": 43,
-        "player": "Brian Gutierrez",
+        "player": "B. Gutiérrez",
         "number": 26,
         "score": "",
         "period": "1"
@@ -36,7 +28,7 @@
       {
         "minute": 49,
         "type": 45,
-        "player": "Sphephelo Sithole",
+        "player": "Y. Sithole",
         "number": 13,
         "score": "",
         "period": "2"
@@ -44,7 +36,7 @@
       {
         "minute": 67,
         "type": 36,
-        "player": "Raul Jimenez",
+        "player": "R. Jiménez",
         "number": 9,
         "score": "2-0",
         "period": "2"
@@ -52,7 +44,7 @@
       {
         "minute": 67,
         "type": 63,
-        "player": "Roberto Alvarado",
+        "player": "R. Alvarado",
         "number": 25,
         "score": "2-0",
         "period": "2"
@@ -60,7 +52,7 @@
       {
         "minute": 74,
         "type": 43,
-        "player": "Nkosinathi Sibisi",
+        "player": "N. Sibisi",
         "number": 19,
         "score": "",
         "period": "2"
@@ -68,15 +60,15 @@
       {
         "minute": 84,
         "type": 45,
-        "player": "Themba Zwane",
-        "number": "",
+        "player": "T. Zwane",
+        "number": 11,
         "score": "",
         "period": "2"
       },
       {
         "minute": 90,
         "type": 45,
-        "player": "Cesar Montes",
+        "player": "C. Montes",
         "number": 3,
         "score": "",
         "period": "2"
@@ -86,7 +78,7 @@
       {
         "minute": 59,
         "type": 36,
-        "player": "Ladislav Krejci",
+        "player": "L. Krejčí",
         "number": 7,
         "score": "0-1",
         "period": "2"
@@ -94,7 +86,7 @@
       {
         "minute": 59,
         "type": 63,
-        "player": "Vladimir Coufal",
+        "player": "V. Coufal",
         "number": 5,
         "score": "0-1",
         "period": "2"
@@ -102,7 +94,7 @@
       {
         "minute": 67,
         "type": 36,
-        "player": "In-Beom Hwang",
+        "player": "Hwang In-Beom",
         "number": 6,
         "score": "1-1",
         "period": "2"
@@ -110,7 +102,7 @@
       {
         "minute": 67,
         "type": 63,
-        "player": "Kang-In Lee",
+        "player": "Lee Kang-In",
         "number": 19,
         "score": "1-1",
         "period": "2"
@@ -118,7 +110,7 @@
       {
         "minute": 80,
         "type": 36,
-        "player": "Hyun-Gyu Oh",
+        "player": "Oh Hyeon-Gyu",
         "number": 18,
         "score": "2-1",
         "period": "2"
@@ -126,7 +118,7 @@
       {
         "minute": 80,
         "type": 63,
-        "player": "In-Beom Hwang",
+        "player": "Hwang In-Beom",
         "number": 6,
         "score": "2-1",
         "period": "2"
@@ -134,8 +126,8 @@
       {
         "minute": 90,
         "type": 43,
-        "player": "Gi-Hyuk Lee",
-        "number": "",
+        "player": "Lee Gi-Hyuk",
+        "number": 3,
         "score": "",
         "period": "2"
       }
@@ -144,7 +136,7 @@
       {
         "minute": 11,
         "type": 43,
-        "player": "Alistair Johnston",
+        "player": "A. Johnston",
         "number": 2,
         "score": "",
         "period": "1"
@@ -152,7 +144,7 @@
       {
         "minute": 21,
         "type": 36,
-        "player": "Jovo Lukic",
+        "player": "J. Lukić",
         "number": 25,
         "score": "0-1",
         "period": "1"
@@ -160,15 +152,15 @@
       {
         "minute": 21,
         "type": 63,
-        "player": "Sead Kolasinac",
+        "player": "S. Kolašinac",
         "number": 5,
         "score": "0-1",
         "period": "1"
       },
       {
-        "minute": 44,
+        "minute": 45,
         "type": 43,
-        "player": "Ermedin Demirovic",
+        "player": "E. Demirović",
         "number": 10,
         "score": "",
         "period": "1"
@@ -176,7 +168,7 @@
       {
         "minute": 45,
         "type": 43,
-        "player": "Jovo Lukic",
+        "player": "J. Lukić",
         "number": 25,
         "score": "",
         "period": "1"
@@ -184,7 +176,7 @@
       {
         "minute": 53,
         "type": 43,
-        "player": "Luc De Fougerolles",
+        "player": "L. De Fougerolles",
         "number": 4,
         "score": "",
         "period": "2"
@@ -192,7 +184,7 @@
       {
         "minute": 78,
         "type": 36,
-        "player": "Cyle Larin",
+        "player": "C. Larin",
         "number": 9,
         "score": "1-1",
         "period": "2"
@@ -200,7 +192,7 @@
       {
         "minute": 78,
         "type": 63,
-        "player": "Promise David",
+        "player": "P. David",
         "number": 24,
         "score": "1-1",
         "period": "2"
@@ -208,7 +200,7 @@
       {
         "minute": 90,
         "type": 43,
-        "player": "Nikola Katic",
+        "player": "N. Katić",
         "number": 18,
         "score": "",
         "period": "2"
@@ -218,15 +210,15 @@
       {
         "minute": 7,
         "type": 39,
-        "player": "Damian Bobadilla",
+        "player": "D. Bobadilla",
         "number": 16,
         "score": "1-0",
         "period": "1"
       },
       {
-        "minute": 9,
+        "minute": 10,
         "type": 43,
-        "player": "Juan Caceres",
+        "player": "J. Cáceres",
         "number": 4,
         "score": "",
         "period": "1"
@@ -234,7 +226,7 @@
       {
         "minute": 31,
         "type": 36,
-        "player": "Folarin Balogun",
+        "player": "F. Balogun",
         "number": 20,
         "score": "2-0",
         "period": "1"
@@ -242,7 +234,7 @@
       {
         "minute": 31,
         "type": 63,
-        "player": "Christian Pulisic",
+        "player": "C. Pulisic",
         "number": 10,
         "score": "2-0",
         "period": "1"
@@ -250,7 +242,7 @@
       {
         "minute": 45,
         "type": 36,
-        "player": "Folarin Balogun",
+        "player": "F. Balogun",
         "number": 20,
         "score": "3-0",
         "period": "1"
@@ -258,7 +250,7 @@
       {
         "minute": 45,
         "type": 63,
-        "player": "Malik Tillman",
+        "player": "M. Tillman",
         "number": 17,
         "score": "3-0",
         "period": "1"
@@ -266,7 +258,7 @@
       {
         "minute": 53,
         "type": 43,
-        "player": "Miguel Almiron",
+        "player": "M. Almirón",
         "number": 10,
         "score": "",
         "period": "2"
@@ -274,7 +266,7 @@
       {
         "minute": 59,
         "type": 43,
-        "player": "Tyler Adams",
+        "player": "T. Adams",
         "number": 4,
         "score": "",
         "period": "2"
@@ -283,14 +275,14 @@
         "minute": 73,
         "type": 36,
         "player": "Mauricio",
-        "number": "",
+        "number": 11,
         "score": "3-1",
         "period": "2"
       },
       {
         "minute": 73,
         "type": 63,
-        "player": "Julio Enciso",
+        "player": "J. Enciso",
         "number": 19,
         "score": "3-1",
         "period": "2"
@@ -298,7 +290,7 @@
       {
         "minute": 79,
         "type": 43,
-        "player": "Diego Gomez",
+        "player": "D. Gómez",
         "number": 8,
         "score": "",
         "period": "2"
@@ -306,7 +298,7 @@
       {
         "minute": 88,
         "type": 43,
-        "player": "Alex Arce",
+        "player": "Á. Arce",
         "number": 18,
         "score": "",
         "period": "2"
@@ -314,7 +306,7 @@
       {
         "minute": 90,
         "type": 43,
-        "player": "Junior Alonso",
+        "player": "J. Alonso",
         "number": 6,
         "score": "",
         "period": "2"
@@ -322,7 +314,7 @@
       {
         "minute": 90,
         "type": 36,
-        "player": "Giovanni Reyna",
+        "player": "G. Reyna",
         "number": 7,
         "score": "4-1",
         "period": "2"
@@ -330,7 +322,7 @@
       {
         "minute": 90,
         "type": 63,
-        "player": "Alex Freeman",
+        "player": "A. Freeman",
         "number": 16,
         "score": "4-1",
         "period": "2"
@@ -341,14 +333,14 @@
         "minute": 16,
         "type": 43,
         "player": "Mahmud Abunada",
-        "number": "",
+        "number": 1,
         "score": "",
         "period": "1"
       },
       {
         "minute": 17,
         "type": 37,
-        "player": "Breel Embolo",
+        "player": "B. Embolo",
         "number": 7,
         "score": "0-1",
         "period": "1"
@@ -364,7 +356,7 @@
       {
         "minute": 42,
         "type": 43,
-        "player": "Denis Zakaria",
+        "player": "D. Zakaria",
         "number": 6,
         "score": "",
         "period": "1"
@@ -372,7 +364,7 @@
       {
         "minute": 90,
         "type": 39,
-        "player": "Miro Muheim",
+        "player": "M. Muheim",
         "number": 2,
         "score": "1-1",
         "period": "2"
@@ -382,7 +374,7 @@
       {
         "minute": 21,
         "type": 36,
-        "player": "Ismael Saibari",
+        "player": "I. Saibari",
         "number": 11,
         "score": "0-1",
         "period": "1"
@@ -390,7 +382,7 @@
       {
         "minute": 21,
         "type": 63,
-        "player": "Brahim Diaz",
+        "player": "B. Díaz",
         "number": 10,
         "score": "0-1",
         "period": "1"
@@ -398,7 +390,7 @@
       {
         "minute": 32,
         "type": 36,
-        "player": "Vinicius Junior",
+        "player": "Vinícius Júnior",
         "number": 7,
         "score": "1-1",
         "period": "1"
@@ -406,7 +398,7 @@
       {
         "minute": 32,
         "type": 63,
-        "player": "Bruno Guimaraes",
+        "player": "Bruno Guimarães",
         "number": 8,
         "score": "1-1",
         "period": "1"
@@ -422,7 +414,7 @@
       {
         "minute": 43,
         "type": 43,
-        "player": "Roger Ibanez",
+        "player": "Roger Ibañez",
         "number": 24,
         "score": "",
         "period": "1"
@@ -430,9 +422,9 @@
     ],
     "1417926": [
       {
-        "minute": 29,
+        "minute": 28,
         "type": 36,
-        "player": "John McGinn",
+        "player": "J. McGinn",
         "number": 7,
         "score": "0-1",
         "period": "1"
@@ -440,7 +432,7 @@
       {
         "minute": 39,
         "type": 43,
-        "player": "Jean-Ricner Bellegarde",
+        "player": "J. Bellegarde",
         "number": 10,
         "score": "",
         "period": "1"
@@ -448,7 +440,7 @@
       {
         "minute": 46,
         "type": 43,
-        "player": "Aaron Hickey",
+        "player": "A. Hickey",
         "number": 2,
         "score": "",
         "period": "2"
@@ -456,7 +448,7 @@
       {
         "minute": 90,
         "type": 43,
-        "player": "Findlay Curtis",
+        "player": "F. Curtis",
         "number": 25,
         "score": "",
         "period": "2"
@@ -464,7 +456,7 @@
       {
         "minute": 90,
         "type": 43,
-        "player": "Kenny McLean",
+        "player": "K. McLean",
         "number": 23,
         "score": "",
         "period": "2"
@@ -474,7 +466,7 @@
       {
         "minute": 27,
         "type": 36,
-        "player": "Nestory Irankunda",
+        "player": "N. Irankunda",
         "number": 17,
         "score": "1-0",
         "period": "1"
@@ -482,7 +474,7 @@
       {
         "minute": 27,
         "type": 63,
-        "player": "Paul Okon-Engstler",
+        "player": "P. Okon-Engstler",
         "number": 24,
         "score": "1-0",
         "period": "1"
@@ -490,7 +482,7 @@
       {
         "minute": 75,
         "type": 36,
-        "player": "Connor Metcalfe",
+        "player": "C. Metcalfe",
         "number": 8,
         "score": "2-0",
         "period": "2"
@@ -498,7 +490,7 @@
       {
         "minute": 86,
         "type": 43,
-        "player": "Yunus Akgun",
+        "player": "Y. Akgün",
         "number": 19,
         "score": "",
         "period": "2"
@@ -704,7 +696,7 @@
       {
         "minute": 28,
         "type": 43,
-        "player": "Seko Fofana",
+        "player": "S. Fofana",
         "number": 6,
         "score": "",
         "period": "1"
@@ -712,7 +704,7 @@
       {
         "minute": 38,
         "type": 43,
-        "player": "Franck Kessie",
+        "player": "F. Kessie",
         "number": 8,
         "score": "",
         "period": "1"
@@ -720,7 +712,7 @@
       {
         "minute": 40,
         "type": 43,
-        "player": "Guela Doue",
+        "player": "G. Doué",
         "number": 17,
         "score": "",
         "period": "1"
@@ -728,7 +720,7 @@
       {
         "minute": 73,
         "type": 43,
-        "player": "Jackson Porozo",
+        "player": "J. Porozo",
         "number": 25,
         "score": "",
         "period": "2"
@@ -736,7 +728,7 @@
       {
         "minute": 90,
         "type": 36,
-        "player": "Amad Diallo",
+        "player": "A. Diallo",
         "number": 15,
         "score": "1-0",
         "period": "2"
@@ -744,13 +736,95 @@
       {
         "minute": 90,
         "type": 63,
-        "player": "Wilfried Singo",
+        "player": "W. Singo",
         "number": 5,
         "score": "1-0",
+        "period": "2"
+      }
+    ],
+    "1417940": [
+      {
+        "minute": 7,
+        "type": 36,
+        "player": "Y. Ayari",
+        "number": 18,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 30,
+        "type": 36,
+        "player": "A. Isak",
+        "number": 9,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 30,
+        "type": 63,
+        "player": "V. Gyökeres",
+        "number": 17,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 43,
+        "type": 36,
+        "player": "O. Rekik",
+        "number": 4,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 43,
+        "type": 63,
+        "player": "H. Mejbri",
+        "number": 10,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 54,
+        "type": 43,
+        "player": "R. Khedira",
+        "number": 13,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 59,
+        "type": 36,
+        "player": "V. Gyökeres",
+        "number": 17,
+        "score": "3-1",
+        "period": "2"
+      },
+      {
+        "minute": 59,
+        "type": 63,
+        "player": "A. Isak",
+        "number": 9,
+        "score": "3-1",
+        "period": "2"
+      },
+      {
+        "minute": 84,
+        "type": 36,
+        "player": "M. Svanberg",
+        "number": 19,
+        "score": "4-1",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "Y. Ayari",
+        "number": 18,
+        "score": "5-1",
         "period": "2"
       }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-15T02:00:12Z"
+  "last_updated": "2026-06-15T16:16:08Z"
 }
