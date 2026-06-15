@@ -823,8 +823,26 @@
         "score": "5-1",
         "period": "2"
       }
+    ],
+    "1417951": [
+      {
+        "minute": 16,
+        "type": 43,
+        "player": "Sidny Cabral",
+        "number": 13,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Pedri",
+        "number": 20,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-15T16:16:08Z"
+  "last_updated": "2026-06-15T20:05:13Z"
 }
