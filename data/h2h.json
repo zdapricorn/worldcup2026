@@ -327,20 +327,20 @@
         "away": "Senegal",
         "home_score": 0,
         "away_score": 1,
-        "stage": "World Cup grp. A",
-        "competition": "World Championship 1",
+        "stage": "FIFA World Cup 2002 Korea Rep/Japan",
+        "competition": "Korea Republic",
         "status": "FT"
       }
     ],
     "1417963": [
       {
         "date": "20070605",
-        "home": "Argentina",
-        "away": "Algeria",
-        "home_score": 4,
-        "away_score": 3,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "home": "Algeria",
+        "away": "Argentina",
+        "home_score": 3,
+        "away_score": 4,
+        "stage": "Internationals 2007",
+        "competition": "Spain",
         "status": "FT"
       }
     ],
@@ -784,18 +784,6 @@
         "status": "FT"
       }
     ],
-    "1417919": [
-      {
-        "date": "20020515",
-        "home": "Switzerland",
-        "away": "Canada",
-        "home_score": 1,
-        "away_score": 3,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      }
-    ],
     "1417920": [
       {
         "date": "20100810",
@@ -803,6 +791,18 @@
         "away": "Qatar",
         "home_score": 1,
         "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417919": [
+      {
+        "date": "20020515",
+        "home": "Switzerland",
+        "away": "Canada",
+        "home_score": 1,
+        "away_score": 3,
         "stage": "Friendlies",
         "competition": "Friendlies 1",
         "status": "FT"
@@ -978,5 +978,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-16T00:28:31Z"
+  "last_updated": "2026-06-16T15:52:40Z"
 }

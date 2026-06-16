@@ -4530,14 +4530,14 @@
               "grid": "2:4"
             },
             {
-              "number": 4,
-              "name": "Shojae Khalilzadeh",
+              "number": 19,
+              "name": "Ali Nemati",
               "pos": 2,
               "grid": "2:3"
             },
             {
-              "number": 19,
-              "name": "Ali Nemati",
+              "number": 4,
+              "name": "Shojae Khalilzadeh",
               "pos": 2,
               "grid": "2:2"
             },
@@ -4548,8 +4548,8 @@
               "grid": "2:1"
             },
             {
-              "number": 8,
-              "name": "Mohammad Mohebbi",
+              "number": 17,
+              "name": "Arya Yousefi",
               "pos": 3,
               "grid": "3:4"
             },
@@ -4566,8 +4566,8 @@
               "grid": "3:2"
             },
             {
-              "number": 17,
-              "name": "Arya Yousefi",
+              "number": 8,
+              "name": "Mohammad Mohebbi",
               "pos": 3,
               "grid": "3:1"
             },
@@ -5115,6 +5115,11 @@
       "home_team": "Tunisia",
       "away_team": "Japan",
       "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
         "away": {
           "formation": "",
           "starting_xi": [],
@@ -5314,9 +5319,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -5330,9 +5335,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -5378,9 +5383,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -5394,9 +5399,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -5446,6 +5451,11 @@
       "home_team": "Tunisia",
       "away_team": "Netherlands",
       "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
         "away": {
           "formation": "",
           "starting_xi": [],
@@ -5629,22 +5639,6 @@
         }
       }
     },
-    "1417973": {
-      "home_team": "Colombia",
-      "away_team": "Portugal",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417974": {
       "home_team": "DR Congo",
       "away_team": "Uzbekistan",
@@ -5661,9 +5655,9 @@
         }
       }
     },
-    "1417967": {
-      "home_team": "Jordan",
-      "away_team": "Argentina",
+    "1417973": {
+      "home_team": "Colombia",
+      "away_team": "Portugal",
       "lineups": {
         "home": {
           "formation": "",
@@ -5692,8 +5686,24 @@
           "substitutes": []
         }
       }
+    },
+    "1417967": {
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-16T00:28:01Z"
+  "last_updated": "2026-06-16T15:52:07Z"
 }

@@ -925,8 +925,66 @@
         "score": "1-1",
         "period": "2"
       }
+    ],
+    "1417946": [
+      {
+        "minute": 7,
+        "type": 36,
+        "player": "E. Just",
+        "number": 11,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 32,
+        "type": 36,
+        "player": "R. Rezaeian",
+        "number": 23,
+        "score": "1-1",
+        "period": "1"
+      },
+      {
+        "minute": 54,
+        "type": 36,
+        "player": "E. Just",
+        "number": 11,
+        "score": "1-2",
+        "period": "2"
+      },
+      {
+        "minute": 54,
+        "type": 63,
+        "player": "C. Wood",
+        "number": 9,
+        "score": "1-2",
+        "period": "2"
+      },
+      {
+        "minute": 64,
+        "type": 36,
+        "player": "M. Mohebbi",
+        "number": 8,
+        "score": "2-2",
+        "period": "2"
+      },
+      {
+        "minute": 64,
+        "type": 63,
+        "player": "R. Rezaeian",
+        "number": 23,
+        "score": "2-2",
+        "period": "2"
+      },
+      {
+        "minute": 89,
+        "type": 43,
+        "player": "E. Hajisafi",
+        "number": 3,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-16T00:28:38Z"
+  "last_updated": "2026-06-16T15:52:48Z"
 }

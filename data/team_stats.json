@@ -336,6 +336,34 @@
       "avg_goals_against": 1.0,
       "win_rate": 0.0
     },
+    "iran": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 2,
+      "goals_against": 2,
+      "form": [
+        "D"
+      ],
+      "avg_goals_for": 2.0,
+      "avg_goals_against": 2.0,
+      "win_rate": 0.0
+    },
+    "new-zealand": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 2,
+      "goals_against": 2,
+      "form": [
+        "D"
+      ],
+      "avg_goals_for": 2.0,
+      "avg_goals_against": 2.0,
+      "win_rate": 0.0
+    },
     "saudi-arabia": {
       "played": 1,
       "wins": 0,
@@ -366,5 +394,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-16T00:28:38Z"
+  "last_updated": "2026-06-16T15:52:48Z"
 }
