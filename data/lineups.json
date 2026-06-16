@@ -4812,14 +4812,300 @@
       "away_team": "Senegal",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 16,
+              "name": "Mike Maignan",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 19,
+              "name": "Theo Hernández",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 17,
+              "name": "William Saliba",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Dayot Upamecano",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 5,
+              "name": "Jules Koundé",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 14,
+              "name": "Adrien Rabiot",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 8,
+              "name": "Aurélien Tchouaméni",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 20,
+              "name": "Désiré Doué",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 7,
+              "name": "Ousmane Dembélé",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 11,
+              "name": "Michael Olise",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 10,
+              "name": "Kylian Mbappé",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 25,
+              "name": "Maghnes Akliouche",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Bradley Barcola",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Rayan Cherki",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Lucas Digne",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Malo Gusto",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Lucas Hernández",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "N'Golo Kanté",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Ibrahima Konaté",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Manu Koné",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Maxence Lacroix",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Jean-Philippe Mateta",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Robin Risser",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Brice Samba",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Marcus Thuram",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Warren Zaïre-Emery",
+              "pos": 5
+            }
+          ]
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 16,
+              "name": "Edouard Mendy",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 25,
+              "name": "Malick Diouf",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 19,
+              "name": "Moussa Niakhaté",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 3,
+              "name": "Kalidou Koulibaly",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 15,
+              "name": "Krépin Diatta",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 26,
+              "name": "Pape Gueye",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 5,
+              "name": "Idrissa Gana Gueye",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 10,
+              "name": "Sadio Mané",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 8,
+              "name": "Lamine Camara",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 18,
+              "name": "Ismaila Sarr",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 11,
+              "name": "Nicolas Jackson",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 6,
+              "name": "Pathé Ciss",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Assane Diao",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Habib Diarra",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Mory Diaw",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Bamba Dieng",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Yehvann Diouf",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Ismail Jakobs",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Ibrahim Mbaye",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Antoine Mendy",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Bara Sapoko Ndiaye",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Iliman Ndiaye",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Cherif Ndiaye",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Mamadou Sarr",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Pape Matar Sarr",
+              "pos": 5
+            },
+            {
+              "number": 4,
+              "name": "Abdoulaye Seck",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -5319,9 +5605,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -5335,9 +5621,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -5383,9 +5669,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -5399,9 +5685,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -5447,22 +5733,6 @@
         }
       }
     },
-    "1417943": {
-      "home_team": "Tunisia",
-      "away_team": "Netherlands",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417944": {
       "home_team": "Japan",
       "away_team": "Sweden",
@@ -5479,9 +5749,9 @@
         }
       }
     },
-    "1417932": {
-      "home_team": "Paraguay",
-      "away_team": "Australia",
+    "1417943": {
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
       "lineups": {
         "home": {
           "formation": "",
@@ -5498,6 +5768,22 @@
     "1417931": {
       "home_team": "Turkiye",
       "away_team": "USA",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417932": {
+      "home_team": "Paraguay",
+      "away_team": "Australia",
       "lineups": {
         "home": {
           "formation": "",
@@ -5575,9 +5861,9 @@
         }
       }
     },
-    "1417949": {
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
+    "1417950": {
+      "home_team": "Egypt",
+      "away_team": "Iran",
       "lineups": {
         "home": {
           "formation": "",
@@ -5591,9 +5877,9 @@
         }
       }
     },
-    "1417950": {
-      "home_team": "Egypt",
-      "away_team": "Iran",
+    "1417949": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
       "lineups": {
         "home": {
           "formation": "",
@@ -5639,22 +5925,6 @@
         }
       }
     },
-    "1417974": {
-      "home_team": "DR Congo",
-      "away_team": "Uzbekistan",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417973": {
       "home_team": "Colombia",
       "away_team": "Portugal",
@@ -5671,9 +5941,9 @@
         }
       }
     },
-    "1417968": {
-      "home_team": "Algeria",
-      "away_team": "Austria",
+    "1417974": {
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
       "lineups": {
         "home": {
           "formation": "",
@@ -5702,8 +5972,24 @@
           "substitutes": []
         }
       }
+    },
+    "1417968": {
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-16T15:52:07Z"
+  "last_updated": "2026-06-16T19:31:43Z"
 }
