@@ -784,18 +784,6 @@
         "status": "FT"
       }
     ],
-    "1417920": [
-      {
-        "date": "20100810",
-        "home": "Bosnia and Herzegovina",
-        "away": "Qatar",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      }
-    ],
     "1417919": [
       {
         "date": "20020515",
@@ -803,6 +791,18 @@
         "away": "Canada",
         "home_score": 1,
         "away_score": 3,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417920": [
+      {
+        "date": "20100810",
+        "home": "Bosnia and Herzegovina",
+        "away": "Qatar",
+        "home_score": 1,
+        "away_score": 1,
         "stage": "Friendlies",
         "competition": "Friendlies 1",
         "status": "FT"
@@ -978,5 +978,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-16T22:09:43Z"
+  "last_updated": "2026-06-16T23:56:22Z"
 }
