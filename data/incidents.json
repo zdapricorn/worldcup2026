@@ -983,8 +983,66 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417957": [
+      {
+        "minute": 66,
+        "type": 36,
+        "player": "K. Mbappé",
+        "number": 10,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 66,
+        "type": 63,
+        "player": "M. Olise",
+        "number": 11,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 82,
+        "type": 36,
+        "player": "B. Barcola",
+        "number": 12,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 82,
+        "type": 63,
+        "player": "A. Rabiot",
+        "number": 14,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "I. Mbaye",
+        "number": 20,
+        "score": "2-1",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 63,
+        "player": "I. Ndiaye",
+        "number": 13,
+        "score": "2-1",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "K. Mbappé",
+        "number": 10,
+        "score": "3-1",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-16T19:32:15Z"
+  "last_updated": "2026-06-16T22:09:52Z"
 }
