@@ -899,8 +899,34 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417952": [
+      {
+        "minute": 41,
+        "type": 36,
+        "player": "Abdulelah Al Amri",
+        "number": 4,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 44,
+        "type": 43,
+        "player": "Abdulelah Al Amri",
+        "number": 4,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 80,
+        "type": 36,
+        "player": "M. Araújo",
+        "number": 20,
+        "score": "1-1",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-15T22:34:57Z"
+  "last_updated": "2026-06-16T00:28:38Z"
 }

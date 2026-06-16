@@ -303,9 +303,9 @@
       "country": "Canada",
       "group": "H",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 1,
+      "away_score": 1,
       "prediction": null,
       "ls_eid": "1417952",
       "ls_home_id": "7220",
@@ -1949,5 +1949,5 @@
       "prediction": null
     }
   ],
-  "last_updated": "2026-06-15T22:33:39Z"
+  "last_updated": "2026-06-16T00:27:21Z"
 }

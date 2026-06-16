@@ -842,6 +842,18 @@
         "status": "FT"
       }
     ],
+    "1417943": [
+      {
+        "date": "20090211",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
     "1417944": [
       {
         "date": "20020525",
@@ -854,11 +866,21 @@
         "status": "FT"
       }
     ],
-    "1417943": [
+    "1417932": [
       {
-        "date": "20090211",
-        "home": "Tunisia",
-        "away": "Netherlands",
+        "date": "20101009",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20061007",
+        "home": "Australia",
+        "away": "Paraguay",
         "home_score": 1,
         "away_score": 1,
         "stage": "Friendlies",
@@ -892,28 +914,6 @@
         "home": "USA",
         "away": "Turkiye",
         "home_score": 2,
-        "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      }
-    ],
-    "1417932": [
-      {
-        "date": "20101009",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      },
-      {
-        "date": "20061007",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
         "away_score": 1,
         "stage": "Friendlies",
         "competition": "Friendlies 1",
@@ -978,5 +978,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-15T22:34:51Z"
+  "last_updated": "2026-06-16T00:28:31Z"
 }

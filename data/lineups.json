@@ -4371,7 +4371,7 @@
           ]
         },
         "away": {
-          "formation": "4-4-2",
+          "formation": "4-2-3-1",
           "starting_xi": [
             {
               "number": 23,
@@ -4404,40 +4404,40 @@
               "grid": "2:1"
             },
             {
-              "number": 20,
-              "name": "Maximiliano Araújo",
-              "pos": 3,
-              "grid": "3:4"
-            },
-            {
               "number": 6,
               "name": "Rodrigo Bentancur",
               "pos": 3,
-              "grid": "3:3"
+              "grid": "3:2"
             },
             {
               "number": 5,
               "name": "Manuel Ugarte",
               "pos": 3,
-              "grid": "3:2"
+              "grid": "3:1"
+            },
+            {
+              "number": 20,
+              "name": "Maximiliano Araújo",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 21,
+              "name": "Federico Vinas",
+              "pos": 3,
+              "grid": "4:2"
             },
             {
               "number": 8,
               "name": "Federico Valverde",
               "pos": 3,
-              "grid": "3:1"
+              "grid": "4:1"
             },
             {
               "number": 9,
               "name": "Darwin Núñez",
               "pos": 4,
-              "grid": "4:2"
-            },
-            {
-              "number": 21,
-              "name": "Federico Vinas",
-              "pos": 4,
-              "grid": "4:1"
+              "grid": "5:1"
             }
           ],
           "substitutes": [
@@ -4515,14 +4515,295 @@
       "away_team": "New Zealand",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-4-2",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Alireza Beiranvand",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 5,
+              "name": "Milad Mohammadi",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 4,
+              "name": "Shojae Khalilzadeh",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 19,
+              "name": "Ali Nemati",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 23,
+              "name": "Ramin Rezaeian",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 8,
+              "name": "Mohammad Mohebbi",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 6,
+              "name": "Saeid Ezatolahi",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 14,
+              "name": "Saman Ghoddos",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 17,
+              "name": "Arya Yousefi",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 9,
+              "name": "Mehdi Taremi",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 20,
+              "name": "Shahriar Shahriar",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 11,
+              "name": "Ali Alipour",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Roozbeh Cheshmi",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Dennis Eckert Ayensa",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Danial Iri",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Mehdi Ghayedi",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Mohammad Ghorbani",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Ehsan Hajsafi",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Saleh Hardani",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Hossein Hosseini",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Amirhossein Hosseinzadeh",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Alireza Jahanbakhsh",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Hossein Kanani",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Payam Niazmand",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Amirmohammad Razzaghinia",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Mehdi Torabi",
+              "pos": 5
+            }
+          ]
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Max Crocombe",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 13,
+              "name": "Liberato Cacace",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 5,
+              "name": "Michael Boxall",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 16,
+              "name": "Finn Surman",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 2,
+              "name": "Tim Payne",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 8,
+              "name": "Marko Stamenic",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 6,
+              "name": "Joe Bell",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 11,
+              "name": "Elijah Just",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 10,
+              "name": "Sarpreet Singh",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 20,
+              "name": "Callum McCowatt",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 9,
+              "name": "Chris Wood",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 17,
+              "name": "Kosta Barbarouses",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Lachlan Bayliss",
+              "pos": 5
+            },
+            {
+              "number": 4,
+              "name": "Tyler Bindon",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Callan Elliot",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Ben Old",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Alex Paulsen",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Nando Pijnaker",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Jesse Randall",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Alex Rufer",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Tommy Smith",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Ryan Thomas",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Ben Waine",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Michael Woud",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Francis De Vries",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -5161,6 +5442,17 @@
         }
       }
     },
+    "1417943": {
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
+      "lineups": {
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
     "1417944": {
       "home_team": "Japan",
       "away_team": "Sweden",
@@ -5177,20 +5469,9 @@
         }
       }
     },
-    "1417943": {
-      "home_team": "Tunisia",
-      "away_team": "Netherlands",
-      "lineups": {
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
-    "1417931": {
-      "home_team": "Turkiye",
-      "away_team": "USA",
+    "1417932": {
+      "home_team": "Paraguay",
+      "away_team": "Australia",
       "lineups": {
         "home": {
           "formation": "",
@@ -5204,9 +5485,9 @@
         }
       }
     },
-    "1417932": {
-      "home_team": "Paraguay",
-      "away_team": "Australia",
+    "1417931": {
+      "home_team": "Turkiye",
+      "away_team": "USA",
       "lineups": {
         "home": {
           "formation": "",
@@ -5348,22 +5629,6 @@
         }
       }
     },
-    "1417974": {
-      "home_team": "DR Congo",
-      "away_team": "Uzbekistan",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417973": {
       "home_team": "Colombia",
       "away_team": "Portugal",
@@ -5380,9 +5645,9 @@
         }
       }
     },
-    "1417968": {
-      "home_team": "Algeria",
-      "away_team": "Austria",
+    "1417974": {
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
       "lineups": {
         "home": {
           "formation": "",
@@ -5411,8 +5676,24 @@
           "substitutes": []
         }
       }
+    },
+    "1417968": {
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-15T22:34:21Z"
+  "last_updated": "2026-06-16T00:28:01Z"
 }
