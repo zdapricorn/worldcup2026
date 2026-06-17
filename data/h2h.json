@@ -351,8 +351,8 @@
         "away": "Croatia",
         "home_score": 1,
         "away_score": 0,
-        "stage": "Group D 2020",
-        "competition": "Euro 2020",
+        "stage": "UEFA European Championship Finals 2020",
+        "competition": "England",
         "status": "FT"
       },
       {
@@ -361,8 +361,8 @@
         "away": "Croatia",
         "home_score": 2,
         "away_score": 1,
-        "stage": "UEFA Nations League A Grp. 4",
-        "competition": "Nations League 1",
+        "stage": "UEFA Nations League 2018/2019",
+        "competition": "England",
         "status": "FT"
       },
       {
@@ -371,8 +371,8 @@
         "away": "England",
         "home_score": 0,
         "away_score": 0,
-        "stage": "UEFA Nations League A Grp. 4",
-        "competition": "Nations League 1",
+        "stage": "UEFA Nations League 2018/2019",
+        "competition": "Croatia",
         "status": "FT"
       },
       {
@@ -381,9 +381,9 @@
         "away": "England",
         "home_score": 2,
         "away_score": 1,
-        "stage": "World Cup Semi Finals",
-        "competition": "World Championship 1",
-        "status": "AET"
+        "stage": "FIFA World Cup 2018 Russia",
+        "competition": "Russia",
+        "status": "FT"
       },
       {
         "date": "20090909",
@@ -391,8 +391,8 @@
         "away": "Croatia",
         "home_score": 5,
         "away_score": 1,
-        "stage": "World Cup Qualification UEFA 1st round grp. 6",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2010 South Africa",
+        "competition": "England",
         "status": "FT"
       },
       {
@@ -401,8 +401,8 @@
         "away": "England",
         "home_score": 1,
         "away_score": 4,
-        "stage": "World Cup Qualification UEFA 1st round grp. 6",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2010 South Africa",
+        "competition": "Croatia",
         "status": "FT"
       },
       {
@@ -411,8 +411,8 @@
         "away": "Croatia",
         "home_score": 2,
         "away_score": 3,
-        "stage": "EURO qualification grp. E",
-        "competition": "European Championship Qualification 1",
+        "stage": "UEFA European Championship Qualifiers 2008 Austria/Switzerland",
+        "competition": "England",
         "status": "FT"
       },
       {
@@ -421,8 +421,8 @@
         "away": "England",
         "home_score": 2,
         "away_score": 0,
-        "stage": "EURO qualification grp. E",
-        "competition": "European Championship Qualification 1",
+        "stage": "UEFA European Championship Qualifiers 2008 Austria/Switzerland",
+        "competition": "Croatia",
         "status": "FT"
       },
       {
@@ -431,18 +431,18 @@
         "away": "England",
         "home_score": 2,
         "away_score": 4,
-        "stage": "EURO Grp. B",
-        "competition": "European Championship 1",
+        "stage": "UEFA European Championship Finals 2004 Portugal",
+        "competition": "Portugal",
         "status": "FT"
       },
       {
-        "date": "20030820",
+        "date": "20030819",
         "home": "England",
         "away": "Croatia",
         "home_score": 3,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2003",
+        "competition": "England",
         "status": "FT"
       }
     ],
@@ -842,18 +842,6 @@
         "status": "FT"
       }
     ],
-    "1417943": [
-      {
-        "date": "20090211",
-        "home": "Tunisia",
-        "away": "Netherlands",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      }
-    ],
     "1417944": [
       {
         "date": "20020525",
@@ -866,21 +854,11 @@
         "status": "FT"
       }
     ],
-    "1417932": [
+    "1417943": [
       {
-        "date": "20101009",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      },
-      {
-        "date": "20061007",
-        "home": "Australia",
-        "away": "Paraguay",
+        "date": "20090211",
+        "home": "Tunisia",
+        "away": "Netherlands",
         "home_score": 1,
         "away_score": 1,
         "stage": "Friendlies",
@@ -914,6 +892,28 @@
         "home": "USA",
         "away": "Turkiye",
         "home_score": 2,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417932": [
+      {
+        "date": "20101009",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20061007",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
         "away_score": 1,
         "stage": "Friendlies",
         "competition": "Friendlies 1",
@@ -978,5 +978,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-16T23:56:22Z"
+  "last_updated": "2026-06-17T14:26:37Z"
 }
