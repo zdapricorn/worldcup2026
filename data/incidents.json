@@ -1231,8 +1231,74 @@
         "score": "3-1",
         "period": "2"
       }
+    ],
+    "1417969": [
+      {
+        "minute": 6,
+        "type": 36,
+        "player": "João Neves",
+        "number": 15,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 6,
+        "type": 63,
+        "player": "Pedro Neto",
+        "number": 18,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 13,
+        "type": 43,
+        "player": "Bernardo Silva",
+        "number": 10,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 32,
+        "type": 43,
+        "player": "C. Mbemba",
+        "number": 22,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 36,
+        "player": "Y. Wissa",
+        "number": 20,
+        "score": "1-1",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 63,
+        "player": "A. Masuaku",
+        "number": 26,
+        "score": "1-1",
+        "period": "1"
+      },
+      {
+        "minute": 88,
+        "type": 43,
+        "player": "Nélson Semedo",
+        "number": 2,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Tomás Araújo",
+        "number": 4,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-17T17:30:39Z"
+  "last_updated": "2026-06-17T19:38:29Z"
 }

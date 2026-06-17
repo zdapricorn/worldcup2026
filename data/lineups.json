@@ -6322,14 +6322,295 @@
       "away_team": "Croatia",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Jordan Pickford",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 3,
+              "name": "Nico O'Reilly",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 5,
+              "name": "John Stones",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 2,
+              "name": "Ezri Konsa",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 24,
+              "name": "Reece James",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 4,
+              "name": "Declan Rice",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 8,
+              "name": "Elliot Anderson",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 18,
+              "name": "Anthony Gordon",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 10,
+              "name": "Jude Bellingham",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 20,
+              "name": "Noni Madueke",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 9,
+              "name": "Harry Kane",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 15,
+              "name": "Dan Burn",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Eberechi Eze",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Marc Guéhi",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Dean Henderson",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Jordan Henderson",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Kobbie Mainoo",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Jarell Quansah",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Marcus Rashford",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Morgan Rogers",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Bukayo Saka",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Djed Spence",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Ivan Toney",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "James Trafford",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Ollie Watkins",
+              "pos": 5
+            }
+          ]
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "3-4-2-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Dominik Livaković",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 4,
+              "name": "Joško Gvardiol",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 22,
+              "name": "Luka Vuskovic",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 6,
+              "name": "Josip Šutalo",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 14,
+              "name": "Ivan Perišić",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 17,
+              "name": "Petar Sučić",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 10,
+              "name": "Luka Modrić",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 2,
+              "name": "Josip Stanišić",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 16,
+              "name": "Martin Baturina",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 15,
+              "name": "Mario Pašalić",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 26,
+              "name": "Petar Musa",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 11,
+              "name": "Ante Budimir",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Martin Erlić",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Toni Fruk",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Kristijan Jakic",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Dominik Kotarski",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Mateo Kovačić",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Andrej Kramarić",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Igor Matanović",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Nikola Moro",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Ivor Pandur",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Marco Pašalić",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Marin Pongračić",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Luka Sučić",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Nikola Vlašić",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Duje Caleta-Car",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -6877,22 +7158,6 @@
         }
       }
     },
-    "1417944": {
-      "home_team": "Japan",
-      "away_team": "Sweden",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417943": {
       "home_team": "Tunisia",
       "away_team": "Netherlands",
@@ -6909,9 +7174,9 @@
         }
       }
     },
-    "1417931": {
-      "home_team": "Turkiye",
-      "away_team": "USA",
+    "1417944": {
+      "home_team": "Japan",
+      "away_team": "Sweden",
       "lineups": {
         "home": {
           "formation": "",
@@ -6928,6 +7193,22 @@
     "1417932": {
       "home_team": "Paraguay",
       "away_team": "Australia",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417931": {
+      "home_team": "Turkiye",
+      "away_team": "USA",
       "lineups": {
         "home": {
           "formation": "",
@@ -7005,9 +7286,9 @@
         }
       }
     },
-    "1417950": {
-      "home_team": "Egypt",
-      "away_team": "Iran",
+    "1417949": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
       "lineups": {
         "home": {
           "formation": "",
@@ -7021,9 +7302,9 @@
         }
       }
     },
-    "1417949": {
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
+    "1417950": {
+      "home_team": "Egypt",
+      "away_team": "Iran",
       "lineups": {
         "home": {
           "formation": "",
@@ -7069,22 +7350,6 @@
         }
       }
     },
-    "1417974": {
-      "home_team": "DR Congo",
-      "away_team": "Uzbekistan",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417973": {
       "home_team": "Colombia",
       "away_team": "Portugal",
@@ -7101,9 +7366,9 @@
         }
       }
     },
-    "1417968": {
-      "home_team": "Algeria",
-      "away_team": "Austria",
+    "1417974": {
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
       "lineups": {
         "home": {
           "formation": "",
@@ -7132,8 +7397,24 @@
           "substitutes": []
         }
       }
+    },
+    "1417968": {
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-17T17:29:58Z"
+  "last_updated": "2026-06-17T19:37:54Z"
 }
