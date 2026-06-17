@@ -6020,14 +6020,300 @@
       "away_team": "DR Congo",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Diogo Costa",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 25,
+              "name": "Nuno Mendes",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 13,
+              "name": "Renato Veiga",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Tomas Araujo",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 20,
+              "name": "João Cancelo",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 23,
+              "name": "Vitinha",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 15,
+              "name": "João Neves",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 18,
+              "name": "Pedro Neto",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 8,
+              "name": "Bruno Fernandes",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 10,
+              "name": "Bernardo Silva",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 7,
+              "name": "Cristiano Ronaldo",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 2,
+              "name": "Nélson Semedo",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Diogo Dalot",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Rui Silva",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Francisco Conceição",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "João Félix",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Gonçalo Guedes",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Gonçalo Inácio",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Francisco Trincao",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "José Sá",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Gonçalo Ramos",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Matheus Nunes",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Rafael Leão",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Rúben Neves",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Samú Costa",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Rúben Dias",
+              "pos": 5
+            }
+          ]
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "5-3-2",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Lionel Nzau Mpasi",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 3,
+              "name": "Steve Kapuadi",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 4,
+              "name": "Axel Tuanzebe",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 22,
+              "name": "Chancel Mbemba",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 26,
+              "name": "Arthur Masuaku",
+              "pos": 3,
+              "grid": "2:5"
+            },
+            {
+              "number": 2,
+              "name": "Aaron Wan-Bissaka",
+              "pos": 3,
+              "grid": "2:1"
+            },
+            {
+              "number": 25,
+              "name": "Edo Kayembe",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 8,
+              "name": "Samuel Moutoussamy",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 6,
+              "name": "Ngal'ayel Mukau",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 17,
+              "name": "Cedric Bakambu",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 20,
+              "name": "Yoane Wissa",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 23,
+              "name": "Simon Banza",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Dylan Batubinsika",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Theo Bongonda",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Meschack Elia",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Matthieu Epolo",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Timothy Fayulu",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Gael Kakuta",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Fiston Mayele",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Gedeon Kalulu",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Joris Kayembe",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Brian Kibambe Cipenga",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Nathanael Mbuku",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Charles Pickel",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Noah Sadiki",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Aaron Tshibola",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -6849,5 +7135,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-17T14:26:07Z"
+  "last_updated": "2026-06-17T17:29:58Z"
 }
