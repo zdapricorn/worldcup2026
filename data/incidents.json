@@ -1297,8 +1297,90 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417980": [
+      {
+        "minute": 12,
+        "type": 37,
+        "player": "H. Kane",
+        "number": 9,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 36,
+        "type": 36,
+        "player": "M. Baturina",
+        "number": 16,
+        "score": "1-1",
+        "period": "1"
+      },
+      {
+        "minute": 36,
+        "type": 63,
+        "player": "P. Sučić",
+        "number": 17,
+        "score": "1-1",
+        "period": "1"
+      },
+      {
+        "minute": 42,
+        "type": 36,
+        "player": "H. Kane",
+        "number": 9,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 42,
+        "type": 63,
+        "player": "D. Rice",
+        "number": 4,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 36,
+        "player": "P. Musa",
+        "number": 26,
+        "score": "2-2",
+        "period": "1"
+      },
+      {
+        "minute": 47,
+        "type": 36,
+        "player": "J. Bellingham",
+        "number": 10,
+        "score": "3-2",
+        "period": "2"
+      },
+      {
+        "minute": 47,
+        "type": 63,
+        "player": "I. Perišić",
+        "number": 14,
+        "score": "3-2",
+        "period": "2"
+      },
+      {
+        "minute": 85,
+        "type": 36,
+        "player": "M. Rashford",
+        "number": 11,
+        "score": "4-2",
+        "period": "2"
+      },
+      {
+        "minute": 85,
+        "type": 63,
+        "player": "B. Saka",
+        "number": 7,
+        "score": "4-2",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-17T21:58:35Z"
+  "last_updated": "2026-06-17T23:26:43Z"
 }

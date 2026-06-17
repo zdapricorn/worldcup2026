@@ -503,8 +503,36 @@
       "avg_goals_for": 1.0,
       "avg_goals_against": 3.0,
       "win_rate": 0.0
+    },
+    "england": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 4,
+      "goals_against": 2,
+      "form": [
+        "W"
+      ],
+      "avg_goals_for": 4.0,
+      "avg_goals_against": 2.0,
+      "win_rate": 100.0
+    },
+    "croatia": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 2,
+      "goals_against": 4,
+      "form": [
+        "L"
+      ],
+      "avg_goals_for": 2.0,
+      "avg_goals_against": 4.0,
+      "win_rate": 0.0
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-17T21:58:35Z"
+  "last_updated": "2026-06-17T23:26:43Z"
 }

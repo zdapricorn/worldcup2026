@@ -6652,26 +6652,26 @@
               "grid": "2:1"
             },
             {
-              "number": 24,
-              "name": "Ernest Nuamah",
+              "number": 11,
+              "name": "Antoine Semenyo",
               "pos": 3,
               "grid": "3:4"
-            },
-            {
-              "number": 3,
-              "name": "Caleb Yirenkyi",
-              "pos": 3,
-              "grid": "3:3"
             },
             {
               "number": 15,
               "name": "Elisha Owusu",
               "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 3,
+              "name": "Caleb Yirenkyi",
+              "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 11,
-              "name": "Antoine Semenyo",
+              "number": 24,
+              "name": "Ernest Nuamah",
               "pos": 3,
               "grid": "3:1"
             },
@@ -6762,7 +6762,7 @@
           ]
         },
         "away": {
-          "formation": "4-4-2",
+          "formation": "3-4-3",
           "starting_xi": [
             {
               "number": 22,
@@ -6774,35 +6774,29 @@
               "number": 16,
               "name": "Andres Andrade",
               "pos": 2,
-              "grid": "2:4"
+              "grid": "2:3"
             },
             {
               "number": 3,
               "name": "José Córdoba",
               "pos": 2,
-              "grid": "2:3"
+              "grid": "2:2"
             },
             {
               "number": 13,
               "name": "Jiovany Ramos",
               "pos": 2,
-              "grid": "2:2"
+              "grid": "2:1"
             },
             {
               "number": 2,
               "name": "César Blackman",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 7,
-              "name": "José Luis Rodríguez",
               "pos": 3,
               "grid": "3:4"
             },
             {
-              "number": 6,
-              "name": "Cristian Martínez",
+              "number": 11,
+              "name": "Édgar Bárcenas",
               "pos": 3,
               "grid": "3:3"
             },
@@ -6819,14 +6813,20 @@
               "grid": "3:1"
             },
             {
+              "number": 7,
+              "name": "José Luis Rodríguez",
+              "pos": 4,
+              "grid": "4:3"
+            },
+            {
               "number": 18,
               "name": "Cecilio Waterman",
               "pos": 4,
               "grid": "4:2"
             },
             {
-              "number": 11,
-              "name": "Édgar Bárcenas",
+              "number": 6,
+              "name": "Cristian Martínez",
               "pos": 4,
               "grid": "4:1"
             }
@@ -7631,22 +7631,6 @@
         }
       }
     },
-    "1417973": {
-      "home_team": "Colombia",
-      "away_team": "Portugal",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417974": {
       "home_team": "DR Congo",
       "away_team": "Uzbekistan",
@@ -7663,9 +7647,9 @@
         }
       }
     },
-    "1417967": {
-      "home_team": "Jordan",
-      "away_team": "Argentina",
+    "1417973": {
+      "home_team": "Colombia",
+      "away_team": "Portugal",
       "lineups": {
         "home": {
           "formation": "",
@@ -7694,8 +7678,24 @@
           "substitutes": []
         }
       }
+    },
+    "1417967": {
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-17T21:57:59Z"
+  "last_updated": "2026-06-17T23:26:02Z"
 }
