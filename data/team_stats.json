@@ -504,6 +504,34 @@
       "avg_goals_against": 3.0,
       "win_rate": 0.0
     },
+    "uzbekistan": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 1,
+      "goals_against": 3,
+      "form": [
+        "L"
+      ],
+      "avg_goals_for": 1.0,
+      "avg_goals_against": 3.0,
+      "win_rate": 0.0
+    },
+    "colombia": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 3,
+      "goals_against": 1,
+      "form": [
+        "W"
+      ],
+      "avg_goals_for": 3.0,
+      "avg_goals_against": 1.0,
+      "win_rate": 100.0
+    },
     "england": {
       "played": 1,
       "wins": 1,
@@ -562,5 +590,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-18T02:02:35Z"
+  "last_updated": "2026-06-18T14:09:23Z"
 }

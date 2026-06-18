@@ -351,8 +351,8 @@
         "away": "Croatia",
         "home_score": 1,
         "away_score": 0,
-        "stage": "UEFA European Championship Finals 2020",
-        "competition": "England",
+        "stage": "Group D 2020",
+        "competition": "Euro 2020",
         "status": "FT"
       },
       {
@@ -361,8 +361,8 @@
         "away": "Croatia",
         "home_score": 2,
         "away_score": 1,
-        "stage": "UEFA Nations League 2018/2019",
-        "competition": "England",
+        "stage": "UEFA Nations League A Grp. 4",
+        "competition": "Nations League 1",
         "status": "FT"
       },
       {
@@ -371,8 +371,8 @@
         "away": "England",
         "home_score": 0,
         "away_score": 0,
-        "stage": "UEFA Nations League 2018/2019",
-        "competition": "Croatia",
+        "stage": "UEFA Nations League A Grp. 4",
+        "competition": "Nations League 1",
         "status": "FT"
       },
       {
@@ -381,9 +381,9 @@
         "away": "England",
         "home_score": 2,
         "away_score": 1,
-        "stage": "FIFA World Cup 2018 Russia",
-        "competition": "Russia",
-        "status": "FT"
+        "stage": "World Cup Semi Finals",
+        "competition": "World Championship 1",
+        "status": "AET"
       },
       {
         "date": "20090909",
@@ -391,8 +391,8 @@
         "away": "Croatia",
         "home_score": 5,
         "away_score": 1,
-        "stage": "UEFA World Cup Qualifiers 2010 South Africa",
-        "competition": "England",
+        "stage": "World Cup Qualification UEFA 1st round grp. 6",
+        "competition": "World Championship Qualification UEFA 1",
         "status": "FT"
       },
       {
@@ -401,8 +401,8 @@
         "away": "England",
         "home_score": 1,
         "away_score": 4,
-        "stage": "UEFA World Cup Qualifiers 2010 South Africa",
-        "competition": "Croatia",
+        "stage": "World Cup Qualification UEFA 1st round grp. 6",
+        "competition": "World Championship Qualification UEFA 1",
         "status": "FT"
       },
       {
@@ -411,8 +411,8 @@
         "away": "Croatia",
         "home_score": 2,
         "away_score": 3,
-        "stage": "UEFA European Championship Qualifiers 2008 Austria/Switzerland",
-        "competition": "England",
+        "stage": "EURO qualification grp. E",
+        "competition": "European Championship Qualification 1",
         "status": "FT"
       },
       {
@@ -421,8 +421,8 @@
         "away": "England",
         "home_score": 2,
         "away_score": 0,
-        "stage": "UEFA European Championship Qualifiers 2008 Austria/Switzerland",
-        "competition": "Croatia",
+        "stage": "EURO qualification grp. E",
+        "competition": "European Championship Qualification 1",
         "status": "FT"
       },
       {
@@ -431,18 +431,30 @@
         "away": "England",
         "home_score": 2,
         "away_score": 4,
-        "stage": "UEFA European Championship Finals 2004 Portugal",
-        "competition": "Portugal",
+        "stage": "EURO Grp. B",
+        "competition": "European Championship 1",
         "status": "FT"
       },
       {
-        "date": "20030819",
+        "date": "20030820",
         "home": "England",
         "away": "Croatia",
         "home_score": 3,
         "away_score": 1,
-        "stage": "Internationals 2003",
-        "competition": "England",
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417911": [
+      {
+        "date": "19971213",
+        "home": "South Africa",
+        "away": "Czechia",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "FIFA Confederations Cup 1997 Saudi Arabia",
+        "competition": "",
         "status": "FT"
       }
     ],
@@ -453,8 +465,8 @@
         "away": "Bosnia and Herzegovina",
         "home_score": 0,
         "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2016",
+        "competition": "Switzerland",
         "status": "FT"
       }
     ],
@@ -465,8 +477,8 @@
         "away": "Canada",
         "home_score": 0,
         "away_score": 2,
-        "stage": "King's Cup 2022",
-        "competition": "International",
+        "stage": "Internationals 2022",
+        "competition": "Austria",
         "status": "FT"
       }
     ],
@@ -477,8 +489,8 @@
         "away": "South Korea",
         "home_score": 2,
         "away_score": 2,
-        "stage": "Featured Friendlies",
-        "competition": "International Friendlies",
+        "stage": "Internationals 2025",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -487,8 +499,8 @@
         "away": "South Korea",
         "home_score": 3,
         "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "International",
+        "stage": "Internationals 2020",
+        "competition": "Austria",
         "status": "FT"
       },
       {
@@ -497,8 +509,8 @@
         "away": "Mexico",
         "home_score": 1,
         "away_score": 2,
-        "stage": "World Cup Grp. F",
-        "competition": "World Championship 1",
+        "stage": "FIFA World Cup 2018 Russia",
+        "competition": "Russia",
         "status": "FT"
       },
       {
@@ -507,8 +519,8 @@
         "away": "South Korea",
         "home_score": 4,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2014",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -517,8 +529,48 @@
         "away": "South Korea",
         "home_score": 0,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2006",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20020127",
+        "home": "Mexico",
+        "away": "South Korea",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "Concacaf Gold Cup 2002 USA",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20010601",
+        "home": "South Korea",
+        "away": "Mexico",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "FIFA Confederations Cup 2001 Korea Rep/Japan",
+        "competition": "Korea Republic",
+        "status": "FT"
+      },
+      {
+        "date": "19990611",
+        "home": "South Korea",
+        "away": "Mexico",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 1999",
+        "competition": "Korea Republic",
+        "status": "FT"
+      },
+      {
+        "date": "19980613",
+        "home": "South Korea",
+        "away": "Mexico",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "FIFA World Cup 1998 France",
+        "competition": "France",
         "status": "FT"
       }
     ],
@@ -784,18 +836,6 @@
         "status": "FT"
       }
     ],
-    "1417920": [
-      {
-        "date": "20100810",
-        "home": "Bosnia and Herzegovina",
-        "away": "Qatar",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      }
-    ],
     "1417919": [
       {
         "date": "20020515",
@@ -803,6 +843,18 @@
         "away": "Canada",
         "home_score": 1,
         "away_score": 3,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417920": [
+      {
+        "date": "20100810",
+        "home": "Bosnia and Herzegovina",
+        "away": "Qatar",
+        "home_score": 1,
+        "away_score": 1,
         "stage": "Friendlies",
         "competition": "Friendlies 1",
         "status": "FT"
@@ -978,5 +1030,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-18T02:02:24Z"
+  "last_updated": "2026-06-18T14:09:12Z"
 }
