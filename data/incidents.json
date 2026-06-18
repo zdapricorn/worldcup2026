@@ -1545,8 +1545,98 @@
         "score": "1-1",
         "period": "2"
       }
+    ],
+    "1417917": [
+      {
+        "minute": 59,
+        "type": 43,
+        "player": "A. Dedić",
+        "number": 7,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 61,
+        "type": 43,
+        "player": "E. Džeko",
+        "number": 11,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 65,
+        "type": 43,
+        "player": "N. Elvedi",
+        "number": 4,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 74,
+        "type": 36,
+        "player": "J. Manzambi",
+        "number": 9,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 80,
+        "type": 45,
+        "player": "T. Muharemović",
+        "number": 4,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 84,
+        "type": 36,
+        "player": "R. Vargas",
+        "number": 17,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 84,
+        "type": 63,
+        "player": "B. Embolo",
+        "number": 7,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "J. Manzambi",
+        "number": 9,
+        "score": "3-0",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 63,
+        "player": "R. Vargas",
+        "number": 17,
+        "score": "3-0",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "E. Mahmić",
+        "number": 26,
+        "score": "3-1",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 37,
+        "player": "G. Xhaka",
+        "number": 10,
+        "score": "4-1",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-18T20:20:10Z"
+  "last_updated": "2026-06-18T22:31:21Z"
 }

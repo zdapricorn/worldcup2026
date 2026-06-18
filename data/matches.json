@@ -517,9 +517,9 @@
       "country": "USA",
       "group": "B",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 4,
+      "away_score": 1,
       "prediction": null,
       "ls_eid": "1417917",
       "ls_home_id": "9153",
@@ -1949,5 +1949,5 @@
       "prediction": null
     }
   ],
-  "last_updated": "2026-06-18T20:18:55Z"
+  "last_updated": "2026-06-18T22:30:05Z"
 }
