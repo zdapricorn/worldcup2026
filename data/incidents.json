@@ -1495,8 +1495,58 @@
         "score": "1-3",
         "period": "2"
       }
+    ],
+    "1417911": [
+      {
+        "minute": 6,
+        "type": 36,
+        "player": "M. Sadílek",
+        "number": 18,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 6,
+        "type": 63,
+        "player": "A. Sojka",
+        "number": 24,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 33,
+        "type": 43,
+        "player": "T. Mokoena",
+        "number": 4,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 40,
+        "type": 43,
+        "player": "T. Mbatha",
+        "number": 5,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 75,
+        "type": 43,
+        "player": "L. Krejčí",
+        "number": 7,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 83,
+        "type": 37,
+        "player": "T. Mokoena",
+        "number": 4,
+        "score": "1-1",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-18T17:42:09Z"
+  "last_updated": "2026-06-18T20:20:10Z"
 }

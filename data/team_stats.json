@@ -15,17 +15,18 @@
       "win_rate": 100.0
     },
     "south-africa": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "goals_for": 0,
-      "goals_against": 2,
+      "goals_for": 1,
+      "goals_against": 3,
       "form": [
-        "L"
+        "L",
+        "D"
       ],
-      "avg_goals_for": 0.0,
-      "avg_goals_against": 2.0,
+      "avg_goals_for": 0.5,
+      "avg_goals_against": 1.5,
       "win_rate": 0.0
     },
     "korea-republic": {
@@ -43,17 +44,18 @@
       "win_rate": 100.0
     },
     "czechia": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "goals_for": 1,
-      "goals_against": 2,
+      "goals_for": 2,
+      "goals_against": 3,
       "form": [
-        "L"
+        "L",
+        "D"
       ],
       "avg_goals_for": 1.0,
-      "avg_goals_against": 2.0,
+      "avg_goals_against": 1.5,
       "win_rate": 0.0
     },
     "canada": {
@@ -590,5 +592,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-18T17:42:09Z"
+  "last_updated": "2026-06-18T20:20:10Z"
 }
