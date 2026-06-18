@@ -1379,8 +1379,42 @@
         "score": "4-2",
         "period": "2"
       }
+    ],
+    "1417975": [
+      {
+        "minute": 16,
+        "type": 43,
+        "player": "C. Yirenkyi",
+        "number": 3,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 72,
+        "type": 43,
+        "player": "C. Blackman",
+        "number": 2,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "C. Yirenkyi",
+        "number": 3,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "C. Harvey",
+        "number": 14,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-17T23:26:43Z"
+  "last_updated": "2026-06-18T02:02:35Z"
 }
