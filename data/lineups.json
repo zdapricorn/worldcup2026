@@ -8099,14 +8099,295 @@
       "away_team": "South Korea",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-3-3",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Raúl Rangel",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 23,
+              "name": "Jesus Gallardo",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 5,
+              "name": "Johan Vásquez",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Edson Álvarez",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 2,
+              "name": "Jorge Sánchez",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 26,
+              "name": "Brian Gutierrez",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 6,
+              "name": "Erik Lira",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 7,
+              "name": "Luis Romo",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 16,
+              "name": "Julián Quiñones",
+              "pos": 4,
+              "grid": "4:3"
+            },
+            {
+              "number": 9,
+              "name": "Raúl Jiménez",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 25,
+              "name": "Roberto Alvarado",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 12,
+              "name": "Carlos Acevedo",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Mateo Chavez",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Luis Chávez",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Alvaro Fidalgo",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Santiago Giménez",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Armando Gonzalez",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "César Huerta",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Guillermo Martínez",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Gilberto Mora",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Guillermo Ochoa",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Orbelín Pineda",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Israel Reyes",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Obed Vargas",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Alexis Vega",
+              "pos": 5
+            }
+          ]
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "3-4-2-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Kim Seung-gyu",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 3,
+              "name": "Lee Gi-hyuk",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Kim Min-jae",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 2,
+              "name": "Lee Hanbeom",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 15,
+              "name": "Kim Moon-hwan",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 8,
+              "name": "Paik Seung-Ho",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 6,
+              "name": "Hwang In-beom",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 22,
+              "name": "Seol Young-woo",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 10,
+              "name": "Lee Jae-sung",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 19,
+              "name": "Lee Kang-in",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 7,
+              "name": "Son Heung-min",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 17,
+              "name": "Kim Jin-gyu",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Jens Castrop",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Wi-Je Cho",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Cho Gue-sung",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Eom Ji-sung",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Hwang Hee-chan",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Hyeon-woo Jo",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Kim Tae-hyeon",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Kim Jin-gyu",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Lee Dong-gyeong",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Lee Tae-seok",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Oh Hyeon-gyu",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Park Jin-seob",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Song Bum-keun",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Yang Hyun-jun",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -8430,9 +8711,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -8446,9 +8727,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -8494,9 +8775,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -8510,9 +8791,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -8558,22 +8839,6 @@
         }
       }
     },
-    "1417944": {
-      "home_team": "Japan",
-      "away_team": "Sweden",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417943": {
       "home_team": "Tunisia",
       "away_team": "Netherlands",
@@ -8590,9 +8855,9 @@
         }
       }
     },
-    "1417931": {
-      "home_team": "Turkiye",
-      "away_team": "USA",
+    "1417944": {
+      "home_team": "Japan",
+      "away_team": "Sweden",
       "lineups": {
         "home": {
           "formation": "",
@@ -8609,6 +8874,22 @@
     "1417932": {
       "home_team": "Paraguay",
       "away_team": "Australia",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417931": {
+      "home_team": "Turkiye",
+      "away_team": "USA",
       "lineups": {
         "home": {
           "formation": "",
@@ -8686,9 +8967,9 @@
         }
       }
     },
-    "1417949": {
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
+    "1417950": {
+      "home_team": "Egypt",
+      "away_team": "Iran",
       "lineups": {
         "home": {
           "formation": "",
@@ -8702,9 +8983,9 @@
         }
       }
     },
-    "1417950": {
-      "home_team": "Egypt",
-      "away_team": "Iran",
+    "1417949": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
       "lineups": {
         "home": {
           "formation": "",
@@ -8750,22 +9031,6 @@
         }
       }
     },
-    "1417974": {
-      "home_team": "DR Congo",
-      "away_team": "Uzbekistan",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417973": {
       "home_team": "Colombia",
       "away_team": "Portugal",
@@ -8782,9 +9047,9 @@
         }
       }
     },
-    "1417968": {
-      "home_team": "Algeria",
-      "away_team": "Austria",
+    "1417974": {
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
       "lineups": {
         "home": {
           "formation": "",
@@ -8813,8 +9078,24 @@
           "substitutes": []
         }
       }
+    },
+    "1417968": {
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-18T22:30:41Z"
+  "last_updated": "2026-06-19T00:13:27Z"
 }

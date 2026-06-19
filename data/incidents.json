@@ -1635,8 +1635,90 @@
         "score": "4-1",
         "period": "2"
       }
+    ],
+    "1417918": [
+      {
+        "minute": 9,
+        "type": 43,
+        "player": "D. Cornelius",
+        "number": 13,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 16,
+        "type": 36,
+        "player": "C. Larin",
+        "number": 9,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 29,
+        "type": 36,
+        "player": "J. David",
+        "number": 10,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 33,
+        "type": 45,
+        "player": "Homam El Amin",
+        "number": 14,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 36,
+        "player": "J. David",
+        "number": 10,
+        "score": "3-0",
+        "period": "1"
+      },
+      {
+        "minute": 53,
+        "type": 45,
+        "player": "Assim Madibo",
+        "number": 23,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 62,
+        "type": 43,
+        "player": "Ahmed Fathy",
+        "number": 20,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 64,
+        "type": 36,
+        "player": "N. Saliba",
+        "number": 25,
+        "score": "4-0",
+        "period": "2"
+      },
+      {
+        "minute": 75,
+        "type": 39,
+        "player": "Mohammad Manai",
+        "number": 26,
+        "score": "5-0",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "J. David",
+        "number": 10,
+        "score": "6-0",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-18T22:31:21Z"
+  "last_updated": "2026-06-19T00:14:05Z"
 }

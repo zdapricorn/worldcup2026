@@ -59,18 +59,19 @@
       "win_rate": 0.0
     },
     "canada": {
-      "played": 1,
-      "wins": 0,
+      "played": 2,
+      "wins": 1,
       "draws": 1,
       "losses": 0,
-      "goals_for": 1,
+      "goals_for": 7,
       "goals_against": 1,
       "form": [
-        "D"
+        "D",
+        "W"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 1.0,
-      "win_rate": 0.0
+      "avg_goals_for": 3.5,
+      "avg_goals_against": 0.5,
+      "win_rate": 50.0
     },
     "bosnia-and-herzegovina": {
       "played": 2,
@@ -88,17 +89,18 @@
       "win_rate": 0.0
     },
     "qatar": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 1,
-      "losses": 0,
+      "losses": 1,
       "goals_for": 1,
-      "goals_against": 1,
+      "goals_against": 7,
       "form": [
-        "D"
+        "D",
+        "L"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 1.0,
+      "avg_goals_for": 0.5,
+      "avg_goals_against": 3.5,
       "win_rate": 0.0
     },
     "switzerland": {
@@ -594,5 +596,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-18T22:31:21Z"
+  "last_updated": "2026-06-19T00:14:05Z"
 }
