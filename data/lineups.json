@@ -8693,7 +8693,7 @@
       "away_team": "Morocco",
       "lineups": {
         "home": {
-          "formation": "3-4-2-1",
+          "formation": "4-4-1-1",
           "starting_xi": [
             {
               "number": 1,
@@ -8702,26 +8702,32 @@
               "grid": "1:1"
             },
             {
-              "number": 6,
-              "name": "Kieran Tierney",
+              "number": 3,
+              "name": "Andy Robertson",
               "pos": 2,
-              "grid": "2:3"
+              "grid": "2:4"
             },
             {
               "number": 13,
               "name": "Jack Hendry",
               "pos": 2,
-              "grid": "2:2"
+              "grid": "2:3"
             },
             {
               "number": 5,
               "name": "Grant Hanley",
               "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 22,
+              "name": "Nathan Patterson",
+              "pos": 2,
               "grid": "2:1"
             },
             {
-              "number": 3,
-              "name": "Andy Robertson",
+              "number": 6,
+              "name": "Kieran Tierney",
               "pos": 3,
               "grid": "3:4"
             },
@@ -8732,26 +8738,20 @@
               "grid": "3:3"
             },
             {
-              "number": 4,
-              "name": "Scott McTominay",
+              "number": 11,
+              "name": "Ryan Christie",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 22,
-              "name": "Nathan Patterson",
+              "number": 7,
+              "name": "John McGinn",
               "pos": 3,
               "grid": "3:1"
             },
             {
-              "number": 11,
-              "name": "Ryan Christie",
-              "pos": 3,
-              "grid": "4:2"
-            },
-            {
-              "number": 7,
-              "name": "John McGinn",
+              "number": 4,
+              "name": "Scott McTominay",
               "pos": 3,
               "grid": "4:1"
             },
@@ -8874,14 +8874,14 @@
               "grid": "2:1"
             },
             {
-              "number": 6,
-              "name": "Ayyoub Bouaddi",
+              "number": 24,
+              "name": "Neil El Aynaoui",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 24,
-              "name": "Neil El Aynaoui",
+              "number": 6,
+              "name": "Ayyoub Bouaddi",
               "pos": 3,
               "grid": "3:1"
             },
@@ -9406,22 +9406,6 @@
         }
       }
     },
-    "1417943": {
-      "home_team": "Tunisia",
-      "away_team": "Netherlands",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417944": {
       "home_team": "Japan",
       "away_team": "Sweden",
@@ -9438,9 +9422,9 @@
         }
       }
     },
-    "1417932": {
-      "home_team": "Paraguay",
-      "away_team": "Australia",
+    "1417943": {
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
       "lineups": {
         "home": {
           "formation": "",
@@ -9457,6 +9441,22 @@
     "1417931": {
       "home_team": "Turkiye",
       "away_team": "USA",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417932": {
+      "home_team": "Paraguay",
+      "away_team": "Australia",
       "lineups": {
         "home": {
           "formation": "",
@@ -9598,22 +9598,6 @@
         }
       }
     },
-    "1417973": {
-      "home_team": "Colombia",
-      "away_team": "Portugal",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417974": {
       "home_team": "DR Congo",
       "away_team": "Uzbekistan",
@@ -9630,9 +9614,9 @@
         }
       }
     },
-    "1417967": {
-      "home_team": "Jordan",
-      "away_team": "Argentina",
+    "1417973": {
+      "home_team": "Colombia",
+      "away_team": "Portugal",
       "lineups": {
         "home": {
           "formation": "",
@@ -9662,6 +9646,22 @@
         }
       }
     },
+    "1417967": {
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
     "1691873": {
       "home_team": "Mexico",
       "away_team": "3CEFHI",
@@ -9675,5 +9675,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-19T21:44:16Z"
+  "last_updated": "2026-06-19T22:52:56Z"
 }
