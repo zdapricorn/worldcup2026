@@ -175,17 +175,18 @@
       "win_rate": 100.0
     },
     "usa": {
-      "played": 1,
-      "wins": 1,
+      "played": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "goals_for": 4,
+      "goals_for": 6,
       "goals_against": 1,
       "form": [
+        "W",
         "W"
       ],
-      "avg_goals_for": 4.0,
-      "avg_goals_against": 1.0,
+      "avg_goals_for": 3.0,
+      "avg_goals_against": 0.5,
       "win_rate": 100.0
     },
     "paraguay": {
@@ -203,18 +204,19 @@
       "win_rate": 0.0
     },
     "australia": {
-      "played": 1,
+      "played": 2,
       "wins": 1,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "goals_for": 2,
-      "goals_against": 0,
+      "goals_against": 2,
       "form": [
-        "W"
+        "W",
+        "L"
       ],
-      "avg_goals_for": 2.0,
-      "avg_goals_against": 0.0,
-      "win_rate": 100.0
+      "avg_goals_for": 1.0,
+      "avg_goals_against": 1.0,
+      "win_rate": 50.0
     },
     "turkiye": {
       "played": 1,
@@ -596,5 +598,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-19T20:27:01Z"
+  "last_updated": "2026-06-19T21:45:04Z"
 }
