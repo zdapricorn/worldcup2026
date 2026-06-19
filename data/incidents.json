@@ -1717,8 +1717,50 @@
         "score": "6-0",
         "period": "2"
       }
+    ],
+    "1417912": [
+      {
+        "minute": 4,
+        "type": 43,
+        "player": "Lee Kang-In",
+        "number": 19,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 50,
+        "type": 36,
+        "player": "L. Romo",
+        "number": 7,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 58,
+        "type": 43,
+        "player": "Paik Seung-Ho",
+        "number": 8,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 71,
+        "type": 4,
+        "player": "B. Gutiérrez",
+        "number": 26,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 71,
+        "type": 5,
+        "player": "O. Pineda",
+        "number": 17,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-19T00:14:05Z"
+  "last_updated": "2026-06-19T14:01:27Z"
 }
