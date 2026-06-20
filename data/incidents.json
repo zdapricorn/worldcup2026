@@ -1867,8 +1867,132 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417923": [
+      {
+        "minute": 4,
+        "type": 43,
+        "player": "C. Arcus",
+        "number": 2,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 23,
+        "type": 36,
+        "player": "Matheus Cunha",
+        "number": 9,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 36,
+        "type": 36,
+        "player": "Matheus Cunha",
+        "number": 9,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 36,
+        "type": 63,
+        "player": "Vinícius Júnior",
+        "number": 7,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 36,
+        "player": "Vinícius Júnior",
+        "number": 7,
+        "score": "3-0",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 63,
+        "player": "Lucas Paquetá",
+        "number": 20,
+        "score": "3-0",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 43,
+        "player": "F. Pierrot",
+        "number": 20,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 65,
+        "type": 43,
+        "player": "Douglas Santos",
+        "number": 16,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 72,
+        "type": 43,
+        "player": "D. Jean Jacques",
+        "number": 17,
+        "score": "",
+        "period": "2"
+      }
+    ],
+    "1417929": [
+      {
+        "minute": 2,
+        "type": 36,
+        "player": "M. Galarza",
+        "number": 23,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 2,
+        "type": 63,
+        "player": "J. Enciso",
+        "number": 19,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 4,
+        "type": 43,
+        "player": "M. Galarza",
+        "number": 23,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 45,
+        "player": "M. Almirón",
+        "number": 10,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 63,
+        "type": 43,
+        "player": "Vincenzo Montella",
+        "number": "",
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 71,
+        "type": 43,
+        "player": "E. Elmalı",
+        "number": 13,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-20T00:06:52Z"
+  "last_updated": "2026-06-20T12:27:06Z"
 }

@@ -119,18 +119,19 @@
       "win_rate": 50.0
     },
     "brazil": {
-      "played": 1,
-      "wins": 0,
+      "played": 2,
+      "wins": 1,
       "draws": 1,
       "losses": 0,
-      "goals_for": 1,
+      "goals_for": 4,
       "goals_against": 1,
       "form": [
-        "D"
+        "D",
+        "W"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 1.0,
-      "win_rate": 0.0
+      "avg_goals_for": 2.0,
+      "avg_goals_against": 0.5,
+      "win_rate": 50.0
     },
     "morocco": {
       "played": 1,
@@ -147,17 +148,18 @@
       "win_rate": 0.0
     },
     "haiti": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "goals_for": 0,
-      "goals_against": 1,
+      "goals_against": 4,
       "form": [
+        "L",
         "L"
       ],
       "avg_goals_for": 0.0,
-      "avg_goals_against": 1.0,
+      "avg_goals_against": 2.0,
       "win_rate": 0.0
     },
     "scotland": {
@@ -190,18 +192,19 @@
       "win_rate": 100.0
     },
     "paraguay": {
-      "played": 1,
-      "wins": 0,
+      "played": 2,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
-      "goals_for": 1,
+      "goals_for": 2,
       "goals_against": 4,
       "form": [
-        "L"
+        "L",
+        "W"
       ],
       "avg_goals_for": 1.0,
-      "avg_goals_against": 4.0,
-      "win_rate": 0.0
+      "avg_goals_against": 2.0,
+      "win_rate": 50.0
     },
     "australia": {
       "played": 2,
@@ -219,17 +222,18 @@
       "win_rate": 50.0
     },
     "turkiye": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "goals_for": 0,
-      "goals_against": 2,
+      "goals_against": 3,
       "form": [
+        "L",
         "L"
       ],
       "avg_goals_for": 0.0,
-      "avg_goals_against": 2.0,
+      "avg_goals_against": 1.5,
       "win_rate": 0.0
     },
     "germany": {
@@ -598,5 +602,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-20T00:06:52Z"
+  "last_updated": "2026-06-20T12:27:06Z"
 }
