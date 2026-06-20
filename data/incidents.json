@@ -1991,8 +1991,130 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417942": [
+      {
+        "minute": 5,
+        "type": 36,
+        "player": "B. Brobbey",
+        "number": 19,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 5,
+        "type": 63,
+        "player": "C. Gakpo",
+        "number": 11,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 17,
+        "type": 36,
+        "player": "B. Brobbey",
+        "number": 19,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 17,
+        "type": 63,
+        "player": "D. Dumfries",
+        "number": 22,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 47,
+        "type": 36,
+        "player": "C. Gakpo",
+        "number": 11,
+        "score": "3-0",
+        "period": "2"
+      },
+      {
+        "minute": 47,
+        "type": 63,
+        "player": "D. Dumfries",
+        "number": 22,
+        "score": "3-0",
+        "period": "2"
+      },
+      {
+        "minute": 53,
+        "type": 43,
+        "player": "G. Gudmundsson",
+        "number": 5,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 54,
+        "type": 36,
+        "player": "C. Gakpo",
+        "number": 11,
+        "score": "4-0",
+        "period": "2"
+      },
+      {
+        "minute": 54,
+        "type": 63,
+        "player": "C. Summerville",
+        "number": 24,
+        "score": "4-0",
+        "period": "2"
+      },
+      {
+        "minute": 59,
+        "type": 36,
+        "player": "A. Elanga",
+        "number": 11,
+        "score": "4-1",
+        "period": "2"
+      },
+      {
+        "minute": 59,
+        "type": 63,
+        "player": "A. Isak",
+        "number": 9,
+        "score": "4-1",
+        "period": "2"
+      },
+      {
+        "minute": 75,
+        "type": 43,
+        "player": "Y. Ayari",
+        "number": 18,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 80,
+        "type": 43,
+        "player": "L. Bergvall",
+        "number": 7,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 89,
+        "type": 36,
+        "player": "C. Summerville",
+        "number": 24,
+        "score": "5-1",
+        "period": "2"
+      },
+      {
+        "minute": 89,
+        "type": 63,
+        "player": "M. Depay",
+        "number": 10,
+        "score": "5-1",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-20T17:55:09Z"
+  "last_updated": "2026-06-20T19:19:43Z"
 }
