@@ -805,8 +805,8 @@
         "away": "Saudi Arabia",
         "home_score": 5,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2012",
+        "competition": "Spain",
         "status": "FT"
       },
       {
@@ -815,8 +815,8 @@
         "away": "Saudi Arabia",
         "home_score": 3,
         "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2010",
+        "competition": "Austria",
         "status": "FT"
       },
       {
@@ -825,8 +825,8 @@
         "away": "Spain",
         "home_score": 0,
         "away_score": 1,
-        "stage": "World Cup grp. H",
-        "competition": "World Championship 1",
+        "stage": "FIFA World Cup 2006 Germany",
+        "competition": "Germany",
         "status": "FT"
       }
     ],
@@ -948,6 +948,18 @@
         "status": "FT"
       }
     ],
+    "1417943": [
+      {
+        "date": "20090211",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
     "1417944": [
       {
         "date": "20020525",
@@ -960,11 +972,21 @@
         "status": "FT"
       }
     ],
-    "1417943": [
+    "1417932": [
       {
-        "date": "20090211",
-        "home": "Tunisia",
-        "away": "Netherlands",
+        "date": "20101009",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20061007",
+        "home": "Australia",
+        "away": "Paraguay",
         "home_score": 1,
         "away_score": 1,
         "stage": "Friendlies",
@@ -998,28 +1020,6 @@
         "home": "USA",
         "away": "Turkiye",
         "home_score": 2,
-        "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      }
-    ],
-    "1417932": [
-      {
-        "date": "20101009",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      },
-      {
-        "date": "20061007",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
         "away_score": 1,
         "stage": "Friendlies",
         "competition": "Friendlies 1",
@@ -1084,5 +1084,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-20T19:19:29Z"
+  "last_updated": "2026-06-20T20:50:24Z"
 }
