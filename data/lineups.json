@@ -1208,308 +1208,6 @@
         }
       }
     },
-    "1417916": {
-      "home_team": "Qatar",
-      "away_team": "Switzerland",
-      "lineups": {
-        "home": {
-          "formation": "4-3-3",
-          "starting_xi": [
-            {
-              "number": 1,
-              "name": "Mahmud Ibrahim Abunada",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 14,
-              "name": "Homam Al-Amin",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 16,
-              "name": "Boualem Khoukhi",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 2,
-              "name": "Pedro Miguel",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 13,
-              "name": "Ayoub Mohamed Al Oui",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 4,
-              "name": "Gueye Seydinaissa Laye",
-              "pos": 3,
-              "grid": "3:3"
-            },
-            {
-              "number": 23,
-              "name": "Assim Madibo",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 5,
-              "name": "Jassem Gaber",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 11,
-              "name": "Akram Afif",
-              "pos": 4,
-              "grid": "4:3"
-            },
-            {
-              "number": 15,
-              "name": "Yusuf Abdurisag",
-              "pos": 4,
-              "grid": "4:2"
-            },
-            {
-              "number": 8,
-              "name": "Edmilson Junior",
-              "pos": 4,
-              "grid": "4:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 7,
-              "name": "Ahmed Alaaeldin",
-              "pos": 5
-            },
-            {
-              "number": 20,
-              "name": "Ahmed Fathy Abdoulla",
-              "pos": 5
-            },
-            {
-              "number": 19,
-              "name": "Almoez Ali",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "Sultan Al-Brake",
-              "pos": 5
-            },
-            {
-              "number": 17,
-              "name": "Ahmed Al-Ganehi",
-              "pos": 5
-            },
-            {
-              "number": 10,
-              "name": "Hasan Al Haydos",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Mohamed Al-Mannai",
-              "pos": 5
-            },
-            {
-              "number": 22,
-              "name": "Meshaal Barsham",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Karim Boudiaf",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "Salah Zakaria",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Tahsin Mohammed Jamshid",
-              "pos": 5
-            },
-            {
-              "number": 3,
-              "name": "Lucas Mendes",
-              "pos": 5
-            },
-            {
-              "number": 6,
-              "name": "Abdel Aziz Hatem",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Al Hashmi Al Hussain Mohialdin",
-              "pos": 5
-            },
-            {
-              "number": 9,
-              "name": "Mohammed Muntari",
-              "pos": 5
-            }
-          ]
-        },
-        "away": {
-          "formation": "4-3-3",
-          "starting_xi": [
-            {
-              "number": 1,
-              "name": "Gregor Kobel",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 13,
-              "name": "Ricardo Rodriguez",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 5,
-              "name": "Manuel Akanji",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 4,
-              "name": "Nico Elvedi",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 6,
-              "name": "Denis Zakaria",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 8,
-              "name": "Remo Freuler",
-              "pos": 3,
-              "grid": "3:3"
-            },
-            {
-              "number": 10,
-              "name": "Granit Xhaka",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 20,
-              "name": "Michel Aebischer",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 17,
-              "name": "Ruben Vargas",
-              "pos": 4,
-              "grid": "4:3"
-            },
-            {
-              "number": 7,
-              "name": "Breel Embolo",
-              "pos": 4,
-              "grid": "4:2"
-            },
-            {
-              "number": 11,
-              "name": "Dan Ndoye",
-              "pos": 4,
-              "grid": "4:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 23,
-              "name": "Zeki Amdouni",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Aurele Amenda",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "Eray Comert",
-              "pos": 5
-            },
-            {
-              "number": 16,
-              "name": "Christian Fassnacht",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Cedric Itten",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Luca Jaquez",
-              "pos": 5
-            },
-            {
-              "number": 14,
-              "name": "Ardon Jashari",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "Marvin Keller",
-              "pos": 5
-            },
-            {
-              "number": 9,
-              "name": "Johan Manzambi",
-              "pos": 5
-            },
-            {
-              "number": 2,
-              "name": "Miro Muheim",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Yvon Mvogo",
-              "pos": 5
-            },
-            {
-              "number": 19,
-              "name": "Noah Okafor",
-              "pos": 5
-            },
-            {
-              "number": 22,
-              "name": "Fabian Rieder",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Djibril Sow",
-              "pos": 5
-            },
-            {
-              "number": 3,
-              "name": "Silvan Widmer",
-              "pos": 5
-            }
-          ]
-        }
-      }
-    },
     "1417921": {
       "home_team": "Brazil",
       "away_team": "Morocco",
@@ -9845,9 +9543,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -9861,9 +9559,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -9909,9 +9607,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -9925,9 +9623,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -10253,5 +9951,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-20T12:26:25Z"
+  "last_updated": "2026-06-20T14:41:16Z"
 }
