@@ -1833,8 +1833,42 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417924": [
+      {
+        "minute": 2,
+        "type": 36,
+        "player": "I. Saibari",
+        "number": 11,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 2,
+        "type": 63,
+        "player": "B. Díaz",
+        "number": 10,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 23,
+        "type": 43,
+        "player": "I. Diop",
+        "number": 14,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 65,
+        "type": 43,
+        "player": "A. Robertson",
+        "number": 3,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-19T22:53:46Z"
+  "last_updated": "2026-06-20T00:06:52Z"
 }
