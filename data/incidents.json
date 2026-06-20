@@ -2113,8 +2113,50 @@
         "score": "5-1",
         "period": "2"
       }
+    ],
+    "1417936": [
+      {
+        "minute": 30,
+        "type": 36,
+        "player": "F. Kessie",
+        "number": 8,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 68,
+        "type": 36,
+        "player": "D. Undav",
+        "number": 26,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 68,
+        "type": 63,
+        "player": "N. Amiri",
+        "number": 20,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "D. Undav",
+        "number": 26,
+        "score": "2-1",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 63,
+        "player": "F. Nmecha",
+        "number": 23,
+        "score": "2-1",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-20T20:50:39Z"
+  "last_updated": "2026-06-20T22:04:28Z"
 }
