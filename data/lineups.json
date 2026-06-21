@@ -10238,14 +10238,14 @@
               "grid": "4:1"
             },
             {
-              "number": 15,
-              "name": "Pedro Vite",
+              "number": 23,
+              "name": "Moisés Caicedo",
               "pos": 3,
               "grid": "4:3"
             },
             {
-              "number": 23,
-              "name": "Moisés Caicedo",
+              "number": 15,
+              "name": "Pedro Vite",
               "pos": 3,
               "grid": "4:2"
             },
@@ -10495,14 +10495,290 @@
       "away_team": "Japan",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "3-4-2-1",
+          "starting_xi": [
+            {
+              "number": 16,
+              "name": "Aymen Dahmen",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 4,
+              "name": "Omar Rekik",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 3,
+              "name": "Montassar Talbi",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 6,
+              "name": "Dylan Bronn",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 2,
+              "name": "Ali Abdi",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 17,
+              "name": "Ellyes Skhiri",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 25,
+              "name": "Anis Ben Slimane",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 20,
+              "name": "Yan Valery",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 10,
+              "name": "Hannibal Mejbri",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 8,
+              "name": "Elias Saad",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 26,
+              "name": "Sebastian Tounekti",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 7,
+              "name": "Elias Achouri",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Adam Arous",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Khalil Ayari",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Mohamad Belhadj Mahmoud",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Sabri Ben Hessen",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Mohamed Amine Ben Hamida",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Mortadha Ben Ouanes",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Abdelmouhib Chamakh",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Firas Chaouat",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Raed Chikhaoui",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Rayan Elloumi",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Ismael Gharbi",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Rani Khedira",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Hazem Mastouri",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Moutaz Neffati",
+              "pos": 5
+            }
+          ]
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "3-4-2-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Zion Suzuki",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 21,
+              "name": "Hiroki Ito",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Kou Itakura",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 22,
+              "name": "Takehiro Tomiyasu",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 13,
+              "name": "Keito Nakamura",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 7,
+              "name": "Ao Tanaka",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 24,
+              "name": "Kaishu Sano",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 10,
+              "name": "Ritsu Doan",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 15,
+              "name": "Daichi Kamada",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 14,
+              "name": "Junya Ito",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 18,
+              "name": "Ayase Ueda",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 9,
+              "name": "Keisuke Goto",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Tomoki Hayakawa",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Daizen Maeda",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Yuto Nagatomo",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Koki Ogawa",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Keisuke Osako",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Ayumu Seko",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Kento Shiogai",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Yukinari Sugawara",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Yuito Suzuki",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Junnosuke Suzuki",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Shogo Taniguchi",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Tsuyoshi Watanabe",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -10826,22 +11102,6 @@
         }
       }
     },
-    "1417944": {
-      "home_team": "Japan",
-      "away_team": "Sweden",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417943": {
       "home_team": "Tunisia",
       "away_team": "Netherlands",
@@ -10858,9 +11118,9 @@
         }
       }
     },
-    "1417931": {
-      "home_team": "Turkiye",
-      "away_team": "USA",
+    "1417944": {
+      "home_team": "Japan",
+      "away_team": "Sweden",
       "lineups": {
         "home": {
           "formation": "",
@@ -10877,6 +11137,22 @@
     "1417932": {
       "home_team": "Paraguay",
       "away_team": "Australia",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417931": {
+      "home_team": "Turkiye",
+      "away_team": "USA",
       "lineups": {
         "home": {
           "formation": "",
@@ -11082,6 +11358,17 @@
         }
       }
     },
+    "1691868": {
+      "home_team": "Germany",
+      "away_team": "3ABCDF",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
     "1691873": {
       "home_team": "Mexico",
       "away_team": "3CEFHI",
@@ -11106,5 +11393,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-20T23:44:33Z"
+  "last_updated": "2026-06-21T13:04:21Z"
 }

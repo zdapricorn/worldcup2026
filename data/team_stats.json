@@ -251,17 +251,18 @@
       "win_rate": 100.0
     },
     "curacao": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
       "goals_for": 1,
       "goals_against": 7,
       "form": [
-        "L"
+        "L",
+        "D"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 7.0,
+      "avg_goals_for": 0.5,
+      "avg_goals_against": 3.5,
       "win_rate": 0.0
     },
     "netherlands": {
@@ -280,18 +281,19 @@
       "win_rate": 50.0
     },
     "japan": {
-      "played": 1,
-      "wins": 0,
+      "played": 2,
+      "wins": 1,
       "draws": 1,
       "losses": 0,
-      "goals_for": 2,
+      "goals_for": 6,
       "goals_against": 2,
       "form": [
-        "D"
+        "D",
+        "W"
       ],
-      "avg_goals_for": 2.0,
-      "avg_goals_against": 2.0,
-      "win_rate": 0.0
+      "avg_goals_for": 3.0,
+      "avg_goals_against": 1.0,
+      "win_rate": 50.0
     },
     "sweden": {
       "played": 2,
@@ -309,17 +311,18 @@
       "win_rate": 50.0
     },
     "tunisia": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "goals_for": 1,
-      "goals_against": 5,
+      "goals_against": 9,
       "form": [
+        "L",
         "L"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 5.0,
+      "avg_goals_for": 0.5,
+      "avg_goals_against": 4.5,
       "win_rate": 0.0
     },
     "belgium": {
@@ -601,8 +604,22 @@
       "avg_goals_for": 0.0,
       "avg_goals_against": 1.0,
       "win_rate": 0.0
+    },
+    "ecuador": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "form": [
+        "D"
+      ],
+      "avg_goals_for": 0.0,
+      "avg_goals_against": 0.0,
+      "win_rate": 0.0
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-20T23:45:25Z"
+  "last_updated": "2026-06-21T13:05:12Z"
 }
