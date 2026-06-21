@@ -10787,7 +10787,7 @@
       "away_team": "Saudi Arabia",
       "lineups": {
         "home": {
-          "formation": "4-2-3-1",
+          "formation": "4-3-3",
           "starting_xi": [
             {
               "number": 23,
@@ -10820,40 +10820,40 @@
               "grid": "2:1"
             },
             {
+              "number": 20,
+              "name": "Pedri",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
               "number": 16,
               "name": "Rodri",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 20,
-              "name": "Pedri",
+              "number": 10,
+              "name": "Dani Olmo",
               "pos": 3,
               "grid": "3:1"
             },
             {
               "number": 15,
               "name": "Álex Baena",
-              "pos": 3,
+              "pos": 4,
               "grid": "4:3"
-            },
-            {
-              "number": 10,
-              "name": "Dani Olmo",
-              "pos": 3,
-              "grid": "4:2"
-            },
-            {
-              "number": 19,
-              "name": "Lamine Yamal",
-              "pos": 3,
-              "grid": "4:1"
             },
             {
               "number": 21,
               "name": "Mikel Oyarzabal",
               "pos": 4,
-              "grid": "5:1"
+              "grid": "4:2"
+            },
+            {
+              "number": 19,
+              "name": "Lamine Yamal",
+              "pos": 4,
+              "grid": "4:1"
             }
           ],
           "substitutes": [
@@ -10935,7 +10935,7 @@
           ]
         },
         "away": {
-          "formation": "5-3-2",
+          "formation": "5-4-1",
           "starting_xi": [
             {
               "number": 21,
@@ -10944,8 +10944,8 @@
               "grid": "1:1"
             },
             {
-              "number": 4,
-              "name": "Abdulelah Al-Amri",
+              "number": 5,
+              "name": "Hassan Al-Tombakti",
               "pos": 2,
               "grid": "2:4"
             },
@@ -10956,8 +10956,8 @@
               "grid": "2:3"
             },
             {
-              "number": 5,
-              "name": "Hassan Al-Tombakti",
+              "number": 4,
+              "name": "Abdulelah Al-Amri",
               "pos": 2,
               "grid": "2:2"
             },
@@ -10974,8 +10974,14 @@
               "grid": "2:1"
             },
             {
-              "number": 7,
-              "name": "Musab Al Juwayr",
+              "number": 10,
+              "name": "Salem Al-Dawsari",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 6,
+              "name": "Nasser Al Dawsari",
               "pos": 3,
               "grid": "3:3"
             },
@@ -10986,16 +10992,10 @@
               "grid": "3:2"
             },
             {
-              "number": 6,
-              "name": "Nasser Al Dawsari",
+              "number": 7,
+              "name": "Musab Al Juwayr",
               "pos": 3,
               "grid": "3:1"
-            },
-            {
-              "number": 10,
-              "name": "Salem Al-Dawsari",
-              "pos": 4,
-              "grid": "4:2"
             },
             {
               "number": 9,
@@ -11260,9 +11260,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -11276,9 +11276,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -11324,9 +11324,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -11340,9 +11340,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -11516,9 +11516,9 @@
         }
       }
     },
-    "1417949": {
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
+    "1417950": {
+      "home_team": "Egypt",
+      "away_team": "Iran",
       "lineups": {
         "home": {
           "formation": "",
@@ -11532,9 +11532,9 @@
         }
       }
     },
-    "1417950": {
-      "home_team": "Egypt",
-      "away_team": "Iran",
+    "1417949": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
       "lineups": {
         "home": {
           "formation": "",
@@ -11679,5 +11679,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-21T15:23:52Z"
+  "last_updated": "2026-06-21T17:03:11Z"
 }
