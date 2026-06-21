@@ -10787,14 +10787,300 @@
       "away_team": "Saudi Arabia",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 23,
+              "name": "Unai Simón",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 24,
+              "name": "Marc Cucurella",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 14,
+              "name": "Aymeric Laporte",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 22,
+              "name": "Pau Cubarsí",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 12,
+              "name": "Pedro Porro",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 16,
+              "name": "Rodri",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 20,
+              "name": "Pedri",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 15,
+              "name": "Álex Baena",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 10,
+              "name": "Dani Olmo",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 19,
+              "name": "Lamine Yamal",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 21,
+              "name": "Mikel Oyarzabal",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 4,
+              "name": "Eric García",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Joan Garcia",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Álex Grimaldo",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Borja Iglesias",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Marcos Llorente",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Mikel Merino",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Victor Munoz",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Yéremy Pino",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Marc Pubill",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Gavi",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "David Raya",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Fabián Ruiz",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Ferran Torres",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Nico Williams",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Martín Zubimendi",
+              "pos": 5
+            }
+          ]
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "5-3-2",
+          "starting_xi": [
+            {
+              "number": 21,
+              "name": "Mohammed Al-Owais",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 4,
+              "name": "Abdulelah Al-Amri",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 3,
+              "name": "Ali Lajami",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 5,
+              "name": "Hassan Al-Tombakti",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 24,
+              "name": "Moteb Al-Harbi",
+              "pos": 3,
+              "grid": "2:5"
+            },
+            {
+              "number": 12,
+              "name": "Saud Abdulhamid",
+              "pos": 3,
+              "grid": "2:1"
+            },
+            {
+              "number": 7,
+              "name": "Musab Al Juwayr",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 15,
+              "name": "Abdullah Al Khaibari",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 6,
+              "name": "Nasser Al Dawsari",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 10,
+              "name": "Salem Al-Dawsari",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 9,
+              "name": "Feras Albrikan",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 26,
+              "name": "Saleh Abu Al-Shamat",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Nawaf Al Aqidi",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Khalid Al-Ghannam",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Abdullah Al-Hamddan",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Alaa Alhaji",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Ziyad Al-Johani",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Ahmed Al-Kassar",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Saleh Al-Shehri",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Nawaf bin Meshari bin Mohammed Bu Washl",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Mohamed Kanno",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Hassan bin Kadish bin Yahya Mahbub",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Ali Majrashi",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Sultan Ahmed Mandash",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Ayman Yahya",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Jehad Thakri",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -11294,22 +11580,6 @@
         }
       }
     },
-    "1417974": {
-      "home_team": "DR Congo",
-      "away_team": "Uzbekistan",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417973": {
       "home_team": "Colombia",
       "away_team": "Portugal",
@@ -11326,9 +11596,9 @@
         }
       }
     },
-    "1417968": {
-      "home_team": "Algeria",
-      "away_team": "Austria",
+    "1417974": {
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
       "lineups": {
         "home": {
           "formation": "",
@@ -11345,6 +11615,22 @@
     "1417967": {
       "home_team": "Jordan",
       "away_team": "Argentina",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417968": {
+      "home_team": "Algeria",
+      "away_team": "Austria",
       "lineups": {
         "home": {
           "formation": "",
@@ -11393,5 +11679,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-21T13:04:21Z"
+  "last_updated": "2026-06-21T15:23:52Z"
 }
