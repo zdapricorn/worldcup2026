@@ -11381,7 +11381,7 @@
       "away_team": "Cape Verde",
       "lineups": {
         "home": {
-          "formation": "4-2-3-1",
+          "formation": "4-1-4-1",
           "starting_xi": [
             {
               "number": 23,
@@ -11414,12 +11414,6 @@
               "grid": "2:1"
             },
             {
-              "number": 6,
-              "name": "Rodrigo Bentancur",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
               "number": 5,
               "name": "Manuel Ugarte",
               "pos": 3,
@@ -11429,11 +11423,17 @@
               "number": 20,
               "name": "Maximiliano Araújo",
               "pos": 3,
-              "grid": "4:3"
+              "grid": "4:4"
             },
             {
               "number": 8,
               "name": "Federico Valverde",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 6,
+              "name": "Rodrigo Bentancur",
               "pos": 3,
               "grid": "4:2"
             },
@@ -11570,14 +11570,14 @@
               "grid": "4:3"
             },
             {
-              "number": 20,
-              "name": "Ryan Mendes",
+              "number": 18,
+              "name": "Arcanjo",
               "pos": 3,
               "grid": "4:2"
             },
             {
-              "number": 18,
-              "name": "Arcanjo",
+              "number": 20,
+              "name": "Ryan Mendes",
               "pos": 3,
               "grid": "4:1"
             },
@@ -11812,9 +11812,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -11828,9 +11828,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -11876,9 +11876,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -11892,9 +11892,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -12068,9 +12068,9 @@
         }
       }
     },
-    "1417950": {
-      "home_team": "Egypt",
-      "away_team": "Iran",
+    "1417949": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
       "lineups": {
         "home": {
           "formation": "",
@@ -12084,9 +12084,9 @@
         }
       }
     },
-    "1417949": {
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
+    "1417950": {
+      "home_team": "Egypt",
+      "away_team": "Iran",
       "lineups": {
         "home": {
           "formation": "",
@@ -12231,5 +12231,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-21T21:55:27Z"
+  "last_updated": "2026-06-21T23:08:46Z"
 }

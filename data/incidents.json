@@ -1760,6 +1760,80 @@
         "period": "2"
       }
     ],
+    "1417930": [
+      {
+        "minute": 11,
+        "type": 39,
+        "player": "C. Burgess",
+        "number": 21,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 16,
+        "type": 43,
+        "player": "J. Bos",
+        "number": 5,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 32,
+        "type": 43,
+        "player": "A. Circati",
+        "number": 3,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 43,
+        "type": 36,
+        "player": "A. Freeman",
+        "number": 16,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 56,
+        "type": 43,
+        "player": "A. Robinson",
+        "number": 5,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 88,
+        "type": 43,
+        "player": "H. Souttar",
+        "number": 19,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 89,
+        "type": 43,
+        "player": "F. Balogun",
+        "number": 20,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 89,
+        "type": 43,
+        "player": "J. Italiano",
+        "number": 4,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "C. Richards",
+        "number": 3,
+        "score": "",
+        "period": "2"
+      }
+    ],
     "1417924": [
       {
         "minute": 2,
@@ -2316,5 +2390,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-21T21:56:16Z"
+  "last_updated": "2026-06-21T23:09:39Z"
 }
