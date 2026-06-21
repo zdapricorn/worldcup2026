@@ -2271,8 +2271,90 @@
         "score": "0-4",
         "period": "2"
       }
+    ],
+    "1417954": [
+      {
+        "minute": 10,
+        "type": 36,
+        "player": "Lamine Yamal",
+        "number": 19,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 10,
+        "type": 63,
+        "player": "Mikel Oyarzabal",
+        "number": 21,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 36,
+        "player": "Mikel Oyarzabal",
+        "number": 21,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 63,
+        "player": "Aymeric Laporte",
+        "number": 14,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 24,
+        "type": 36,
+        "player": "Mikel Oyarzabal",
+        "number": 21,
+        "score": "3-0",
+        "period": "1"
+      },
+      {
+        "minute": 24,
+        "type": 63,
+        "player": "Dani Olmo",
+        "number": 10,
+        "score": "3-0",
+        "period": "1"
+      },
+      {
+        "minute": 30,
+        "type": 43,
+        "player": "Salem Al Dawsari",
+        "number": 10,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 49,
+        "type": 39,
+        "player": "Hassan Al Tambakti",
+        "number": 5,
+        "score": "4-0",
+        "period": "2"
+      },
+      {
+        "minute": 60,
+        "type": 43,
+        "player": "Mohamed Kanno",
+        "number": 23,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 62,
+        "player": "Ferran Torres",
+        "number": 7,
+        "score": "4-0",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-21T17:03:59Z"
+  "last_updated": "2026-06-21T19:00:28Z"
 }

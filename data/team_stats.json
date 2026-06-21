@@ -382,17 +382,18 @@
       "win_rate": 0.0
     },
     "saudi-arabia": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 1,
-      "losses": 0,
+      "losses": 1,
       "goals_for": 1,
-      "goals_against": 1,
+      "goals_against": 5,
       "form": [
-        "D"
+        "D",
+        "L"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 1.0,
+      "avg_goals_for": 0.5,
+      "avg_goals_against": 2.5,
       "win_rate": 0.0
     },
     "uruguay": {
@@ -618,8 +619,22 @@
       "avg_goals_for": 0.0,
       "avg_goals_against": 0.0,
       "win_rate": 0.0
+    },
+    "spain": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 4,
+      "goals_against": 0,
+      "form": [
+        "W"
+      ],
+      "avg_goals_for": 4.0,
+      "avg_goals_against": 0.0,
+      "win_rate": 100.0
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-21T17:03:59Z"
+  "last_updated": "2026-06-21T19:00:28Z"
 }
