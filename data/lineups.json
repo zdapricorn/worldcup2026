@@ -11381,14 +11381,290 @@
       "away_team": "Cape Verde",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 23,
+              "name": "Fernando Muslera",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 25,
+              "name": "Juan Sanabria",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 16,
+              "name": "Mathías Olivera",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 3,
+              "name": "Sebastián Cáceres",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 13,
+              "name": "Guillermo Varela",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 6,
+              "name": "Rodrigo Bentancur",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 5,
+              "name": "Manuel Ugarte",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 20,
+              "name": "Maximiliano Araújo",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 8,
+              "name": "Federico Valverde",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 14,
+              "name": "Agustín Canobbio",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 21,
+              "name": "Federico Vinas",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 19,
+              "name": "Rodrigo Aguirre",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Santiago Bueno",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "José María Giménez",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Emiliano Martínez",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Santiago Mele",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Darwin Núñez",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Facundo Pellistri",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Joaquin Piquerez",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Sergio Rochet",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Brian Rodriguez",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Matias Vina",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Rodrigo Zalazar",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Nicolás de la Cruz",
+              "pos": 5
+            }
+          ]
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-1-4-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Josimar Diaz Vozinha",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 13,
+              "name": "Sidny Lopes Cabral",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 3,
+              "name": "Diney Borges",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Roberto Lopes",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 22,
+              "name": "Steven Moreira",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 6,
+              "name": "Kevin Pina",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 11,
+              "name": "Garry Rodrigues",
+              "pos": 3,
+              "grid": "4:4"
+            },
+            {
+              "number": 10,
+              "name": "Jamiro Monteiro",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 20,
+              "name": "Ryan Mendes",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 18,
+              "name": "Arcanjo",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 9,
+              "name": "Gilson Tavares",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 23,
+              "name": "CJ Dos Santos",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Jovane Cabral",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Márcio Rosa",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Wagner Pina",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Logan Costa",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "João Paulo",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Helio Varela",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Dailon Rocha Livramento",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Willy Semedo",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Jair Semedo Monteiro",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Kelvin Pires",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Deroy Duarte",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Laros Duarte",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Nuno Da Costa",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Ianique dos Santos Tavares",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -11792,9 +12068,9 @@
         }
       }
     },
-    "1417949": {
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
+    "1417950": {
+      "home_team": "Egypt",
+      "away_team": "Iran",
       "lineups": {
         "home": {
           "formation": "",
@@ -11808,9 +12084,9 @@
         }
       }
     },
-    "1417950": {
-      "home_team": "Egypt",
-      "away_team": "Iran",
+    "1417949": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
       "lineups": {
         "home": {
           "formation": "",
@@ -11955,5 +12231,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-21T20:27:45Z"
+  "last_updated": "2026-06-21T21:55:27Z"
 }

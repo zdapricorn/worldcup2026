@@ -326,17 +326,18 @@
       "win_rate": 0.0
     },
     "belgium": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
       "goals_for": 1,
       "goals_against": 1,
       "form": [
+        "D",
         "D"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 1.0,
+      "avg_goals_for": 0.5,
+      "avg_goals_against": 0.5,
       "win_rate": 0.0
     },
     "egypt": {
@@ -354,17 +355,18 @@
       "win_rate": 0.0
     },
     "iran": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
       "goals_for": 2,
       "goals_against": 2,
       "form": [
+        "D",
         "D"
       ],
-      "avg_goals_for": 2.0,
-      "avg_goals_against": 2.0,
+      "avg_goals_for": 1.0,
+      "avg_goals_against": 1.0,
       "win_rate": 0.0
     },
     "new-zealand": {
@@ -636,5 +638,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-21T20:28:28Z"
+  "last_updated": "2026-06-21T21:56:16Z"
 }
