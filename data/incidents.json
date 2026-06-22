@@ -2387,8 +2387,82 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417953": [
+      {
+        "minute": 5,
+        "type": 43,
+        "player": "Sidny Cabral",
+        "number": 13,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 20,
+        "type": 43,
+        "player": "R. Bentancur",
+        "number": 6,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 36,
+        "player": "Kevin Pina",
+        "number": 6,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 44,
+        "type": 36,
+        "player": "M. Araújo",
+        "number": 20,
+        "score": "1-1",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 36,
+        "player": "A. Canobbio",
+        "number": 14,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 63,
+        "player": "M. Araújo",
+        "number": 20,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 58,
+        "type": 43,
+        "player": "M. Olivera",
+        "number": 16,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 61,
+        "type": 36,
+        "player": "Hélio Varela",
+        "number": 26,
+        "score": "2-2",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Diney Borges",
+        "number": 3,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-21T23:09:39Z"
+  "last_updated": "2026-06-22T02:02:14Z"
 }
