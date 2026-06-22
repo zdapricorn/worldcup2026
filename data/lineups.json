@@ -12277,14 +12277,300 @@
       "away_team": "Iraq",
       "lineups": {
         "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 16,
+              "name": "Mike Maignan",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 3,
+              "name": "Lucas Digne",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 17,
+              "name": "William Saliba",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Dayot Upamecano",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 5,
+              "name": "Jules Koundé",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 14,
+              "name": "Adrien Rabiot",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 6,
+              "name": "Manu Koné",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 12,
+              "name": "Bradley Barcola",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 11,
+              "name": "Michael Olise",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 7,
+              "name": "Ousmane Dembélé",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 10,
+              "name": "Kylian Mbappé",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 25,
+              "name": "Maghnes Akliouche",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Rayan Cherki",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Désiré Doué",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Malo Gusto",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Lucas Hernández",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Theo Hernández",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "N'Golo Kanté",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Ibrahima Konaté",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Maxence Lacroix",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Jean-Philippe Mateta",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Robin Risser",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Brice Samba",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Aurélien Tchouaméni",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Marcus Thuram",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Warren Zaïre-Emery",
+              "pos": 5
+            }
+          ]
         },
         "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
+          "formation": "4-1-4-1",
+          "starting_xi": [
+            {
+              "number": 22,
+              "name": "Ahmed Basil",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 23,
+              "name": "Merchas Doski",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 5,
+              "name": "Akam Hashim",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Zaid Tahseen",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 3,
+              "name": "Hussein Ali",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 16,
+              "name": "Amir Al-Ammari",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 8,
+              "name": "Ibrahim Bayesh",
+              "pos": 3,
+              "grid": "4:4"
+            },
+            {
+              "number": 14,
+              "name": "Zidane Iqbal",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 24,
+              "name": "Zaid Ismael",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 11,
+              "name": "Ahmed Qasem",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 18,
+              "name": "Aymen Hussein",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 2,
+              "name": "Rebin Sulaka",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Ahmed Hasan Maknzi Al Deeshawee",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Ali Al-Hamadi",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Mustafa Saadoon",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Mohamed Ali",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Jasmin Elaibi Ali Jassim",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Manaf Younis Hashim Al Tekreeti",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Youssef Amyn",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Marko Farji",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Jalal Hassan",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Frans Putros",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Ali Yousif",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Fahad Talib",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Aimar Sher",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Kevin Yakob",
+              "pos": 5
+            }
+          ]
         }
       }
     },
@@ -12803,5 +13089,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-22T19:23:11Z"
+  "last_updated": "2026-06-22T21:38:51Z"
 }
