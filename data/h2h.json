@@ -856,13 +856,13 @@
     ],
     "1417959": [
       {
-        "date": "20060301",
+        "date": "20060228",
         "home": "Senegal",
         "away": "Norway",
         "home_score": 2,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2006",
+        "competition": "Senegal",
         "status": "FT"
       }
     ],
@@ -902,18 +902,6 @@
         "status": "FT"
       }
     ],
-    "1417919": [
-      {
-        "date": "20020515",
-        "home": "Switzerland",
-        "away": "Canada",
-        "home_score": 1,
-        "away_score": 3,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      }
-    ],
     "1417920": [
       {
         "date": "20100810",
@@ -921,6 +909,18 @@
         "away": "Qatar",
         "home_score": 1,
         "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1417919": [
+      {
+        "date": "20020515",
+        "home": "Switzerland",
+        "away": "Canada",
+        "home_score": 1,
+        "away_score": 3,
         "stage": "Friendlies",
         "competition": "Friendlies 1",
         "status": "FT"
@@ -1096,5 +1096,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-22T02:01:57Z"
+  "last_updated": "2026-06-22T15:50:31Z"
 }
