@@ -13782,7 +13782,7 @@
       "away_team": "Croatia",
       "lineups": {
         "home": {
-          "formation": "3-4-3",
+          "formation": "5-4-1",
           "starting_xi": [
             {
               "number": 22,
@@ -13794,23 +13794,35 @@
               "number": 16,
               "name": "Andres Andrade",
               "pos": 2,
-              "grid": "2:3"
+              "grid": "2:4"
             },
             {
               "number": 3,
               "name": "José Córdoba",
               "pos": 2,
-              "grid": "2:2"
+              "grid": "2:3"
             },
             {
               "number": 13,
               "name": "Jiovany Ramos",
               "pos": 2,
-              "grid": "2:1"
+              "grid": "2:2"
             },
             {
               "number": 2,
               "name": "César Blackman",
+              "pos": 3,
+              "grid": "2:5"
+            },
+            {
+              "number": 23,
+              "name": "Amir Murillo",
+              "pos": 3,
+              "grid": "2:1"
+            },
+            {
+              "number": 7,
+              "name": "José Luis Rodríguez",
               "pos": 3,
               "grid": "3:4"
             },
@@ -13827,26 +13839,14 @@
               "grid": "3:2"
             },
             {
-              "number": 23,
-              "name": "Amir Murillo",
+              "number": 6,
+              "name": "Cristian Martínez",
               "pos": 3,
               "grid": "3:1"
             },
             {
-              "number": 7,
-              "name": "José Luis Rodríguez",
-              "pos": 4,
-              "grid": "4:3"
-            },
-            {
               "number": 17,
               "name": "José Fajardo",
-              "pos": 4,
-              "grid": "4:2"
-            },
-            {
-              "number": 6,
-              "name": "Cristian Martínez",
               "pos": 4,
               "grid": "4:1"
             }
@@ -14351,9 +14351,9 @@
         }
       }
     },
-    "1417949": {
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
+    "1417950": {
+      "home_team": "Egypt",
+      "away_team": "Iran",
       "lineups": {
         "home": {
           "formation": "",
@@ -14367,9 +14367,9 @@
         }
       }
     },
-    "1417950": {
-      "home_team": "Egypt",
-      "away_team": "Iran",
+    "1417949": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
       "lineups": {
         "home": {
           "formation": "",
@@ -14415,22 +14415,6 @@
         }
       }
     },
-    "1417974": {
-      "home_team": "DR Congo",
-      "away_team": "Uzbekistan",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417973": {
       "home_team": "Colombia",
       "away_team": "Portugal",
@@ -14447,9 +14431,9 @@
         }
       }
     },
-    "1417968": {
-      "home_team": "Algeria",
-      "away_team": "Austria",
+    "1417974": {
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
       "lineups": {
         "home": {
           "formation": "",
@@ -14466,6 +14450,22 @@
     "1417967": {
       "home_team": "Jordan",
       "away_team": "Argentina",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417968": {
+      "home_team": "Algeria",
+      "away_team": "Austria",
       "lineups": {
         "home": {
           "formation": "",
@@ -14525,5 +14525,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-23T22:10:00Z"
+  "last_updated": "2026-06-23T23:35:54Z"
 }
