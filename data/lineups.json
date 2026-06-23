@@ -13377,14 +13377,14 @@
               "grid": "3:1"
             },
             {
-              "number": 19,
-              "name": "Azizjon Ganiev",
+              "number": 22,
+              "name": "Abbosbek Fayzullaev",
               "pos": 3,
               "grid": "4:2"
             },
             {
-              "number": 22,
-              "name": "Abbosbek Fayzullaev",
+              "number": 19,
+              "name": "Azizjon Ganiev",
               "pos": 3,
               "grid": "4:1"
             },
@@ -13523,9 +13523,9 @@
         }
       }
     },
-    "1417919": {
-      "home_team": "Switzerland",
-      "away_team": "Canada",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
           "formation": "",
@@ -13539,9 +13539,9 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
+    "1417919": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
       "lineups": {
         "home": {
           "formation": "",
@@ -13587,9 +13587,9 @@
         }
       }
     },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
+    "1417913": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
       "lineups": {
         "home": {
           "formation": "",
@@ -13603,9 +13603,9 @@
         }
       }
     },
-    "1417913": {
-      "home_team": "Czechia",
-      "away_team": "Mexico",
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
       "lineups": {
         "home": {
           "formation": "",
@@ -13651,22 +13651,6 @@
         }
       }
     },
-    "1417943": {
-      "home_team": "Tunisia",
-      "away_team": "Netherlands",
-      "lineups": {
-        "home": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        },
-        "away": {
-          "formation": "",
-          "starting_xi": [],
-          "substitutes": []
-        }
-      }
-    },
     "1417944": {
       "home_team": "Japan",
       "away_team": "Sweden",
@@ -13683,9 +13667,9 @@
         }
       }
     },
-    "1417932": {
-      "home_team": "Paraguay",
-      "away_team": "Australia",
+    "1417943": {
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
       "lineups": {
         "home": {
           "formation": "",
@@ -13702,6 +13686,22 @@
     "1417931": {
       "home_team": "Turkiye",
       "away_team": "USA",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        },
+        "away": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
+    },
+    "1417932": {
+      "home_team": "Paraguay",
+      "away_team": "Australia",
       "lineups": {
         "home": {
           "formation": "",
@@ -13953,5 +13953,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-23T16:26:15Z"
+  "last_updated": "2026-06-23T18:20:32Z"
 }
