@@ -902,6 +902,18 @@
         "status": "FT"
       }
     ],
+    "1417919": [
+      {
+        "date": "20020514",
+        "home": "Switzerland",
+        "away": "Canada",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "Internationals 2002",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
     "1417920": [
       {
         "date": "20100810",
@@ -921,18 +933,6 @@
         "away_score": 0,
         "stage": "Internationals 2000",
         "competition": "Qatar",
-        "status": "FT"
-      }
-    ],
-    "1417919": [
-      {
-        "date": "20020514",
-        "home": "Switzerland",
-        "away": "Canada",
-        "home_score": 1,
-        "away_score": 3,
-        "stage": "Internationals 2002",
-        "competition": "",
         "status": "FT"
       }
     ],
@@ -1106,5 +1106,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-23T20:32:33Z"
+  "last_updated": "2026-06-23T22:10:33Z"
 }

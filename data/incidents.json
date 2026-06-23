@@ -2897,8 +2897,26 @@
         "score": "5-0",
         "period": "2"
       }
+    ],
+    "1417977": [
+      {
+        "minute": 41,
+        "type": 43,
+        "player": "D. Rice",
+        "number": 4,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 60,
+        "type": 43,
+        "player": "I. Williams",
+        "number": 19,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-23T20:32:54Z"
+  "last_updated": "2026-06-23T22:10:56Z"
 }
