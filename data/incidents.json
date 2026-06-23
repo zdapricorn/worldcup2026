@@ -2617,8 +2617,66 @@
         "score": "2-0",
         "period": "2"
       }
+    ],
+    "1417960": [
+      {
+        "minute": 6,
+        "type": 43,
+        "player": "Amir Al Ammari",
+        "number": 16,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 14,
+        "type": 36,
+        "player": "K. Mbappé",
+        "number": 10,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 14,
+        "type": 63,
+        "player": "M. Olise",
+        "number": 11,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 54,
+        "type": 36,
+        "player": "K. Mbappé",
+        "number": 10,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 54,
+        "type": 63,
+        "player": "O. Dembélé",
+        "number": 7,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 66,
+        "type": 36,
+        "player": "O. Dembélé",
+        "number": 7,
+        "score": "3-0",
+        "period": "2"
+      },
+      {
+        "minute": 66,
+        "type": 63,
+        "player": "M. Olise",
+        "number": 11,
+        "score": "3-0",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-22T23:17:21Z"
+  "last_updated": "2026-06-23T01:31:09Z"
 }

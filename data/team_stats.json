@@ -415,17 +415,18 @@
       "win_rate": 0.0
     },
     "france": {
-      "played": 1,
-      "wins": 1,
+      "played": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "goals_for": 3,
+      "goals_for": 6,
       "goals_against": 1,
       "form": [
+        "W",
         "W"
       ],
       "avg_goals_for": 3.0,
-      "avg_goals_against": 1.0,
+      "avg_goals_against": 0.5,
       "win_rate": 100.0
     },
     "senegal": {
@@ -443,17 +444,18 @@
       "win_rate": 0.0
     },
     "iraq": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "goals_for": 1,
-      "goals_against": 4,
+      "goals_against": 7,
       "form": [
+        "L",
         "L"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 4.0,
+      "avg_goals_for": 0.5,
+      "avg_goals_against": 3.5,
       "win_rate": 0.0
     },
     "norway": {
@@ -642,5 +644,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-22T23:17:21Z"
+  "last_updated": "2026-06-23T01:31:09Z"
 }
