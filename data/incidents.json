@@ -2815,8 +2815,90 @@
         "score": "1-2",
         "period": "2"
       }
+    ],
+    "1417972": [
+      {
+        "minute": 6,
+        "type": 36,
+        "player": "Cristiano Ronaldo",
+        "number": 7,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 6,
+        "type": 63,
+        "player": "João Cancelo",
+        "number": 20,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 14,
+        "type": 43,
+        "player": "O. Khamrobekov",
+        "number": 9,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 17,
+        "type": 36,
+        "player": "Nuno Mendes",
+        "number": 25,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 29,
+        "type": 62,
+        "player": "A. G'aniev",
+        "number": 19,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 39,
+        "type": 36,
+        "player": "Cristiano Ronaldo",
+        "number": 7,
+        "score": "3-0",
+        "period": "1"
+      },
+      {
+        "minute": 39,
+        "type": 63,
+        "player": "Bruno Fernandes",
+        "number": 8,
+        "score": "3-0",
+        "period": "1"
+      },
+      {
+        "minute": 60,
+        "type": 39,
+        "player": "A. Nematov",
+        "number": 12,
+        "score": "4-0",
+        "period": "2"
+      },
+      {
+        "minute": 68,
+        "type": 43,
+        "player": "Renato Veiga",
+        "number": 13,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 87,
+        "type": 36,
+        "player": "Rafael Leão",
+        "number": 17,
+        "score": "5-0",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-23T18:21:28Z"
+  "last_updated": "2026-06-23T20:32:54Z"
 }
