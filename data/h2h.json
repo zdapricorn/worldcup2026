@@ -897,6 +897,18 @@
         "away": "Ghana",
         "home_score": 1,
         "away_score": 1,
+        "stage": "Internationals 2011",
+        "competition": "England",
+        "status": "FT"
+      }
+    ],
+    "1417920": [
+      {
+        "date": "20100810",
+        "home": "Bosnia and Herzegovina",
+        "away": "Qatar",
+        "home_score": 1,
+        "away_score": 1,
         "stage": "Friendlies",
         "competition": "Friendlies 1",
         "status": "FT"
@@ -909,18 +921,6 @@
         "away": "Canada",
         "home_score": 1,
         "away_score": 3,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      }
-    ],
-    "1417920": [
-      {
-        "date": "20100810",
-        "home": "Bosnia and Herzegovina",
-        "away": "Qatar",
-        "home_score": 1,
-        "away_score": 1,
         "stage": "Friendlies",
         "competition": "Friendlies 1",
         "status": "FT"
@@ -1096,5 +1096,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-23T01:30:48Z"
+  "last_updated": "2026-06-23T13:43:39Z"
 }

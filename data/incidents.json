@@ -2675,8 +2675,148 @@
         "score": "3-0",
         "period": "2"
       }
+    ],
+    "1417959": [
+      {
+        "minute": 43,
+        "type": 36,
+        "player": "M. Pedersen",
+        "number": 16,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 48,
+        "type": 36,
+        "player": "E. Haaland",
+        "number": 9,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 48,
+        "type": 63,
+        "player": "M. Ødegaard",
+        "number": 10,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 53,
+        "type": 36,
+        "player": "I. Sarr",
+        "number": 18,
+        "score": "2-1",
+        "period": "2"
+      },
+      {
+        "minute": 53,
+        "type": 63,
+        "player": "S. Mané",
+        "number": 10,
+        "score": "2-1",
+        "period": "2"
+      },
+      {
+        "minute": 58,
+        "type": 36,
+        "player": "E. Haaland",
+        "number": 9,
+        "score": "3-1",
+        "period": "2"
+      },
+      {
+        "minute": 58,
+        "type": 63,
+        "player": "P. Berg",
+        "number": 6,
+        "score": "3-1",
+        "period": "2"
+      },
+      {
+        "minute": 84,
+        "type": 4,
+        "player": "T. Heggem",
+        "number": 17,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 84,
+        "type": 5,
+        "player": "L. Østigård",
+        "number": 4,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "I. Sarr",
+        "number": 18,
+        "score": "3-2",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 63,
+        "player": "N. Jackson",
+        "number": 11,
+        "score": "3-2",
+        "period": "2"
+      }
+    ],
+    "1417965": [
+      {
+        "minute": 36,
+        "type": 36,
+        "player": "Nizar Al Rashdan",
+        "number": 21,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 44,
+        "type": 43,
+        "player": "R. Zerrouki",
+        "number": 6,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 64,
+        "type": 43,
+        "player": "Husam Abu Dahab",
+        "number": 4,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 69,
+        "type": 36,
+        "player": "N. Benbouali",
+        "number": 12,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 69,
+        "type": 63,
+        "player": "R. Mahrez",
+        "number": 7,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 82,
+        "type": 36,
+        "player": "A. Gouiri",
+        "number": 9,
+        "score": "1-2",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-23T01:31:09Z"
+  "last_updated": "2026-06-23T13:44:01Z"
 }
