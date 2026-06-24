@@ -579,18 +579,19 @@
       "win_rate": 50.0
     },
     "croatia": {
-      "played": 1,
-      "wins": 0,
+      "played": 2,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
-      "goals_for": 2,
+      "goals_for": 3,
       "goals_against": 4,
       "form": [
-        "L"
+        "L",
+        "W"
       ],
-      "avg_goals_for": 2.0,
-      "avg_goals_against": 4.0,
-      "win_rate": 0.0
+      "avg_goals_for": 1.5,
+      "avg_goals_against": 2.0,
+      "win_rate": 50.0
     },
     "ghana": {
       "played": 2,
@@ -608,13 +609,14 @@
       "win_rate": 50.0
     },
     "panama": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "goals_for": 0,
-      "goals_against": 1,
+      "goals_against": 2,
       "form": [
+        "L",
         "L"
       ],
       "avg_goals_for": 0.0,
@@ -665,5 +667,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-23T23:36:49Z"
+  "last_updated": "2026-06-24T13:18:48Z"
 }

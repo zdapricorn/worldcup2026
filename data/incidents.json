@@ -2915,8 +2915,84 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417976": [
+      {
+        "minute": 54,
+        "type": 36,
+        "player": "A. Budimir",
+        "number": 11,
+        "score": "0-1",
+        "period": "2"
+      },
+      {
+        "minute": 54,
+        "type": 63,
+        "player": "J. Stanišić",
+        "number": 2,
+        "score": "0-1",
+        "period": "2"
+      },
+      {
+        "minute": 61,
+        "type": 43,
+        "player": "Y. Bárcenas",
+        "number": 11,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "P. Sučić",
+        "number": 17,
+        "score": "",
+        "period": "2"
+      }
+    ],
+    "1417971": [
+      {
+        "minute": 56,
+        "type": 43,
+        "player": "J. Lucumí",
+        "number": 3,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 76,
+        "type": 36,
+        "player": "D. Muñoz",
+        "number": 2,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 76,
+        "type": 63,
+        "player": "J. Quintero",
+        "number": 20,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "C. Pickel",
+        "number": 18,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "J. Lerma",
+        "number": 16,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-23T23:36:49Z"
+  "last_updated": "2026-06-24T13:18:48Z"
 }
