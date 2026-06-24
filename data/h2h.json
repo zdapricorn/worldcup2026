@@ -842,42 +842,6 @@
         "status": "FT"
       }
     ],
-    "1417966": [
-      {
-        "date": "19900503",
-        "home": "Austria",
-        "away": "Argentina",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Internationals 1990",
-        "competition": "",
-        "status": "FT"
-      }
-    ],
-    "1417959": [
-      {
-        "date": "20060228",
-        "home": "Senegal",
-        "away": "Norway",
-        "home_score": 2,
-        "away_score": 1,
-        "stage": "Internationals 2006",
-        "competition": "Senegal",
-        "status": "FT"
-      }
-    ],
-    "1417965": [
-      {
-        "date": "20040530",
-        "home": "Algeria",
-        "away": "Jordan",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
-        "status": "FT"
-      }
-    ],
     "1417972": [
       {
         "date": "20120918",
@@ -1158,5 +1122,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-24T17:51:47Z"
+  "last_updated": "2026-06-24T19:41:41Z"
 }
