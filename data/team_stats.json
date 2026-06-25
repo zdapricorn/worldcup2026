@@ -123,62 +123,66 @@
       "win_rate": 66.7
     },
     "brazil": {
+      "played": 3,
+      "wins": 2,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 7,
+      "goals_against": 1,
+      "form": [
+        "D",
+        "W",
+        "W"
+      ],
+      "avg_goals_for": 2.33,
+      "avg_goals_against": 0.33,
+      "win_rate": 66.7
+    },
+    "morocco": {
       "played": 2,
       "wins": 1,
       "draws": 1,
       "losses": 0,
-      "goals_for": 4,
-      "goals_against": 1,
+      "goals_for": 5,
+      "goals_against": 3,
       "form": [
         "D",
         "W"
       ],
-      "avg_goals_for": 2.0,
-      "avg_goals_against": 0.5,
+      "avg_goals_for": 2.5,
+      "avg_goals_against": 1.5,
       "win_rate": 50.0
     },
-    "morocco": {
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "losses": 0,
-      "goals_for": 1,
-      "goals_against": 1,
-      "form": [
-        "D"
-      ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 1.0,
-      "win_rate": 0.0
-    },
     "haiti": {
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 0,
-      "losses": 2,
-      "goals_for": 0,
-      "goals_against": 4,
+      "losses": 3,
+      "goals_for": 2,
+      "goals_against": 8,
       "form": [
+        "L",
         "L",
         "L"
       ],
-      "avg_goals_for": 0.0,
-      "avg_goals_against": 2.0,
+      "avg_goals_for": 0.67,
+      "avg_goals_against": 2.67,
       "win_rate": 0.0
     },
     "scotland": {
-      "played": 1,
+      "played": 2,
       "wins": 1,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "goals_for": 1,
-      "goals_against": 0,
+      "goals_against": 3,
       "form": [
-        "W"
+        "W",
+        "L"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 0.0,
-      "win_rate": 100.0
+      "avg_goals_for": 0.5,
+      "avg_goals_against": 1.5,
+      "win_rate": 50.0
     },
     "usa": {
       "played": 2,
@@ -671,5 +675,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-24T22:46:47Z"
+  "last_updated": "2026-06-25T00:07:22Z"
 }

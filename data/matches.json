@@ -988,9 +988,9 @@
       "country": "Mexico",
       "group": "C",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 4,
+      "away_score": 2,
       "prediction": null,
       "ls_eid": "1417922",
       "ls_home_id": "9111",
@@ -1008,9 +1008,9 @@
       "country": "USA",
       "group": "C",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 0,
+      "away_score": 3,
       "prediction": null,
       "ls_eid": "1417925",
       "ls_home_id": "9029",
@@ -1949,5 +1949,5 @@
       "prediction": null
     }
   ],
-  "last_updated": "2026-06-24T22:45:47Z"
+  "last_updated": "2026-06-25T00:05:48Z"
 }
