@@ -1065,9 +1065,9 @@
       "country": "USA",
       "group": "E",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 2,
+      "away_score": 1,
       "prediction": null,
       "ls_eid": "1417937",
       "ls_home_id": "8973",
@@ -1949,5 +1949,5 @@
       "prediction": null
     }
   ],
-  "last_updated": "2026-06-25T20:30:10Z"
+  "last_updated": "2026-06-25T22:08:33Z"
 }

@@ -247,18 +247,19 @@
       "win_rate": 0.0
     },
     "germany": {
-      "played": 1,
+      "played": 2,
       "wins": 1,
       "draws": 0,
-      "losses": 0,
-      "goals_for": 7,
-      "goals_against": 1,
+      "losses": 1,
+      "goals_for": 8,
+      "goals_against": 3,
       "form": [
-        "W"
+        "W",
+        "L"
       ],
-      "avg_goals_for": 7.0,
-      "avg_goals_against": 1.0,
-      "win_rate": 100.0
+      "avg_goals_for": 4.0,
+      "avg_goals_against": 1.5,
+      "win_rate": 50.0
     },
     "curacao": {
       "played": 2,
@@ -634,18 +635,19 @@
       "win_rate": 0.0
     },
     "ecuador": {
-      "played": 1,
-      "wins": 0,
+      "played": 2,
+      "wins": 1,
       "draws": 1,
       "losses": 0,
-      "goals_for": 0,
-      "goals_against": 0,
+      "goals_for": 2,
+      "goals_against": 1,
       "form": [
-        "D"
+        "D",
+        "W"
       ],
-      "avg_goals_for": 0.0,
-      "avg_goals_against": 0.0,
-      "win_rate": 0.0
+      "avg_goals_for": 1.0,
+      "avg_goals_against": 0.5,
+      "win_rate": 50.0
     },
     "spain": {
       "played": 1,
@@ -677,5 +679,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-25T20:32:31Z"
+  "last_updated": "2026-06-25T22:10:42Z"
 }
