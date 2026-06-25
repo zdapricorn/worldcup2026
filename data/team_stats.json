@@ -1,16 +1,17 @@
 {
   "teams": {
     "mexico": {
-      "played": 1,
-      "wins": 1,
+      "played": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "goals_for": 2,
+      "goals_for": 5,
       "goals_against": 0,
       "form": [
+        "W",
         "W"
       ],
-      "avg_goals_for": 2.0,
+      "avg_goals_for": 2.5,
       "avg_goals_against": 0.0,
       "win_rate": 100.0
     },
@@ -44,18 +45,19 @@
       "win_rate": 100.0
     },
     "czechia": {
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "goals_for": 2,
-      "goals_against": 3,
+      "goals_against": 6,
       "form": [
         "L",
-        "D"
+        "D",
+        "L"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 1.5,
+      "avg_goals_for": 0.67,
+      "avg_goals_against": 2.0,
       "win_rate": 0.0
     },
     "canada": {
@@ -675,5 +677,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-25T00:07:22Z"
+  "last_updated": "2026-06-25T13:15:24Z"
 }
