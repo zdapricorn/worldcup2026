@@ -3312,40 +3312,6 @@
         "period": "2"
       }
     ],
-    "1417914": [
-      {
-        "minute": 63,
-        "type": 36,
-        "player": "T. Maseko",
-        "number": 12,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 63,
-        "type": 63,
-        "player": "T. Moremi",
-        "number": 8,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 73,
-        "type": 43,
-        "player": "A. Modiba",
-        "number": 6,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 79,
-        "type": 43,
-        "player": "Cho Gue-Sung",
-        "number": 9,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417913": [
       {
         "minute": 55,
@@ -3393,6 +3359,40 @@
         "player": "R. Alvarado",
         "number": 25,
         "score": "0-3",
+        "period": "2"
+      }
+    ],
+    "1417914": [
+      {
+        "minute": 63,
+        "type": 36,
+        "player": "T. Maseko",
+        "number": 12,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 63,
+        "type": 63,
+        "player": "T. Moremi",
+        "number": 8,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 73,
+        "type": 43,
+        "player": "A. Modiba",
+        "number": 6,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 79,
+        "type": 43,
+        "player": "Cho Gue-Sung",
+        "number": 9,
+        "score": "",
         "period": "2"
       }
     ],
@@ -3722,5 +3722,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-26T17:45:23Z"
+  "last_updated": "2026-06-26T19:43:39Z"
 }
