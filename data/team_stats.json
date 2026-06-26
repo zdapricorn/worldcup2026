@@ -187,64 +187,68 @@
       "win_rate": 50.0
     },
     "usa": {
-      "played": 2,
+      "played": 3,
       "wins": 2,
       "draws": 0,
-      "losses": 0,
-      "goals_for": 6,
-      "goals_against": 1,
+      "losses": 1,
+      "goals_for": 8,
+      "goals_against": 4,
       "form": [
         "W",
-        "W"
+        "W",
+        "L"
       ],
-      "avg_goals_for": 3.0,
-      "avg_goals_against": 0.5,
-      "win_rate": 100.0
+      "avg_goals_for": 2.67,
+      "avg_goals_against": 1.33,
+      "win_rate": 66.7
     },
     "paraguay": {
-      "played": 2,
+      "played": 3,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
       "goals_for": 2,
       "goals_against": 4,
       "form": [
         "L",
-        "W"
+        "W",
+        "D"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 2.0,
-      "win_rate": 50.0
+      "avg_goals_for": 0.67,
+      "avg_goals_against": 1.33,
+      "win_rate": 33.3
     },
     "australia": {
-      "played": 2,
+      "played": 3,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
       "goals_for": 2,
       "goals_against": 2,
       "form": [
         "W",
-        "L"
+        "L",
+        "D"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 1.0,
-      "win_rate": 50.0
+      "avg_goals_for": 0.67,
+      "avg_goals_against": 0.67,
+      "win_rate": 33.3
     },
     "turkiye": {
-      "played": 2,
-      "wins": 0,
+      "played": 3,
+      "wins": 1,
       "draws": 0,
       "losses": 2,
-      "goals_for": 0,
-      "goals_against": 3,
+      "goals_for": 3,
+      "goals_against": 5,
       "form": [
         "L",
-        "L"
+        "L",
+        "W"
       ],
-      "avg_goals_for": 0.0,
-      "avg_goals_against": 1.5,
-      "win_rate": 0.0
+      "avg_goals_for": 1.0,
+      "avg_goals_against": 1.67,
+      "win_rate": 33.3
     },
     "germany": {
       "played": 2,
@@ -277,63 +281,67 @@
       "win_rate": 0.0
     },
     "netherlands": {
-      "played": 2,
-      "wins": 1,
+      "played": 3,
+      "wins": 2,
       "draws": 1,
+      "losses": 0,
+      "goals_for": 10,
+      "goals_against": 4,
+      "form": [
+        "D",
+        "W",
+        "W"
+      ],
+      "avg_goals_for": 3.33,
+      "avg_goals_against": 1.33,
+      "win_rate": 66.7
+    },
+    "japan": {
+      "played": 3,
+      "wins": 1,
+      "draws": 2,
       "losses": 0,
       "goals_for": 7,
       "goals_against": 3,
       "form": [
         "D",
-        "W"
+        "W",
+        "D"
       ],
-      "avg_goals_for": 3.5,
-      "avg_goals_against": 1.5,
-      "win_rate": 50.0
-    },
-    "japan": {
-      "played": 2,
-      "wins": 1,
-      "draws": 1,
-      "losses": 0,
-      "goals_for": 6,
-      "goals_against": 2,
-      "form": [
-        "D",
-        "W"
-      ],
-      "avg_goals_for": 3.0,
+      "avg_goals_for": 2.33,
       "avg_goals_against": 1.0,
-      "win_rate": 50.0
+      "win_rate": 33.3
     },
     "sweden": {
-      "played": 2,
+      "played": 3,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "goals_for": 6,
-      "goals_against": 6,
+      "goals_for": 7,
+      "goals_against": 7,
       "form": [
         "W",
-        "L"
+        "L",
+        "D"
       ],
-      "avg_goals_for": 3.0,
-      "avg_goals_against": 3.0,
-      "win_rate": 50.0
+      "avg_goals_for": 2.33,
+      "avg_goals_against": 2.33,
+      "win_rate": 33.3
     },
     "tunisia": {
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 0,
-      "losses": 2,
-      "goals_for": 1,
-      "goals_against": 9,
+      "losses": 3,
+      "goals_for": 2,
+      "goals_against": 12,
       "form": [
+        "L",
         "L",
         "L"
       ],
-      "avg_goals_for": 0.5,
-      "avg_goals_against": 4.5,
+      "avg_goals_for": 0.67,
+      "avg_goals_against": 4.0,
       "win_rate": 0.0
     },
     "belgium": {
@@ -679,5 +687,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-25T23:53:11Z"
+  "last_updated": "2026-06-26T13:09:05Z"
 }
