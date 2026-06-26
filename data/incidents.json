@@ -3312,6 +3312,40 @@
         "period": "2"
       }
     ],
+    "1417914": [
+      {
+        "minute": 63,
+        "type": 36,
+        "player": "T. Maseko",
+        "number": 12,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 63,
+        "type": 63,
+        "player": "T. Moremi",
+        "number": 8,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 73,
+        "type": 43,
+        "player": "A. Modiba",
+        "number": 6,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 79,
+        "type": 43,
+        "player": "Cho Gue-Sung",
+        "number": 9,
+        "score": "",
+        "period": "2"
+      }
+    ],
     "1417913": [
       {
         "minute": 55,
@@ -3359,40 +3393,6 @@
         "player": "R. Alvarado",
         "number": 25,
         "score": "0-3",
-        "period": "2"
-      }
-    ],
-    "1417914": [
-      {
-        "minute": 63,
-        "type": 36,
-        "player": "T. Maseko",
-        "number": 12,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 63,
-        "type": 63,
-        "player": "T. Moremi",
-        "number": 8,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 73,
-        "type": 43,
-        "player": "A. Modiba",
-        "number": 6,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 79,
-        "type": 43,
-        "player": "Cho Gue-Sung",
-        "number": 9,
-        "score": "",
         "period": "2"
       }
     ],
@@ -3719,8 +3719,228 @@
         "score": "3-2",
         "period": "2"
       }
+    ],
+    "1417961": [
+      {
+        "minute": 7,
+        "type": 36,
+        "player": "O. Dembélé",
+        "number": 7,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 7,
+        "type": 63,
+        "player": "K. Mbappé",
+        "number": 10,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 10,
+        "type": 43,
+        "player": "P. Berg",
+        "number": 6,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 20,
+        "type": 36,
+        "player": "O. Dembélé",
+        "number": 7,
+        "score": "0-2",
+        "period": "1"
+      },
+      {
+        "minute": 20,
+        "type": 63,
+        "player": "K. Mbappé",
+        "number": 10,
+        "score": "0-2",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 36,
+        "player": "T. Aasgaard",
+        "number": 19,
+        "score": "1-2",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 63,
+        "player": "A. Schjelderup",
+        "number": 21,
+        "score": "1-2",
+        "period": "1"
+      },
+      {
+        "minute": 32,
+        "type": 36,
+        "player": "O. Dembélé",
+        "number": 7,
+        "score": "1-3",
+        "period": "1"
+      },
+      {
+        "minute": 32,
+        "type": 63,
+        "player": "A. Tchouaméni",
+        "number": 8,
+        "score": "1-3",
+        "period": "1"
+      },
+      {
+        "minute": 50,
+        "type": 38,
+        "player": "J. Strand Larsen",
+        "number": 11,
+        "score": "1-3",
+        "period": "2"
+      },
+      {
+        "minute": 74,
+        "type": 43,
+        "player": "A. Tchouaméni",
+        "number": 8,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "D. Doué",
+        "number": 20,
+        "score": "1-4",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 63,
+        "player": "B. Barcola",
+        "number": 12,
+        "score": "1-4",
+        "period": "2"
+      }
+    ],
+    "1417962": [
+      {
+        "minute": 4,
+        "type": 36,
+        "player": "H. Diarra",
+        "number": 21,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 13,
+        "type": 45,
+        "player": "Rebin Sulaka",
+        "number": 2,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 18,
+        "type": 43,
+        "player": "A. Seck",
+        "number": 4,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 56,
+        "type": 36,
+        "player": "I. Sarr",
+        "number": 18,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 56,
+        "type": 63,
+        "player": "L. Camara",
+        "number": 8,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 59,
+        "type": 36,
+        "player": "P. Gueye",
+        "number": 26,
+        "score": "3-0",
+        "period": "2"
+      },
+      {
+        "minute": 59,
+        "type": 63,
+        "player": "I. Sarr",
+        "number": 18,
+        "score": "3-0",
+        "period": "2"
+      },
+      {
+        "minute": 71,
+        "type": 36,
+        "player": "P. Gueye",
+        "number": 26,
+        "score": "4-0",
+        "period": "2"
+      },
+      {
+        "minute": 71,
+        "type": 63,
+        "player": "I. Ndiaye",
+        "number": 13,
+        "score": "4-0",
+        "period": "2"
+      },
+      {
+        "minute": 75,
+        "type": 43,
+        "player": "Amir Al Ammari",
+        "number": 16,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 81,
+        "type": 43,
+        "player": "P. Gueye",
+        "number": 26,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 82,
+        "type": 36,
+        "player": "I. Ndiaye",
+        "number": 13,
+        "score": "5-0",
+        "period": "2"
+      },
+      {
+        "minute": 82,
+        "type": 63,
+        "player": "P. Gueye",
+        "number": 26,
+        "score": "5-0",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Merchas Doski",
+        "number": 23,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-26T19:43:39Z"
+  "last_updated": "2026-06-26T21:17:15Z"
 }

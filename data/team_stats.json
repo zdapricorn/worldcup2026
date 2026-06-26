@@ -434,64 +434,68 @@
       "win_rate": 0.0
     },
     "france": {
-      "played": 2,
-      "wins": 2,
+      "played": 3,
+      "wins": 3,
       "draws": 0,
       "losses": 0,
-      "goals_for": 6,
-      "goals_against": 1,
+      "goals_for": 10,
+      "goals_against": 2,
       "form": [
+        "W",
         "W",
         "W"
       ],
-      "avg_goals_for": 3.0,
-      "avg_goals_against": 0.5,
+      "avg_goals_for": 3.33,
+      "avg_goals_against": 0.67,
       "win_rate": 100.0
     },
     "senegal": {
-      "played": 2,
-      "wins": 0,
+      "played": 3,
+      "wins": 1,
       "draws": 0,
       "losses": 2,
-      "goals_for": 3,
+      "goals_for": 8,
       "goals_against": 6,
       "form": [
         "L",
-        "L"
+        "L",
+        "W"
       ],
-      "avg_goals_for": 1.5,
-      "avg_goals_against": 3.0,
-      "win_rate": 0.0
+      "avg_goals_for": 2.67,
+      "avg_goals_against": 2.0,
+      "win_rate": 33.3
     },
     "iraq": {
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 0,
-      "losses": 2,
+      "losses": 3,
       "goals_for": 1,
-      "goals_against": 7,
+      "goals_against": 12,
       "form": [
+        "L",
         "L",
         "L"
       ],
-      "avg_goals_for": 0.5,
-      "avg_goals_against": 3.5,
+      "avg_goals_for": 0.33,
+      "avg_goals_against": 4.0,
       "win_rate": 0.0
     },
     "norway": {
-      "played": 2,
+      "played": 3,
       "wins": 2,
       "draws": 0,
-      "losses": 0,
-      "goals_for": 7,
-      "goals_against": 3,
+      "losses": 1,
+      "goals_for": 8,
+      "goals_against": 7,
       "form": [
         "W",
-        "W"
+        "W",
+        "L"
       ],
-      "avg_goals_for": 3.5,
-      "avg_goals_against": 1.5,
-      "win_rate": 100.0
+      "avg_goals_for": 2.67,
+      "avg_goals_against": 2.33,
+      "win_rate": 66.7
     },
     "argentina": {
       "played": 2,
@@ -687,5 +691,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-26T19:43:39Z"
+  "last_updated": "2026-06-26T21:17:15Z"
 }
