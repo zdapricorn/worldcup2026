@@ -1222,9 +1222,9 @@
       "country": "Canada",
       "group": "H",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 0,
+      "away_score": 1,
       "prediction": null,
       "ls_eid": "1417955",
       "ls_home_id": "9101",
@@ -1259,9 +1259,9 @@
       "country": "Mexico",
       "group": "G",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 1,
+      "away_score": 5,
       "prediction": null,
       "ls_eid": "1417949",
       "ls_home_id": "9237",
@@ -1279,9 +1279,9 @@
       "country": "Mexico",
       "group": "G",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 1,
+      "away_score": 1,
       "prediction": null,
       "ls_eid": "1417950",
       "ls_home_id": "9145",
@@ -1949,5 +1949,5 @@
       "prediction": null
     }
   ],
-  "last_updated": "2026-06-27T00:01:47Z"
+  "last_updated": "2026-06-27T12:06:20Z"
 }

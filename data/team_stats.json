@@ -345,43 +345,46 @@
       "win_rate": 0.0
     },
     "belgium": {
-      "played": 2,
-      "wins": 0,
+      "played": 3,
+      "wins": 1,
       "draws": 2,
       "losses": 0,
-      "goals_for": 1,
-      "goals_against": 1,
-      "form": [
-        "D",
-        "D"
-      ],
-      "avg_goals_for": 0.5,
-      "avg_goals_against": 0.5,
-      "win_rate": 0.0
-    },
-    "egypt": {
-      "played": 2,
-      "wins": 1,
-      "draws": 1,
-      "losses": 0,
-      "goals_for": 4,
+      "goals_for": 6,
       "goals_against": 2,
       "form": [
+        "D",
         "D",
         "W"
       ],
       "avg_goals_for": 2.0,
-      "avg_goals_against": 1.0,
-      "win_rate": 50.0
+      "avg_goals_against": 0.67,
+      "win_rate": 33.3
     },
-    "iran": {
-      "played": 2,
-      "wins": 0,
+    "egypt": {
+      "played": 3,
+      "wins": 1,
       "draws": 2,
       "losses": 0,
-      "goals_for": 2,
-      "goals_against": 2,
+      "goals_for": 5,
+      "goals_against": 3,
       "form": [
+        "D",
+        "W",
+        "D"
+      ],
+      "avg_goals_for": 1.67,
+      "avg_goals_against": 1.0,
+      "win_rate": 33.3
+    },
+    "iran": {
+      "played": 3,
+      "wins": 0,
+      "draws": 3,
+      "losses": 0,
+      "goals_for": 3,
+      "goals_against": 3,
+      "form": [
+        "D",
         "D",
         "D"
       ],
@@ -390,18 +393,19 @@
       "win_rate": 0.0
     },
     "new-zealand": {
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 1,
-      "losses": 1,
-      "goals_for": 3,
-      "goals_against": 5,
+      "losses": 2,
+      "goals_for": 4,
+      "goals_against": 10,
       "form": [
         "D",
+        "L",
         "L"
       ],
-      "avg_goals_for": 1.5,
-      "avg_goals_against": 2.5,
+      "avg_goals_for": 1.33,
+      "avg_goals_against": 3.33,
       "win_rate": 0.0
     },
     "saudi-arabia": {
@@ -420,16 +424,17 @@
       "win_rate": 0.0
     },
     "uruguay": {
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 1,
-      "losses": 0,
+      "losses": 1,
       "goals_for": 1,
-      "goals_against": 1,
+      "goals_against": 2,
       "form": [
-        "D"
+        "D",
+        "L"
       ],
-      "avg_goals_for": 1.0,
+      "avg_goals_for": 0.5,
       "avg_goals_against": 1.0,
       "win_rate": 0.0
     },
@@ -662,16 +667,17 @@
       "win_rate": 50.0
     },
     "spain": {
-      "played": 1,
-      "wins": 1,
+      "played": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "goals_for": 4,
+      "goals_for": 5,
       "goals_against": 0,
       "form": [
+        "W",
         "W"
       ],
-      "avg_goals_for": 4.0,
+      "avg_goals_for": 2.5,
       "avg_goals_against": 0.0,
       "win_rate": 100.0
     },
@@ -691,5 +697,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-27T00:03:33Z"
+  "last_updated": "2026-06-27T12:08:16Z"
 }

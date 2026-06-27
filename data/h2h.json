@@ -1341,8 +1341,20 @@
         "away": "Panama",
         "home_score": 6,
         "away_score": 1,
-        "stage": "World Cup Grp. G",
-        "competition": "World Championship 1",
+        "stage": "FIFA World Cup 2018 Russia",
+        "competition": "Russia",
+        "status": "FT"
+      }
+    ],
+    "1417968": [
+      {
+        "date": "19820621",
+        "home": "Algeria",
+        "away": "Austria",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "FIFA World Cup 1982 Spain",
+        "competition": "Spain",
         "status": "FT"
       }
     ],
@@ -1420,6 +1432,28 @@
         "status": "FT"
       }
     ],
+    "1691868": [
+      {
+        "date": "20130814",
+        "home": "Germany",
+        "away": "Paraguay",
+        "home_score": 3,
+        "away_score": 3,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20020615",
+        "home": "Germany",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "World Cup 1/8 finals",
+        "competition": "World Championship 1",
+        "status": "FT"
+      }
+    ],
     "1691869": [
       {
         "date": "20170531",
@@ -1427,6 +1461,88 @@
         "away": "Netherlands",
         "home_score": 1,
         "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
+    "1691871": [
+      {
+        "date": "20201117",
+        "home": "France",
+        "away": "Sweden",
+        "home_score": 4,
+        "away_score": 2,
+        "stage": "League A: Group 3",
+        "competition": "UEFA Nations League",
+        "status": "FT"
+      },
+      {
+        "date": "20200905",
+        "home": "Sweden",
+        "away": "France",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "League A: Group 3",
+        "competition": "UEFA Nations League",
+        "status": "FT"
+      },
+      {
+        "date": "20170609",
+        "home": "Sweden",
+        "away": "France",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "World Cup Qualification UEFA 1st Round Grp. A",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      },
+      {
+        "date": "20161111",
+        "home": "France",
+        "away": "Sweden",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "World Cup Qualification UEFA 1st Round Grp. A",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      },
+      {
+        "date": "20141118",
+        "home": "France",
+        "away": "Sweden",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20120619",
+        "home": "Sweden",
+        "away": "France",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "EURO Grp. D",
+        "competition": "European Championship 1",
+        "status": "FT"
+      },
+      {
+        "date": "20080820",
+        "home": "Sweden",
+        "away": "France",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20050209",
+        "home": "France",
+        "away": "Sweden",
+        "home_score": 1,
+        "away_score": 1,
         "stage": "Friendlies",
         "competition": "Friendlies 1",
         "status": "FT"
@@ -1463,8 +1579,20 @@
         "competition": "Friendlies 1",
         "status": "FT"
       }
+    ],
+    "1691881": [
+      {
+        "date": "20101117",
+        "home": "Egypt",
+        "away": "Australia",
+        "home_score": 3,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-27T00:03:04Z"
+  "last_updated": "2026-06-27T12:07:43Z"
 }
