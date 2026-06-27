@@ -592,19 +592,20 @@
       "win_rate": 100.0
     },
     "england": {
-      "played": 2,
-      "wins": 1,
+      "played": 3,
+      "wins": 2,
       "draws": 1,
       "losses": 0,
-      "goals_for": 4,
+      "goals_for": 6,
       "goals_against": 2,
       "form": [
         "W",
-        "D"
+        "D",
+        "W"
       ],
       "avg_goals_for": 2.0,
-      "avg_goals_against": 1.0,
-      "win_rate": 50.0
+      "avg_goals_against": 0.67,
+      "win_rate": 66.7
     },
     "croatia": {
       "played": 2,
@@ -637,18 +638,19 @@
       "win_rate": 50.0
     },
     "panama": {
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 0,
-      "losses": 2,
+      "losses": 3,
       "goals_for": 0,
-      "goals_against": 2,
+      "goals_against": 4,
       "form": [
+        "L",
         "L",
         "L"
       ],
       "avg_goals_for": 0.0,
-      "avg_goals_against": 1.0,
+      "avg_goals_against": 1.33,
       "win_rate": 0.0
     },
     "ecuador": {
@@ -697,5 +699,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-27T21:39:06Z"
+  "last_updated": "2026-06-27T23:00:36Z"
 }
