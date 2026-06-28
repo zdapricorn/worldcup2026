@@ -1356,9 +1356,9 @@
       "country": "USA",
       "group": "K",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 0,
+      "away_score": 0,
       "prediction": null,
       "ls_eid": "1417973",
       "ls_home_id": "8974",
@@ -1376,9 +1376,9 @@
       "country": "USA",
       "group": "J",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 1,
+      "away_score": 3,
       "prediction": null,
       "ls_eid": "1417967",
       "ls_home_id": "9068",
@@ -1396,9 +1396,9 @@
       "country": "USA",
       "group": "J",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 3,
+      "away_score": 3,
       "prediction": null,
       "ls_eid": "1417968",
       "ls_home_id": "9167",
@@ -1949,5 +1949,5 @@
       "prediction": null
     }
   ],
-  "last_updated": "2026-06-28T00:07:09Z"
+  "last_updated": "2026-06-28T12:14:55Z"
 }

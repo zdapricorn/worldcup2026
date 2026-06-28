@@ -503,63 +503,67 @@
       "win_rate": 66.7
     },
     "argentina": {
-      "played": 2,
-      "wins": 2,
+      "played": 3,
+      "wins": 3,
       "draws": 0,
       "losses": 0,
-      "goals_for": 5,
-      "goals_against": 0,
+      "goals_for": 8,
+      "goals_against": 1,
       "form": [
+        "W",
         "W",
         "W"
       ],
-      "avg_goals_for": 2.5,
-      "avg_goals_against": 0.0,
+      "avg_goals_for": 2.67,
+      "avg_goals_against": 0.33,
       "win_rate": 100.0
     },
     "algeria": {
-      "played": 2,
+      "played": 3,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "goals_for": 2,
-      "goals_against": 4,
+      "goals_for": 5,
+      "goals_against": 7,
       "form": [
         "L",
-        "W"
+        "W",
+        "D"
       ],
-      "avg_goals_for": 1.0,
-      "avg_goals_against": 2.0,
-      "win_rate": 50.0
+      "avg_goals_for": 1.67,
+      "avg_goals_against": 2.33,
+      "win_rate": 33.3
     },
     "austria": {
-      "played": 2,
+      "played": 3,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "goals_for": 3,
-      "goals_against": 3,
+      "goals_for": 6,
+      "goals_against": 6,
       "form": [
         "W",
-        "L"
+        "L",
+        "D"
       ],
-      "avg_goals_for": 1.5,
-      "avg_goals_against": 1.5,
-      "win_rate": 50.0
+      "avg_goals_for": 2.0,
+      "avg_goals_against": 2.0,
+      "win_rate": 33.3
     },
     "jordan": {
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 0,
-      "losses": 2,
-      "goals_for": 2,
-      "goals_against": 5,
+      "losses": 3,
+      "goals_for": 3,
+      "goals_against": 8,
       "form": [
+        "L",
         "L",
         "L"
       ],
       "avg_goals_for": 1.0,
-      "avg_goals_against": 2.5,
+      "avg_goals_against": 2.67,
       "win_rate": 0.0
     },
     "uzbekistan": {
@@ -578,18 +582,19 @@
       "win_rate": 0.0
     },
     "colombia": {
-      "played": 1,
+      "played": 2,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
       "goals_for": 3,
       "goals_against": 1,
       "form": [
-        "W"
+        "W",
+        "D"
       ],
-      "avg_goals_for": 3.0,
-      "avg_goals_against": 1.0,
-      "win_rate": 100.0
+      "avg_goals_for": 1.5,
+      "avg_goals_against": 0.5,
+      "win_rate": 50.0
     },
     "england": {
       "played": 3,
@@ -686,20 +691,21 @@
       "win_rate": 100.0
     },
     "portugal": {
-      "played": 1,
+      "played": 2,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
       "goals_for": 5,
       "goals_against": 0,
       "form": [
-        "W"
+        "W",
+        "D"
       ],
-      "avg_goals_for": 5.0,
+      "avg_goals_for": 2.5,
       "avg_goals_against": 0.0,
-      "win_rate": 100.0
+      "win_rate": 50.0
     }
   },
   "source": "livescore",
-  "last_updated": "2026-06-28T00:09:00Z"
+  "last_updated": "2026-06-28T12:17:00Z"
 }

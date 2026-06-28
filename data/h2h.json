@@ -1360,13 +1360,13 @@
     ],
     "1691867": [
       {
-        "date": "20071120",
+        "date": "20071119",
         "home": "South Africa",
         "away": "Canada",
         "home_score": 2,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2007",
+        "competition": "South Africa",
         "status": "FT"
       }
     ],
@@ -1682,6 +1682,130 @@
         "status": "FT"
       }
     ],
+    "1691878": [
+      {
+        "date": "20091118",
+        "home": "Austria",
+        "away": "Spain",
+        "home_score": 1,
+        "away_score": 5,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20010901",
+        "home": "Spain",
+        "away": "Austria",
+        "home_score": 4,
+        "away_score": 0,
+        "stage": "World Cup Qualification UEFA 1st round grp. 7",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      },
+      {
+        "date": "20001011",
+        "home": "Austria",
+        "away": "Spain",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "World Cup Qualification UEFA 1st round grp. 7",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      }
+    ],
+    "1691877": [
+      {
+        "date": "20241118",
+        "home": "Croatia",
+        "away": "Portugal",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "League A: Group 1",
+        "competition": "UEFA Nations League",
+        "status": "FT"
+      },
+      {
+        "date": "20240905",
+        "home": "Portugal",
+        "away": "Croatia",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "League A: Group 1",
+        "competition": "UEFA Nations League",
+        "status": "FT"
+      },
+      {
+        "date": "20240608",
+        "home": "Portugal",
+        "away": "Croatia",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Friendlies 2024",
+        "competition": "International Friendlies",
+        "status": "FT"
+      },
+      {
+        "date": "20201117",
+        "home": "Croatia",
+        "away": "Portugal",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "League A: Group 3",
+        "competition": "UEFA Nations League",
+        "status": "FT"
+      },
+      {
+        "date": "20200905",
+        "home": "Portugal",
+        "away": "Croatia",
+        "home_score": 4,
+        "away_score": 1,
+        "stage": "League A: Group 3",
+        "competition": "UEFA Nations League",
+        "status": "FT"
+      },
+      {
+        "date": "20180906",
+        "home": "Portugal",
+        "away": "Croatia",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20160625",
+        "home": "Croatia",
+        "away": "Portugal",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "EURO 1/8 Finals",
+        "competition": "European Championship 1",
+        "status": "AET"
+      },
+      {
+        "date": "20130610",
+        "home": "Croatia",
+        "away": "Portugal",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20051112",
+        "home": "Portugal",
+        "away": "Croatia",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
     "1691881": [
       {
         "date": "20101117",
@@ -1696,5 +1820,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-28T00:08:28Z"
+  "last_updated": "2026-06-28T12:16:24Z"
 }
