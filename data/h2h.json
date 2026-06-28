@@ -1022,6 +1022,28 @@
         "status": "FT"
       }
     ],
+    "1417943": [
+      {
+        "date": "20090211",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2009",
+        "competition": "Tunisia",
+        "status": "FT"
+      },
+      {
+        "date": "19940119",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 1994",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
     "1417944": [
       {
         "date": "20020525",
@@ -1061,50 +1083,6 @@
         "away_score": 2,
         "stage": "Internationals 1995",
         "competition": "",
-        "status": "FT"
-      }
-    ],
-    "1417943": [
-      {
-        "date": "20090211",
-        "home": "Tunisia",
-        "away": "Netherlands",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Internationals 2009",
-        "competition": "Tunisia",
-        "status": "FT"
-      },
-      {
-        "date": "19940119",
-        "home": "Tunisia",
-        "away": "Netherlands",
-        "home_score": 2,
-        "away_score": 2,
-        "stage": "Internationals 1994",
-        "competition": "",
-        "status": "FT"
-      }
-    ],
-    "1417932": [
-      {
-        "date": "20101009",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "Internationals 2010",
-        "competition": "Australia",
-        "status": "FT"
-      },
-      {
-        "date": "20061007",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Internationals 2006",
-        "competition": "Australia",
         "status": "FT"
       }
     ],
@@ -1157,6 +1135,28 @@
         "away_score": 1,
         "stage": "Internationals 1991",
         "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417932": [
+      {
+        "date": "20101009",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 2010",
+        "competition": "Australia",
+        "status": "FT"
+      },
+      {
+        "date": "20061007",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2006",
+        "competition": "Australia",
         "status": "FT"
       }
     ],
@@ -1548,6 +1548,108 @@
         "status": "FT"
       }
     ],
+    "1691873": [
+      {
+        "date": "20251015",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies 2025",
+        "competition": "International Friendlies",
+        "status": "FT"
+      },
+      {
+        "date": "20240701",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "Group B",
+        "competition": "Copa America",
+        "status": "FT"
+      },
+      {
+        "date": "20220605",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "King's Cup 2022",
+        "competition": "International",
+        "status": "FT"
+      },
+      {
+        "date": "20211028",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "Friendlies",
+        "competition": "International",
+        "status": "FT"
+      },
+      {
+        "date": "20190609",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "home_score": 3,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "International",
+        "status": "FT"
+      },
+      {
+        "date": "20150619",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Copa America Grp. A",
+        "competition": "Copa America 1",
+        "status": "FT"
+      },
+      {
+        "date": "20150329",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20140531",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20110528",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20100905",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
     "1691874": [
       {
         "date": "20211219",
@@ -1594,5 +1696,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-27T23:00:07Z"
+  "last_updated": "2026-06-28T00:08:28Z"
 }

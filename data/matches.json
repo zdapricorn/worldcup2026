@@ -1299,9 +1299,9 @@
       "country": "Mexico",
       "group": "L",
       "stage": "group",
-      "status": "upcoming",
-      "home_score": null,
-      "away_score": null,
+      "status": "finished",
+      "home_score": 2,
+      "away_score": 1,
       "prediction": null,
       "ls_eid": "1417979",
       "ls_home_id": "9138",
@@ -1949,5 +1949,5 @@
       "prediction": null
     }
   ],
-  "last_updated": "2026-06-27T22:58:52Z"
+  "last_updated": "2026-06-28T00:07:09Z"
 }
