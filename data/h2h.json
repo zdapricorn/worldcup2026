@@ -1523,8 +1523,8 @@
         "away": "Sweden",
         "home_score": 4,
         "away_score": 2,
-        "stage": "League A: Group 3",
-        "competition": "UEFA Nations League",
+        "stage": "UEFA Nations League 2020/2021",
+        "competition": "France",
         "status": "FT"
       },
       {
@@ -1533,8 +1533,8 @@
         "away": "France",
         "home_score": 0,
         "away_score": 1,
-        "stage": "League A: Group 3",
-        "competition": "UEFA Nations League",
+        "stage": "UEFA Nations League 2020/2021",
+        "competition": "Sweden",
         "status": "FT"
       },
       {
@@ -1543,8 +1543,8 @@
         "away": "France",
         "home_score": 2,
         "away_score": 1,
-        "stage": "World Cup Qualification UEFA 1st Round Grp. A",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2018 Russia",
+        "competition": "Sweden",
         "status": "FT"
       },
       {
@@ -1553,8 +1553,8 @@
         "away": "Sweden",
         "home_score": 2,
         "away_score": 1,
-        "stage": "World Cup Qualification UEFA 1st Round Grp. A",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2018 Russia",
+        "competition": "France",
         "status": "FT"
       },
       {
@@ -1563,8 +1563,8 @@
         "away": "Sweden",
         "home_score": 1,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2014",
+        "competition": "France",
         "status": "FT"
       },
       {
@@ -1573,8 +1573,8 @@
         "away": "France",
         "home_score": 2,
         "away_score": 0,
-        "stage": "EURO Grp. D",
-        "competition": "European Championship 1",
+        "stage": "UEFA European Championship Finals 2012 Poland/Ukraine",
+        "competition": "Ukraine",
         "status": "FT"
       },
       {
@@ -1583,8 +1583,8 @@
         "away": "France",
         "home_score": 2,
         "away_score": 3,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2008",
+        "competition": "Sweden",
         "status": "FT"
       },
       {
@@ -1593,8 +1593,28 @@
         "away": "Sweden",
         "home_score": 1,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2005",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "19980421",
+        "home": "Sweden",
+        "away": "France",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "Internationals 1998",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19970401",
+        "home": "France",
+        "away": "Sweden",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 1997",
+        "competition": "",
         "status": "FT"
       }
     ],
@@ -1615,8 +1635,8 @@
         "away": "Ecuador",
         "home_score": 0,
         "away_score": 0,
-        "stage": "Group B",
-        "competition": "Copa America",
+        "stage": "CONMEBOL Copa America 2024 USA",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -1625,8 +1645,8 @@
         "away": "Ecuador",
         "home_score": 0,
         "away_score": 0,
-        "stage": "King's Cup 2022",
-        "competition": "International",
+        "stage": "Internationals 2022",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -1635,8 +1655,8 @@
         "away": "Ecuador",
         "home_score": 2,
         "away_score": 3,
-        "stage": "Friendlies",
-        "competition": "International",
+        "stage": "Internationals 2021",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -1645,8 +1665,8 @@
         "away": "Ecuador",
         "home_score": 3,
         "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "International",
+        "stage": "Internationals 2019",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -1655,8 +1675,8 @@
         "away": "Ecuador",
         "home_score": 1,
         "away_score": 2,
-        "stage": "Copa America Grp. A",
-        "competition": "Copa America 1",
+        "stage": "CONMEBOL Copa America 2015 Chile",
+        "competition": "Chile",
         "status": "FT"
       },
       {
@@ -1665,8 +1685,8 @@
         "away": "Ecuador",
         "home_score": 1,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2015",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -1675,8 +1695,8 @@
         "away": "Ecuador",
         "home_score": 3,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2014",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -1685,8 +1705,8 @@
         "away": "Ecuador",
         "home_score": 1,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2011",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -1695,8 +1715,8 @@
         "away": "Ecuador",
         "home_score": 1,
         "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2010",
+        "competition": "Mexico",
         "status": "FT"
       }
     ],
@@ -1867,8 +1887,30 @@
         "competition": "Friendlies 1",
         "status": "FT"
       }
+    ],
+    "1417902": [
+      {
+        "date": "20221201",
+        "home": "Canada",
+        "away": "Morocco",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Group F",
+        "competition": "World Cup 2022",
+        "status": "FT"
+      },
+      {
+        "date": "20161011",
+        "home": "Morocco",
+        "away": "Canada",
+        "home_score": 4,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-30T00:00:54Z"
+  "last_updated": "2026-06-30T13:09:59Z"
 }
