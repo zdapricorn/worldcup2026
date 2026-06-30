@@ -1909,8 +1909,20 @@
         "competition": "Friendlies 1",
         "status": "FT"
       }
+    ],
+    "1417903": [
+      {
+        "date": "20060816",
+        "home": "Norway",
+        "away": "Brazil",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-30T18:19:21Z"
+  "last_updated": "2026-06-30T20:29:11Z"
 }
