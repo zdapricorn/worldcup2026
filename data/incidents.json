@@ -4328,16 +4328,6 @@
         "period": "2"
       }
     ],
-    "1417973": [
-      {
-        "minute": 86,
-        "type": 43,
-        "player": "G. Puerta",
-        "number": 14,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417974": [
       {
         "minute": 10,
@@ -4433,6 +4423,16 @@
         "player": "M. Elia",
         "number": 13,
         "score": "3-1",
+        "period": "2"
+      }
+    ],
+    "1417973": [
+      {
+        "minute": 86,
+        "type": 43,
+        "player": "G. Puerta",
+        "number": 14,
+        "score": "",
         "period": "2"
       }
     ],
@@ -4765,8 +4765,58 @@
         "score": "1-2",
         "period": "2"
       }
+    ],
+    "1691871": [
+      {
+        "minute": 45,
+        "type": 36,
+        "player": "K. Mbappé",
+        "number": 10,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 63,
+        "player": "O. Dembélé",
+        "number": 7,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 53,
+        "type": 36,
+        "player": "B. Barcola",
+        "number": 12,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 53,
+        "type": 63,
+        "player": "M. Olise",
+        "number": 11,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 74,
+        "type": 36,
+        "player": "K. Mbappé",
+        "number": 10,
+        "score": "3-0",
+        "period": "2"
+      },
+      {
+        "minute": 74,
+        "type": 63,
+        "player": "M. Olise",
+        "number": 11,
+        "score": "3-0",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-30T21:58:59Z"
+  "last_updated": "2026-06-30T23:13:56Z"
 }

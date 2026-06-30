@@ -1910,6 +1910,38 @@
         "status": "FT"
       }
     ],
+    "1417901": [
+      {
+        "date": "20170602",
+        "home": "France",
+        "away": "Paraguay",
+        "home_score": 5,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20140601",
+        "home": "France",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20080531",
+        "home": "France",
+        "away": "Paraguay",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
     "1417903": [
       {
         "date": "20060816",
@@ -1924,5 +1956,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-06-30T21:58:22Z"
+  "last_updated": "2026-06-30T23:13:24Z"
 }
