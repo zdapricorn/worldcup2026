@@ -4328,16 +4328,6 @@
         "period": "2"
       }
     ],
-    "1417973": [
-      {
-        "minute": 86,
-        "type": 43,
-        "player": "G. Puerta",
-        "number": 14,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417974": [
       {
         "minute": 10,
@@ -4433,6 +4423,16 @@
         "player": "M. Elia",
         "number": 13,
         "score": "3-1",
+        "period": "2"
+      }
+    ],
+    "1417973": [
+      {
+        "minute": 86,
+        "type": 43,
+        "player": "G. Puerta",
+        "number": 14,
+        "score": "",
         "period": "2"
       }
     ],
@@ -4815,8 +4815,74 @@
         "score": "3-0",
         "period": "2"
       }
+    ],
+    "1691873": [
+      {
+        "minute": 22,
+        "type": 36,
+        "player": "J. Quiñones",
+        "number": 16,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 22,
+        "type": 63,
+        "player": "R. Alvarado",
+        "number": 25,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 31,
+        "type": 36,
+        "player": "R. Jiménez",
+        "number": 9,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 31,
+        "type": 63,
+        "player": "J. Quiñones",
+        "number": 16,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 43,
+        "player": "A. Franco",
+        "number": 21,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "K. Páez",
+        "number": 10,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 45,
+        "player": "P. Hincapié",
+        "number": 3,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "M. Caicedo",
+        "number": 23,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-01T01:40:20Z"
+  "last_updated": "2026-07-01T13:34:07Z"
 }

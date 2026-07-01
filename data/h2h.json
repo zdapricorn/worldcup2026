@@ -1727,8 +1727,8 @@
         "away": "Bosnia and Herzegovina",
         "home_score": 1,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "International",
+        "stage": "Internationals 2021",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -1737,8 +1737,8 @@
         "away": "Bosnia and Herzegovina",
         "home_score": 0,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2018",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -1747,8 +1747,8 @@
         "away": "USA",
         "home_score": 3,
         "away_score": 4,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2013",
+        "competition": "Bosnia and Herzegovina",
         "status": "FT"
       }
     ],
@@ -1956,5 +1956,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-01T01:39:47Z"
+  "last_updated": "2026-07-01T13:33:35Z"
 }
