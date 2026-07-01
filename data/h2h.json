@@ -1573,7 +1573,7 @@
         "away": "France",
         "home_score": 2,
         "away_score": 0,
-        "stage": "UEFA European Championship Finals 2012 Poland/Ukraine",
+        "stage": "UEFA European Championship 2012 Poland/Ukraine",
         "competition": "Ukraine",
         "status": "FT"
       },
@@ -1956,5 +1956,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-01T13:33:35Z"
+  "last_updated": "2026-07-01T16:24:34Z"
 }
