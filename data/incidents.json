@@ -4328,16 +4328,6 @@
         "period": "2"
       }
     ],
-    "1417973": [
-      {
-        "minute": 86,
-        "type": 43,
-        "player": "G. Puerta",
-        "number": 14,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417974": [
       {
         "minute": 10,
@@ -4433,6 +4423,16 @@
         "player": "M. Elia",
         "number": 13,
         "score": "3-1",
+        "period": "2"
+      }
+    ],
+    "1417973": [
+      {
+        "minute": 86,
+        "type": 43,
+        "player": "G. Puerta",
+        "number": 14,
+        "score": "",
         "period": "2"
       }
     ],
@@ -5071,8 +5071,66 @@
         "score": "2-0",
         "period": "2"
       }
+    ],
+    "1691878": [
+      {
+        "minute": 36,
+        "type": 36,
+        "player": "Mikel Oyarzabal",
+        "number": 21,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 36,
+        "type": 63,
+        "player": "Marc Cucurella",
+        "number": 24,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 66,
+        "type": 36,
+        "player": "Pedro Porro",
+        "number": 12,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 66,
+        "type": 63,
+        "player": "Álex Baena",
+        "number": 15,
+        "score": "2-0",
+        "period": "2"
+      },
+      {
+        "minute": 83,
+        "type": 43,
+        "player": "S. Posch",
+        "number": 5,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 89,
+        "type": 36,
+        "player": "Mikel Oyarzabal",
+        "number": 21,
+        "score": "3-0",
+        "period": "2"
+      },
+      {
+        "minute": 89,
+        "type": 63,
+        "player": "Marc Cucurella",
+        "number": 24,
+        "score": "3-0",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-02T20:19:45Z"
+  "last_updated": "2026-07-02T21:44:53Z"
 }
