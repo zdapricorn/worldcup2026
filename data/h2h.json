@@ -1759,8 +1759,8 @@
         "away": "Spain",
         "home_score": 1,
         "away_score": 5,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2009",
+        "competition": "Austria",
         "status": "FT"
       },
       {
@@ -1769,8 +1769,8 @@
         "away": "Austria",
         "home_score": 4,
         "away_score": 0,
-        "stage": "World Cup Qualification UEFA 1st round grp. 7",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2002 Korea Rep/Japan",
+        "competition": "Spain",
         "status": "FT"
       },
       {
@@ -1779,8 +1779,68 @@
         "away": "Spain",
         "home_score": 1,
         "away_score": 1,
-        "stage": "World Cup Qualification UEFA 1st round grp. 7",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2002 Korea Rep/Japan",
+        "competition": "Austria",
+        "status": "FT"
+      },
+      {
+        "date": "19990904",
+        "home": "Austria",
+        "away": "Spain",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "UEFA European Championship Qualifiers 2000 Netherlands/Belgium",
+        "competition": "Austria",
+        "status": "FT"
+      },
+      {
+        "date": "19990327",
+        "home": "Spain",
+        "away": "Austria",
+        "home_score": 9,
+        "away_score": 0,
+        "stage": "UEFA European Championship Qualifiers 2000 Netherlands/Belgium",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "19900328",
+        "home": "Spain",
+        "away": "Austria",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "Internationals 1990",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19871014",
+        "home": "Spain",
+        "away": "Austria",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "UEFA European Championship Qualifiers 1988 Germany",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "19870401",
+        "home": "Austria",
+        "away": "Spain",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "UEFA European Championship Qualifiers 1988 Germany",
+        "competition": "Austria",
+        "status": "FT"
+      },
+      {
+        "date": "19780603",
+        "home": "Austria",
+        "away": "Spain",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "FIFA World Cup 1978 Argentina",
+        "competition": "Argentina",
         "status": "FT"
       }
     ],
@@ -1791,8 +1851,8 @@
         "away": "Portugal",
         "home_score": 1,
         "away_score": 1,
-        "stage": "League A: Group 1",
-        "competition": "UEFA Nations League",
+        "stage": "UEFA Nations League 2024/2025",
+        "competition": "Croatia",
         "status": "FT"
       },
       {
@@ -1801,8 +1861,8 @@
         "away": "Croatia",
         "home_score": 2,
         "away_score": 1,
-        "stage": "League A: Group 1",
-        "competition": "UEFA Nations League",
+        "stage": "UEFA Nations League 2024/2025",
+        "competition": "Portugal",
         "status": "FT"
       },
       {
@@ -1811,8 +1871,8 @@
         "away": "Croatia",
         "home_score": 1,
         "away_score": 2,
-        "stage": "Friendlies 2024",
-        "competition": "International Friendlies",
+        "stage": "Internationals 2024",
+        "competition": "Portugal",
         "status": "FT"
       },
       {
@@ -1821,8 +1881,8 @@
         "away": "Portugal",
         "home_score": 2,
         "away_score": 3,
-        "stage": "League A: Group 3",
-        "competition": "UEFA Nations League",
+        "stage": "UEFA Nations League 2020/2021",
+        "competition": "Croatia",
         "status": "FT"
       },
       {
@@ -1831,8 +1891,8 @@
         "away": "Croatia",
         "home_score": 4,
         "away_score": 1,
-        "stage": "League A: Group 3",
-        "competition": "UEFA Nations League",
+        "stage": "UEFA Nations League 2020/2021",
+        "competition": "Portugal",
         "status": "FT"
       },
       {
@@ -1841,8 +1901,8 @@
         "away": "Croatia",
         "home_score": 1,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2018",
+        "competition": "Portugal",
         "status": "FT"
       },
       {
@@ -1851,9 +1911,9 @@
         "away": "Portugal",
         "home_score": 0,
         "away_score": 1,
-        "stage": "EURO 1/8 Finals",
-        "competition": "European Championship 1",
-        "status": "AET"
+        "stage": "UEFA European Championship 2016 France",
+        "competition": "France",
+        "status": "FT"
       },
       {
         "date": "20130610",
@@ -1861,8 +1921,8 @@
         "away": "Portugal",
         "home_score": 0,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2013",
+        "competition": "Switzerland",
         "status": "FT"
       },
       {
@@ -1871,8 +1931,18 @@
         "away": "Croatia",
         "home_score": 2,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2005",
+        "competition": "Portugal",
+        "status": "FT"
+      },
+      {
+        "date": "19960619",
+        "home": "Croatia",
+        "away": "Portugal",
+        "home_score": 0,
+        "away_score": 3,
+        "stage": "UEFA European Championship 1996 England",
+        "competition": "England",
         "status": "FT"
       }
     ],
@@ -1975,8 +2045,50 @@
         "competition": "Friendlies 1",
         "status": "FT"
       }
+    ],
+    "1417906": [
+      {
+        "date": "20260328",
+        "home": "USA",
+        "away": "Belgium",
+        "home_score": 2,
+        "away_score": 5,
+        "stage": "Featured Friendlies",
+        "competition": "International Friendlies",
+        "status": "FT"
+      },
+      {
+        "date": "20140701",
+        "home": "Belgium",
+        "away": "USA",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "World Cup 1/8 finals",
+        "competition": "World Championship 1",
+        "status": "AET"
+      },
+      {
+        "date": "20130530",
+        "home": "USA",
+        "away": "Belgium",
+        "home_score": 2,
+        "away_score": 4,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20110906",
+        "home": "Belgium",
+        "away": "USA",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-02T01:32:04Z"
+  "last_updated": "2026-07-02T12:56:10Z"
 }
