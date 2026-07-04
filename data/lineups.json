@@ -26572,26 +26572,26 @@
               "grid": "2:1"
             },
             {
-              "number": 10,
-              "name": "Miguel Almirón",
-              "pos": 3,
-              "grid": "3:4"
-            },
-            {
               "number": 23,
               "name": "Matias Galarza",
               "pos": 3,
-              "grid": "3:3"
+              "grid": "3:4"
             },
             {
               "number": 14,
               "name": "Andrés Cubas",
               "pos": 3,
-              "grid": "3:2"
+              "grid": "3:3"
             },
             {
               "number": 8,
               "name": "Diego Gomez",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 10,
+              "name": "Miguel Almirón",
               "pos": 3,
               "grid": "3:1"
             },
@@ -26939,5 +26939,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-07-04T20:52:02Z"
+  "last_updated": "2026-07-04T21:55:13Z"
 }
