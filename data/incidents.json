@@ -3312,6 +3312,40 @@
         "period": "2"
       }
     ],
+    "1417914": [
+      {
+        "minute": 63,
+        "type": 36,
+        "player": "T. Maseko",
+        "number": 12,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 63,
+        "type": 63,
+        "player": "T. Moremi",
+        "number": 8,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 73,
+        "type": 43,
+        "player": "A. Modiba",
+        "number": 6,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 79,
+        "type": 43,
+        "player": "Cho Gue-Sung",
+        "number": 9,
+        "score": "",
+        "period": "2"
+      }
+    ],
     "1417913": [
       {
         "minute": 55,
@@ -3359,40 +3393,6 @@
         "player": "R. Alvarado",
         "number": 25,
         "score": "0-3",
-        "period": "2"
-      }
-    ],
-    "1417914": [
-      {
-        "minute": 63,
-        "type": 36,
-        "player": "T. Maseko",
-        "number": 12,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 63,
-        "type": 63,
-        "player": "T. Moremi",
-        "number": 8,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 73,
-        "type": 43,
-        "player": "A. Modiba",
-        "number": 6,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 79,
-        "type": 43,
-        "player": "Cho Gue-Sung",
-        "number": 9,
-        "score": "",
         "period": "2"
       }
     ],
@@ -5353,8 +5353,122 @@
         "score": "",
         "period": "2"
       }
+    ],
+    "1417902": [
+      {
+        "minute": 20,
+        "type": 43,
+        "player": "R. Halhal",
+        "number": 25,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 40,
+        "type": 43,
+        "player": "A. Hakimi",
+        "number": 2,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 40,
+        "type": 43,
+        "player": "R. Laryea",
+        "number": 22,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 43,
+        "type": 43,
+        "player": "J. David",
+        "number": 10,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 43,
+        "player": "A. Ounahi",
+        "number": 8,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 43,
+        "player": "B. El Khannouss",
+        "number": 23,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 49,
+        "type": 43,
+        "player": "L. De Fougerolles",
+        "number": 4,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 50,
+        "type": 36,
+        "player": "A. Ounahi",
+        "number": 8,
+        "score": "0-1",
+        "period": "2"
+      },
+      {
+        "minute": 50,
+        "type": 63,
+        "player": "A. Hakimi",
+        "number": 2,
+        "score": "0-1",
+        "period": "2"
+      },
+      {
+        "minute": 67,
+        "type": 43,
+        "player": "C. Larin",
+        "number": 9,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 82,
+        "type": 36,
+        "player": "A. Ounahi",
+        "number": 8,
+        "score": "0-2",
+        "period": "2"
+      },
+      {
+        "minute": 82,
+        "type": 63,
+        "player": "B. Díaz",
+        "number": 10,
+        "score": "0-2",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "S. Rahimi",
+        "number": 9,
+        "score": "0-3",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 63,
+        "player": "B. Díaz",
+        "number": 10,
+        "score": "0-3",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-04T18:09:07Z"
+  "last_updated": "2026-07-04T19:45:57Z"
 }
