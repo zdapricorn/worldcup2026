@@ -2034,13 +2034,23 @@
     ],
     "1417903": [
       {
-        "date": "20060816",
+        "date": "20060815",
         "home": "Norway",
         "away": "Brazil",
         "home_score": 1,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2006",
+        "competition": "Norway",
+        "status": "FT"
+      },
+      {
+        "date": "19980623",
+        "home": "Brazil",
+        "away": "Norway",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "FIFA World Cup 1998 France",
+        "competition": "France",
         "status": "FT"
       }
     ],
@@ -2051,18 +2061,38 @@
         "away": "Mexico",
         "home_score": 3,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2010",
+        "competition": "England",
         "status": "FT"
       },
       {
-        "date": "20010525",
+        "date": "20010524",
         "home": "England",
         "away": "Mexico",
         "home_score": 4,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2001",
+        "competition": "England",
+        "status": "FT"
+      },
+      {
+        "date": "19970328",
+        "home": "England",
+        "away": "Mexico",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Internationals 1997",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19660716",
+        "home": "England",
+        "away": "Mexico",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1966 England",
+        "competition": "England",
         "status": "FT"
       }
     ],
@@ -2268,5 +2298,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-04T23:59:34Z"
+  "last_updated": "2026-07-05T12:13:46Z"
 }
