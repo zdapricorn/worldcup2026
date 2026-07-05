@@ -1022,28 +1022,6 @@
         "status": "FT"
       }
     ],
-    "1417943": [
-      {
-        "date": "20090211",
-        "home": "Tunisia",
-        "away": "Netherlands",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Internationals 2009",
-        "competition": "Tunisia",
-        "status": "FT"
-      },
-      {
-        "date": "19940119",
-        "home": "Tunisia",
-        "away": "Netherlands",
-        "home_score": 2,
-        "away_score": 2,
-        "stage": "Internationals 1994",
-        "competition": "",
-        "status": "FT"
-      }
-    ],
     "1417944": [
       {
         "date": "20020525",
@@ -1083,6 +1061,50 @@
         "away_score": 2,
         "stage": "Internationals 1995",
         "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417943": [
+      {
+        "date": "20090211",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2009",
+        "competition": "Tunisia",
+        "status": "FT"
+      },
+      {
+        "date": "19940119",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 1994",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417932": [
+      {
+        "date": "20101009",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 2010",
+        "competition": "Australia",
+        "status": "FT"
+      },
+      {
+        "date": "20061007",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2006",
+        "competition": "Australia",
         "status": "FT"
       }
     ],
@@ -1135,28 +1157,6 @@
         "away_score": 1,
         "stage": "Internationals 1991",
         "competition": "",
-        "status": "FT"
-      }
-    ],
-    "1417932": [
-      {
-        "date": "20101009",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "Internationals 2010",
-        "competition": "Australia",
-        "status": "FT"
-      },
-      {
-        "date": "20061007",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Internationals 2006",
-        "competition": "Australia",
         "status": "FT"
       }
     ],
@@ -2233,8 +2233,40 @@
         "competition": "Friendlies 1",
         "status": "FT"
       }
+    ],
+    "1417897": [
+      {
+        "date": "20221214",
+        "home": "France",
+        "away": "Morocco",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Semi-Finals",
+        "competition": "World Cup 2022",
+        "status": "FT"
+      },
+      {
+        "date": "20071116",
+        "home": "France",
+        "away": "Morocco",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20000606",
+        "home": "Morocco",
+        "away": "France",
+        "home_score": 1,
+        "away_score": 5,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-04T22:55:19Z"
+  "last_updated": "2026-07-04T23:59:34Z"
 }
