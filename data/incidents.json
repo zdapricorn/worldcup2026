@@ -4328,16 +4328,6 @@
         "period": "2"
       }
     ],
-    "1417973": [
-      {
-        "minute": 86,
-        "type": 43,
-        "player": "G. Puerta",
-        "number": 14,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417974": [
       {
         "minute": 10,
@@ -4433,6 +4423,16 @@
         "player": "M. Elia",
         "number": 13,
         "score": "3-1",
+        "period": "2"
+      }
+    ],
+    "1417973": [
+      {
+        "minute": 86,
+        "type": 43,
+        "player": "G. Puerta",
+        "number": 14,
+        "score": "",
         "period": "2"
       }
     ],
@@ -5676,5 +5676,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-06T14:23:56Z"
+  "last_updated": "2026-07-06T17:21:21Z"
 }
