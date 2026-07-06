@@ -1022,28 +1022,6 @@
         "status": "FT"
       }
     ],
-    "1417943": [
-      {
-        "date": "20090211",
-        "home": "Tunisia",
-        "away": "Netherlands",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Internationals 2009",
-        "competition": "Tunisia",
-        "status": "FT"
-      },
-      {
-        "date": "19940119",
-        "home": "Tunisia",
-        "away": "Netherlands",
-        "home_score": 2,
-        "away_score": 2,
-        "stage": "Internationals 1994",
-        "competition": "",
-        "status": "FT"
-      }
-    ],
     "1417944": [
       {
         "date": "20020525",
@@ -1083,6 +1061,50 @@
         "away_score": 2,
         "stage": "Internationals 1995",
         "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417943": [
+      {
+        "date": "20090211",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2009",
+        "competition": "Tunisia",
+        "status": "FT"
+      },
+      {
+        "date": "19940119",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 1994",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417932": [
+      {
+        "date": "20101009",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 2010",
+        "competition": "Australia",
+        "status": "FT"
+      },
+      {
+        "date": "20061007",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2006",
+        "competition": "Australia",
         "status": "FT"
       }
     ],
@@ -1135,28 +1157,6 @@
         "away_score": 1,
         "stage": "Internationals 1991",
         "competition": "",
-        "status": "FT"
-      }
-    ],
-    "1417932": [
-      {
-        "date": "20101009",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "Internationals 2010",
-        "competition": "Australia",
-        "status": "FT"
-      },
-      {
-        "date": "20061007",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Internationals 2006",
-        "competition": "Australia",
         "status": "FT"
       }
     ],
@@ -2103,9 +2103,9 @@
         "away": "Spain",
         "home_score": 2,
         "away_score": 2,
-        "stage": "League A: Play-off",
-        "competition": "UEFA Nations League",
-        "status": "AP"
+        "stage": "UEFA Nations League 2024/2025",
+        "competition": "Germany",
+        "status": "FT"
       },
       {
         "date": "20220927",
@@ -2113,8 +2113,8 @@
         "away": "Spain",
         "home_score": 0,
         "away_score": 1,
-        "stage": "League A: Group 2 22/23",
-        "competition": "UEFA Nations League 22/23",
+        "stage": "UEFA Nations League 2022/2023",
+        "competition": "Portugal",
         "status": "FT"
       },
       {
@@ -2123,8 +2123,8 @@
         "away": "Portugal",
         "home_score": 1,
         "away_score": 1,
-        "stage": "League A: Group 2 22/23",
-        "competition": "UEFA Nations League 22/23",
+        "stage": "UEFA Nations League 2022/2023",
+        "competition": "Spain",
         "status": "FT"
       },
       {
@@ -2133,8 +2133,8 @@
         "away": "Portugal",
         "home_score": 0,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "International",
+        "stage": "Internationals 2021",
+        "competition": "Spain",
         "status": "FT"
       },
       {
@@ -2143,8 +2143,8 @@
         "away": "Spain",
         "home_score": 0,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "International",
+        "stage": "Internationals 2020",
+        "competition": "Portugal",
         "status": "FT"
       },
       {
@@ -2153,8 +2153,8 @@
         "away": "Spain",
         "home_score": 3,
         "away_score": 3,
-        "stage": "World Cup Grp. B",
-        "competition": "World Championship 1",
+        "stage": "FIFA World Cup 2018 Russia",
+        "competition": "Russia",
         "status": "FT"
       },
       {
@@ -2163,9 +2163,9 @@
         "away": "Spain",
         "home_score": 0,
         "away_score": 0,
-        "stage": "EURO Semi finals",
-        "competition": "European Championship 1",
-        "status": "AP"
+        "stage": "UEFA European Championship 2012 Poland/Ukraine",
+        "competition": "Ukraine",
+        "status": "FT"
       },
       {
         "date": "20101117",
@@ -2173,8 +2173,8 @@
         "away": "Spain",
         "home_score": 4,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2010",
+        "competition": "Portugal",
         "status": "FT"
       },
       {
@@ -2183,8 +2183,8 @@
         "away": "Portugal",
         "home_score": 1,
         "away_score": 0,
-        "stage": "World Cup 1/8 finals",
-        "competition": "World Championship 1",
+        "stage": "FIFA World Cup 2010 South Africa",
+        "competition": "South Africa",
         "status": "FT"
       },
       {
@@ -2193,8 +2193,8 @@
         "away": "Portugal",
         "home_score": 0,
         "away_score": 1,
-        "stage": "EURO Grp. A",
-        "competition": "European Championship 1",
+        "stage": "UEFA European Championship 2004 Portugal",
+        "competition": "Portugal",
         "status": "FT"
       }
     ],
@@ -2215,9 +2215,9 @@
         "away": "USA",
         "home_score": 2,
         "away_score": 1,
-        "stage": "World Cup 1/8 finals",
-        "competition": "World Championship 1",
-        "status": "AET"
+        "stage": "FIFA World Cup 2014 Brazil",
+        "competition": "Brazil",
+        "status": "FT"
       },
       {
         "date": "20130530",
@@ -2225,8 +2225,8 @@
         "away": "Belgium",
         "home_score": 2,
         "away_score": 4,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2013",
+        "competition": "USA",
         "status": "FT"
       },
       {
@@ -2235,8 +2235,38 @@
         "away": "USA",
         "home_score": 1,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2011",
+        "competition": "Belgium",
+        "status": "FT"
+      },
+      {
+        "date": "19980224",
+        "home": "Belgium",
+        "away": "USA",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Internationals 1998",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19950422",
+        "home": "Belgium",
+        "away": "USA",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 1995",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19300713",
+        "home": "USA",
+        "away": "Belgium",
+        "home_score": 3,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1930 Uruguay",
+        "competition": "Uruguay",
         "status": "FT"
       }
     ],
@@ -2295,8 +2325,30 @@
         "competition": "Friendlies 1",
         "status": "FT"
       }
+    ],
+    "1417898": [
+      {
+        "date": "20140903",
+        "home": "England",
+        "away": "Norway",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20120526",
+        "home": "Norway",
+        "away": "England",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-06T00:09:33Z"
+  "last_updated": "2026-07-06T14:23:19Z"
 }
