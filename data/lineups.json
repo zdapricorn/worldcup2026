@@ -25551,7 +25551,7 @@
             },
             {
               "number": 11,
-              "name": "Mostafa Mohamed Zaki Abdelraouf",
+              "name": "Mostafa Zaki Abdelraouf",
               "pos": 4,
               "grid": "4:2"
             },
@@ -28028,7 +28028,7 @@
       "away_team": "Egypt",
       "lineups": {
         "home": {
-          "formation": "4-4-2",
+          "formation": "4-1-3-2",
           "starting_xi": [
             {
               "number": 23,
@@ -28061,40 +28061,40 @@
               "grid": "2:1"
             },
             {
-              "number": 24,
-              "name": "Enzo Fernández",
-              "pos": 3,
-              "grid": "3:4"
-            },
-            {
               "number": 5,
               "name": "Leandro Paredes",
               "pos": 3,
-              "grid": "3:3"
+              "grid": "3:1"
+            },
+            {
+              "number": 24,
+              "name": "Enzo Fernández",
+              "pos": 3,
+              "grid": "4:3"
             },
             {
               "number": 20,
               "name": "Alexis Mac Allister",
               "pos": 3,
-              "grid": "3:2"
+              "grid": "4:2"
             },
             {
               "number": 7,
               "name": "Rodrigo De Paul",
               "pos": 3,
-              "grid": "3:1"
+              "grid": "4:1"
             },
             {
               "number": 9,
               "name": "Julián Álvarez",
               "pos": 4,
-              "grid": "4:2"
+              "grid": "5:2"
             },
             {
               "number": 10,
               "name": "Lionel Messi",
               "pos": 4,
-              "grid": "4:1"
+              "grid": "5:1"
             }
           ],
           "substitutes": [
@@ -28209,32 +28209,32 @@
               "grid": "2:1"
             },
             {
-              "number": 12,
-              "name": "Haissem Hassan",
+              "number": 8,
+              "name": "Emam Ashour",
               "pos": 3,
               "grid": "3:4"
-            },
-            {
-              "number": 17,
-              "name": "Mohanad Lasheen",
-              "pos": 3,
-              "grid": "3:3"
             },
             {
               "number": 19,
               "name": "Marwan Attia",
               "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 17,
+              "name": "Mohanad Lasheen",
+              "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 8,
-              "name": "Emam Ashour",
+              "number": 12,
+              "name": "Haissem Hassan",
               "pos": 3,
               "grid": "3:1"
             },
             {
               "number": 11,
-              "name": "Mostafa Mohamed Zaki Abdelraouf",
+              "name": "Mostafa Zaki Abdelraouf",
               "pos": 4,
               "grid": "4:2"
             },
@@ -28378,8 +28378,19 @@
           "substitutes": []
         }
       }
+    },
+    "1417900": {
+      "home_team": "Argentina",
+      "away_team": "Switzerland/Colombia",
+      "lineups": {
+        "home": {
+          "formation": "",
+          "starting_xi": [],
+          "substitutes": []
+        }
+      }
     }
   },
   "source": "livescore",
-  "last_updated": "2026-07-07T16:01:04Z"
+  "last_updated": "2026-07-07T18:09:26Z"
 }

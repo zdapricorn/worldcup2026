@@ -5789,8 +5789,146 @@
         "score": "1-4",
         "period": "2"
       }
+    ],
+    "1417907": [
+      {
+        "minute": 15,
+        "type": 36,
+        "player": "Yasser Ibrahim",
+        "number": 2,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 15,
+        "type": 63,
+        "player": "Marwan Attia",
+        "number": 19,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 38,
+        "player": "L. Messi",
+        "number": 10,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 58,
+        "type": 62,
+        "player": "Mostafa Zico",
+        "number": 11,
+        "score": "0-1",
+        "period": "2"
+      },
+      {
+        "minute": 67,
+        "type": 36,
+        "player": "Mostafa Zico",
+        "number": 11,
+        "score": "0-2",
+        "period": "2"
+      },
+      {
+        "minute": 67,
+        "type": 63,
+        "player": "Haissem Hassan",
+        "number": 12,
+        "score": "0-2",
+        "period": "2"
+      },
+      {
+        "minute": 79,
+        "type": 36,
+        "player": "C. Romero",
+        "number": 13,
+        "score": "1-2",
+        "period": "2"
+      },
+      {
+        "minute": 79,
+        "type": 63,
+        "player": "L. Messi",
+        "number": 10,
+        "score": "1-2",
+        "period": "2"
+      },
+      {
+        "minute": 83,
+        "type": 36,
+        "player": "L. Messi",
+        "number": 10,
+        "score": "2-2",
+        "period": "2"
+      },
+      {
+        "minute": 83,
+        "type": 63,
+        "player": "G. Montiel",
+        "number": 4,
+        "score": "2-2",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "E. Fernández",
+        "number": 24,
+        "score": "3-2",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 63,
+        "player": "Lautaro Martínez",
+        "number": 22,
+        "score": "3-2",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Mostafa Shobeir",
+        "number": 23,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Hamdi Fathy",
+        "number": 14,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Marwan Attia",
+        "number": 19,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Hossam Hassan Hassanein Hussein",
+        "number": "",
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Haissem Hassan",
+        "number": 12,
+        "score": "",
+        "period": "2"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-07T16:02:26Z"
+  "last_updated": "2026-07-07T18:10:56Z"
 }
