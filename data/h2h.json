@@ -2419,8 +2419,40 @@
         "competition": "Friendlies 1",
         "status": "FT"
       }
+    ],
+    "1417900": [
+      {
+        "date": "20140701",
+        "home": "Argentina",
+        "away": "Switzerland",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "World Cup 1/8 finals",
+        "competition": "World Championship 1",
+        "status": "AET"
+      },
+      {
+        "date": "20120229",
+        "home": "Switzerland",
+        "away": "Argentina",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20070602",
+        "home": "Switzerland",
+        "away": "Argentina",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-07T21:53:29Z"
+  "last_updated": "2026-07-07T22:58:00Z"
 }
