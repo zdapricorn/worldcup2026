@@ -2321,8 +2321,8 @@
         "away": "Morocco",
         "home_score": 2,
         "away_score": 0,
-        "stage": "Semi-Finals",
-        "competition": "World Cup 2022",
+        "stage": "FIFA World Cup 2022 Qatar",
+        "competition": "Qatar",
         "status": "FT"
       },
       {
@@ -2331,8 +2331,8 @@
         "away": "Morocco",
         "home_score": 2,
         "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2007",
+        "competition": "France",
         "status": "FT"
       },
       {
@@ -2341,8 +2341,28 @@
         "away": "France",
         "home_score": 1,
         "away_score": 5,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2000",
+        "competition": "Morocco",
+        "status": "FT"
+      },
+      {
+        "date": "19990119",
+        "home": "France",
+        "away": "Morocco",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 1999",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "19980528",
+        "home": "Morocco",
+        "away": "France",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 1998",
+        "competition": "",
         "status": "FT"
       }
     ],
@@ -2454,5 +2474,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-07T23:57:56Z"
+  "last_updated": "2026-07-08T12:19:08Z"
 }
