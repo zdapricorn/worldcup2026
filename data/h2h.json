@@ -2521,8 +2521,110 @@
         "competition": "Friendlies 1",
         "status": "FT"
       }
+    ],
+    "1417886": [
+      {
+        "date": "20250605",
+        "home": "Spain",
+        "away": "France",
+        "home_score": 5,
+        "away_score": 4,
+        "stage": "League A: Play-off",
+        "competition": "UEFA Nations League",
+        "status": "FT"
+      },
+      {
+        "date": "20240709",
+        "home": "Spain",
+        "away": "France",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Semi-Finals",
+        "competition": "Euro 2024",
+        "status": "FT"
+      },
+      {
+        "date": "20211010",
+        "home": "Spain",
+        "away": "France",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Final",
+        "competition": "UEFA Nations League",
+        "status": "FT"
+      },
+      {
+        "date": "20170328",
+        "home": "France",
+        "away": "Spain",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20140904",
+        "home": "France",
+        "away": "Spain",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20130326",
+        "home": "France",
+        "away": "Spain",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "World Cup Qualification UEFA 1st round grp. I",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      },
+      {
+        "date": "20121016",
+        "home": "Spain",
+        "away": "France",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "World Cup Qualification UEFA 1st round grp. I",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      },
+      {
+        "date": "20120623",
+        "home": "Spain",
+        "away": "France",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "EURO Quarter finals",
+        "competition": "European Championship 1",
+        "status": "FT"
+      },
+      {
+        "date": "20100303",
+        "home": "France",
+        "away": "Spain",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      },
+      {
+        "date": "20080206",
+        "home": "Spain",
+        "away": "France",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-10T20:49:45Z"
+  "last_updated": "2026-07-10T21:58:41Z"
 }
