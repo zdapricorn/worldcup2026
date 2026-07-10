@@ -1022,6 +1022,28 @@
         "status": "FT"
       }
     ],
+    "1417943": [
+      {
+        "date": "20090211",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2009",
+        "competition": "Tunisia",
+        "status": "FT"
+      },
+      {
+        "date": "19940119",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 1994",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
     "1417944": [
       {
         "date": "20020525",
@@ -1061,50 +1083,6 @@
         "away_score": 2,
         "stage": "Internationals 1995",
         "competition": "",
-        "status": "FT"
-      }
-    ],
-    "1417943": [
-      {
-        "date": "20090211",
-        "home": "Tunisia",
-        "away": "Netherlands",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Internationals 2009",
-        "competition": "Tunisia",
-        "status": "FT"
-      },
-      {
-        "date": "19940119",
-        "home": "Tunisia",
-        "away": "Netherlands",
-        "home_score": 2,
-        "away_score": 2,
-        "stage": "Internationals 1994",
-        "competition": "",
-        "status": "FT"
-      }
-    ],
-    "1417932": [
-      {
-        "date": "20101009",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "Internationals 2010",
-        "competition": "Australia",
-        "status": "FT"
-      },
-      {
-        "date": "20061007",
-        "home": "Australia",
-        "away": "Paraguay",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Internationals 2006",
-        "competition": "Australia",
         "status": "FT"
       }
     ],
@@ -1157,6 +1135,28 @@
         "away_score": 1,
         "stage": "Internationals 1991",
         "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417932": [
+      {
+        "date": "20101009",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 2010",
+        "competition": "Australia",
+        "status": "FT"
+      },
+      {
+        "date": "20061007",
+        "home": "Australia",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2006",
+        "competition": "Australia",
         "status": "FT"
       }
     ],
@@ -2373,8 +2373,8 @@
         "away": "Spain",
         "home_score": 0,
         "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2016",
+        "competition": "Belgium",
         "status": "FT"
       },
       {
@@ -2383,8 +2383,8 @@
         "away": "Belgium",
         "home_score": 5,
         "away_score": 0,
-        "stage": "World Cup Qualification UEFA 1st round grp. 5",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2010 South Africa",
+        "competition": "Spain",
         "status": "FT"
       },
       {
@@ -2393,8 +2393,8 @@
         "away": "Spain",
         "home_score": 1,
         "away_score": 2,
-        "stage": "World Cup Qualification UEFA 1st round grp. 5",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2010 South Africa",
+        "competition": "Belgium",
         "status": "FT"
       },
       {
@@ -2403,8 +2403,8 @@
         "away": "Spain",
         "home_score": 0,
         "away_score": 2,
-        "stage": "World Cup Qualification UEFA 1st round grp. 7",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2006 Germany",
+        "competition": "Belgium",
         "status": "FT"
       },
       {
@@ -2413,8 +2413,58 @@
         "away": "Belgium",
         "home_score": 2,
         "away_score": 0,
-        "stage": "World Cup Qualification UEFA 1st round grp. 7",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2006 Germany",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "19950329",
+        "home": "Spain",
+        "away": "Belgium",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "UEFA European Championship Qualifiers 1996 England",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "19941217",
+        "home": "Belgium",
+        "away": "Spain",
+        "home_score": 1,
+        "away_score": 4,
+        "stage": "UEFA European Championship Qualifiers 1996 England",
+        "competition": "Belgium",
+        "status": "FT"
+      },
+      {
+        "date": "19900621",
+        "home": "Belgium",
+        "away": "Spain",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "FIFA World Cup 1990 Italy",
+        "competition": "Italy",
+        "status": "FT"
+      },
+      {
+        "date": "19860622",
+        "home": "Spain",
+        "away": "Belgium",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "FIFA World Cup 1986 Mexico",
+        "competition": "Mexico",
+        "status": "FT"
+      },
+      {
+        "date": "19800615",
+        "home": "Belgium",
+        "away": "Spain",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "UEFA European Championship 1980 Italy",
+        "competition": "Italy",
         "status": "FT"
       }
     ],
@@ -2474,5 +2524,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-10T01:09:00Z"
+  "last_updated": "2026-07-10T13:10:47Z"
 }
