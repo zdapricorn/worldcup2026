@@ -2475,8 +2475,8 @@
         "away": "Norway",
         "home_score": 1,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2014",
+        "competition": "England",
         "status": "FT"
       },
       {
@@ -2485,8 +2485,68 @@
         "away": "England",
         "home_score": 0,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2012",
+        "competition": "Norway",
+        "status": "FT"
+      },
+      {
+        "date": "19951011",
+        "home": "Norway",
+        "away": "England",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "Internationals 1995",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19940522",
+        "home": "England",
+        "away": "Norway",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "Internationals 1994",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19930601",
+        "home": "Norway",
+        "away": "England",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "UEFA World Cup Qualifiers 1994 USA",
+        "competition": "Norway",
+        "status": "FT"
+      },
+      {
+        "date": "19921014",
+        "home": "England",
+        "away": "Norway",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "UEFA World Cup Qualifiers 1994 USA",
+        "competition": "England",
+        "status": "FT"
+      },
+      {
+        "date": "19810909",
+        "home": "Norway",
+        "away": "England",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "UEFA World Cup Qualifiers 1982 Spain",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19800910",
+        "home": "England",
+        "away": "Norway",
+        "home_score": 4,
+        "away_score": 0,
+        "stage": "UEFA World Cup Qualifiers 1982 Spain",
+        "competition": "",
         "status": "FT"
       }
     ],
@@ -2497,9 +2557,9 @@
         "away": "Switzerland",
         "home_score": 1,
         "away_score": 0,
-        "stage": "World Cup 1/8 finals",
-        "competition": "World Championship 1",
-        "status": "AET"
+        "stage": "FIFA World Cup 2014 Brazil",
+        "competition": "Brazil",
+        "status": "FT"
       },
       {
         "date": "20120229",
@@ -2507,8 +2567,8 @@
         "away": "Argentina",
         "home_score": 1,
         "away_score": 3,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2012",
+        "competition": "Switzerland",
         "status": "FT"
       },
       {
@@ -2517,8 +2577,28 @@
         "away": "Argentina",
         "home_score": 1,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2007",
+        "competition": "Switzerland",
+        "status": "FT"
+      },
+      {
+        "date": "19900508",
+        "home": "Switzerland",
+        "away": "Argentina",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 1990",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19660719",
+        "home": "Argentina",
+        "away": "Switzerland",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1966 England",
+        "competition": "England",
         "status": "FT"
       }
     ],
@@ -2626,5 +2706,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-11T00:04:48Z"
+  "last_updated": "2026-07-11T11:50:41Z"
 }
