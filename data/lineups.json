@@ -29377,14 +29377,14 @@
               "grid": "2:1"
             },
             {
-              "number": 4,
-              "name": "Declan Rice",
+              "number": 8,
+              "name": "Elliot Anderson",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 8,
-              "name": "Elliot Anderson",
+              "number": 4,
+              "name": "Declan Rice",
               "pos": 3,
               "grid": "3:1"
             },
@@ -29522,5 +29522,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-07-11T20:04:46Z"
+  "last_updated": "2026-07-11T21:14:30Z"
 }
