@@ -2609,8 +2609,8 @@
         "away": "France",
         "home_score": 5,
         "away_score": 4,
-        "stage": "League A: Play-off",
-        "competition": "UEFA Nations League",
+        "stage": "UEFA Nations League 2024/2025",
+        "competition": "Germany",
         "status": "FT"
       },
       {
@@ -2619,8 +2619,8 @@
         "away": "France",
         "home_score": 2,
         "away_score": 1,
-        "stage": "Semi-Finals",
-        "competition": "Euro 2024",
+        "stage": "UEFA European Championship 2024 Germany",
+        "competition": "Germany",
         "status": "FT"
       },
       {
@@ -2629,8 +2629,8 @@
         "away": "France",
         "home_score": 1,
         "away_score": 2,
-        "stage": "Final",
-        "competition": "UEFA Nations League",
+        "stage": "UEFA Nations League 2020/2021",
+        "competition": "Italy",
         "status": "FT"
       },
       {
@@ -2639,8 +2639,8 @@
         "away": "Spain",
         "home_score": 0,
         "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2017",
+        "competition": "France",
         "status": "FT"
       },
       {
@@ -2649,8 +2649,8 @@
         "away": "Spain",
         "home_score": 1,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2014",
+        "competition": "France",
         "status": "FT"
       },
       {
@@ -2659,8 +2659,8 @@
         "away": "Spain",
         "home_score": 0,
         "away_score": 1,
-        "stage": "World Cup Qualification UEFA 1st round grp. I",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2014 Brazil",
+        "competition": "France",
         "status": "FT"
       },
       {
@@ -2669,8 +2669,8 @@
         "away": "France",
         "home_score": 1,
         "away_score": 1,
-        "stage": "World Cup Qualification UEFA 1st round grp. I",
-        "competition": "World Championship Qualification UEFA 1",
+        "stage": "UEFA World Cup Qualifiers 2014 Brazil",
+        "competition": "Spain",
         "status": "FT"
       },
       {
@@ -2679,8 +2679,8 @@
         "away": "France",
         "home_score": 2,
         "away_score": 0,
-        "stage": "EURO Quarter finals",
-        "competition": "European Championship 1",
+        "stage": "UEFA European Championship 2012 Poland/Ukraine",
+        "competition": "Ukraine",
         "status": "FT"
       },
       {
@@ -2689,8 +2689,8 @@
         "away": "Spain",
         "home_score": 0,
         "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2010",
+        "competition": "France",
         "status": "FT"
       },
       {
@@ -2699,8 +2699,8 @@
         "away": "France",
         "home_score": 1,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2008",
+        "competition": "Spain",
         "status": "FT"
       }
     ],
@@ -2738,5 +2738,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-13T23:51:52Z"
+  "last_updated": "2026-07-14T12:09:10Z"
 }
