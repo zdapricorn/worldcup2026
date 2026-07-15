@@ -2706,13 +2706,13 @@
     ],
     "1417887": [
       {
-        "date": "20051112",
-        "home": "Argentina",
-        "away": "England",
-        "home_score": 2,
-        "away_score": 3,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "date": "20051111",
+        "home": "England",
+        "away": "Argentina",
+        "home_score": 3,
+        "away_score": 2,
+        "stage": "Internationals 2005",
+        "competition": "Switzerland",
         "status": "FT"
       },
       {
@@ -2721,22 +2721,72 @@
         "away": "England",
         "home_score": 0,
         "away_score": 1,
-        "stage": "World Cup grp. F",
-        "competition": "World Championship 1",
+        "stage": "FIFA World Cup 2002 Korea Rep/Japan",
+        "competition": "Japan",
         "status": "FT"
       },
       {
-        "date": "20000223",
+        "date": "20000222",
         "home": "England",
         "away": "Argentina",
         "home_score": 0,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2000",
+        "competition": "England",
+        "status": "FT"
+      },
+      {
+        "date": "19980630",
+        "home": "Argentina",
+        "away": "England",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "FIFA World Cup 1998 France",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "19910525",
+        "home": "England",
+        "away": "Argentina",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 1991",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19860622",
+        "home": "Argentina",
+        "away": "England",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "FIFA World Cup 1986 Mexico",
+        "competition": "Mexico",
+        "status": "FT"
+      },
+      {
+        "date": "19660723",
+        "home": "England",
+        "away": "Argentina",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1966 England",
+        "competition": "England",
+        "status": "FT"
+      },
+      {
+        "date": "19620602",
+        "home": "England",
+        "away": "Argentina",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "FIFA World Cup 1962 Chile",
+        "competition": "Chile",
         "status": "FT"
       }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-14T23:51:08Z"
+  "last_updated": "2026-07-15T12:12:34Z"
 }
