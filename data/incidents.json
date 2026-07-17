@@ -4204,64 +4204,6 @@
         "period": "2"
       }
     ],
-    "1417978": [
-      {
-        "minute": 53,
-        "type": 43,
-        "player": "J. Fajardo",
-        "number": 17,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 60,
-        "type": 43,
-        "player": "J. Quansah",
-        "number": 26,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 62,
-        "type": 36,
-        "player": "J. Bellingham",
-        "number": 10,
-        "score": "0-1",
-        "period": "2"
-      },
-      {
-        "minute": 62,
-        "type": 63,
-        "player": "B. Saka",
-        "number": 7,
-        "score": "0-1",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 36,
-        "player": "H. Kane",
-        "number": 9,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 63,
-        "player": "J. Bellingham",
-        "number": 10,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 84,
-        "type": 43,
-        "player": "A. Andrade",
-        "number": 16,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417979": [
       {
         "minute": 31,
@@ -4328,12 +4270,60 @@
         "period": "2"
       }
     ],
-    "1417973": [
+    "1417978": [
       {
-        "minute": 86,
+        "minute": 53,
         "type": 43,
-        "player": "G. Puerta",
-        "number": 14,
+        "player": "J. Fajardo",
+        "number": 17,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 60,
+        "type": 43,
+        "player": "J. Quansah",
+        "number": 26,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 62,
+        "type": 36,
+        "player": "J. Bellingham",
+        "number": 10,
+        "score": "0-1",
+        "period": "2"
+      },
+      {
+        "minute": 62,
+        "type": 63,
+        "player": "B. Saka",
+        "number": 7,
+        "score": "0-1",
+        "period": "2"
+      },
+      {
+        "minute": 67,
+        "type": 36,
+        "player": "H. Kane",
+        "number": 9,
+        "score": "0-2",
+        "period": "2"
+      },
+      {
+        "minute": 67,
+        "type": 63,
+        "player": "J. Bellingham",
+        "number": 10,
+        "score": "0-2",
+        "period": "2"
+      },
+      {
+        "minute": 84,
+        "type": 43,
+        "player": "A. Andrade",
+        "number": 16,
         "score": "",
         "period": "2"
       }
@@ -4433,6 +4423,16 @@
         "player": "M. Elia",
         "number": 13,
         "score": "3-1",
+        "period": "2"
+      }
+    ],
+    "1417973": [
+      {
+        "minute": 86,
+        "type": 43,
+        "player": "G. Puerta",
+        "number": 14,
+        "score": "",
         "period": "2"
       }
     ],
@@ -6270,5 +6270,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-17T14:13:33Z"
+  "last_updated": "2026-07-17T15:56:42Z"
 }
