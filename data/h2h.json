@@ -2793,8 +2793,8 @@
         "away": "France",
         "home_score": 1,
         "away_score": 2,
-        "stage": "Quarter-finals",
-        "competition": "World Cup 2022",
+        "stage": "FIFA World Cup 2022 Qatar",
+        "competition": "Qatar",
         "status": "FT"
       },
       {
@@ -2803,8 +2803,8 @@
         "away": "England",
         "home_score": 3,
         "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2017",
+        "competition": "France",
         "status": "FT"
       },
       {
@@ -2813,8 +2813,8 @@
         "away": "France",
         "home_score": 2,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2015",
+        "competition": "England",
         "status": "FT"
       },
       {
@@ -2823,8 +2823,8 @@
         "away": "England",
         "home_score": 1,
         "away_score": 1,
-        "stage": "EURO Grp. D",
-        "competition": "European Championship 1",
+        "stage": "UEFA European Championship 2012 Poland/Ukraine",
+        "competition": "Ukraine",
         "status": "FT"
       },
       {
@@ -2833,8 +2833,8 @@
         "away": "France",
         "home_score": 1,
         "away_score": 2,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2010",
+        "competition": "England",
         "status": "FT"
       },
       {
@@ -2843,8 +2843,8 @@
         "away": "England",
         "home_score": 1,
         "away_score": 0,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2008",
+        "competition": "France",
         "status": "FT"
       },
       {
@@ -2853,18 +2853,38 @@
         "away": "England",
         "home_score": 2,
         "away_score": 1,
-        "stage": "EURO Grp. B",
-        "competition": "European Championship 1",
+        "stage": "UEFA European Championship 2004 Portugal",
+        "competition": "Portugal",
         "status": "FT"
       },
       {
-        "date": "20000902",
+        "date": "20000901",
         "home": "France",
         "away": "England",
         "home_score": 1,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2000",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "19990209",
+        "home": "England",
+        "away": "France",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "Internationals 1999",
+        "competition": "England",
+        "status": "FT"
+      },
+      {
+        "date": "19970606",
+        "home": "France",
+        "away": "England",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "Internationals 1997",
+        "competition": "",
         "status": "FT"
       }
     ],
@@ -2912,5 +2932,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-18T00:54:54Z"
+  "last_updated": "2026-07-18T11:52:34Z"
 }
