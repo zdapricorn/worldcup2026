@@ -2895,8 +2895,8 @@
         "away": "Argentina",
         "home_score": 6,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2018",
+        "competition": "Spain",
         "status": "FT"
       },
       {
@@ -2905,8 +2905,8 @@
         "away": "Spain",
         "home_score": 4,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2010",
+        "competition": "Argentina",
         "status": "FT"
       },
       {
@@ -2915,8 +2915,8 @@
         "away": "Argentina",
         "home_score": 2,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2009",
+        "competition": "Spain",
         "status": "FT"
       },
       {
@@ -2925,12 +2925,42 @@
         "away": "Argentina",
         "home_score": 2,
         "away_score": 1,
-        "stage": "Friendlies",
-        "competition": "Friendlies 1",
+        "stage": "Internationals 2006",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "19991116",
+        "home": "Spain",
+        "away": "Argentina",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "Internationals 1999",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "19950919",
+        "home": "Spain",
+        "away": "Argentina",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Internationals 1995",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19660713",
+        "home": "Argentina",
+        "away": "Spain",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "FIFA World Cup 1966 England",
+        "competition": "England",
         "status": "FT"
       }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-19T01:00:27Z"
+  "last_updated": "2026-07-19T11:54:40Z"
 }
