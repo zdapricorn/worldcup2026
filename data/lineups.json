@@ -15554,6 +15554,298 @@
         }
       }
     },
+    "1417914": {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
+      "lineups": {
+        "home": {
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Ronwen Williams",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 6,
+              "name": "Aubrey Modiba",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 14,
+              "name": "Mbokazi",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 21,
+              "name": "Ime Okon",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 20,
+              "name": "Khuliso Mudau",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 13,
+              "name": "Sphephelo Sithole",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 5,
+              "name": "Thalente Mbatha",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 7,
+              "name": "Oswin Appollis",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 10,
+              "name": "Relebohile Mofokeng",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 12,
+              "name": "Thapelo Maseko",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 17,
+              "name": "Evidence Makgopa",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 23,
+              "name": "Jayden Adams",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Sipho Chaine",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Bradley Cross",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Lyle Foster",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Ricardo Goss",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Samukelo Kabini",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Olwethu Makhanya",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Tholo Thabang Matuludi",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Tshepang Moremi",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Khulumani Ndamane",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Iqraam Rayners",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Kamogelo Sebelebele",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Nkosinathi Sibisi",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "3-4-2-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Kim Seung-gyu",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 3,
+              "name": "Lee Gi-hyuk",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Kim Min-jae",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 2,
+              "name": "Lee Hanbeom",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 13,
+              "name": "Lee Tae-seok",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 6,
+              "name": "Hwang In-beom",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 8,
+              "name": "Paik Seung-Ho",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 22,
+              "name": "Seol Young-woo",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 11,
+              "name": "Hwang Hee-chan",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 19,
+              "name": "Lee Kang-in",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 18,
+              "name": "Oh Hyeon-gyu",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 17,
+              "name": "Jun-Ho Bae",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Jens Castrop",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Cho Gue-sung",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Wi-Je Cho",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Eom Ji-sung",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Hyeon-woo Jo",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Kim Tae-hyeon",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Kim Moon-hwan",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Kim Jin-gyu",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Lee Jae-sung",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Lee Dong-gyeong",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Park Jin-seob",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Son Heung-min",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Song Bum-keun",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Yang Hyun-jun",
+              "pos": 5
+            }
+          ]
+        }
+      }
+    },
     "1417913": {
       "home_team": "Czechia",
       "away_team": "Mexico",
@@ -15845,298 +16137,6 @@
             {
               "number": 5,
               "name": "Johan Vásquez",
-              "pos": 5
-            }
-          ]
-        }
-      }
-    },
-    "1417914": {
-      "home_team": "South Africa",
-      "away_team": "South Korea",
-      "lineups": {
-        "home": {
-          "formation": "4-2-3-1",
-          "starting_xi": [
-            {
-              "number": 1,
-              "name": "Ronwen Williams",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 6,
-              "name": "Aubrey Modiba",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 14,
-              "name": "Mbokazi",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 21,
-              "name": "Ime Okon",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 20,
-              "name": "Khuliso Mudau",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 13,
-              "name": "Sphephelo Sithole",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 5,
-              "name": "Thalente Mbatha",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 7,
-              "name": "Oswin Appollis",
-              "pos": 3,
-              "grid": "4:3"
-            },
-            {
-              "number": 10,
-              "name": "Relebohile Mofokeng",
-              "pos": 3,
-              "grid": "4:2"
-            },
-            {
-              "number": 12,
-              "name": "Thapelo Maseko",
-              "pos": 3,
-              "grid": "4:1"
-            },
-            {
-              "number": 17,
-              "name": "Evidence Makgopa",
-              "pos": 4,
-              "grid": "5:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 23,
-              "name": "Jayden Adams",
-              "pos": 5
-            },
-            {
-              "number": 16,
-              "name": "Sipho Chaine",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Bradley Cross",
-              "pos": 5
-            },
-            {
-              "number": 9,
-              "name": "Lyle Foster",
-              "pos": 5
-            },
-            {
-              "number": 22,
-              "name": "Ricardo Goss",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "Samukelo Kabini",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Olwethu Makhanya",
-              "pos": 5
-            },
-            {
-              "number": 2,
-              "name": "Tholo Thabang Matuludi",
-              "pos": 5
-            },
-            {
-              "number": 8,
-              "name": "Tshepang Moremi",
-              "pos": 5
-            },
-            {
-              "number": 3,
-              "name": "Khulumani Ndamane",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Iqraam Rayners",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Kamogelo Sebelebele",
-              "pos": 5
-            },
-            {
-              "number": 19,
-              "name": "Nkosinathi Sibisi",
-              "pos": 5
-            }
-          ]
-        },
-        "away": {
-          "formation": "3-4-2-1",
-          "starting_xi": [
-            {
-              "number": 1,
-              "name": "Kim Seung-gyu",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 3,
-              "name": "Lee Gi-hyuk",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 4,
-              "name": "Kim Min-jae",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 2,
-              "name": "Lee Hanbeom",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 13,
-              "name": "Lee Tae-seok",
-              "pos": 3,
-              "grid": "3:4"
-            },
-            {
-              "number": 6,
-              "name": "Hwang In-beom",
-              "pos": 3,
-              "grid": "3:3"
-            },
-            {
-              "number": 8,
-              "name": "Paik Seung-Ho",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 22,
-              "name": "Seol Young-woo",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 11,
-              "name": "Hwang Hee-chan",
-              "pos": 3,
-              "grid": "4:2"
-            },
-            {
-              "number": 19,
-              "name": "Lee Kang-in",
-              "pos": 3,
-              "grid": "4:1"
-            },
-            {
-              "number": 18,
-              "name": "Oh Hyeon-gyu",
-              "pos": 4,
-              "grid": "5:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 17,
-              "name": "Jun-Ho Bae",
-              "pos": 5
-            },
-            {
-              "number": 23,
-              "name": "Jens Castrop",
-              "pos": 5
-            },
-            {
-              "number": 9,
-              "name": "Cho Gue-sung",
-              "pos": 5
-            },
-            {
-              "number": 14,
-              "name": "Wi-Je Cho",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Eom Ji-sung",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "Hyeon-woo Jo",
-              "pos": 5
-            },
-            {
-              "number": 5,
-              "name": "Kim Tae-hyeon",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Kim Moon-hwan",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Kim Jin-gyu",
-              "pos": 5
-            },
-            {
-              "number": 10,
-              "name": "Lee Jae-sung",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Lee Dong-gyeong",
-              "pos": 5
-            },
-            {
-              "number": 16,
-              "name": "Park Jin-seob",
-              "pos": 5
-            },
-            {
-              "number": 7,
-              "name": "Son Heung-min",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Song Bum-keun",
-              "pos": 5
-            },
-            {
-              "number": 20,
-              "name": "Yang Hyun-jun",
               "pos": 5
             }
           ]
@@ -30985,5 +30985,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-07-22T00:56:40Z"
+  "last_updated": "2026-07-22T12:24:20Z"
 }
