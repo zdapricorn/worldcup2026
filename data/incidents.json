@@ -3396,64 +3396,6 @@
         "period": "2"
       }
     ],
-    "1417938": [
-      {
-        "minute": 7,
-        "type": 36,
-        "player": "N. Pépé",
-        "number": 19,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 7,
-        "type": 63,
-        "player": "Y. Diomande",
-        "number": 11,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 35,
-        "type": 43,
-        "player": "N. Pépé",
-        "number": 19,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 64,
-        "type": 36,
-        "player": "N. Pépé",
-        "number": 19,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 64,
-        "type": 63,
-        "player": "I. Sangaré",
-        "number": 18,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 75,
-        "type": 43,
-        "player": "J. Bacuna",
-        "number": 7,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 83,
-        "type": 43,
-        "player": "G. Kastaneer",
-        "number": 19,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417937": [
       {
         "minute": 2,
@@ -3528,60 +3470,60 @@
         "period": "2"
       }
     ],
-    "1417944": [
+    "1417938": [
       {
-        "minute": 32,
+        "minute": 7,
+        "type": 36,
+        "player": "N. Pépé",
+        "number": 19,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 7,
+        "type": 63,
+        "player": "Y. Diomande",
+        "number": 11,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 35,
         "type": 43,
-        "player": "I. Hien",
-        "number": 4,
+        "player": "N. Pépé",
+        "number": 19,
         "score": "",
         "period": "1"
       },
       {
-        "minute": 56,
+        "minute": 64,
         "type": 36,
-        "player": "D. Maeda",
-        "number": 11,
-        "score": "1-0",
+        "player": "N. Pépé",
+        "number": 19,
+        "score": "0-2",
         "period": "2"
       },
       {
-        "minute": 56,
+        "minute": 64,
         "type": 63,
-        "player": "R. Doan",
-        "number": 10,
-        "score": "1-0",
+        "player": "I. Sangaré",
+        "number": 18,
+        "score": "0-2",
         "period": "2"
       },
       {
-        "minute": 62,
-        "type": 36,
-        "player": "A. Elanga",
-        "number": 11,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 62,
-        "type": 63,
-        "player": "V. Gyökeres",
-        "number": 17,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 77,
+        "minute": 75,
         "type": 43,
-        "player": "S. Taniguchi",
-        "number": 3,
+        "player": "J. Bacuna",
+        "number": 7,
         "score": "",
         "period": "2"
       },
       {
-        "minute": 85,
+        "minute": 83,
         "type": 43,
-        "player": "V. Gyökeres",
-        "number": 17,
+        "player": "G. Kastaneer",
+        "number": 19,
         "score": "",
         "period": "2"
       }
@@ -3641,6 +3583,64 @@
         "player": "T. Reijnders",
         "number": 14,
         "score": "1-3",
+        "period": "2"
+      }
+    ],
+    "1417944": [
+      {
+        "minute": 32,
+        "type": 43,
+        "player": "I. Hien",
+        "number": 4,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 56,
+        "type": 36,
+        "player": "D. Maeda",
+        "number": 11,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 56,
+        "type": 63,
+        "player": "R. Doan",
+        "number": 10,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 62,
+        "type": 36,
+        "player": "A. Elanga",
+        "number": 11,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 62,
+        "type": 63,
+        "player": "V. Gyökeres",
+        "number": 17,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 77,
+        "type": 43,
+        "player": "S. Taniguchi",
+        "number": 3,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 85,
+        "type": 43,
+        "player": "V. Gyökeres",
+        "number": 17,
+        "score": "",
         "period": "2"
       }
     ],
@@ -6466,5 +6466,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-23T19:09:44Z"
+  "last_updated": "2026-07-23T20:37:29Z"
 }
