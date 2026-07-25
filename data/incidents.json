@@ -496,6 +496,120 @@
         "period": "2"
       }
     ],
+    "1417933": [
+      {
+        "minute": 6,
+        "type": 36,
+        "player": "F. Nmecha",
+        "number": 23,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 6,
+        "type": 63,
+        "player": "F. Wirtz",
+        "number": 17,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 36,
+        "player": "L. Comenencia",
+        "number": 8,
+        "score": "1-1",
+        "period": "1"
+      },
+      {
+        "minute": 38,
+        "type": 36,
+        "player": "N. Schlotterbeck",
+        "number": 15,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 38,
+        "type": 63,
+        "player": "N. Brown",
+        "number": 18,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 37,
+        "player": "K. Havertz",
+        "number": 7,
+        "score": "3-1",
+        "period": "1"
+      },
+      {
+        "minute": 47,
+        "type": 36,
+        "player": "J. Musiala",
+        "number": 10,
+        "score": "4-1",
+        "period": "2"
+      },
+      {
+        "minute": 47,
+        "type": 63,
+        "player": "J. Kimmich",
+        "number": 6,
+        "score": "4-1",
+        "period": "2"
+      },
+      {
+        "minute": 68,
+        "type": 36,
+        "player": "N. Brown",
+        "number": 18,
+        "score": "5-1",
+        "period": "2"
+      },
+      {
+        "minute": 68,
+        "type": 63,
+        "player": "D. Undav",
+        "number": 26,
+        "score": "5-1",
+        "period": "2"
+      },
+      {
+        "minute": 78,
+        "type": 36,
+        "player": "D. Undav",
+        "number": 26,
+        "score": "6-1",
+        "period": "2"
+      },
+      {
+        "minute": 78,
+        "type": 63,
+        "player": "J. Kimmich",
+        "number": 6,
+        "score": "6-1",
+        "period": "2"
+      },
+      {
+        "minute": 88,
+        "type": 36,
+        "player": "K. Havertz",
+        "number": 7,
+        "score": "7-1",
+        "period": "2"
+      },
+      {
+        "minute": 88,
+        "type": 63,
+        "player": "D. Undav",
+        "number": 26,
+        "score": "7-1",
+        "period": "2"
+      }
+    ],
     "1417939": [
       {
         "minute": 51,
@@ -4486,6 +4600,32 @@
         "period": "2"
       }
     ],
+    "1691867": [
+      {
+        "minute": 54,
+        "type": 43,
+        "player": "N. Saliba",
+        "number": 25,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 67,
+        "type": 43,
+        "player": "N. Sigur",
+        "number": 23,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "S. Eustaquio",
+        "number": 7,
+        "score": "0-1",
+        "period": "2"
+      }
+    ],
     "1691870": [
       {
         "minute": 12,
@@ -4565,6 +4705,64 @@
         "player": "Bruno Guimarães",
         "number": 8,
         "score": "2-1",
+        "period": "2"
+      }
+    ],
+    "1691872": [
+      {
+        "minute": 39,
+        "type": 36,
+        "player": "A. Nusa",
+        "number": 20,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 39,
+        "type": 63,
+        "player": "M. Ødegaard",
+        "number": 10,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 43,
+        "player": "A. Nusa",
+        "number": 20,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 74,
+        "type": 36,
+        "player": "A. Diallo",
+        "number": 15,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 74,
+        "type": 63,
+        "player": "N. Pépé",
+        "number": 19,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 86,
+        "type": 36,
+        "player": "E. Haaland",
+        "number": 9,
+        "score": "1-2",
+        "period": "2"
+      },
+      {
+        "minute": 86,
+        "type": 63,
+        "player": "P. Berg",
+        "number": 6,
+        "score": "1-2",
         "period": "2"
       }
     ],
@@ -4829,6 +5027,48 @@
         "player": "Rudi José Garcia",
         "number": "",
         "score": "",
+        "period": "2"
+      }
+    ],
+    "1691874": [
+      {
+        "minute": 45,
+        "type": 36,
+        "player": "F. Balogun",
+        "number": 20,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 64,
+        "type": 45,
+        "player": "F. Balogun",
+        "number": 20,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 80,
+        "type": 43,
+        "player": "Sergej Barbarez",
+        "number": "",
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 80,
+        "type": 43,
+        "player": "S. Radeljić",
+        "number": 21,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 82,
+        "type": 36,
+        "player": "M. Tillman",
+        "number": 17,
+        "score": "2-0",
         "period": "2"
       }
     ],
@@ -6226,5 +6466,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-07-25T15:00:54Z"
+  "last_updated": "2026-07-25T16:08:20Z"
 }
