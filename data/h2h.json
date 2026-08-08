@@ -32,6 +32,110 @@
         "status": "FT"
       }
     ],
+    "1417910": [
+      {
+        "date": "20160605",
+        "home": "Czechia",
+        "away": "South Korea",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Internationals 2016",
+        "competition": "Czechia",
+        "status": "FT"
+      },
+      {
+        "date": "20010814",
+        "home": "Czechia",
+        "away": "South Korea",
+        "home_score": 5,
+        "away_score": 0,
+        "stage": "Internationals 2001",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19980526",
+        "home": "South Korea",
+        "away": "Czechia",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 1998",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417927": [
+      {
+        "date": "20251115",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Friendlies 2025",
+        "competition": "International Friendlies",
+        "status": "FT"
+      },
+      {
+        "date": "20180327",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 2018",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20160611",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "CONMEBOL Copa America 2016 USA",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20110330",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "Internationals 2011",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20070702",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "CONMEBOL Copa America 2007 Venezuela",
+        "competition": "Venezuela",
+        "status": "FT"
+      },
+      {
+        "date": "20030706",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Internationals 2003",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "19300717",
+        "home": "USA",
+        "away": "Paraguay",
+        "home_score": 3,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1930 Uruguay",
+        "competition": "Uruguay",
+        "status": "FT"
+      }
+    ],
     "1417916": [
       {
         "date": "20181114",
@@ -41,6 +145,28 @@
         "away_score": 1,
         "stage": "Internationals 2018",
         "competition": "Switzerland",
+        "status": "FT"
+      }
+    ],
+    "1417921": [
+      {
+        "date": "20230325",
+        "home": "Morocco",
+        "away": "Brazil",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Internationals 2023",
+        "competition": "Morocco",
+        "status": "FT"
+      },
+      {
+        "date": "19980616",
+        "home": "Brazil",
+        "away": "Morocco",
+        "home_score": 3,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1998 France",
+        "competition": "France",
         "status": "FT"
       }
     ],
@@ -130,6 +256,48 @@
         "status": "FT"
       }
     ],
+    "1417945": [
+      {
+        "date": "20221118",
+        "home": "Belgium",
+        "away": "Egypt",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Internationals 2022",
+        "competition": "Kuwait",
+        "status": "FT"
+      },
+      {
+        "date": "20180606",
+        "home": "Belgium",
+        "away": "Egypt",
+        "home_score": 3,
+        "away_score": 0,
+        "stage": "Internationals 2018",
+        "competition": "Belgium",
+        "status": "FT"
+      },
+      {
+        "date": "20050209",
+        "home": "Egypt",
+        "away": "Belgium",
+        "home_score": 4,
+        "away_score": 0,
+        "stage": "Internationals 2005",
+        "competition": "Egypt",
+        "status": "FT"
+      },
+      {
+        "date": "19990329",
+        "home": "Belgium",
+        "away": "Egypt",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "Internationals 1999",
+        "competition": "Belgium",
+        "status": "FT"
+      }
+    ],
     "1417952": [
       {
         "date": "20180620",
@@ -176,6 +344,108 @@
         "status": "FT"
       }
     ],
+    "1417980": [
+      {
+        "date": "20210613",
+        "home": "England",
+        "away": "Croatia",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Group D 2020",
+        "competition": "Euro 2020",
+        "status": "FT"
+      },
+      {
+        "date": "20181118",
+        "home": "England",
+        "away": "Croatia",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "UEFA Nations League A Grp. 4",
+        "competition": "Nations League 1",
+        "status": "FT"
+      },
+      {
+        "date": "20181012",
+        "home": "Croatia",
+        "away": "England",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "UEFA Nations League A Grp. 4",
+        "competition": "Nations League 1",
+        "status": "FT"
+      },
+      {
+        "date": "20180711",
+        "home": "Croatia",
+        "away": "England",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "World Cup Semi Finals",
+        "competition": "World Championship 1",
+        "status": "AET"
+      },
+      {
+        "date": "20090909",
+        "home": "England",
+        "away": "Croatia",
+        "home_score": 5,
+        "away_score": 1,
+        "stage": "World Cup Qualification UEFA 1st round grp. 6",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      },
+      {
+        "date": "20080910",
+        "home": "Croatia",
+        "away": "England",
+        "home_score": 1,
+        "away_score": 4,
+        "stage": "World Cup Qualification UEFA 1st round grp. 6",
+        "competition": "World Championship Qualification UEFA 1",
+        "status": "FT"
+      },
+      {
+        "date": "20071121",
+        "home": "England",
+        "away": "Croatia",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "EURO qualification grp. E",
+        "competition": "European Championship Qualification 1",
+        "status": "FT"
+      },
+      {
+        "date": "20061011",
+        "home": "Croatia",
+        "away": "England",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "EURO qualification grp. E",
+        "competition": "European Championship Qualification 1",
+        "status": "FT"
+      },
+      {
+        "date": "20040621",
+        "home": "Croatia",
+        "away": "England",
+        "home_score": 2,
+        "away_score": 4,
+        "stage": "EURO Grp. B",
+        "competition": "European Championship 1",
+        "status": "FT"
+      },
+      {
+        "date": "20030820",
+        "home": "England",
+        "away": "Croatia",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
     "1417911": [
       {
         "date": "19971213",
@@ -197,6 +467,18 @@
         "away_score": 2,
         "stage": "Internationals 2016",
         "competition": "Switzerland",
+        "status": "FT"
+      }
+    ],
+    "1417918": [
+      {
+        "date": "20220923",
+        "home": "Qatar",
+        "away": "Canada",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "Internationals 2022",
+        "competition": "Austria",
         "status": "FT"
       }
     ],
@@ -292,6 +574,40 @@
         "status": "FT"
       }
     ],
+    "1417930": [
+      {
+        "date": "20251015",
+        "home": "USA",
+        "away": "Australia",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Internationals 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20100605",
+        "home": "USA",
+        "away": "Australia",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "Internationals 2010",
+        "competition": "South Africa",
+        "status": "FT"
+      }
+    ],
+    "1417924": [
+      {
+        "date": "19980623",
+        "home": "Scotland",
+        "away": "Morocco",
+        "home_score": 0,
+        "away_score": 3,
+        "stage": "FIFA World Cup 1998 France",
+        "competition": "France",
+        "status": "FT"
+      }
+    ],
     "1417923": [
       {
         "date": "20160608",
@@ -311,6 +627,120 @@
         "away_score": 1,
         "stage": "Pan American Games 1959 United States",
         "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417929": [
+      {
+        "date": "19950617",
+        "home": "Paraguay",
+        "away": "Turkiye",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "Internationals 1995",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417942": [
+      {
+        "date": "20171010",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "UEFA World Cup Qualifiers 2018 Russia",
+        "competition": "Netherlands",
+        "status": "FT"
+      },
+      {
+        "date": "20160906",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "UEFA World Cup Qualifiers 2018 Russia",
+        "competition": "Sweden",
+        "status": "FT"
+      },
+      {
+        "date": "20111011",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 3,
+        "away_score": 2,
+        "stage": "UEFA European Championship Qualifiers 2012 Poland/Ukraine",
+        "competition": "Sweden",
+        "status": "FT"
+      },
+      {
+        "date": "20101012",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 4,
+        "away_score": 1,
+        "stage": "UEFA European Championship Qualifiers 2012 Poland/Ukraine",
+        "competition": "Netherlands",
+        "status": "FT"
+      },
+      {
+        "date": "20081119",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "Internationals 2008",
+        "competition": "Netherlands",
+        "status": "FT"
+      },
+      {
+        "date": "20040818",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 2004",
+        "competition": "Sweden",
+        "status": "FT"
+      },
+      {
+        "date": "20040626",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "UEFA European Championship Finals 2004 Portugal",
+        "competition": "Portugal",
+        "status": "FT"
+      },
+      {
+        "date": "19830427",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 0,
+        "away_score": 3,
+        "stage": "Internationals 1983",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19740904",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 5,
+        "stage": "Internationals 1974",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19740619",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1974 Germany",
+        "competition": "Germany",
         "status": "FT"
       }
     ],
@@ -400,6 +830,54 @@
         "status": "FT"
       }
     ],
+    "1417947": [
+      {
+        "date": "20240322",
+        "home": "Egypt",
+        "away": "New Zealand",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 2024",
+        "competition": "Egypt",
+        "status": "FT"
+      }
+    ],
+    "1417966": [
+      {
+        "date": "19900503",
+        "home": "Austria",
+        "away": "Argentina",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 1990",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417959": [
+      {
+        "date": "20060228",
+        "home": "Senegal",
+        "away": "Norway",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Internationals 2006",
+        "competition": "Senegal",
+        "status": "FT"
+      }
+    ],
+    "1417965": [
+      {
+        "date": "20040530",
+        "home": "Algeria",
+        "away": "Jordan",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Friendlies",
+        "competition": "Friendlies 1",
+        "status": "FT"
+      }
+    ],
     "1417972": [
       {
         "date": "20120918",
@@ -421,6 +899,92 @@
         "away_score": 1,
         "stage": "Internationals 2011",
         "competition": "England",
+        "status": "FT"
+      }
+    ],
+    "1417919": [
+      {
+        "date": "20020514",
+        "home": "Switzerland",
+        "away": "Canada",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "Internationals 2002",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417920": [
+      {
+        "date": "20100810",
+        "home": "Bosnia and Herzegovina",
+        "away": "Qatar",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2010",
+        "competition": "Bosnia and Herzegovina",
+        "status": "FT"
+      },
+      {
+        "date": "20000122",
+        "home": "Qatar",
+        "away": "Bosnia and Herzegovina",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Internationals 2000",
+        "competition": "Qatar",
+        "status": "FT"
+      }
+    ],
+    "1417925": [
+      {
+        "date": "20110327",
+        "home": "Brazil",
+        "away": "Scotland",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Internationals 2011",
+        "competition": "England",
+        "status": "FT"
+      },
+      {
+        "date": "19980610",
+        "home": "Brazil",
+        "away": "Scotland",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "FIFA World Cup 1998 France",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "19900620",
+        "home": "Brazil",
+        "away": "Scotland",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1990 Italy",
+        "competition": "Italy",
+        "status": "FT"
+      },
+      {
+        "date": "19820618",
+        "home": "Brazil",
+        "away": "Scotland",
+        "home_score": 4,
+        "away_score": 1,
+        "stage": "FIFA World Cup 1982 Spain",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "19740618",
+        "home": "Scotland",
+        "away": "Brazil",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1974 Germany",
+        "competition": "Germany",
         "status": "FT"
       }
     ],
@@ -458,6 +1022,70 @@
         "status": "FT"
       }
     ],
+    "1417944": [
+      {
+        "date": "20020525",
+        "home": "Japan",
+        "away": "Sweden",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2002",
+        "competition": "Japan",
+        "status": "FT"
+      },
+      {
+        "date": "19970213",
+        "home": "Japan",
+        "away": "Sweden",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "Internationals 1997",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19960221",
+        "home": "Japan",
+        "away": "Sweden",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 1996",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19950610",
+        "home": "Japan",
+        "away": "Sweden",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 1995",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417943": [
+      {
+        "date": "20090211",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2009",
+        "competition": "Tunisia",
+        "status": "FT"
+      },
+      {
+        "date": "19940119",
+        "home": "Tunisia",
+        "away": "Netherlands",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 1994",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
     "1417932": [
       {
         "date": "20101009",
@@ -477,6 +1105,58 @@
         "away_score": 1,
         "stage": "Internationals 2006",
         "competition": "Australia",
+        "status": "FT"
+      }
+    ],
+    "1417931": [
+      {
+        "date": "20250607",
+        "home": "USA",
+        "away": "Turkiye",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Internationals 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20140601",
+        "home": "USA",
+        "away": "Turkiye",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Internationals 2014",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20100529",
+        "home": "USA",
+        "away": "Turkiye",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Internationals 2010",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20030619",
+        "home": "Turkiye",
+        "away": "USA",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "FIFA Confederations Cup 2003 France",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "19910904",
+        "home": "Turkiye",
+        "away": "USA",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 1991",
+        "competition": "",
         "status": "FT"
       }
     ],
@@ -579,6 +1259,78 @@
         "away_score": 1,
         "stage": "UEFA European Championship Qualifiers 1972 Belgium",
         "competition": "France",
+        "status": "FT"
+      }
+    ],
+    "1417955": [
+      {
+        "date": "20130616",
+        "home": "Spain",
+        "away": "Uruguay",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "FIFA Confederations Cup 2013 Brazil",
+        "competition": "Brazil",
+        "status": "FT"
+      },
+      {
+        "date": "20130206",
+        "home": "Spain",
+        "away": "Uruguay",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "Internationals 2013",
+        "competition": "Qatar",
+        "status": "FT"
+      },
+      {
+        "date": "20050817",
+        "home": "Spain",
+        "away": "Uruguay",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Internationals 2005",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "19950118",
+        "home": "Spain",
+        "away": "Uruguay",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 1995",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19910904",
+        "home": "Spain",
+        "away": "Uruguay",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Internationals 1991",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19900613",
+        "home": "Uruguay",
+        "away": "Spain",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1990 Italy",
+        "competition": "Italy",
+        "status": "FT"
+      },
+      {
+        "date": "19500709",
+        "home": "Uruguay",
+        "away": "Spain",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "FIFA World Cup 1950 Brazil",
+        "competition": "Brazil",
         "status": "FT"
       }
     ],
@@ -710,6 +1462,162 @@
         "status": "FT"
       }
     ],
+    "1691868": [
+      {
+        "date": "20130814",
+        "home": "Germany",
+        "away": "Paraguay",
+        "home_score": 3,
+        "away_score": 3,
+        "stage": "Internationals 2013",
+        "competition": "Germany",
+        "status": "FT"
+      },
+      {
+        "date": "20020615",
+        "home": "Germany",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "FIFA World Cup 2002 Korea Rep/Japan",
+        "competition": "Korea Republic",
+        "status": "FT"
+      }
+    ],
+    "1691869": [
+      {
+        "date": "20170531",
+        "home": "Morocco",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Internationals 2017",
+        "competition": "Morocco",
+        "status": "FT"
+      },
+      {
+        "date": "19990427",
+        "home": "Netherlands",
+        "away": "Morocco",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Internationals 1999",
+        "competition": "Netherlands",
+        "status": "FT"
+      },
+      {
+        "date": "19940629",
+        "home": "Morocco",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "FIFA World Cup 1994 USA",
+        "competition": "USA",
+        "status": "FT"
+      }
+    ],
+    "1691871": [
+      {
+        "date": "20201117",
+        "home": "France",
+        "away": "Sweden",
+        "home_score": 4,
+        "away_score": 2,
+        "stage": "UEFA Nations League 2020/2021",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "20200905",
+        "home": "Sweden",
+        "away": "France",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "UEFA Nations League 2020/2021",
+        "competition": "Sweden",
+        "status": "FT"
+      },
+      {
+        "date": "20170609",
+        "home": "Sweden",
+        "away": "France",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "UEFA World Cup Qualifiers 2018 Russia",
+        "competition": "Sweden",
+        "status": "FT"
+      },
+      {
+        "date": "20161111",
+        "home": "France",
+        "away": "Sweden",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "UEFA World Cup Qualifiers 2018 Russia",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "20141118",
+        "home": "France",
+        "away": "Sweden",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 2014",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "20120619",
+        "home": "Sweden",
+        "away": "France",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "UEFA European Championship 2012 Poland/Ukraine",
+        "competition": "Ukraine",
+        "status": "FT"
+      },
+      {
+        "date": "20080820",
+        "home": "Sweden",
+        "away": "France",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "Internationals 2008",
+        "competition": "Sweden",
+        "status": "FT"
+      },
+      {
+        "date": "20050209",
+        "home": "France",
+        "away": "Sweden",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2005",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "19980421",
+        "home": "Sweden",
+        "away": "France",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "Internationals 1998",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19970401",
+        "home": "France",
+        "away": "Sweden",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 1997",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
     "1691873": [
       {
         "date": "20251015",
@@ -812,6 +1720,38 @@
         "status": "FT"
       }
     ],
+    "1691874": [
+      {
+        "date": "20211219",
+        "home": "USA",
+        "away": "Bosnia and Herzegovina",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 2021",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20180129",
+        "home": "USA",
+        "away": "Bosnia and Herzegovina",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "Internationals 2018",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20130814",
+        "home": "Bosnia and Herzegovina",
+        "away": "USA",
+        "home_score": 3,
+        "away_score": 4,
+        "stage": "Internationals 2013",
+        "competition": "Bosnia and Herzegovina",
+        "status": "FT"
+      }
+    ],
     "1691878": [
       {
         "date": "20091118",
@@ -901,6 +1841,108 @@
         "away_score": 1,
         "stage": "FIFA World Cup 1978 Argentina",
         "competition": "Argentina",
+        "status": "FT"
+      }
+    ],
+    "1691877": [
+      {
+        "date": "20241118",
+        "home": "Croatia",
+        "away": "Portugal",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "UEFA Nations League 2024/2025",
+        "competition": "Croatia",
+        "status": "FT"
+      },
+      {
+        "date": "20240905",
+        "home": "Portugal",
+        "away": "Croatia",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "UEFA Nations League 2024/2025",
+        "competition": "Portugal",
+        "status": "FT"
+      },
+      {
+        "date": "20240608",
+        "home": "Portugal",
+        "away": "Croatia",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Internationals 2024",
+        "competition": "Portugal",
+        "status": "FT"
+      },
+      {
+        "date": "20201117",
+        "home": "Croatia",
+        "away": "Portugal",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "UEFA Nations League 2020/2021",
+        "competition": "Croatia",
+        "status": "FT"
+      },
+      {
+        "date": "20200905",
+        "home": "Portugal",
+        "away": "Croatia",
+        "home_score": 4,
+        "away_score": 1,
+        "stage": "UEFA Nations League 2020/2021",
+        "competition": "Portugal",
+        "status": "FT"
+      },
+      {
+        "date": "20180906",
+        "home": "Portugal",
+        "away": "Croatia",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2018",
+        "competition": "Portugal",
+        "status": "FT"
+      },
+      {
+        "date": "20160625",
+        "home": "Croatia",
+        "away": "Portugal",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "UEFA European Championship 2016 France",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "20130610",
+        "home": "Croatia",
+        "away": "Portugal",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "Internationals 2013",
+        "competition": "Switzerland",
+        "status": "FT"
+      },
+      {
+        "date": "20051112",
+        "home": "Portugal",
+        "away": "Croatia",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Internationals 2005",
+        "competition": "Portugal",
+        "status": "FT"
+      },
+      {
+        "date": "19960619",
+        "home": "Croatia",
+        "away": "Portugal",
+        "home_score": 0,
+        "away_score": 3,
+        "stage": "UEFA European Championship 1996 England",
+        "competition": "England",
         "status": "FT"
       }
     ],
@@ -1228,6 +2270,102 @@
         "status": "FT"
       }
     ],
+    "1417907": [
+      {
+        "date": "20080325",
+        "home": "Egypt",
+        "away": "Argentina",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "Internationals 2008",
+        "competition": "Egypt",
+        "status": "FT"
+      }
+    ],
+    "1417908": [
+      {
+        "date": "20070324",
+        "home": "Colombia",
+        "away": "Switzerland",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "Internationals 2007",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "19940626",
+        "home": "Switzerland",
+        "away": "Colombia",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "FIFA World Cup 1994 USA",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "19910203",
+        "home": "Colombia",
+        "away": "Switzerland",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "Internationals 1991",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417897": [
+      {
+        "date": "20221214",
+        "home": "France",
+        "away": "Morocco",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "FIFA World Cup 2022 Qatar",
+        "competition": "Qatar",
+        "status": "FT"
+      },
+      {
+        "date": "20071116",
+        "home": "France",
+        "away": "Morocco",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 2007",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "20000606",
+        "home": "Morocco",
+        "away": "France",
+        "home_score": 1,
+        "away_score": 5,
+        "stage": "Internationals 2000",
+        "competition": "Morocco",
+        "status": "FT"
+      },
+      {
+        "date": "19990119",
+        "home": "France",
+        "away": "Morocco",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "Internationals 1999",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "19980528",
+        "home": "Morocco",
+        "away": "France",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 1998",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
     "1417899": [
       {
         "date": "20160901",
@@ -1409,6 +2547,58 @@
         "away_score": 0,
         "stage": "UEFA World Cup Qualifiers 1982 Spain",
         "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417900": [
+      {
+        "date": "20140701",
+        "home": "Argentina",
+        "away": "Switzerland",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "FIFA World Cup 2014 Brazil",
+        "competition": "Brazil",
+        "status": "FT"
+      },
+      {
+        "date": "20120229",
+        "home": "Switzerland",
+        "away": "Argentina",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "Internationals 2012",
+        "competition": "Switzerland",
+        "status": "FT"
+      },
+      {
+        "date": "20070602",
+        "home": "Switzerland",
+        "away": "Argentina",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2007",
+        "competition": "Switzerland",
+        "status": "FT"
+      },
+      {
+        "date": "19900508",
+        "home": "Switzerland",
+        "away": "Argentina",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 1990",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19660719",
+        "home": "Argentina",
+        "away": "Switzerland",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1966 England",
+        "competition": "England",
         "status": "FT"
       }
     ],
@@ -1697,8 +2887,80 @@
         "competition": "",
         "status": "FT"
       }
+    ],
+    "1417831": [
+      {
+        "date": "20180327",
+        "home": "Spain",
+        "away": "Argentina",
+        "home_score": 6,
+        "away_score": 1,
+        "stage": "Internationals 2018",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "20100907",
+        "home": "Argentina",
+        "away": "Spain",
+        "home_score": 4,
+        "away_score": 1,
+        "stage": "Internationals 2010",
+        "competition": "Argentina",
+        "status": "FT"
+      },
+      {
+        "date": "20091114",
+        "home": "Spain",
+        "away": "Argentina",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Internationals 2009",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "20061011",
+        "home": "Spain",
+        "away": "Argentina",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Internationals 2006",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "19991116",
+        "home": "Spain",
+        "away": "Argentina",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "Internationals 1999",
+        "competition": "Spain",
+        "status": "FT"
+      },
+      {
+        "date": "19950919",
+        "home": "Spain",
+        "away": "Argentina",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Internationals 1995",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19660713",
+        "home": "Argentina",
+        "away": "Spain",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "FIFA World Cup 1966 England",
+        "competition": "England",
+        "status": "FT"
+      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-08-08T17:57:30Z"
+  "last_updated": "2026-08-08T18:35:20Z"
 }
