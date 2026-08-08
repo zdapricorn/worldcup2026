@@ -74,64 +74,6 @@
         "period": "2"
       }
     ],
-    "1417910": [
-      {
-        "minute": 59,
-        "type": 36,
-        "player": "L. Krejčí",
-        "number": 7,
-        "score": "0-1",
-        "period": "2"
-      },
-      {
-        "minute": 59,
-        "type": 63,
-        "player": "V. Coufal",
-        "number": 5,
-        "score": "0-1",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 36,
-        "player": "Hwang In-Beom",
-        "number": 6,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 63,
-        "player": "Lee Kang-In",
-        "number": 19,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 80,
-        "type": 36,
-        "player": "Oh Hyeon-Gyu",
-        "number": 18,
-        "score": "2-1",
-        "period": "2"
-      },
-      {
-        "minute": 80,
-        "type": 63,
-        "player": "Hwang In-Beom",
-        "number": 6,
-        "score": "2-1",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "Lee Gi-Hyuk",
-        "number": 3,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417915": [
       {
         "minute": 11,
@@ -203,128 +145,6 @@
         "player": "N. Katić",
         "number": 18,
         "score": "",
-        "period": "2"
-      }
-    ],
-    "1417927": [
-      {
-        "minute": 7,
-        "type": 39,
-        "player": "D. Bobadilla",
-        "number": 16,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 10,
-        "type": 43,
-        "player": "J. Cáceres",
-        "number": 4,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 31,
-        "type": 36,
-        "player": "F. Balogun",
-        "number": 20,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 31,
-        "type": 63,
-        "player": "C. Pulisic",
-        "number": 10,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 36,
-        "player": "F. Balogun",
-        "number": 20,
-        "score": "3-0",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 63,
-        "player": "M. Tillman",
-        "number": 17,
-        "score": "3-0",
-        "period": "1"
-      },
-      {
-        "minute": 53,
-        "type": 43,
-        "player": "M. Almirón",
-        "number": 10,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 59,
-        "type": 43,
-        "player": "T. Adams",
-        "number": 4,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 73,
-        "type": 36,
-        "player": "Mauricio",
-        "number": 11,
-        "score": "3-1",
-        "period": "2"
-      },
-      {
-        "minute": 73,
-        "type": 63,
-        "player": "J. Enciso",
-        "number": 19,
-        "score": "3-1",
-        "period": "2"
-      },
-      {
-        "minute": 79,
-        "type": 43,
-        "player": "D. Gómez",
-        "number": 8,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 88,
-        "type": 43,
-        "player": "Á. Arce",
-        "number": 18,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "J. Alonso",
-        "number": 6,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "G. Reyna",
-        "number": 7,
-        "score": "4-1",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "A. Freeman",
-        "number": 16,
-        "score": "4-1",
         "period": "2"
       }
     ],
@@ -458,40 +278,6 @@
         "type": 43,
         "player": "K. McLean",
         "number": 23,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417928": [
-      {
-        "minute": 27,
-        "type": 36,
-        "player": "N. Irankunda",
-        "number": 17,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 27,
-        "type": 63,
-        "player": "P. Okon-Engstler",
-        "number": 24,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 75,
-        "type": 36,
-        "player": "C. Metcalfe",
-        "number": 8,
-        "score": "2-0",
-        "period": "2"
-      },
-      {
-        "minute": 86,
-        "type": 43,
-        "player": "Y. Akgün",
-        "number": 19,
         "score": "",
         "period": "2"
       }
@@ -926,64 +712,6 @@
         "period": "2"
       }
     ],
-    "1417946": [
-      {
-        "minute": 7,
-        "type": 36,
-        "player": "E. Just",
-        "number": 11,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 32,
-        "type": 36,
-        "player": "R. Rezaeian",
-        "number": 23,
-        "score": "1-1",
-        "period": "1"
-      },
-      {
-        "minute": 54,
-        "type": 36,
-        "player": "E. Just",
-        "number": 11,
-        "score": "1-2",
-        "period": "2"
-      },
-      {
-        "minute": 54,
-        "type": 63,
-        "player": "C. Wood",
-        "number": 9,
-        "score": "1-2",
-        "period": "2"
-      },
-      {
-        "minute": 64,
-        "type": 36,
-        "player": "M. Mohebbi",
-        "number": 8,
-        "score": "2-2",
-        "period": "2"
-      },
-      {
-        "minute": 64,
-        "type": 63,
-        "player": "R. Rezaeian",
-        "number": 23,
-        "score": "2-2",
-        "period": "2"
-      },
-      {
-        "minute": 89,
-        "type": 43,
-        "player": "E. Hajisafi",
-        "number": 3,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417957": [
       {
         "minute": 66,
@@ -1039,80 +767,6 @@
         "player": "K. Mbappé",
         "number": 10,
         "score": "3-1",
-        "period": "2"
-      }
-    ],
-    "1417958": [
-      {
-        "minute": 29,
-        "type": 36,
-        "player": "E. Haaland",
-        "number": 9,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 29,
-        "type": 63,
-        "player": "D. Møller Wolfe",
-        "number": 5,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 39,
-        "type": 36,
-        "player": "Aymen Hussein",
-        "number": 18,
-        "score": "1-1",
-        "period": "1"
-      },
-      {
-        "minute": 39,
-        "type": 63,
-        "player": "Amir Al Ammari",
-        "number": 16,
-        "score": "1-1",
-        "period": "1"
-      },
-      {
-        "minute": 43,
-        "type": 36,
-        "player": "E. Haaland",
-        "number": 9,
-        "score": "1-2",
-        "period": "1"
-      },
-      {
-        "minute": 76,
-        "type": 36,
-        "player": "L. Østigård",
-        "number": 4,
-        "score": "1-3",
-        "period": "2"
-      },
-      {
-        "minute": 76,
-        "type": 63,
-        "player": "M. Ødegaard",
-        "number": 10,
-        "score": "1-3",
-        "period": "2"
-      },
-      {
-        "minute": 86,
-        "type": 43,
-        "player": "Zaid Tahseen",
-        "number": 4,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 39,
-        "player": "Aymen Hussein",
-        "number": 18,
-        "score": "1-4",
         "period": "2"
       }
     ],
@@ -1388,40 +1042,6 @@
         "period": "2"
       }
     ],
-    "1417975": [
-      {
-        "minute": 16,
-        "type": 43,
-        "player": "C. Yirenkyi",
-        "number": 3,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 72,
-        "type": 43,
-        "player": "C. Blackman",
-        "number": 2,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "C. Yirenkyi",
-        "number": 3,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "C. Harvey",
-        "number": 14,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417970": [
       {
         "minute": 7,
@@ -1546,178 +1166,6 @@
         "period": "2"
       }
     ],
-    "1417917": [
-      {
-        "minute": 59,
-        "type": 43,
-        "player": "A. Dedić",
-        "number": 7,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 61,
-        "type": 43,
-        "player": "E. Džeko",
-        "number": 11,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 65,
-        "type": 43,
-        "player": "N. Elvedi",
-        "number": 4,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 74,
-        "type": 36,
-        "player": "J. Manzambi",
-        "number": 9,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 80,
-        "type": 45,
-        "player": "T. Muharemović",
-        "number": 4,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 84,
-        "type": 36,
-        "player": "R. Vargas",
-        "number": 17,
-        "score": "2-0",
-        "period": "2"
-      },
-      {
-        "minute": 84,
-        "type": 63,
-        "player": "B. Embolo",
-        "number": 7,
-        "score": "2-0",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "J. Manzambi",
-        "number": 9,
-        "score": "3-0",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "R. Vargas",
-        "number": 17,
-        "score": "3-0",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "E. Mahmić",
-        "number": 26,
-        "score": "3-1",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 37,
-        "player": "G. Xhaka",
-        "number": 10,
-        "score": "4-1",
-        "period": "2"
-      }
-    ],
-    "1417918": [
-      {
-        "minute": 9,
-        "type": 43,
-        "player": "D. Cornelius",
-        "number": 13,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 16,
-        "type": 36,
-        "player": "C. Larin",
-        "number": 9,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 29,
-        "type": 36,
-        "player": "J. David",
-        "number": 10,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 33,
-        "type": 45,
-        "player": "Homam El Amin",
-        "number": 14,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 36,
-        "player": "J. David",
-        "number": 10,
-        "score": "3-0",
-        "period": "1"
-      },
-      {
-        "minute": 53,
-        "type": 45,
-        "player": "Assim Madibo",
-        "number": 23,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 62,
-        "type": 43,
-        "player": "Ahmed Fathy",
-        "number": 20,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 64,
-        "type": 36,
-        "player": "N. Saliba",
-        "number": 25,
-        "score": "4-0",
-        "period": "2"
-      },
-      {
-        "minute": 75,
-        "type": 39,
-        "player": "Mohammad Manai",
-        "number": 26,
-        "score": "5-0",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "J. David",
-        "number": 10,
-        "score": "6-0",
-        "period": "2"
-      }
-    ],
     "1417912": [
       {
         "minute": 4,
@@ -1829,40 +1277,6 @@
         "minute": 90,
         "type": 43,
         "player": "C. Richards",
-        "number": 3,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417924": [
-      {
-        "minute": 2,
-        "type": 36,
-        "player": "I. Saibari",
-        "number": 11,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 2,
-        "type": 63,
-        "player": "B. Díaz",
-        "number": 10,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 23,
-        "type": 43,
-        "player": "I. Diop",
-        "number": 14,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 65,
-        "type": 43,
-        "player": "A. Robertson",
         "number": 3,
         "score": "",
         "period": "2"
@@ -1989,128 +1403,6 @@
         "player": "E. Elmalı",
         "number": 13,
         "score": "",
-        "period": "2"
-      }
-    ],
-    "1417942": [
-      {
-        "minute": 5,
-        "type": 36,
-        "player": "B. Brobbey",
-        "number": 19,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 5,
-        "type": 63,
-        "player": "C. Gakpo",
-        "number": 11,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 17,
-        "type": 36,
-        "player": "B. Brobbey",
-        "number": 19,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 17,
-        "type": 63,
-        "player": "D. Dumfries",
-        "number": 22,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 47,
-        "type": 36,
-        "player": "C. Gakpo",
-        "number": 11,
-        "score": "3-0",
-        "period": "2"
-      },
-      {
-        "minute": 47,
-        "type": 63,
-        "player": "D. Dumfries",
-        "number": 22,
-        "score": "3-0",
-        "period": "2"
-      },
-      {
-        "minute": 53,
-        "type": 43,
-        "player": "G. Gudmundsson",
-        "number": 5,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 54,
-        "type": 36,
-        "player": "C. Gakpo",
-        "number": 11,
-        "score": "4-0",
-        "period": "2"
-      },
-      {
-        "minute": 54,
-        "type": 63,
-        "player": "C. Summerville",
-        "number": 24,
-        "score": "4-0",
-        "period": "2"
-      },
-      {
-        "minute": 59,
-        "type": 36,
-        "player": "A. Elanga",
-        "number": 11,
-        "score": "4-1",
-        "period": "2"
-      },
-      {
-        "minute": 59,
-        "type": 63,
-        "player": "A. Isak",
-        "number": 9,
-        "score": "4-1",
-        "period": "2"
-      },
-      {
-        "minute": 75,
-        "type": 43,
-        "player": "Y. Ayari",
-        "number": 18,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 80,
-        "type": 43,
-        "player": "L. Bergvall",
-        "number": 7,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 89,
-        "type": 36,
-        "player": "C. Summerville",
-        "number": 24,
-        "score": "5-1",
-        "period": "2"
-      },
-      {
-        "minute": 89,
-        "type": 63,
-        "player": "M. Depay",
-        "number": 10,
-        "score": "5-1",
         "period": "2"
       }
     ],
@@ -2272,88 +1564,6 @@
         "period": "2"
       }
     ],
-    "1417954": [
-      {
-        "minute": 10,
-        "type": 36,
-        "player": "Lamine Yamal",
-        "number": 19,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 10,
-        "type": 63,
-        "player": "Mikel Oyarzabal",
-        "number": 21,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 21,
-        "type": 36,
-        "player": "Mikel Oyarzabal",
-        "number": 21,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 21,
-        "type": 63,
-        "player": "Aymeric Laporte",
-        "number": 14,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 24,
-        "type": 36,
-        "player": "Mikel Oyarzabal",
-        "number": 21,
-        "score": "3-0",
-        "period": "1"
-      },
-      {
-        "minute": 24,
-        "type": 63,
-        "player": "Dani Olmo",
-        "number": 10,
-        "score": "3-0",
-        "period": "1"
-      },
-      {
-        "minute": 30,
-        "type": 43,
-        "player": "Salem Al Dawsari",
-        "number": 10,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 49,
-        "type": 39,
-        "player": "Hassan Al Tambakti",
-        "number": 5,
-        "score": "4-0",
-        "period": "2"
-      },
-      {
-        "minute": 60,
-        "type": 43,
-        "player": "Mohamed Kanno",
-        "number": 23,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 62,
-        "player": "Ferran Torres",
-        "number": 7,
-        "score": "4-0",
-        "period": "2"
-      }
-    ],
     "1417948": [
       {
         "minute": 3,
@@ -2459,96 +1669,6 @@
         "player": "Diney Borges",
         "number": 3,
         "score": "",
-        "period": "2"
-      }
-    ],
-    "1417947": [
-      {
-        "minute": 15,
-        "type": 36,
-        "player": "F. Surman",
-        "number": 16,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 15,
-        "type": 63,
-        "player": "T. Payne",
-        "number": 2,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 17,
-        "type": 43,
-        "player": "Mohanad Lasheen",
-        "number": 17,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 20,
-        "type": 43,
-        "player": "S. Singh",
-        "number": 10,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 34,
-        "type": 43,
-        "player": "C. McCowatt",
-        "number": 20,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 58,
-        "type": 36,
-        "player": "Mostafa Zico",
-        "number": 11,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 58,
-        "type": 63,
-        "player": "Mohamed Hany",
-        "number": 3,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 36,
-        "player": "Mohamed Salah",
-        "number": 10,
-        "score": "1-2",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 63,
-        "player": "Mostafa Zico",
-        "number": 11,
-        "score": "1-2",
-        "period": "2"
-      },
-      {
-        "minute": 82,
-        "type": 36,
-        "player": "Trezeguet",
-        "number": 7,
-        "score": "1-3",
-        "period": "2"
-      },
-      {
-        "minute": 82,
-        "type": 63,
-        "player": "Mohamed Salah",
-        "number": 10,
-        "score": "1-3",
         "period": "2"
       }
     ],
@@ -2676,96 +1796,6 @@
         "period": "2"
       }
     ],
-    "1417959": [
-      {
-        "minute": 43,
-        "type": 36,
-        "player": "M. Pedersen",
-        "number": 16,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 48,
-        "type": 36,
-        "player": "E. Haaland",
-        "number": 9,
-        "score": "2-0",
-        "period": "2"
-      },
-      {
-        "minute": 48,
-        "type": 63,
-        "player": "M. Ødegaard",
-        "number": 10,
-        "score": "2-0",
-        "period": "2"
-      },
-      {
-        "minute": 53,
-        "type": 36,
-        "player": "I. Sarr",
-        "number": 18,
-        "score": "2-1",
-        "period": "2"
-      },
-      {
-        "minute": 53,
-        "type": 63,
-        "player": "S. Mané",
-        "number": 10,
-        "score": "2-1",
-        "period": "2"
-      },
-      {
-        "minute": 58,
-        "type": 36,
-        "player": "E. Haaland",
-        "number": 9,
-        "score": "3-1",
-        "period": "2"
-      },
-      {
-        "minute": 58,
-        "type": 63,
-        "player": "P. Berg",
-        "number": 6,
-        "score": "3-1",
-        "period": "2"
-      },
-      {
-        "minute": 84,
-        "type": 4,
-        "player": "T. Heggem",
-        "number": 17,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 84,
-        "type": 5,
-        "player": "L. Østigård",
-        "number": 4,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "I. Sarr",
-        "number": 18,
-        "score": "3-2",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "N. Jackson",
-        "number": 11,
-        "score": "3-2",
-        "period": "2"
-      }
-    ],
     "1417965": [
       {
         "minute": 36,
@@ -2813,106 +1843,6 @@
         "player": "A. Gouiri",
         "number": 9,
         "score": "1-2",
-        "period": "2"
-      }
-    ],
-    "1417972": [
-      {
-        "minute": 6,
-        "type": 36,
-        "player": "Cristiano Ronaldo",
-        "number": 7,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 6,
-        "type": 63,
-        "player": "João Cancelo",
-        "number": 20,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 14,
-        "type": 43,
-        "player": "O. Khamrobekov",
-        "number": 9,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 17,
-        "type": 36,
-        "player": "Nuno Mendes",
-        "number": 25,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 29,
-        "type": 62,
-        "player": "A. G'aniev",
-        "number": 19,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 39,
-        "type": 36,
-        "player": "Cristiano Ronaldo",
-        "number": 7,
-        "score": "3-0",
-        "period": "1"
-      },
-      {
-        "minute": 39,
-        "type": 63,
-        "player": "Bruno Fernandes",
-        "number": 8,
-        "score": "3-0",
-        "period": "1"
-      },
-      {
-        "minute": 60,
-        "type": 39,
-        "player": "A. Nematov",
-        "number": 12,
-        "score": "4-0",
-        "period": "2"
-      },
-      {
-        "minute": 68,
-        "type": 43,
-        "player": "Renato Veiga",
-        "number": 13,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 87,
-        "type": 36,
-        "player": "Rafael Leão",
-        "number": 17,
-        "score": "5-0",
-        "period": "2"
-      }
-    ],
-    "1417977": [
-      {
-        "minute": 41,
-        "type": 43,
-        "player": "D. Rice",
-        "number": 4,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 60,
-        "type": 43,
-        "player": "I. Williams",
-        "number": 19,
-        "score": "",
         "period": "2"
       }
     ],
@@ -2992,252 +1922,6 @@
         "period": "2"
       }
     ],
-    "1417919": [
-      {
-        "minute": 32,
-        "type": 43,
-        "player": "C. Larin",
-        "number": 9,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 32,
-        "type": 43,
-        "player": "G. Xhaka",
-        "number": 10,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 46,
-        "type": 36,
-        "player": "R. Vargas",
-        "number": 17,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 46,
-        "type": 63,
-        "player": "J. Manzambi",
-        "number": 9,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 57,
-        "type": 36,
-        "player": "J. Manzambi",
-        "number": 9,
-        "score": "2-0",
-        "period": "2"
-      },
-      {
-        "minute": 57,
-        "type": 63,
-        "player": "B. Embolo",
-        "number": 7,
-        "score": "2-0",
-        "period": "2"
-      },
-      {
-        "minute": 76,
-        "type": 36,
-        "player": "P. David",
-        "number": 24,
-        "score": "2-1",
-        "period": "2"
-      },
-      {
-        "minute": 76,
-        "type": 63,
-        "player": "N. Saliba",
-        "number": 25,
-        "score": "2-1",
-        "period": "2"
-      },
-      {
-        "minute": 87,
-        "type": 43,
-        "player": "L. Millar",
-        "number": 11,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417920": [
-      {
-        "minute": 29,
-        "type": 36,
-        "player": "K. Alajbegović",
-        "number": 19,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 29,
-        "type": 63,
-        "player": "I. Bašić",
-        "number": 13,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 34,
-        "type": 39,
-        "player": "Mahmud Abunada",
-        "number": 1,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 42,
-        "type": 36,
-        "player": "Hassan Al Haydos",
-        "number": 10,
-        "score": "2-1",
-        "period": "1"
-      },
-      {
-        "minute": 42,
-        "type": 63,
-        "player": "Edmílson Junior",
-        "number": 8,
-        "score": "2-1",
-        "period": "1"
-      },
-      {
-        "minute": 78,
-        "type": 43,
-        "player": "Ahmed Fathy",
-        "number": 20,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 80,
-        "type": 36,
-        "player": "E. Mahmić",
-        "number": 26,
-        "score": "3-1",
-        "period": "2"
-      },
-      {
-        "minute": 80,
-        "type": 63,
-        "player": "D. Hadžikadunić",
-        "number": 3,
-        "score": "3-1",
-        "period": "2"
-      },
-      {
-        "minute": 82,
-        "type": 43,
-        "player": "E. Mahmić",
-        "number": 26,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417922": [
-      {
-        "minute": 10,
-        "type": 39,
-        "player": "Y. Bounou",
-        "number": 1,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 39,
-        "type": 36,
-        "player": "A. Hakimi",
-        "number": 2,
-        "score": "1-1",
-        "period": "1"
-      },
-      {
-        "minute": 43,
-        "type": 36,
-        "player": "W. Isidor",
-        "number": 18,
-        "score": "1-2",
-        "period": "1"
-      },
-      {
-        "minute": 43,
-        "type": 63,
-        "player": "J. Duverne",
-        "number": 22,
-        "score": "1-2",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 36,
-        "player": "I. Saibari",
-        "number": 11,
-        "score": "2-2",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 63,
-        "player": "A. Hakimi",
-        "number": 2,
-        "score": "2-2",
-        "period": "1"
-      },
-      {
-        "minute": 78,
-        "type": 36,
-        "player": "S. Rahimi",
-        "number": 9,
-        "score": "3-2",
-        "period": "2"
-      },
-      {
-        "minute": 79,
-        "type": 43,
-        "player": "J. Placide",
-        "number": 1,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 80,
-        "type": 43,
-        "player": "D. Nazon",
-        "number": 9,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 89,
-        "type": 36,
-        "player": "G. Yassine",
-        "number": 16,
-        "score": "4-2",
-        "period": "2"
-      },
-      {
-        "minute": 89,
-        "type": 63,
-        "player": "S. Rahimi",
-        "number": 9,
-        "score": "4-2",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "J. Casimir",
-        "number": 21,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417925": [
       {
         "minute": 7,
@@ -3312,40 +1996,6 @@
         "period": "2"
       }
     ],
-    "1417914": [
-      {
-        "minute": 63,
-        "type": 36,
-        "player": "T. Maseko",
-        "number": 12,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 63,
-        "type": 63,
-        "player": "T. Moremi",
-        "number": 8,
-        "score": "1-0",
-        "period": "2"
-      },
-      {
-        "minute": 73,
-        "type": 43,
-        "player": "A. Modiba",
-        "number": 6,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 79,
-        "type": 43,
-        "player": "Cho Gue-Sung",
-        "number": 9,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417913": [
       {
         "minute": 55,
@@ -3396,134 +2046,36 @@
         "period": "2"
       }
     ],
-    "1417937": [
+    "1417914": [
       {
-        "minute": 2,
+        "minute": 63,
         "type": 36,
-        "player": "L. Sané",
-        "number": 19,
-        "score": "0-1",
-        "period": "1"
+        "player": "T. Maseko",
+        "number": 12,
+        "score": "1-0",
+        "period": "2"
       },
       {
-        "minute": 2,
+        "minute": 63,
         "type": 63,
-        "player": "F. Wirtz",
-        "number": 17,
-        "score": "0-1",
-        "period": "1"
+        "player": "T. Moremi",
+        "number": 8,
+        "score": "1-0",
+        "period": "2"
       },
       {
-        "minute": 9,
-        "type": 36,
-        "player": "N. Angulo",
-        "number": 20,
-        "score": "1-1",
-        "period": "1"
-      },
-      {
-        "minute": 43,
+        "minute": 73,
         "type": 43,
-        "player": "P. Hincapié",
-        "number": 3,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 44,
-        "type": 43,
-        "player": "A. Pavlović",
-        "number": 5,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 50,
-        "type": 43,
-        "player": "A. Franco",
-        "number": 21,
+        "player": "A. Modiba",
+        "number": 6,
         "score": "",
         "period": "2"
       },
       {
-        "minute": 77,
-        "type": 36,
-        "player": "G. Plata",
-        "number": 19,
-        "score": "2-1",
-        "period": "2"
-      },
-      {
-        "minute": 77,
-        "type": 63,
-        "player": "K. Rodríguez",
-        "number": 11,
-        "score": "2-1",
-        "period": "2"
-      },
-      {
-        "minute": 89,
+        "minute": 79,
         "type": 43,
-        "player": "G. Plata",
-        "number": 19,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417938": [
-      {
-        "minute": 7,
-        "type": 36,
-        "player": "N. Pépé",
-        "number": 19,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 7,
-        "type": 63,
-        "player": "Y. Diomande",
-        "number": 11,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 35,
-        "type": 43,
-        "player": "N. Pépé",
-        "number": 19,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 64,
-        "type": 36,
-        "player": "N. Pépé",
-        "number": 19,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 64,
-        "type": 63,
-        "player": "I. Sangaré",
-        "number": 18,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 75,
-        "type": 43,
-        "player": "J. Bacuna",
-        "number": 7,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 83,
-        "type": 43,
-        "player": "G. Kastaneer",
-        "number": 19,
+        "player": "Cho Gue-Sung",
+        "number": 9,
         "score": "",
         "period": "2"
       }
@@ -3702,21 +2254,109 @@
         "period": "2"
       }
     ],
-    "1417932": [
+    "1417961": [
       {
-        "minute": 46,
+        "minute": 7,
+        "type": 36,
+        "player": "O. Dembélé",
+        "number": 7,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 7,
+        "type": 63,
+        "player": "K. Mbappé",
+        "number": 10,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 10,
         "type": 43,
-        "player": "J. Irvine",
-        "number": 22,
+        "player": "P. Berg",
+        "number": 6,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 20,
+        "type": 36,
+        "player": "O. Dembélé",
+        "number": 7,
+        "score": "0-2",
+        "period": "1"
+      },
+      {
+        "minute": 20,
+        "type": 63,
+        "player": "K. Mbappé",
+        "number": 10,
+        "score": "0-2",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 36,
+        "player": "T. Aasgaard",
+        "number": 19,
+        "score": "1-2",
+        "period": "1"
+      },
+      {
+        "minute": 21,
+        "type": 63,
+        "player": "A. Schjelderup",
+        "number": 21,
+        "score": "1-2",
+        "period": "1"
+      },
+      {
+        "minute": 32,
+        "type": 36,
+        "player": "O. Dembélé",
+        "number": 7,
+        "score": "1-3",
+        "period": "1"
+      },
+      {
+        "minute": 32,
+        "type": 63,
+        "player": "A. Tchouaméni",
+        "number": 8,
+        "score": "1-3",
+        "period": "1"
+      },
+      {
+        "minute": 50,
+        "type": 38,
+        "player": "J. Strand Larsen",
+        "number": 11,
+        "score": "1-3",
+        "period": "2"
+      },
+      {
+        "minute": 74,
+        "type": 43,
+        "player": "A. Tchouaméni",
+        "number": 8,
         "score": "",
         "period": "2"
       },
       {
-        "minute": 77,
-        "type": 43,
-        "player": "D. Gómez",
-        "number": 8,
-        "score": "",
+        "minute": 90,
+        "type": 36,
+        "player": "D. Doué",
+        "number": 20,
+        "score": "1-4",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 63,
+        "player": "B. Barcola",
+        "number": 12,
+        "score": "1-4",
         "period": "2"
       }
     ],
@@ -3834,146 +2474,6 @@
         "period": "2"
       }
     ],
-    "1417961": [
-      {
-        "minute": 7,
-        "type": 36,
-        "player": "O. Dembélé",
-        "number": 7,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 7,
-        "type": 63,
-        "player": "K. Mbappé",
-        "number": 10,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 10,
-        "type": 43,
-        "player": "P. Berg",
-        "number": 6,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 20,
-        "type": 36,
-        "player": "O. Dembélé",
-        "number": 7,
-        "score": "0-2",
-        "period": "1"
-      },
-      {
-        "minute": 20,
-        "type": 63,
-        "player": "K. Mbappé",
-        "number": 10,
-        "score": "0-2",
-        "period": "1"
-      },
-      {
-        "minute": 21,
-        "type": 36,
-        "player": "T. Aasgaard",
-        "number": 19,
-        "score": "1-2",
-        "period": "1"
-      },
-      {
-        "minute": 21,
-        "type": 63,
-        "player": "A. Schjelderup",
-        "number": 21,
-        "score": "1-2",
-        "period": "1"
-      },
-      {
-        "minute": 32,
-        "type": 36,
-        "player": "O. Dembélé",
-        "number": 7,
-        "score": "1-3",
-        "period": "1"
-      },
-      {
-        "minute": 32,
-        "type": 63,
-        "player": "A. Tchouaméni",
-        "number": 8,
-        "score": "1-3",
-        "period": "1"
-      },
-      {
-        "minute": 50,
-        "type": 38,
-        "player": "J. Strand Larsen",
-        "number": 11,
-        "score": "1-3",
-        "period": "2"
-      },
-      {
-        "minute": 74,
-        "type": 43,
-        "player": "A. Tchouaméni",
-        "number": 8,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "D. Doué",
-        "number": 20,
-        "score": "1-4",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "B. Barcola",
-        "number": 12,
-        "score": "1-4",
-        "period": "2"
-      }
-    ],
-    "1417956": [
-      {
-        "minute": 4,
-        "type": 43,
-        "player": "Saud Abdulhamid",
-        "number": 12,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 8,
-        "type": 43,
-        "player": "Wagner Pina",
-        "number": 24,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 67,
-        "type": 43,
-        "player": "Nasser Al Dawsari",
-        "number": 6,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "Feras Al Brikan",
-        "number": 9,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417955": [
       {
         "minute": 42,
@@ -4032,67 +2532,27 @@
         "period": "2"
       }
     ],
-    "1417950": [
+    "1417956": [
       {
-        "minute": 5,
-        "type": 36,
-        "player": "Mahmoud Saber",
-        "number": 21,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 11,
-        "type": 38,
-        "player": "M. Taremi",
-        "number": 9,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 14,
-        "type": 36,
-        "player": "R. Rezaeian",
-        "number": 23,
-        "score": "1-1",
-        "period": "1"
-      },
-      {
-        "minute": 19,
+        "minute": 4,
         "type": 43,
-        "player": "H. Kanani",
-        "number": 13,
+        "player": "Saud Abdulhamid",
+        "number": 12,
         "score": "",
         "period": "1"
       },
       {
-        "minute": 20,
+        "minute": 8,
         "type": 43,
-        "player": "Mahmoud Saber",
-        "number": 21,
+        "player": "Wagner Pina",
+        "number": 24,
         "score": "",
         "period": "1"
       },
       {
-        "minute": 42,
+        "minute": 67,
         "type": 43,
-        "player": "Yasser Ibrahim",
-        "number": 2,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 43,
-        "type": 43,
-        "player": "A. Nemati",
-        "number": 19,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 79,
-        "type": 43,
-        "player": "S. Ezatolahi",
+        "player": "Nasser Al Dawsari",
         "number": 6,
         "score": "",
         "period": "2"
@@ -4100,107 +2560,9 @@
       {
         "minute": 90,
         "type": 43,
-        "player": "Mohanad Lasheen",
-        "number": 17,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 62,
-        "player": "S. Khalilzadeh",
-        "number": 4,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "S. Khalilzadeh",
-        "number": 4,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417949": [
-      {
-        "minute": 28,
-        "type": 36,
-        "player": "L. Trossard",
-        "number": 10,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 46,
-        "type": 43,
-        "player": "M. Stamenić",
-        "number": 8,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 50,
-        "type": 36,
-        "player": "L. Trossard",
-        "number": 10,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 56,
-        "type": 43,
-        "player": "E. Just",
-        "number": 11,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 66,
-        "type": 36,
-        "player": "K. De Bruyne",
-        "number": 7,
-        "score": "0-3",
-        "period": "2"
-      },
-      {
-        "minute": 84,
-        "type": 36,
-        "player": "E. Just",
-        "number": 11,
-        "score": "1-3",
-        "period": "2"
-      },
-      {
-        "minute": 86,
-        "type": 36,
-        "player": "R. Lukaku",
+        "player": "Feras Al Brikan",
         "number": 9,
-        "score": "1-4",
-        "period": "2"
-      },
-      {
-        "minute": 86,
-        "type": 63,
-        "player": "N. Raskin",
-        "number": 23,
-        "score": "1-4",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "A. Saelemaekers",
-        "number": 22,
-        "score": "1-5",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "R. Lukaku",
-        "number": 9,
-        "score": "1-5",
+        "score": "",
         "period": "2"
       }
     ],
@@ -4266,64 +2628,6 @@
         "type": 43,
         "player": "K. Peprah Oppong",
         "number": 21,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417978": [
-      {
-        "minute": 53,
-        "type": 43,
-        "player": "J. Fajardo",
-        "number": 17,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 60,
-        "type": 43,
-        "player": "J. Quansah",
-        "number": 26,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 62,
-        "type": 36,
-        "player": "J. Bellingham",
-        "number": 10,
-        "score": "0-1",
-        "period": "2"
-      },
-      {
-        "minute": 62,
-        "type": 63,
-        "player": "B. Saka",
-        "number": 7,
-        "score": "0-1",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 36,
-        "player": "H. Kane",
-        "number": 9,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 63,
-        "player": "J. Bellingham",
-        "number": 10,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 84,
-        "type": 43,
-        "player": "A. Andrade",
-        "number": 16,
         "score": "",
         "period": "2"
       }
@@ -4502,104 +2806,6 @@
         "period": "2"
       }
     ],
-    "1417968": [
-      {
-        "minute": 11,
-        "type": 43,
-        "player": "M. Arnautović",
-        "number": 7,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 28,
-        "type": 36,
-        "player": "M. Arnautović",
-        "number": 7,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 28,
-        "type": 63,
-        "player": "D. Alaba",
-        "number": 8,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 36,
-        "player": "R. Belghali",
-        "number": 17,
-        "score": "1-1",
-        "period": "1"
-      },
-      {
-        "minute": 55,
-        "type": 36,
-        "player": "M. Sabitzer",
-        "number": 9,
-        "score": "1-2",
-        "period": "2"
-      },
-      {
-        "minute": 55,
-        "type": 63,
-        "player": "K. Laimer",
-        "number": 20,
-        "score": "1-2",
-        "period": "2"
-      },
-      {
-        "minute": 60,
-        "type": 36,
-        "player": "R. Mahrez",
-        "number": 7,
-        "score": "2-2",
-        "period": "2"
-      },
-      {
-        "minute": 60,
-        "type": 63,
-        "player": "H. Aouar",
-        "number": 8,
-        "score": "2-2",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "R. Mahrez",
-        "number": 7,
-        "score": "3-2",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "H. Aouar",
-        "number": 8,
-        "score": "3-2",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "S. Kalajdžić",
-        "number": 14,
-        "score": "3-3",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "M. Gregoritsch",
-        "number": 11,
-        "score": "3-3",
-        "period": "2"
-      }
-    ],
     "1691867": [
       {
         "minute": 54,
@@ -4623,146 +2829,6 @@
         "player": "S. Eustaquio",
         "number": 7,
         "score": "0-1",
-        "period": "2"
-      }
-    ],
-    "1691870": [
-      {
-        "minute": 12,
-        "type": 43,
-        "player": "K. Sano",
-        "number": 24,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 14,
-        "type": 43,
-        "player": "Casemiro",
-        "number": 5,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 29,
-        "type": 36,
-        "player": "K. Sano",
-        "number": 24,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 43,
-        "player": "D. Kamada",
-        "number": 15,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 48,
-        "type": 43,
-        "player": "Danilo",
-        "number": 13,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 56,
-        "type": 36,
-        "player": "Casemiro",
-        "number": 5,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 56,
-        "type": 63,
-        "player": "Gabriel Magalhães",
-        "number": 3,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 84,
-        "type": 43,
-        "player": "J. Suzuki",
-        "number": 25,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "Gabriel Martinelli",
-        "number": 22,
-        "score": "2-1",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "Bruno Guimarães",
-        "number": 8,
-        "score": "2-1",
-        "period": "2"
-      }
-    ],
-    "1691872": [
-      {
-        "minute": 39,
-        "type": 36,
-        "player": "A. Nusa",
-        "number": 20,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 39,
-        "type": 63,
-        "player": "M. Ødegaard",
-        "number": 10,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 43,
-        "player": "A. Nusa",
-        "number": 20,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 74,
-        "type": 36,
-        "player": "A. Diallo",
-        "number": 15,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 74,
-        "type": 63,
-        "player": "N. Pépé",
-        "number": 19,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 86,
-        "type": 36,
-        "player": "E. Haaland",
-        "number": 9,
-        "score": "1-2",
-        "period": "2"
-      },
-      {
-        "minute": 86,
-        "type": 63,
-        "player": "P. Berg",
-        "number": 6,
-        "score": "1-2",
         "period": "2"
       }
     ],
@@ -5030,48 +3096,6 @@
         "period": "2"
       }
     ],
-    "1691874": [
-      {
-        "minute": 45,
-        "type": 36,
-        "player": "F. Balogun",
-        "number": 20,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 64,
-        "type": 45,
-        "player": "F. Balogun",
-        "number": 20,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 80,
-        "type": 43,
-        "player": "Sergej Barbarez",
-        "number": "",
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 80,
-        "type": 43,
-        "player": "S. Radeljić",
-        "number": 21,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 82,
-        "type": 36,
-        "player": "M. Tillman",
-        "number": 17,
-        "score": "2-0",
-        "period": "2"
-      }
-    ],
     "1691878": [
       {
         "minute": 36,
@@ -5196,278 +3220,6 @@
         "period": "2"
       }
     ],
-    "1691879": [
-      {
-        "minute": 10,
-        "type": 36,
-        "player": "B. Embolo",
-        "number": 7,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 10,
-        "type": 63,
-        "player": "J. Manzambi",
-        "number": 9,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 36,
-        "type": 43,
-        "player": "F. Chaïbi",
-        "number": 10,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 46,
-        "type": 36,
-        "player": "D. Ndoye",
-        "number": 11,
-        "score": "2-0",
-        "period": "2"
-      },
-      {
-        "minute": 71,
-        "type": 4,
-        "player": "J. Manzambi",
-        "number": 9,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 71,
-        "type": 5,
-        "player": "N. Okafor",
-        "number": 19,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 72,
-        "type": 43,
-        "player": "H. Boudaoui",
-        "number": 14,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1691880": [
-      {
-        "minute": 29,
-        "type": 36,
-        "player": "L. Messi",
-        "number": 10,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 29,
-        "type": 63,
-        "player": "Lisandro Martínez",
-        "number": 6,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 59,
-        "type": 36,
-        "player": "Deroy Duarte",
-        "number": 14,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 59,
-        "type": 63,
-        "player": "Ryan Mendes",
-        "number": 20,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 68,
-        "type": 43,
-        "player": "Kevin Pina",
-        "number": 6,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1691882": [
-      {
-        "minute": 12,
-        "type": 43,
-        "player": "J. Arias",
-        "number": 11,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 14,
-        "type": 36,
-        "player": "J. Arias",
-        "number": 11,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 14,
-        "type": 63,
-        "player": "L. Suárez",
-        "number": 25,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 49,
-        "type": 43,
-        "player": "C. Yirenkyi",
-        "number": 3,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 66,
-        "type": 43,
-        "player": "A. Fatawu",
-        "number": 7,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 76,
-        "type": 43,
-        "player": "A. Seidu",
-        "number": 2,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 78,
-        "type": 43,
-        "player": "R. Ríos",
-        "number": 6,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417902": [
-      {
-        "minute": 20,
-        "type": 43,
-        "player": "R. Halhal",
-        "number": 25,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 40,
-        "type": 43,
-        "player": "A. Hakimi",
-        "number": 2,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 40,
-        "type": 43,
-        "player": "R. Laryea",
-        "number": 22,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 43,
-        "type": 43,
-        "player": "J. David",
-        "number": 10,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 43,
-        "player": "A. Ounahi",
-        "number": 8,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 43,
-        "player": "B. El Khannouss",
-        "number": 23,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 49,
-        "type": 43,
-        "player": "L. De Fougerolles",
-        "number": 4,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 50,
-        "type": 36,
-        "player": "A. Ounahi",
-        "number": 8,
-        "score": "0-1",
-        "period": "2"
-      },
-      {
-        "minute": 50,
-        "type": 63,
-        "player": "A. Hakimi",
-        "number": 2,
-        "score": "0-1",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 43,
-        "player": "C. Larin",
-        "number": 9,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 82,
-        "type": 36,
-        "player": "A. Ounahi",
-        "number": 8,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 82,
-        "type": 63,
-        "player": "B. Díaz",
-        "number": 10,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "S. Rahimi",
-        "number": 9,
-        "score": "0-3",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "B. Díaz",
-        "number": 10,
-        "score": "0-3",
-        "period": "2"
-      }
-    ],
     "1417901": [
       {
         "minute": 19,
@@ -5560,120 +3312,6 @@
         "period": "2"
       }
     ],
-    "1417904": [
-      {
-        "minute": 1,
-        "type": 43,
-        "player": "D. Rice",
-        "number": 4,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 36,
-        "type": 36,
-        "player": "J. Bellingham",
-        "number": 10,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 36,
-        "type": 63,
-        "player": "B. Saka",
-        "number": 7,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 38,
-        "type": 36,
-        "player": "J. Bellingham",
-        "number": 10,
-        "score": "0-2",
-        "period": "1"
-      },
-      {
-        "minute": 38,
-        "type": 63,
-        "player": "H. Kane",
-        "number": 9,
-        "score": "0-2",
-        "period": "1"
-      },
-      {
-        "minute": 42,
-        "type": 36,
-        "player": "J. Quiñones",
-        "number": 16,
-        "score": "1-2",
-        "period": "1"
-      },
-      {
-        "minute": 54,
-        "type": 45,
-        "player": "J. Quansah",
-        "number": 26,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 60,
-        "type": 37,
-        "player": "H. Kane",
-        "number": 9,
-        "score": "1-3",
-        "period": "2"
-      },
-      {
-        "minute": 68,
-        "type": 43,
-        "player": "M. Guéhi",
-        "number": 6,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 69,
-        "type": 37,
-        "player": "R. Jiménez",
-        "number": 9,
-        "score": "2-3",
-        "period": "2"
-      },
-      {
-        "minute": 71,
-        "type": 43,
-        "player": "J. Sánchez",
-        "number": 2,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 72,
-        "type": 43,
-        "player": "N. O'Reilly",
-        "number": 3,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "J. Vásquez",
-        "number": 5,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "J. Henderson",
-        "number": 14,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417905": [
       {
         "minute": 89,
@@ -5712,218 +3350,6 @@
         "type": 43,
         "player": "Ferran Torres",
         "number": 7,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417906": [
-      {
-        "minute": 9,
-        "type": 36,
-        "player": "C. De Ketelaere",
-        "number": 17,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 9,
-        "type": 63,
-        "player": "N. Raskin",
-        "number": 23,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 31,
-        "type": 36,
-        "player": "M. Tillman",
-        "number": 17,
-        "score": "1-1",
-        "period": "1"
-      },
-      {
-        "minute": 33,
-        "type": 36,
-        "player": "C. De Ketelaere",
-        "number": 17,
-        "score": "1-2",
-        "period": "1"
-      },
-      {
-        "minute": 33,
-        "type": 63,
-        "player": "L. Trossard",
-        "number": 10,
-        "score": "1-2",
-        "period": "1"
-      },
-      {
-        "minute": 35,
-        "type": 43,
-        "player": "W. McKennie",
-        "number": 8,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 57,
-        "type": 36,
-        "player": "H. Vanaken",
-        "number": 20,
-        "score": "1-3",
-        "period": "2"
-      },
-      {
-        "minute": 69,
-        "type": 43,
-        "player": "M. Tillman",
-        "number": 17,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "R. Lukaku",
-        "number": 9,
-        "score": "1-4",
-        "period": "2"
-      }
-    ],
-    "1417907": [
-      {
-        "minute": 15,
-        "type": 36,
-        "player": "Yasser Ibrahim",
-        "number": 2,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 15,
-        "type": 63,
-        "player": "Marwan Attia",
-        "number": 19,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 21,
-        "type": 38,
-        "player": "L. Messi",
-        "number": 10,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 58,
-        "type": 62,
-        "player": "Mostafa Zico",
-        "number": 11,
-        "score": "0-1",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 36,
-        "player": "Mostafa Zico",
-        "number": 11,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 63,
-        "player": "Haissem Hassan",
-        "number": 12,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 79,
-        "type": 36,
-        "player": "C. Romero",
-        "number": 13,
-        "score": "1-2",
-        "period": "2"
-      },
-      {
-        "minute": 79,
-        "type": 63,
-        "player": "L. Messi",
-        "number": 10,
-        "score": "1-2",
-        "period": "2"
-      },
-      {
-        "minute": 83,
-        "type": 36,
-        "player": "L. Messi",
-        "number": 10,
-        "score": "2-2",
-        "period": "2"
-      },
-      {
-        "minute": 83,
-        "type": 63,
-        "player": "G. Montiel",
-        "number": 4,
-        "score": "2-2",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 36,
-        "player": "E. Fernández",
-        "number": 24,
-        "score": "3-2",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 63,
-        "player": "Lautaro Martínez",
-        "number": 22,
-        "score": "3-2",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "Mostafa Shobeir",
-        "number": 23,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "Hamdi Fathy",
-        "number": 14,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "Marwan Attia",
-        "number": 19,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "Hossam Hassan Hassanein Hussein",
-        "number": "",
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "Haissem Hassan",
-        "number": 12,
         "score": "",
         "period": "2"
       }
@@ -5978,72 +3404,6 @@
         "period": "2"
       }
     ],
-    "1417899": [
-      {
-        "minute": 30,
-        "type": 36,
-        "player": "Fabián Ruiz",
-        "number": 8,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 41,
-        "type": 36,
-        "player": "C. De Ketelaere",
-        "number": 17,
-        "score": "1-1",
-        "period": "1"
-      },
-      {
-        "minute": 41,
-        "type": 63,
-        "player": "T. Castagne",
-        "number": 21,
-        "score": "1-1",
-        "period": "1"
-      },
-      {
-        "minute": 43,
-        "type": 43,
-        "player": "Pau Cubarsí",
-        "number": 22,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 85,
-        "type": 43,
-        "player": "K. De Bruyne",
-        "number": 7,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 88,
-        "type": 36,
-        "player": "Mikel Merino",
-        "number": 6,
-        "score": "2-1",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "Aymeric Laporte",
-        "number": 14,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "A. Witsel",
-        "number": 6,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417898": [
       {
         "minute": 36,
@@ -6083,106 +3443,6 @@
         "player": "T. Heggem",
         "number": 17,
         "score": "1-1",
-        "period": "2"
-      }
-    ],
-    "1417900": [
-      {
-        "minute": 10,
-        "type": 36,
-        "player": "A. Mac Allister",
-        "number": 20,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 10,
-        "type": 63,
-        "player": "L. Messi",
-        "number": 10,
-        "score": "1-0",
-        "period": "1"
-      },
-      {
-        "minute": 44,
-        "type": 43,
-        "player": "B. Embolo",
-        "number": 7,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 67,
-        "type": 36,
-        "player": "D. Ndoye",
-        "number": 11,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 67,
-        "type": 63,
-        "player": "R. Rodríguez",
-        "number": 13,
-        "score": "1-1",
-        "period": "2"
-      },
-      {
-        "minute": 72,
-        "type": 44,
-        "player": "B. Embolo",
-        "number": 7,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417886": [
-      {
-        "minute": 9,
-        "type": 43,
-        "player": "A. Rabiot",
-        "number": 14,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 22,
-        "type": 37,
-        "player": "Mikel Oyarzabal",
-        "number": 21,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 31,
-        "type": 43,
-        "player": "Marc Cucurella",
-        "number": 24,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 58,
-        "type": 36,
-        "player": "Pedro Porro",
-        "number": 12,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 58,
-        "type": 63,
-        "player": "Dani Olmo",
-        "number": 10,
-        "score": "0-2",
-        "period": "2"
-      },
-      {
-        "minute": 86,
-        "type": 43,
-        "player": "K. Mbappé",
-        "number": 10,
-        "score": "",
         "period": "2"
       }
     ],
@@ -6421,50 +3681,8 @@
         "score": "4-6",
         "period": "2"
       }
-    ],
-    "1417831": [
-      {
-        "minute": 41,
-        "type": 43,
-        "player": "Lisandro Martínez",
-        "number": 6,
-        "score": "",
-        "period": "1"
-      },
-      {
-        "minute": 52,
-        "type": 43,
-        "player": "L. Paredes",
-        "number": 5,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 82,
-        "type": 43,
-        "player": "E. Fernández",
-        "number": 24,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 43,
-        "player": "C. Romero",
-        "number": 13,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 44,
-        "player": "E. Fernández",
-        "number": 24,
-        "score": "",
-        "period": "2"
-      }
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-08-08T17:05:16Z"
+  "last_updated": "2026-08-08T17:58:06Z"
 }
