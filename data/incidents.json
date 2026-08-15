@@ -3140,6 +3140,80 @@
         "period": "2"
       }
     ],
+    "1417925": [
+      {
+        "minute": 7,
+        "type": 36,
+        "player": "Vinícius Júnior",
+        "number": 7,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 22,
+        "type": 62,
+        "player": "Vinícius Júnior",
+        "number": 7,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 36,
+        "player": "Vinícius Júnior",
+        "number": 7,
+        "score": "0-2",
+        "period": "1"
+      },
+      {
+        "minute": 45,
+        "type": 63,
+        "player": "Bruno Guimarães",
+        "number": 8,
+        "score": "0-2",
+        "period": "1"
+      },
+      {
+        "minute": 60,
+        "type": 36,
+        "player": "Matheus Cunha",
+        "number": 9,
+        "score": "0-3",
+        "period": "2"
+      },
+      {
+        "minute": 60,
+        "type": 63,
+        "player": "Bruno Guimarães",
+        "number": 8,
+        "score": "0-3",
+        "period": "2"
+      },
+      {
+        "minute": 62,
+        "type": 43,
+        "player": "Danilo",
+        "number": 13,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 82,
+        "type": 43,
+        "player": "Fabinho",
+        "number": 17,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 89,
+        "type": 43,
+        "player": "R. Christie",
+        "number": 11,
+        "score": "",
+        "period": "2"
+      }
+    ],
     "1417922": [
       {
         "minute": 10,
@@ -3234,80 +3308,6 @@
         "type": 43,
         "player": "J. Casimir",
         "number": 21,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417925": [
-      {
-        "minute": 7,
-        "type": 36,
-        "player": "Vinícius Júnior",
-        "number": 7,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 22,
-        "type": 62,
-        "player": "Vinícius Júnior",
-        "number": 7,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 36,
-        "player": "Vinícius Júnior",
-        "number": 7,
-        "score": "0-2",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 63,
-        "player": "Bruno Guimarães",
-        "number": 8,
-        "score": "0-2",
-        "period": "1"
-      },
-      {
-        "minute": 60,
-        "type": 36,
-        "player": "Matheus Cunha",
-        "number": 9,
-        "score": "0-3",
-        "period": "2"
-      },
-      {
-        "minute": 60,
-        "type": 63,
-        "player": "Bruno Guimarães",
-        "number": 8,
-        "score": "0-3",
-        "period": "2"
-      },
-      {
-        "minute": 62,
-        "type": 43,
-        "player": "Danilo",
-        "number": 13,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 82,
-        "type": 43,
-        "player": "Fabinho",
-        "number": 17,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 89,
-        "type": 43,
-        "player": "R. Christie",
-        "number": 11,
         "score": "",
         "period": "2"
       }
@@ -3644,6 +3644,24 @@
         "period": "2"
       }
     ],
+    "1417932": [
+      {
+        "minute": 46,
+        "type": 43,
+        "player": "J. Irvine",
+        "number": 22,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 77,
+        "type": 43,
+        "player": "D. Gómez",
+        "number": 8,
+        "score": "",
+        "period": "2"
+      }
+    ],
     "1417931": [
       {
         "minute": 3,
@@ -3699,24 +3717,6 @@
         "player": "K. Ayhan",
         "number": 22,
         "score": "3-2",
-        "period": "2"
-      }
-    ],
-    "1417932": [
-      {
-        "minute": 46,
-        "type": 43,
-        "player": "J. Irvine",
-        "number": 22,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 77,
-        "type": 43,
-        "player": "D. Gómez",
-        "number": 8,
-        "score": "",
         "period": "2"
       }
     ],
@@ -4328,6 +4328,16 @@
         "period": "2"
       }
     ],
+    "1417973": [
+      {
+        "minute": 86,
+        "type": 43,
+        "player": "G. Puerta",
+        "number": 14,
+        "score": "",
+        "period": "2"
+      }
+    ],
     "1417974": [
       {
         "minute": 10,
@@ -4423,16 +4433,6 @@
         "player": "M. Elia",
         "number": 13,
         "score": "3-1",
-        "period": "2"
-      }
-    ],
-    "1417973": [
-      {
-        "minute": 86,
-        "type": 43,
-        "player": "G. Puerta",
-        "number": 14,
-        "score": "",
         "period": "2"
       }
     ],
@@ -6466,5 +6466,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-08-15T12:30:04Z"
+  "last_updated": "2026-08-15T13:10:43Z"
 }
