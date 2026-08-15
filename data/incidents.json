@@ -3644,24 +3644,6 @@
         "period": "2"
       }
     ],
-    "1417932": [
-      {
-        "minute": 46,
-        "type": 43,
-        "player": "J. Irvine",
-        "number": 22,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 77,
-        "type": 43,
-        "player": "D. Gómez",
-        "number": 8,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417931": [
       {
         "minute": 3,
@@ -3717,6 +3699,24 @@
         "player": "K. Ayhan",
         "number": 22,
         "score": "3-2",
+        "period": "2"
+      }
+    ],
+    "1417932": [
+      {
+        "minute": 46,
+        "type": 43,
+        "player": "J. Irvine",
+        "number": 22,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 77,
+        "type": 43,
+        "player": "D. Gómez",
+        "number": 8,
+        "score": "",
         "period": "2"
       }
     ],
@@ -4328,16 +4328,6 @@
         "period": "2"
       }
     ],
-    "1417973": [
-      {
-        "minute": 86,
-        "type": 43,
-        "player": "G. Puerta",
-        "number": 14,
-        "score": "",
-        "period": "2"
-      }
-    ],
     "1417974": [
       {
         "minute": 10,
@@ -4433,6 +4423,16 @@
         "player": "M. Elia",
         "number": 13,
         "score": "3-1",
+        "period": "2"
+      }
+    ],
+    "1417973": [
+      {
+        "minute": 86,
+        "type": 43,
+        "player": "G. Puerta",
+        "number": 14,
+        "score": "",
         "period": "2"
       }
     ],
@@ -6466,5 +6466,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-08-15T11:45:33Z"
+  "last_updated": "2026-08-15T12:30:04Z"
 }
