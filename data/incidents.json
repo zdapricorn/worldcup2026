@@ -2992,6 +2992,80 @@
         "period": "2"
       }
     ],
+    "1417920": [
+      {
+        "minute": 29,
+        "type": 36,
+        "player": "K. Alajbegović",
+        "number": 19,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 29,
+        "type": 63,
+        "player": "I. Bašić",
+        "number": 13,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 34,
+        "type": 39,
+        "player": "Mahmud Abunada",
+        "number": 1,
+        "score": "2-0",
+        "period": "1"
+      },
+      {
+        "minute": 42,
+        "type": 36,
+        "player": "Hassan Al Haydos",
+        "number": 10,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 42,
+        "type": 63,
+        "player": "Edmílson Junior",
+        "number": 8,
+        "score": "2-1",
+        "period": "1"
+      },
+      {
+        "minute": 78,
+        "type": 43,
+        "player": "Ahmed Fathy",
+        "number": 20,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 80,
+        "type": 36,
+        "player": "E. Mahmić",
+        "number": 26,
+        "score": "3-1",
+        "period": "2"
+      },
+      {
+        "minute": 80,
+        "type": 63,
+        "player": "D. Hadžikadunić",
+        "number": 3,
+        "score": "3-1",
+        "period": "2"
+      },
+      {
+        "minute": 82,
+        "type": 43,
+        "player": "E. Mahmić",
+        "number": 26,
+        "score": "",
+        "period": "2"
+      }
+    ],
     "1417919": [
       {
         "minute": 32,
@@ -3066,76 +3140,76 @@
         "period": "2"
       }
     ],
-    "1417920": [
+    "1417925": [
       {
-        "minute": 29,
+        "minute": 7,
         "type": 36,
-        "player": "K. Alajbegović",
-        "number": 19,
-        "score": "1-0",
+        "player": "Vinícius Júnior",
+        "number": 7,
+        "score": "0-1",
         "period": "1"
       },
       {
-        "minute": 29,
-        "type": 63,
-        "player": "I. Bašić",
-        "number": 13,
-        "score": "1-0",
+        "minute": 22,
+        "type": 62,
+        "player": "Vinícius Júnior",
+        "number": 7,
+        "score": "0-1",
         "period": "1"
       },
       {
-        "minute": 34,
-        "type": 39,
-        "player": "Mahmud Abunada",
-        "number": 1,
-        "score": "2-0",
-        "period": "1"
-      },
-      {
-        "minute": 42,
+        "minute": 45,
         "type": 36,
-        "player": "Hassan Al Haydos",
-        "number": 10,
-        "score": "2-1",
+        "player": "Vinícius Júnior",
+        "number": 7,
+        "score": "0-2",
         "period": "1"
       },
       {
-        "minute": 42,
+        "minute": 45,
         "type": 63,
-        "player": "Edmílson Junior",
+        "player": "Bruno Guimarães",
         "number": 8,
-        "score": "2-1",
+        "score": "0-2",
         "period": "1"
       },
       {
-        "minute": 78,
-        "type": 43,
-        "player": "Ahmed Fathy",
-        "number": 20,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 80,
+        "minute": 60,
         "type": 36,
-        "player": "E. Mahmić",
-        "number": 26,
-        "score": "3-1",
+        "player": "Matheus Cunha",
+        "number": 9,
+        "score": "0-3",
         "period": "2"
       },
       {
-        "minute": 80,
+        "minute": 60,
         "type": 63,
-        "player": "D. Hadžikadunić",
-        "number": 3,
-        "score": "3-1",
+        "player": "Bruno Guimarães",
+        "number": 8,
+        "score": "0-3",
+        "period": "2"
+      },
+      {
+        "minute": 62,
+        "type": 43,
+        "player": "Danilo",
+        "number": 13,
+        "score": "",
         "period": "2"
       },
       {
         "minute": 82,
         "type": 43,
-        "player": "E. Mahmić",
-        "number": 26,
+        "player": "Fabinho",
+        "number": 17,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 89,
+        "type": 43,
+        "player": "R. Christie",
+        "number": 11,
         "score": "",
         "period": "2"
       }
@@ -3234,80 +3308,6 @@
         "type": 43,
         "player": "J. Casimir",
         "number": 21,
-        "score": "",
-        "period": "2"
-      }
-    ],
-    "1417925": [
-      {
-        "minute": 7,
-        "type": 36,
-        "player": "Vinícius Júnior",
-        "number": 7,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 22,
-        "type": 62,
-        "player": "Vinícius Júnior",
-        "number": 7,
-        "score": "0-1",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 36,
-        "player": "Vinícius Júnior",
-        "number": 7,
-        "score": "0-2",
-        "period": "1"
-      },
-      {
-        "minute": 45,
-        "type": 63,
-        "player": "Bruno Guimarães",
-        "number": 8,
-        "score": "0-2",
-        "period": "1"
-      },
-      {
-        "minute": 60,
-        "type": 36,
-        "player": "Matheus Cunha",
-        "number": 9,
-        "score": "0-3",
-        "period": "2"
-      },
-      {
-        "minute": 60,
-        "type": 63,
-        "player": "Bruno Guimarães",
-        "number": 8,
-        "score": "0-3",
-        "period": "2"
-      },
-      {
-        "minute": 62,
-        "type": 43,
-        "player": "Danilo",
-        "number": 13,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 82,
-        "type": 43,
-        "player": "Fabinho",
-        "number": 17,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 89,
-        "type": 43,
-        "player": "R. Christie",
-        "number": 11,
         "score": "",
         "period": "2"
       }
@@ -6466,5 +6466,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-08-15T14:49:39Z"
+  "last_updated": "2026-08-15T15:18:08Z"
 }
