@@ -14381,293 +14381,6 @@
         }
       }
     },
-    "1417920": {
-      "home_team": "Bosnia and Herzegovina",
-      "away_team": "Qatar",
-      "lineups": {
-        "home": {
-          "formation": "4-4-2",
-          "starting_xi": [
-            {
-              "number": 1,
-              "name": "Nikola Vasilj",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 5,
-              "name": "Sead Kolašinac",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 21,
-              "name": "Stjepan Radeljić",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 18,
-              "name": "Nikola Katić",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 24,
-              "name": "Arjan Malić",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 19,
-              "name": "Kerim Alajbegovic",
-              "pos": 3,
-              "grid": "3:4"
-            },
-            {
-              "number": 14,
-              "name": "Ivan Sunjic",
-              "pos": 3,
-              "grid": "3:3"
-            },
-            {
-              "number": 13,
-              "name": "Ivan Bašić",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 20,
-              "name": "Esmir Bajraktarevic",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 11,
-              "name": "Edin Džeko",
-              "pos": 4,
-              "grid": "4:2"
-            },
-            {
-              "number": 10,
-              "name": "Ermedin Demirović",
-              "pos": 4,
-              "grid": "4:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 9,
-              "name": "Samed Bazdar",
-              "pos": 5
-            },
-            {
-              "number": 17,
-              "name": "Dženis Burnić",
-              "pos": 5
-            },
-            {
-              "number": 7,
-              "name": "Amar Dedić",
-              "pos": 5
-            },
-            {
-              "number": 8,
-              "name": "Armin Gigović",
-              "pos": 5
-            },
-            {
-              "number": 16,
-              "name": "Amir Hadziahmetovic",
-              "pos": 5
-            },
-            {
-              "number": 3,
-              "name": "Dennis Hadžikadunić",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Mladen Jurkas",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Jovo Lukic",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Ermin Mahmic",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Amar Memic",
-              "pos": 5
-            },
-            {
-              "number": 2,
-              "name": "Nihad Mujakić",
-              "pos": 5
-            },
-            {
-              "number": 23,
-              "name": "Haris Tabaković",
-              "pos": 5
-            },
-            {
-              "number": 6,
-              "name": "Benjamin Tahirović",
-              "pos": 5
-            },
-            {
-              "number": 22,
-              "name": "Martin Zlomislic",
-              "pos": 5
-            }
-          ]
-        },
-        "away": {
-          "formation": "4-3-3",
-          "starting_xi": [
-            {
-              "number": 1,
-              "name": "Mahmud Ibrahim Abunada",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 18,
-              "name": "Sultan Al-Brake",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 4,
-              "name": "Gueye Seydinaissa Laye",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 16,
-              "name": "Boualem Khoukhi",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 2,
-              "name": "Pedro Miguel",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 12,
-              "name": "Karim Boudiaf",
-              "pos": 3,
-              "grid": "3:3"
-            },
-            {
-              "number": 20,
-              "name": "Ahmed Fathy Abdoulla",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 5,
-              "name": "Jassem Gaber",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 10,
-              "name": "Hasan Al Haydos",
-              "pos": 4,
-              "grid": "4:3"
-            },
-            {
-              "number": 11,
-              "name": "Akram Afif",
-              "pos": 4,
-              "grid": "4:2"
-            },
-            {
-              "number": 8,
-              "name": "Edmilson Junior",
-              "pos": 4,
-              "grid": "4:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 7,
-              "name": "Ahmed Alaaeldin",
-              "pos": 5
-            },
-            {
-              "number": 19,
-              "name": "Almoez Ali",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Yusuf Abdurisag",
-              "pos": 5
-            },
-            {
-              "number": 17,
-              "name": "Ahmed Al-Ganehi",
-              "pos": 5
-            },
-            {
-              "number": 13,
-              "name": "Ayoub Mohamed Al Oui",
-              "pos": 5
-            },
-            {
-              "number": 22,
-              "name": "Meshaal Barsham",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "Salah Zakaria",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Tahsin Mohammed Jamshid",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Mohamed Al-Mannai",
-              "pos": 5
-            },
-            {
-              "number": 3,
-              "name": "Lucas Mendes",
-              "pos": 5
-            },
-            {
-              "number": 6,
-              "name": "Abdel Aziz Hatem",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Al Hashmi Al Hussain Mohialdin",
-              "pos": 5
-            },
-            {
-              "number": 9,
-              "name": "Mohammed Muntari",
-              "pos": 5
-            }
-          ]
-        }
-      }
-    },
     "1417919": {
       "home_team": "Switzerland",
       "away_team": "Canada",
@@ -14955,154 +14668,149 @@
         }
       }
     },
-    "1417925": {
-      "home_team": "Scotland",
-      "away_team": "Brazil",
+    "1417920": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
       "lineups": {
         "home": {
-          "formation": "4-2-3-1",
+          "formation": "4-4-2",
           "starting_xi": [
             {
               "number": 1,
-              "name": "Angus Gunn",
+              "name": "Nikola Vasilj",
               "pos": 1,
               "grid": "1:1"
             },
             {
-              "number": 3,
-              "name": "Andy Robertson",
+              "number": 5,
+              "name": "Sead Kolašinac",
               "pos": 2,
               "grid": "2:4"
             },
             {
-              "number": 26,
-              "name": "Scott McKenna",
+              "number": 21,
+              "name": "Stjepan Radeljić",
               "pos": 2,
               "grid": "2:3"
             },
             {
-              "number": 13,
-              "name": "Jack Hendry",
+              "number": 18,
+              "name": "Nikola Katić",
               "pos": 2,
               "grid": "2:2"
             },
             {
-              "number": 22,
-              "name": "Nathan Patterson",
+              "number": 24,
+              "name": "Arjan Malić",
               "pos": 2,
               "grid": "2:1"
             },
             {
-              "number": 23,
-              "name": "Kenny McLean",
+              "number": 19,
+              "name": "Kerim Alajbegovic",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 14,
+              "name": "Ivan Sunjic",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 13,
+              "name": "Ivan Bašić",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 19,
-              "name": "Lewis Ferguson",
+              "number": 20,
+              "name": "Esmir Bajraktarevic",
               "pos": 3,
               "grid": "3:1"
             },
             {
-              "number": 7,
-              "name": "John McGinn",
-              "pos": 3,
-              "grid": "4:3"
-            },
-            {
-              "number": 4,
-              "name": "Scott McTominay",
-              "pos": 3,
+              "number": 11,
+              "name": "Edin Džeko",
+              "pos": 4,
               "grid": "4:2"
             },
             {
-              "number": 17,
-              "name": "Ben Gannon Doak",
-              "pos": 3,
-              "grid": "4:1"
-            },
-            {
-              "number": 20,
-              "name": "Lawrence Shankland",
+              "number": 10,
+              "name": "Ermedin Demirović",
               "pos": 4,
-              "grid": "5:1"
+              "grid": "4:1"
             }
           ],
           "substitutes": [
             {
-              "number": 10,
-              "name": "Che Adams",
-              "pos": 5
-            },
-            {
-              "number": 11,
-              "name": "Ryan Christie",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Findlay Curtis",
-              "pos": 5
-            },
-            {
               "number": 9,
-              "name": "Lyndon Dykes",
+              "name": "Samed Bazdar",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Dženis Burnić",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Amar Dedić",
               "pos": 5
             },
             {
               "number": 8,
-              "name": "Tyler Fletcher",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "Craig Gordon",
-              "pos": 5
-            },
-            {
-              "number": 5,
-              "name": "Grant Hanley",
-              "pos": 5
-            },
-            {
-              "number": 2,
-              "name": "Aaron Hickey",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "George Hirst",
+              "name": "Armin Gigović",
               "pos": 5
             },
             {
               "number": 16,
-              "name": "Dominic Hyam",
+              "name": "Amir Hadziahmetovic",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Dennis Hadžikadunić",
               "pos": 5
             },
             {
               "number": 12,
-              "name": "Liam Kelly",
+              "name": "Mladen Jurkas",
               "pos": 5
             },
             {
-              "number": 24,
-              "name": "Tony Ralston",
+              "number": 25,
+              "name": "Jovo Lukic",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Ermin Mahmic",
               "pos": 5
             },
             {
               "number": 15,
-              "name": "John Souttar",
+              "name": "Amar Memic",
               "pos": 5
             },
             {
-              "number": 14,
-              "name": "Ross Stewart",
+              "number": 2,
+              "name": "Nihad Mujakić",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Haris Tabaković",
               "pos": 5
             },
             {
               "number": 6,
-              "name": "Kieran Tierney",
+              "name": "Benjamin Tahirović",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Martin Zlomislic",
               "pos": 5
             }
           ]
@@ -15112,140 +14820,135 @@
           "starting_xi": [
             {
               "number": 1,
-              "name": "Alisson",
+              "name": "Mahmud Ibrahim Abunada",
               "pos": 1,
               "grid": "1:1"
             },
             {
-              "number": 16,
-              "name": "Douglas Santos",
+              "number": 18,
+              "name": "Sultan Al-Brake",
               "pos": 2,
               "grid": "2:4"
             },
             {
-              "number": 3,
-              "name": "Gabriel Magalhães",
+              "number": 4,
+              "name": "Gueye Seydinaissa Laye",
               "pos": 2,
               "grid": "2:3"
             },
             {
-              "number": 4,
-              "name": "Marquinhos",
+              "number": 16,
+              "name": "Boualem Khoukhi",
               "pos": 2,
               "grid": "2:2"
             },
             {
-              "number": 13,
-              "name": "Danilo",
+              "number": 2,
+              "name": "Pedro Miguel",
               "pos": 2,
               "grid": "2:1"
             },
             {
-              "number": 20,
-              "name": "Lucas Paquetá",
+              "number": 12,
+              "name": "Karim Boudiaf",
               "pos": 3,
               "grid": "3:3"
             },
             {
-              "number": 5,
-              "name": "Casemiro",
+              "number": 20,
+              "name": "Ahmed Fathy Abdoulla",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 8,
-              "name": "Bruno Guimarães",
+              "number": 5,
+              "name": "Jassem Gaber",
               "pos": 3,
               "grid": "3:1"
             },
             {
-              "number": 7,
-              "name": "Vinicius Junior",
+              "number": 10,
+              "name": "Hasan Al Haydos",
               "pos": 4,
               "grid": "4:3"
             },
             {
-              "number": 9,
-              "name": "Matheus Cunha",
+              "number": 11,
+              "name": "Akram Afif",
               "pos": 4,
               "grid": "4:2"
             },
             {
-              "number": 26,
-              "name": "Rayan",
+              "number": 8,
+              "name": "Edmilson Junior",
               "pos": 4,
               "grid": "4:1"
             }
           ],
           "substitutes": [
             {
-              "number": 24,
-              "name": "Roger Ibanez",
-              "pos": 5
-            },
-            {
-              "number": 6,
-              "name": "Alex Sandro",
-              "pos": 5
-            },
-            {
-              "number": 22,
-              "name": "Gabriel Martinelli",
+              "number": 7,
+              "name": "Ahmed Alaaeldin",
               "pos": 5
             },
             {
               "number": 19,
-              "name": "Endrick",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Igor Thiago",
+              "name": "Almoez Ali",
               "pos": 5
             },
             {
               "number": 15,
-              "name": "Leo Pereira",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Weverton",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "Luiz Henrique",
-              "pos": 5
-            },
-            {
-              "number": 23,
-              "name": "Ederson",
-              "pos": 5
-            },
-            {
-              "number": 14,
-              "name": "Bremer",
+              "name": "Yusuf Abdurisag",
               "pos": 5
             },
             {
               "number": 17,
-              "name": "Fabinho",
+              "name": "Ahmed Al-Ganehi",
               "pos": 5
             },
             {
-              "number": 10,
-              "name": "Neymar",
+              "number": 13,
+              "name": "Ayoub Mohamed Al Oui",
               "pos": 5
             },
             {
-              "number": 2,
-              "name": "Éderson",
+              "number": 22,
+              "name": "Meshaal Barsham",
               "pos": 5
             },
             {
-              "number": 18,
-              "name": "Danilo Oliveira",
+              "number": 21,
+              "name": "Salah Zakaria",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Tahsin Mohammed Jamshid",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Mohamed Al-Mannai",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Lucas Mendes",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Abdel Aziz Hatem",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Al Hashmi Al Hussain Mohialdin",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Mohammed Muntari",
               "pos": 5
             }
           ]
@@ -15548,6 +15251,303 @@
             {
               "number": 3,
               "name": "Keeto Thermoncy",
+              "pos": 5
+            }
+          ]
+        }
+      }
+    },
+    "1417925": {
+      "home_team": "Scotland",
+      "away_team": "Brazil",
+      "lineups": {
+        "home": {
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Angus Gunn",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 3,
+              "name": "Andy Robertson",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 26,
+              "name": "Scott McKenna",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 13,
+              "name": "Jack Hendry",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 22,
+              "name": "Nathan Patterson",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 23,
+              "name": "Kenny McLean",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 19,
+              "name": "Lewis Ferguson",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 7,
+              "name": "John McGinn",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 4,
+              "name": "Scott McTominay",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 17,
+              "name": "Ben Gannon Doak",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 20,
+              "name": "Lawrence Shankland",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 10,
+              "name": "Che Adams",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Ryan Christie",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Findlay Curtis",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Lyndon Dykes",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Tyler Fletcher",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Craig Gordon",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Grant Hanley",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Aaron Hickey",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "George Hirst",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Dominic Hyam",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Liam Kelly",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Tony Ralston",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "John Souttar",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Ross Stewart",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Kieran Tierney",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-3-3",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Alisson",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 16,
+              "name": "Douglas Santos",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 3,
+              "name": "Gabriel Magalhães",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Marquinhos",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 13,
+              "name": "Danilo",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 20,
+              "name": "Lucas Paquetá",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 5,
+              "name": "Casemiro",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 8,
+              "name": "Bruno Guimarães",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 7,
+              "name": "Vinicius Junior",
+              "pos": 4,
+              "grid": "4:3"
+            },
+            {
+              "number": 9,
+              "name": "Matheus Cunha",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 26,
+              "name": "Rayan",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 24,
+              "name": "Roger Ibanez",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Alex Sandro",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Gabriel Martinelli",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Endrick",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Igor Thiago",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Leo Pereira",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Weverton",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Luiz Henrique",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Ederson",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Bremer",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Fabinho",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Neymar",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Éderson",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Danilo Oliveira",
               "pos": 5
             }
           ]
@@ -16143,6 +16143,298 @@
         }
       }
     },
+    "1417937": {
+      "home_team": "Ecuador",
+      "away_team": "Germany",
+      "lineups": {
+        "home": {
+          "formation": "4-4-2",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Hernán Galíndez",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 3,
+              "name": "Piero Hincapié",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 6,
+              "name": "Willian Pacho",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Joel Ordóñez",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 21,
+              "name": "Alan Franco",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 20,
+              "name": "Nilson Angulo",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 15,
+              "name": "Pedro Vite",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 23,
+              "name": "Moisés Caicedo",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 9,
+              "name": "John Yeboah",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 13,
+              "name": "Enner Valencia",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 19,
+              "name": "Gonzalo Plata",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 5,
+              "name": "Jordy Alcivar",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Jeremy Arevalo",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Jordy Caicedo",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Denil Castillo",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Pervis Estupiñán",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Yaimar Abel Medina Ortiz",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Alan Minda",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Jackson Porozo",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Ángelo Preciado",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Kendry Páez",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Moisés Ramírez",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Kevin Rodríguez",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Félix Torres",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Anthony Valencia",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Gonzalo Valle",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "3-4-2-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Manuel Neuer",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 2,
+              "name": "Antonio Rüdiger",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Jonathan Tah",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 6,
+              "name": "Joshua Kimmich",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 22,
+              "name": "David Raum",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 5,
+              "name": "Aleksandar Pavlović",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 23,
+              "name": "Felix Nmecha",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 19,
+              "name": "Leroy Sané",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 17,
+              "name": "Florian Wirtz",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 10,
+              "name": "Jamal Musiala",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 7,
+              "name": "Kai Havertz",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 20,
+              "name": "Nadiem Amiri",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Waldemar Anton",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Oliver Baumann",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Maximilian Beier",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Leon Goretzka",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Pascal Groß",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Jamie Leweling",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Alexander Nübel",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Assan Ouedraogo",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Angelo Stiller",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Malick Thiaw",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Deniz Undav",
+              "pos": 5
+            },
+            {
+              "number": 11,
+              "name": "Nick Woltemade",
+              "pos": 5
+            }
+          ]
+        }
+      }
+    },
     "1417938": {
       "home_team": "Curacao",
       "away_team": "Ivory Coast",
@@ -16445,292 +16737,292 @@
         }
       }
     },
-    "1417937": {
-      "home_team": "Ecuador",
-      "away_team": "Germany",
+    "1417943": {
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
       "lineups": {
         "home": {
-          "formation": "4-4-2",
+          "formation": "5-4-1",
           "starting_xi": [
             {
-              "number": 1,
-              "name": "Hernán Galíndez",
+              "number": 16,
+              "name": "Aymen Dahmen",
               "pos": 1,
               "grid": "1:1"
             },
             {
-              "number": 3,
-              "name": "Piero Hincapié",
+              "number": 21,
+              "name": "Mohamed Amine Ben Hamida",
               "pos": 2,
               "grid": "2:4"
             },
             {
-              "number": 6,
-              "name": "Willian Pacho",
+              "number": 17,
+              "name": "Ellyes Skhiri",
               "pos": 2,
               "grid": "2:3"
             },
             {
-              "number": 4,
-              "name": "Joel Ordóñez",
+              "number": 3,
+              "name": "Montassar Talbi",
               "pos": 2,
               "grid": "2:2"
             },
             {
-              "number": 21,
-              "name": "Alan Franco",
-              "pos": 2,
-              "grid": "2:1"
+              "number": 2,
+              "name": "Ali Abdi",
+              "pos": 3,
+              "grid": "2:5"
             },
             {
               "number": 20,
-              "name": "Nilson Angulo",
+              "name": "Yan Valery",
+              "pos": 3,
+              "grid": "2:1"
+            },
+            {
+              "number": 10,
+              "name": "Hannibal Mejbri",
               "pos": 3,
               "grid": "3:4"
             },
             {
-              "number": 15,
-              "name": "Pedro Vite",
+              "number": 13,
+              "name": "Rani Khedira",
               "pos": 3,
               "grid": "3:3"
             },
             {
-              "number": 23,
-              "name": "Moisés Caicedo",
+              "number": 11,
+              "name": "Ismael Gharbi",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 9,
-              "name": "John Yeboah",
+              "number": 25,
+              "name": "Anis Ben Slimane",
               "pos": 3,
               "grid": "3:1"
             },
             {
-              "number": 13,
-              "name": "Enner Valencia",
-              "pos": 4,
-              "grid": "4:2"
-            },
-            {
-              "number": 19,
-              "name": "Gonzalo Plata",
+              "number": 9,
+              "name": "Hazem Mastouri",
               "pos": 4,
               "grid": "4:1"
             }
           ],
           "substitutes": [
             {
-              "number": 5,
-              "name": "Jordy Alcivar",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Jeremy Arevalo",
-              "pos": 5
-            },
-            {
-              "number": 16,
-              "name": "Jordy Caicedo",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "Denil Castillo",
-              "pos": 5
-            },
-            {
               "number": 7,
-              "name": "Pervis Estupiñán",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Yaimar Abel Medina Ortiz",
+              "name": "Elias Achouri",
               "pos": 5
             },
             {
               "number": 14,
-              "name": "Alan Minda",
+              "name": "Khalil Ayari",
               "pos": 5
             },
             {
-              "number": 25,
-              "name": "Jackson Porozo",
-              "pos": 5
-            },
-            {
-              "number": 17,
-              "name": "Ángelo Preciado",
-              "pos": 5
-            },
-            {
-              "number": 10,
-              "name": "Kendry Páez",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Moisés Ramírez",
-              "pos": 5
-            },
-            {
-              "number": 11,
-              "name": "Kevin Rodríguez",
-              "pos": 5
-            },
-            {
-              "number": 2,
-              "name": "Félix Torres",
-              "pos": 5
-            },
-            {
-              "number": 8,
-              "name": "Anthony Valencia",
+              "number": 15,
+              "name": "Mohamad Belhadj Mahmoud",
               "pos": 5
             },
             {
               "number": 22,
-              "name": "Gonzalo Valle",
+              "name": "Sabri Ben Hessen",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Mortadha Ben Ouanes",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Dylan Bronn",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Abdelmouhib Chamakh",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Firas Chaouat",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Raed Chikhaoui",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Rayan Elloumi",
+              "pos": 5
+            },
+            {
+              "number": 4,
+              "name": "Omar Rekik",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Elias Saad",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Sebastian Tounekti",
               "pos": 5
             }
           ]
         },
         "away": {
-          "formation": "3-4-2-1",
+          "formation": "4-3-3",
           "starting_xi": [
             {
               "number": 1,
-              "name": "Manuel Neuer",
+              "name": "Bart Verbruggen",
               "pos": 1,
               "grid": "1:1"
             },
             {
-              "number": 2,
-              "name": "Antonio Rüdiger",
+              "number": 5,
+              "name": "Nathan Aké",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 4,
+              "name": "Virgil van Dijk",
               "pos": 2,
               "grid": "2:3"
             },
             {
-              "number": 4,
-              "name": "Jonathan Tah",
+              "number": 6,
+              "name": "Jan Paul van Hecke",
               "pos": 2,
               "grid": "2:2"
             },
             {
-              "number": 6,
-              "name": "Joshua Kimmich",
+              "number": 22,
+              "name": "Denzel Dumfries",
               "pos": 2,
               "grid": "2:1"
             },
             {
-              "number": 22,
-              "name": "David Raum",
-              "pos": 3,
-              "grid": "3:4"
-            },
-            {
-              "number": 5,
-              "name": "Aleksandar Pavlović",
+              "number": 14,
+              "name": "Tijani Reijnders",
               "pos": 3,
               "grid": "3:3"
             },
             {
-              "number": 23,
-              "name": "Felix Nmecha",
+              "number": 21,
+              "name": "Frenkie De Jong",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 19,
-              "name": "Leroy Sané",
+              "number": 8,
+              "name": "Ryan Gravenberch",
               "pos": 3,
               "grid": "3:1"
             },
             {
-              "number": 17,
-              "name": "Florian Wirtz",
-              "pos": 3,
+              "number": 11,
+              "name": "Cody Gakpo",
+              "pos": 4,
+              "grid": "4:3"
+            },
+            {
+              "number": 19,
+              "name": "Brian Brobbey",
+              "pos": 4,
               "grid": "4:2"
             },
             {
-              "number": 10,
-              "name": "Jamal Musiala",
-              "pos": 3,
-              "grid": "4:1"
-            },
-            {
-              "number": 7,
-              "name": "Kai Havertz",
+              "number": 18,
+              "name": "Donyell Malen",
               "pos": 4,
-              "grid": "5:1"
+              "grid": "4:1"
             }
           ],
           "substitutes": [
             {
-              "number": 20,
-              "name": "Nadiem Amiri",
+              "number": 10,
+              "name": "Memphis Depay",
               "pos": 5
             },
             {
-              "number": 3,
-              "name": "Waldemar Anton",
+              "number": 23,
+              "name": "Mark Flekken",
               "pos": 5
             },
             {
-              "number": 12,
-              "name": "Oliver Baumann",
-              "pos": 5
-            },
-            {
-              "number": 14,
-              "name": "Maximilian Beier",
-              "pos": 5
-            },
-            {
-              "number": 8,
-              "name": "Leon Goretzka",
-              "pos": 5
-            },
-            {
-              "number": 13,
-              "name": "Pascal Groß",
-              "pos": 5
-            },
-            {
-              "number": 9,
-              "name": "Jamie Leweling",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "Alexander Nübel",
+              "number": 2,
+              "name": "Lutsharel Geertruida",
               "pos": 5
             },
             {
               "number": 25,
-              "name": "Assan Ouedraogo",
+              "name": "Jorrel Hato",
               "pos": 5
             },
             {
-              "number": 16,
-              "name": "Angelo Stiller",
+              "number": 7,
+              "name": "Justin Kluivert",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Teun Koopmeiners",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Noa Lang",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Robin Roefs",
               "pos": 5
             },
             {
               "number": 24,
-              "name": "Malick Thiaw",
+              "name": "Crysencio Summerville",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Guus Til",
               "pos": 5
             },
             {
               "number": 26,
-              "name": "Deniz Undav",
+              "name": "Quinten Timber",
               "pos": 5
             },
             {
-              "number": 11,
-              "name": "Nick Woltemade",
+              "number": 9,
+              "name": "Wout Weghorst",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Mats Wieffer",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Marten De Roon",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Micky van de Ven",
               "pos": 5
             }
           ]
@@ -17028,298 +17320,6 @@
             {
               "number": 22,
               "name": "Besfort Zeneli",
-              "pos": 5
-            }
-          ]
-        }
-      }
-    },
-    "1417943": {
-      "home_team": "Tunisia",
-      "away_team": "Netherlands",
-      "lineups": {
-        "home": {
-          "formation": "5-4-1",
-          "starting_xi": [
-            {
-              "number": 16,
-              "name": "Aymen Dahmen",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 21,
-              "name": "Mohamed Amine Ben Hamida",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 17,
-              "name": "Ellyes Skhiri",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 3,
-              "name": "Montassar Talbi",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 2,
-              "name": "Ali Abdi",
-              "pos": 3,
-              "grid": "2:5"
-            },
-            {
-              "number": 20,
-              "name": "Yan Valery",
-              "pos": 3,
-              "grid": "2:1"
-            },
-            {
-              "number": 10,
-              "name": "Hannibal Mejbri",
-              "pos": 3,
-              "grid": "3:4"
-            },
-            {
-              "number": 13,
-              "name": "Rani Khedira",
-              "pos": 3,
-              "grid": "3:3"
-            },
-            {
-              "number": 11,
-              "name": "Ismael Gharbi",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 25,
-              "name": "Anis Ben Slimane",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 9,
-              "name": "Hazem Mastouri",
-              "pos": 4,
-              "grid": "4:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 7,
-              "name": "Elias Achouri",
-              "pos": 5
-            },
-            {
-              "number": 14,
-              "name": "Khalil Ayari",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Mohamad Belhadj Mahmoud",
-              "pos": 5
-            },
-            {
-              "number": 22,
-              "name": "Sabri Ben Hessen",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Mortadha Ben Ouanes",
-              "pos": 5
-            },
-            {
-              "number": 6,
-              "name": "Dylan Bronn",
-              "pos": 5
-            },
-            {
-              "number": 1,
-              "name": "Abdelmouhib Chamakh",
-              "pos": 5
-            },
-            {
-              "number": 19,
-              "name": "Firas Chaouat",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Raed Chikhaoui",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "Rayan Elloumi",
-              "pos": 5
-            },
-            {
-              "number": 4,
-              "name": "Omar Rekik",
-              "pos": 5
-            },
-            {
-              "number": 8,
-              "name": "Elias Saad",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Sebastian Tounekti",
-              "pos": 5
-            }
-          ]
-        },
-        "away": {
-          "formation": "4-3-3",
-          "starting_xi": [
-            {
-              "number": 1,
-              "name": "Bart Verbruggen",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 5,
-              "name": "Nathan Aké",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 4,
-              "name": "Virgil van Dijk",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 6,
-              "name": "Jan Paul van Hecke",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 22,
-              "name": "Denzel Dumfries",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 14,
-              "name": "Tijani Reijnders",
-              "pos": 3,
-              "grid": "3:3"
-            },
-            {
-              "number": 21,
-              "name": "Frenkie De Jong",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 8,
-              "name": "Ryan Gravenberch",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 11,
-              "name": "Cody Gakpo",
-              "pos": 4,
-              "grid": "4:3"
-            },
-            {
-              "number": 19,
-              "name": "Brian Brobbey",
-              "pos": 4,
-              "grid": "4:2"
-            },
-            {
-              "number": 18,
-              "name": "Donyell Malen",
-              "pos": 4,
-              "grid": "4:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 10,
-              "name": "Memphis Depay",
-              "pos": 5
-            },
-            {
-              "number": 23,
-              "name": "Mark Flekken",
-              "pos": 5
-            },
-            {
-              "number": 2,
-              "name": "Lutsharel Geertruida",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Jorrel Hato",
-              "pos": 5
-            },
-            {
-              "number": 7,
-              "name": "Justin Kluivert",
-              "pos": 5
-            },
-            {
-              "number": 20,
-              "name": "Teun Koopmeiners",
-              "pos": 5
-            },
-            {
-              "number": 17,
-              "name": "Noa Lang",
-              "pos": 5
-            },
-            {
-              "number": 13,
-              "name": "Robin Roefs",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Crysencio Summerville",
-              "pos": 5
-            },
-            {
-              "number": 16,
-              "name": "Guus Til",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Quinten Timber",
-              "pos": 5
-            },
-            {
-              "number": 9,
-              "name": "Wout Weghorst",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Mats Wieffer",
-              "pos": 5
-            },
-            {
-              "number": 3,
-              "name": "Marten De Roon",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Micky van de Ven",
               "pos": 5
             }
           ]
@@ -19687,308 +19687,6 @@
         }
       }
     },
-    "1417979": {
-      "home_team": "Croatia",
-      "away_team": "Ghana",
-      "lineups": {
-        "home": {
-          "formation": "4-2-3-1",
-          "starting_xi": [
-            {
-              "number": 1,
-              "name": "Dominik Livaković",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 14,
-              "name": "Ivan Perišić",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 3,
-              "name": "Marin Pongračić",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 6,
-              "name": "Josip Šutalo",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 2,
-              "name": "Josip Stanišić",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 8,
-              "name": "Mateo Kovačić",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 10,
-              "name": "Luka Modrić",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 16,
-              "name": "Martin Baturina",
-              "pos": 3,
-              "grid": "4:3"
-            },
-            {
-              "number": 17,
-              "name": "Petar Sučić",
-              "pos": 3,
-              "grid": "4:2"
-            },
-            {
-              "number": 13,
-              "name": "Nikola Vlašić",
-              "pos": 3,
-              "grid": "4:1"
-            },
-            {
-              "number": 11,
-              "name": "Ante Budimir",
-              "pos": 4,
-              "grid": "5:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 25,
-              "name": "Martin Erlić",
-              "pos": 5
-            },
-            {
-              "number": 19,
-              "name": "Toni Fruk",
-              "pos": 5
-            },
-            {
-              "number": 4,
-              "name": "Joško Gvardiol",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "Kristijan Jakic",
-              "pos": 5
-            },
-            {
-              "number": 23,
-              "name": "Dominik Kotarski",
-              "pos": 5
-            },
-            {
-              "number": 9,
-              "name": "Andrej Kramarić",
-              "pos": 5
-            },
-            {
-              "number": 20,
-              "name": "Igor Matanović",
-              "pos": 5
-            },
-            {
-              "number": 7,
-              "name": "Nikola Moro",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Petar Musa",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Ivor Pandur",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Marco Pašalić",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Mario Pašalić",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "Luka Sučić",
-              "pos": 5
-            },
-            {
-              "number": 22,
-              "name": "Luka Vuskovic",
-              "pos": 5
-            },
-            {
-              "number": 5,
-              "name": "Duje Caleta-Car",
-              "pos": 5
-            }
-          ]
-        },
-        "away": {
-          "formation": "4-1-4-1",
-          "starting_xi": [
-            {
-              "number": 16,
-              "name": "Benjamin Asare",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 14,
-              "name": "Gideon Mensah",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 23,
-              "name": "Derrick Luckassen",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 4,
-              "name": "Jonas Adjei Adjetey",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 26,
-              "name": "Marvin Senaya",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 5,
-              "name": "Thomas Partey",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 22,
-              "name": "Kamaldeen Sulemana",
-              "pos": 3,
-              "grid": "4:4"
-            },
-            {
-              "number": 8,
-              "name": "Kwasi Sibo",
-              "pos": 3,
-              "grid": "4:3"
-            },
-            {
-              "number": 15,
-              "name": "Elisha Owusu",
-              "pos": 3,
-              "grid": "4:2"
-            },
-            {
-              "number": 11,
-              "name": "Antoine Semenyo",
-              "pos": 3,
-              "grid": "4:1"
-            },
-            {
-              "number": 9,
-              "name": "Jordan Ayew",
-              "pos": 4,
-              "grid": "5:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 25,
-              "name": "Prince Kwabena Adu",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Joseph Anang",
-              "pos": 5
-            },
-            {
-              "number": 17,
-              "name": "Rahman Baba",
-              "pos": 5
-            },
-            {
-              "number": 20,
-              "name": "Augustine Boakye",
-              "pos": 5
-            },
-            {
-              "number": 13,
-              "name": "Christopher Bonsu Baah",
-              "pos": 5
-            },
-            {
-              "number": 7,
-              "name": "Abdul Fatawu",
-              "pos": 5
-            },
-            {
-              "number": 6,
-              "name": "Abdul Mumin",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Ernest Nuamah",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "Jerome Opoku",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "Kojo Peprah Oppong",
-              "pos": 5
-            },
-            {
-              "number": 2,
-              "name": "Alidu Seidu",
-              "pos": 5
-            },
-            {
-              "number": 10,
-              "name": "Brandon Thomas-Asante",
-              "pos": 5
-            },
-            {
-              "number": 19,
-              "name": "Iñaki Williams",
-              "pos": 5
-            },
-            {
-              "number": 3,
-              "name": "Caleb Yirenkyi",
-              "pos": 5
-            },
-            {
-              "number": 1,
-              "name": "Lawrence Ati Zigi",
-              "pos": 5
-            }
-          ]
-        }
-      }
-    },
     "1417978": {
       "home_team": "Panama",
       "away_team": "England",
@@ -20286,302 +19984,302 @@
         }
       }
     },
-    "1417973": {
-      "home_team": "Colombia",
-      "away_team": "Portugal",
+    "1417979": {
+      "home_team": "Croatia",
+      "away_team": "Ghana",
       "lineups": {
         "home": {
-          "formation": "4-3-3",
-          "starting_xi": [
-            {
-              "number": 12,
-              "name": "Camilo Vargas",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 22,
-              "name": "Deiver Machado",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 3,
-              "name": "Jhon Lucumí",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 23,
-              "name": "Davinson Sánchez",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 4,
-              "name": "Santiago Arias",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 14,
-              "name": "Gustavo Puerta",
-              "pos": 3,
-              "grid": "3:3"
-            },
-            {
-              "number": 16,
-              "name": "Jefferson Lerma",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 11,
-              "name": "Jhon Arias",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 7,
-              "name": "Luis Díaz",
-              "pos": 4,
-              "grid": "4:3"
-            },
-            {
-              "number": 9,
-              "name": "Jhon Córdoba",
-              "pos": 4,
-              "grid": "4:2"
-            },
-            {
-              "number": 10,
-              "name": "James Rodríguez",
-              "pos": 4,
-              "grid": "4:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 21,
-              "name": "Jaminton Campaz",
-              "pos": 5
-            },
-            {
-              "number": 8,
-              "name": "Jorge Carrascal",
-              "pos": 5
-            },
-            {
-              "number": 5,
-              "name": "Kevin Castaño",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "Willer Ditta",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Andres Gomez",
-              "pos": 5
-            },
-            {
-              "number": 19,
-              "name": "Juan Camilo Hernandez",
-              "pos": 5
-            },
-            {
-              "number": 13,
-              "name": "Yerry Mina",
-              "pos": 5
-            },
-            {
-              "number": 17,
-              "name": "Johan Mojica",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Álvaro Montero",
-              "pos": 5
-            },
-            {
-              "number": 2,
-              "name": "Daniel Muñoz",
-              "pos": 5
-            },
-            {
-              "number": 1,
-              "name": "David Ospina",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Juan Portilla",
-              "pos": 5
-            },
-            {
-              "number": 20,
-              "name": "Juan Fernando Quintero",
-              "pos": 5
-            },
-            {
-              "number": 6,
-              "name": "Richard Ríos",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Luis Suárez",
-              "pos": 5
-            }
-          ]
-        },
-        "away": {
           "formation": "4-2-3-1",
           "starting_xi": [
             {
               "number": 1,
-              "name": "Diogo Costa",
+              "name": "Dominik Livaković",
               "pos": 1,
               "grid": "1:1"
             },
             {
-              "number": 25,
-              "name": "Nuno Mendes",
+              "number": 14,
+              "name": "Ivan Perišić",
               "pos": 2,
               "grid": "2:4"
             },
             {
-              "number": 13,
-              "name": "Renato Veiga",
+              "number": 3,
+              "name": "Marin Pongračić",
               "pos": 2,
               "grid": "2:3"
             },
             {
-              "number": 3,
-              "name": "Rúben Dias",
+              "number": 6,
+              "name": "Josip Šutalo",
               "pos": 2,
               "grid": "2:2"
             },
             {
-              "number": 20,
-              "name": "João Cancelo",
+              "number": 2,
+              "name": "Josip Stanišić",
               "pos": 2,
               "grid": "2:1"
             },
             {
-              "number": 23,
-              "name": "Vitinha",
+              "number": 8,
+              "name": "Mateo Kovačić",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 21,
-              "name": "Rúben Neves",
+              "number": 10,
+              "name": "Luka Modrić",
               "pos": 3,
               "grid": "3:1"
             },
             {
-              "number": 11,
-              "name": "João Félix",
+              "number": 16,
+              "name": "Martin Baturina",
               "pos": 3,
               "grid": "4:3"
             },
             {
-              "number": 8,
-              "name": "Bruno Fernandes",
+              "number": 17,
+              "name": "Petar Sučić",
               "pos": 3,
               "grid": "4:2"
             },
             {
-              "number": 18,
-              "name": "Pedro Neto",
+              "number": 13,
+              "name": "Nikola Vlašić",
               "pos": 3,
               "grid": "4:1"
             },
             {
-              "number": 7,
-              "name": "Cristiano Ronaldo",
+              "number": 11,
+              "name": "Ante Budimir",
               "pos": 4,
               "grid": "5:1"
             }
           ],
           "substitutes": [
             {
-              "number": 2,
-              "name": "Nélson Semedo",
-              "pos": 5
-            },
-            {
-              "number": 5,
-              "name": "Diogo Dalot",
-              "pos": 5
-            },
-            {
-              "number": 22,
-              "name": "Rui Silva",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Francisco Conceição",
+              "number": 25,
+              "name": "Martin Erlić",
               "pos": 5
             },
             {
               "number": 19,
-              "name": "Gonçalo Guedes",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "João Neves",
-              "pos": 5
-            },
-            {
-              "number": 14,
-              "name": "Gonçalo Inácio",
+              "name": "Toni Fruk",
               "pos": 5
             },
             {
               "number": 4,
-              "name": "Tomas Araujo",
+              "name": "Joško Gvardiol",
               "pos": 5
             },
             {
-              "number": 16,
-              "name": "Francisco Trincao",
+              "number": 18,
+              "name": "Kristijan Jakic",
               "pos": 5
             },
             {
-              "number": 12,
-              "name": "José Sá",
+              "number": 23,
+              "name": "Dominik Kotarski",
               "pos": 5
             },
             {
               "number": 9,
-              "name": "Gonçalo Ramos",
+              "name": "Andrej Kramarić",
               "pos": 5
             },
             {
-              "number": 10,
-              "name": "Bernardo Silva",
+              "number": 20,
+              "name": "Igor Matanović",
               "pos": 5
             },
             {
-              "number": 6,
-              "name": "Matheus Nunes",
+              "number": 7,
+              "name": "Nikola Moro",
               "pos": 5
             },
             {
-              "number": 17,
-              "name": "Rafael Leão",
+              "number": 26,
+              "name": "Petar Musa",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Ivor Pandur",
               "pos": 5
             },
             {
               "number": 24,
-              "name": "Samú Costa",
+              "name": "Marco Pašalić",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Mario Pašalić",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Luka Sučić",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Luka Vuskovic",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Duje Caleta-Car",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-1-4-1",
+          "starting_xi": [
+            {
+              "number": 16,
+              "name": "Benjamin Asare",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 14,
+              "name": "Gideon Mensah",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 23,
+              "name": "Derrick Luckassen",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Jonas Adjei Adjetey",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 26,
+              "name": "Marvin Senaya",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 5,
+              "name": "Thomas Partey",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 22,
+              "name": "Kamaldeen Sulemana",
+              "pos": 3,
+              "grid": "4:4"
+            },
+            {
+              "number": 8,
+              "name": "Kwasi Sibo",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 15,
+              "name": "Elisha Owusu",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 11,
+              "name": "Antoine Semenyo",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 9,
+              "name": "Jordan Ayew",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 25,
+              "name": "Prince Kwabena Adu",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Joseph Anang",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Rahman Baba",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Augustine Boakye",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Christopher Bonsu Baah",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Abdul Fatawu",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Abdul Mumin",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Ernest Nuamah",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Jerome Opoku",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Kojo Peprah Oppong",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Alidu Seidu",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Brandon Thomas-Asante",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Iñaki Williams",
+              "pos": 5
+            },
+            {
+              "number": 3,
+              "name": "Caleb Yirenkyi",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Lawrence Ati Zigi",
               "pos": 5
             }
           ]
@@ -20890,302 +20588,302 @@
         }
       }
     },
-    "1417967": {
-      "home_team": "Jordan",
-      "away_team": "Argentina",
+    "1417973": {
+      "home_team": "Colombia",
+      "away_team": "Portugal",
       "lineups": {
         "home": {
-          "formation": "3-4-2-1",
+          "formation": "4-3-3",
           "starting_xi": [
             {
-              "number": 1,
-              "name": "Yazeed Abu Laila",
+              "number": 12,
+              "name": "Camilo Vargas",
               "pos": 1,
               "grid": "1:1"
             },
             {
-              "number": 4,
-              "name": "Husam Ali Mohammad Abudahab",
+              "number": 22,
+              "name": "Deiver Machado",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 3,
+              "name": "Jhon Lucumí",
               "pos": 2,
               "grid": "2:3"
             },
             {
-              "number": 5,
-              "name": "Yazan Al-Arab",
+              "number": 23,
+              "name": "Davinson Sánchez",
               "pos": 2,
               "grid": "2:2"
             },
             {
-              "number": 3,
-              "name": "Abdallah Nasib",
+              "number": 4,
+              "name": "Santiago Arias",
               "pos": 2,
               "grid": "2:1"
             },
             {
-              "number": 20,
-              "name": "Mohannad Abu Taha",
-              "pos": 3,
-              "grid": "3:4"
-            },
-            {
-              "number": 8,
-              "name": "Noor Al-Deen Mahmoud Ali Al Rawabdeh",
+              "number": 14,
+              "name": "Gustavo Puerta",
               "pos": 3,
               "grid": "3:3"
             },
             {
-              "number": 21,
-              "name": "Nizar Al-Rashdan",
+              "number": 16,
+              "name": "Jefferson Lerma",
               "pos": 3,
               "grid": "3:2"
             },
             {
-              "number": 23,
-              "name": "Ehsan Haddad",
+              "number": 11,
+              "name": "Jhon Arias",
               "pos": 3,
               "grid": "3:1"
             },
             {
+              "number": 7,
+              "name": "Luis Díaz",
+              "pos": 4,
+              "grid": "4:3"
+            },
+            {
               "number": 9,
-              "name": "Ali Iyad Olwan",
+              "name": "Jhon Córdoba",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 10,
+              "name": "James Rodríguez",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 21,
+              "name": "Jaminton Campaz",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Jorge Carrascal",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Kevin Castaño",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Willer Ditta",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Andres Gomez",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Juan Camilo Hernandez",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Yerry Mina",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Johan Mojica",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Álvaro Montero",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Daniel Muñoz",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "David Ospina",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Juan Portilla",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Juan Fernando Quintero",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Richard Ríos",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Luis Suárez",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Diogo Costa",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 25,
+              "name": "Nuno Mendes",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 13,
+              "name": "Renato Veiga",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 3,
+              "name": "Rúben Dias",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 20,
+              "name": "João Cancelo",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 23,
+              "name": "Vitinha",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 21,
+              "name": "Rúben Neves",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 11,
+              "name": "João Félix",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 8,
+              "name": "Bruno Fernandes",
               "pos": 3,
               "grid": "4:2"
             },
             {
-              "number": 24,
-              "name": "Ali Ahmad Azaizeh",
+              "number": 18,
+              "name": "Pedro Neto",
               "pos": 3,
               "grid": "4:1"
             },
             {
-              "number": 11,
-              "name": "Awdat Al Fakhouri",
+              "number": 7,
+              "name": "Cristiano Ronaldo",
               "pos": 4,
               "grid": "5:1"
             }
           ],
           "substitutes": [
             {
-              "number": 16,
-              "name": "Mohammad Abualnadi",
-              "pos": 5
-            },
-            {
               "number": 2,
-              "name": "Mohammad Abu Hasheesh",
+              "name": "Nélson Semedo",
               "pos": 5
-            },
-            {
-              "number": 7,
-              "name": "Sharara",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Mohammad Al-Daoud",
-              "pos": 5
-            },
-            {
-              "number": 22,
-              "name": "Abdallah Al Fakhouri",
-              "pos": 5
-            },
-            {
-              "number": 13,
-              "name": "Mahmoud Al Mardi",
-              "pos": 5
-            },
-            {
-              "number": 19,
-              "name": "Saed Al-Rosan",
-              "pos": 5
-            },
-            {
-              "number": 26,
-              "name": "Anas Said Ghazi Badawi",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Khalil Bani Ateyah",
-              "pos": 5
-            },
-            {
-              "number": 14,
-              "name": "Rajaei Ayed Fadel Rajaei Ayed",
-              "pos": 5
-            },
-            {
-              "number": 6,
-              "name": "Amer Jamous",
-              "pos": 5
-            },
-            {
-              "number": 17,
-              "name": "Saleem Obaid",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Ibrahim Sadeh",
-              "pos": 5
-            },
-            {
-              "number": 10,
-              "name": "Mousa Tamari",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "Mohammad Ahmed Mohammad Taha",
-              "pos": 5
-            }
-          ]
-        },
-        "away": {
-          "formation": "4-4-2",
-          "starting_xi": [
-            {
-              "number": 23,
-              "name": "Emiliano Martínez",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 3,
-              "name": "Nicolás Tagliafico",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 2,
-              "name": "Marcos Senesi",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 19,
-              "name": "Nicolás Otamendi",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 14,
-              "name": "Exequiel Palacios",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 11,
-              "name": "Giovani Lo Celso",
-              "pos": 3,
-              "grid": "3:4"
             },
             {
               "number": 5,
-              "name": "Leandro Paredes",
-              "pos": 3,
-              "grid": "3:3"
-            },
-            {
-              "number": 18,
-              "name": "Nico Paz",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 17,
-              "name": "Giuliano Simeone",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 9,
-              "name": "Julián Álvarez",
-              "pos": 4,
-              "grid": "4:2"
+              "name": "Diogo Dalot",
+              "pos": 5
             },
             {
               "number": 22,
-              "name": "Lautaro Martínez",
-              "pos": 4,
-              "grid": "4:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 16,
-              "name": "Thiago Almada",
-              "pos": 5
-            },
-            {
-              "number": 8,
-              "name": "Valentín Barco",
-              "pos": 5
-            },
-            {
-              "number": 7,
-              "name": "Rodrigo De Paul",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Enzo Fernández",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Nico González",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "Flaco Lopez",
-              "pos": 5
-            },
-            {
-              "number": 20,
-              "name": "Alexis Mac Allister",
-              "pos": 5
-            },
-            {
-              "number": 6,
-              "name": "Lisandro Martínez",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Facundo Medina",
-              "pos": 5
-            },
-            {
-              "number": 10,
-              "name": "Lionel Messi",
+              "name": "Rui Silva",
               "pos": 5
             },
             {
               "number": 26,
-              "name": "Nahuel Molina",
+              "name": "Francisco Conceição",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Gonçalo Guedes",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "João Neves",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Gonçalo Inácio",
               "pos": 5
             },
             {
               "number": 4,
-              "name": "Gonzalo Montiel",
+              "name": "Tomas Araujo",
               "pos": 5
             },
             {
-              "number": 1,
-              "name": "Juan Musso",
-              "pos": 5
-            },
-            {
-              "number": 13,
-              "name": "Cristian Romero",
+              "number": 16,
+              "name": "Francisco Trincao",
               "pos": 5
             },
             {
               "number": 12,
-              "name": "Gerónimo Rulli",
+              "name": "José Sá",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Gonçalo Ramos",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Bernardo Silva",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Matheus Nunes",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Rafael Leão",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Samú Costa",
               "pos": 5
             }
           ]
@@ -21483,6 +21181,308 @@
             {
               "number": 21,
               "name": "Patrick Wimmer",
+              "pos": 5
+            }
+          ]
+        }
+      }
+    },
+    "1417967": {
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "lineups": {
+        "home": {
+          "formation": "3-4-2-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Yazeed Abu Laila",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 4,
+              "name": "Husam Ali Mohammad Abudahab",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 5,
+              "name": "Yazan Al-Arab",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 3,
+              "name": "Abdallah Nasib",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 20,
+              "name": "Mohannad Abu Taha",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 8,
+              "name": "Noor Al-Deen Mahmoud Ali Al Rawabdeh",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 21,
+              "name": "Nizar Al-Rashdan",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 23,
+              "name": "Ehsan Haddad",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 9,
+              "name": "Ali Iyad Olwan",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 24,
+              "name": "Ali Ahmad Azaizeh",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 11,
+              "name": "Awdat Al Fakhouri",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 16,
+              "name": "Mohammad Abualnadi",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Mohammad Abu Hasheesh",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Sharara",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Mohammad Al-Daoud",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Abdallah Al Fakhouri",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Mahmoud Al Mardi",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Saed Al-Rosan",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Anas Said Ghazi Badawi",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Khalil Bani Ateyah",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Rajaei Ayed Fadel Rajaei Ayed",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Amer Jamous",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Saleem Obaid",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Ibrahim Sadeh",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Mousa Tamari",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Mohammad Ahmed Mohammad Taha",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-4-2",
+          "starting_xi": [
+            {
+              "number": 23,
+              "name": "Emiliano Martínez",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 3,
+              "name": "Nicolás Tagliafico",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 2,
+              "name": "Marcos Senesi",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 19,
+              "name": "Nicolás Otamendi",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 14,
+              "name": "Exequiel Palacios",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 11,
+              "name": "Giovani Lo Celso",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 5,
+              "name": "Leandro Paredes",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 18,
+              "name": "Nico Paz",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 17,
+              "name": "Giuliano Simeone",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 9,
+              "name": "Julián Álvarez",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 22,
+              "name": "Lautaro Martínez",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 16,
+              "name": "Thiago Almada",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Valentín Barco",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Rodrigo De Paul",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Enzo Fernández",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Nico González",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Flaco Lopez",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Alexis Mac Allister",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Lisandro Martínez",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Facundo Medina",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Lionel Messi",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Nahuel Molina",
+              "pos": 5
+            },
+            {
+              "number": 4,
+              "name": "Gonzalo Montiel",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Juan Musso",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Cristian Romero",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Gerónimo Rulli",
               "pos": 5
             }
           ]
@@ -30985,5 +30985,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-08-15T20:17:16Z"
+  "last_updated": "2026-08-15T20:47:36Z"
 }
