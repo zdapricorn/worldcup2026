@@ -19687,6 +19687,303 @@
         }
       }
     },
+    "1417978": {
+      "home_team": "Panama",
+      "away_team": "England",
+      "lineups": {
+        "home": {
+          "formation": "5-4-1",
+          "starting_xi": [
+            {
+              "number": 22,
+              "name": "Orlando Mosquera",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 16,
+              "name": "Andres Andrade",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 3,
+              "name": "José Córdoba",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 4,
+              "name": "Fidel Escobar",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 26,
+              "name": "Jorge Gutierrez",
+              "pos": 3,
+              "grid": "2:5"
+            },
+            {
+              "number": 23,
+              "name": "Amir Murillo",
+              "pos": 3,
+              "grid": "2:1"
+            },
+            {
+              "number": 7,
+              "name": "José Luis Rodríguez",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 11,
+              "name": "Édgar Bárcenas",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 14,
+              "name": "Carlos Harvey",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 6,
+              "name": "Cristian Martínez",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 9,
+              "name": "Tomas Rodriguez",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 2,
+              "name": "César Blackman",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Adalberto Carrasquilla",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Éric Davis",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Ismael Diaz",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "José Fajardo",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Edgardo Fariña",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Anibal Godoy",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Azarias Londono",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Luis Mejía",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Roderick Miller",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Alberto Quintero",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Jiovany Ramos",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "César Samudio",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Cecilio Waterman",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "César Yanis",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-1-4-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Jordan Pickford",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 3,
+              "name": "Nico O'Reilly",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 6,
+              "name": "Marc Guéhi",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 2,
+              "name": "Ezri Konsa",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 26,
+              "name": "Jarell Quansah",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 8,
+              "name": "Elliot Anderson",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 11,
+              "name": "Marcus Rashford",
+              "pos": 3,
+              "grid": "4:4"
+            },
+            {
+              "number": 10,
+              "name": "Jude Bellingham",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 17,
+              "name": "Morgan Rogers",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 7,
+              "name": "Bukayo Saka",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 9,
+              "name": "Harry Kane",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 15,
+              "name": "Dan Burn",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Trevoh Chalobah",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Eberechi Eze",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Anthony Gordon",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Dean Henderson",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Jordan Henderson",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Noni Madueke",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Kobbie Mainoo",
+              "pos": 5
+            },
+            {
+              "number": 4,
+              "name": "Declan Rice",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Djed Spence",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "John Stones",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Ivan Toney",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "James Trafford",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Ollie Watkins",
+              "pos": 5
+            }
+          ]
+        }
+      }
+    },
     "1417979": {
       "home_team": "Croatia",
       "away_team": "Ghana",
@@ -19983,303 +20280,6 @@
             {
               "number": 1,
               "name": "Lawrence Ati Zigi",
-              "pos": 5
-            }
-          ]
-        }
-      }
-    },
-    "1417978": {
-      "home_team": "Panama",
-      "away_team": "England",
-      "lineups": {
-        "home": {
-          "formation": "5-4-1",
-          "starting_xi": [
-            {
-              "number": 22,
-              "name": "Orlando Mosquera",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 16,
-              "name": "Andres Andrade",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 3,
-              "name": "José Córdoba",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 4,
-              "name": "Fidel Escobar",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 26,
-              "name": "Jorge Gutierrez",
-              "pos": 3,
-              "grid": "2:5"
-            },
-            {
-              "number": 23,
-              "name": "Amir Murillo",
-              "pos": 3,
-              "grid": "2:1"
-            },
-            {
-              "number": 7,
-              "name": "José Luis Rodríguez",
-              "pos": 3,
-              "grid": "3:4"
-            },
-            {
-              "number": 11,
-              "name": "Édgar Bárcenas",
-              "pos": 3,
-              "grid": "3:3"
-            },
-            {
-              "number": 14,
-              "name": "Carlos Harvey",
-              "pos": 3,
-              "grid": "3:2"
-            },
-            {
-              "number": 6,
-              "name": "Cristian Martínez",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 9,
-              "name": "Tomas Rodriguez",
-              "pos": 4,
-              "grid": "4:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 2,
-              "name": "César Blackman",
-              "pos": 5
-            },
-            {
-              "number": 8,
-              "name": "Adalberto Carrasquilla",
-              "pos": 5
-            },
-            {
-              "number": 15,
-              "name": "Éric Davis",
-              "pos": 5
-            },
-            {
-              "number": 10,
-              "name": "Ismael Diaz",
-              "pos": 5
-            },
-            {
-              "number": 17,
-              "name": "José Fajardo",
-              "pos": 5
-            },
-            {
-              "number": 5,
-              "name": "Edgardo Fariña",
-              "pos": 5
-            },
-            {
-              "number": 20,
-              "name": "Anibal Godoy",
-              "pos": 5
-            },
-            {
-              "number": 24,
-              "name": "Azarias Londono",
-              "pos": 5
-            },
-            {
-              "number": 1,
-              "name": "Luis Mejía",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Roderick Miller",
-              "pos": 5
-            },
-            {
-              "number": 19,
-              "name": "Alberto Quintero",
-              "pos": 5
-            },
-            {
-              "number": 13,
-              "name": "Jiovany Ramos",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "César Samudio",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "Cecilio Waterman",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "César Yanis",
-              "pos": 5
-            }
-          ]
-        },
-        "away": {
-          "formation": "4-1-4-1",
-          "starting_xi": [
-            {
-              "number": 1,
-              "name": "Jordan Pickford",
-              "pos": 1,
-              "grid": "1:1"
-            },
-            {
-              "number": 3,
-              "name": "Nico O'Reilly",
-              "pos": 2,
-              "grid": "2:4"
-            },
-            {
-              "number": 6,
-              "name": "Marc Guéhi",
-              "pos": 2,
-              "grid": "2:3"
-            },
-            {
-              "number": 2,
-              "name": "Ezri Konsa",
-              "pos": 2,
-              "grid": "2:2"
-            },
-            {
-              "number": 26,
-              "name": "Jarell Quansah",
-              "pos": 2,
-              "grid": "2:1"
-            },
-            {
-              "number": 8,
-              "name": "Elliot Anderson",
-              "pos": 3,
-              "grid": "3:1"
-            },
-            {
-              "number": 11,
-              "name": "Marcus Rashford",
-              "pos": 3,
-              "grid": "4:4"
-            },
-            {
-              "number": 10,
-              "name": "Jude Bellingham",
-              "pos": 3,
-              "grid": "4:3"
-            },
-            {
-              "number": 17,
-              "name": "Morgan Rogers",
-              "pos": 3,
-              "grid": "4:2"
-            },
-            {
-              "number": 7,
-              "name": "Bukayo Saka",
-              "pos": 3,
-              "grid": "4:1"
-            },
-            {
-              "number": 9,
-              "name": "Harry Kane",
-              "pos": 4,
-              "grid": "5:1"
-            }
-          ],
-          "substitutes": [
-            {
-              "number": 15,
-              "name": "Dan Burn",
-              "pos": 5
-            },
-            {
-              "number": 12,
-              "name": "Trevoh Chalobah",
-              "pos": 5
-            },
-            {
-              "number": 21,
-              "name": "Eberechi Eze",
-              "pos": 5
-            },
-            {
-              "number": 18,
-              "name": "Anthony Gordon",
-              "pos": 5
-            },
-            {
-              "number": 13,
-              "name": "Dean Henderson",
-              "pos": 5
-            },
-            {
-              "number": 14,
-              "name": "Jordan Henderson",
-              "pos": 5
-            },
-            {
-              "number": 20,
-              "name": "Noni Madueke",
-              "pos": 5
-            },
-            {
-              "number": 16,
-              "name": "Kobbie Mainoo",
-              "pos": 5
-            },
-            {
-              "number": 4,
-              "name": "Declan Rice",
-              "pos": 5
-            },
-            {
-              "number": 25,
-              "name": "Djed Spence",
-              "pos": 5
-            },
-            {
-              "number": 5,
-              "name": "John Stones",
-              "pos": 5
-            },
-            {
-              "number": 22,
-              "name": "Ivan Toney",
-              "pos": 5
-            },
-            {
-              "number": 23,
-              "name": "James Trafford",
-              "pos": 5
-            },
-            {
-              "number": 19,
-              "name": "Ollie Watkins",
               "pos": 5
             }
           ]
@@ -30985,5 +30985,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-08-16T15:46:17Z"
+  "last_updated": "2026-08-16T16:19:25Z"
 }
