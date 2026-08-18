@@ -192,70 +192,6 @@
         "status": "FT"
       }
     ],
-    "1417939": [
-      {
-        "date": "20131116",
-        "home": "Netherlands",
-        "away": "Japan",
-        "home_score": 2,
-        "away_score": 2,
-        "stage": "Internationals 2013",
-        "competition": "Belgium",
-        "status": "FT"
-      },
-      {
-        "date": "20100619",
-        "home": "Netherlands",
-        "away": "Japan",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "FIFA World Cup 2010 South Africa",
-        "competition": "South Africa",
-        "status": "FT"
-      },
-      {
-        "date": "20090905",
-        "home": "Netherlands",
-        "away": "Japan",
-        "home_score": 3,
-        "away_score": 0,
-        "stage": "Internationals 2009",
-        "competition": "Netherlands",
-        "status": "FT"
-      }
-    ],
-    "1417940": [
-      {
-        "date": "20030212",
-        "home": "Tunisia",
-        "away": "Sweden",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "Internationals 2003",
-        "competition": "Tunisia",
-        "status": "FT"
-      },
-      {
-        "date": "19990209",
-        "home": "Tunisia",
-        "away": "Sweden",
-        "home_score": 0,
-        "away_score": 1,
-        "stage": "Internationals 1999",
-        "competition": "Tunisia",
-        "status": "FT"
-      },
-      {
-        "date": "19920422",
-        "home": "Tunisia",
-        "away": "Sweden",
-        "home_score": 0,
-        "away_score": 1,
-        "stage": "Internationals 1992",
-        "competition": "",
-        "status": "FT"
-      }
-    ],
     "1417945": [
       {
         "date": "20221118",
@@ -1358,18 +1294,6 @@
         "status": "FT"
       }
     ],
-    "1691867": [
-      {
-        "date": "20071119",
-        "home": "South Africa",
-        "away": "Canada",
-        "home_score": 2,
-        "away_score": 0,
-        "stage": "Internationals 2007",
-        "competition": "South Africa",
-        "status": "FT"
-      }
-    ],
     "1691870": [
       {
         "date": "20251014",
@@ -2270,50 +2194,6 @@
         "status": "FT"
       }
     ],
-    "1417907": [
-      {
-        "date": "20080325",
-        "home": "Egypt",
-        "away": "Argentina",
-        "home_score": 0,
-        "away_score": 2,
-        "stage": "Internationals 2008",
-        "competition": "Egypt",
-        "status": "FT"
-      }
-    ],
-    "1417908": [
-      {
-        "date": "20070324",
-        "home": "Colombia",
-        "away": "Switzerland",
-        "home_score": 3,
-        "away_score": 1,
-        "stage": "Internationals 2007",
-        "competition": "USA",
-        "status": "FT"
-      },
-      {
-        "date": "19940626",
-        "home": "Switzerland",
-        "away": "Colombia",
-        "home_score": 0,
-        "away_score": 2,
-        "stage": "FIFA World Cup 1994 USA",
-        "competition": "USA",
-        "status": "FT"
-      },
-      {
-        "date": "19910203",
-        "home": "Colombia",
-        "away": "Switzerland",
-        "home_score": 2,
-        "away_score": 3,
-        "stage": "Internationals 1991",
-        "competition": "",
-        "status": "FT"
-      }
-    ],
     "1417897": [
       {
         "date": "20221214",
@@ -2962,5 +2842,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-08-18T11:51:24Z"
+  "last_updated": "2026-08-18T12:36:20Z"
 }
