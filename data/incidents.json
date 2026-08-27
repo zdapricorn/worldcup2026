@@ -6198,7 +6198,7 @@
       {
         "minute": 42,
         "type": 43,
-        "player": "Lisandro Martínez",
+        "player": "L. Martínez",
         "number": 6,
         "score": "",
         "period": "1"
@@ -6264,22 +6264,6 @@
         "type": 43,
         "player": "R. De Paul",
         "number": 7,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 4,
-        "player": "J. Stones",
-        "number": 5,
-        "score": "",
-        "period": "2"
-      },
-      {
-        "minute": 90,
-        "type": 5,
-        "player": "I. Toney",
-        "number": 22,
         "score": "",
         "period": "2"
       }
@@ -6466,5 +6450,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-08-27T00:02:29Z"
+  "last_updated": "2026-08-27T20:55:34Z"
 }
