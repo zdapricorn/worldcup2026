@@ -6136,6 +6136,56 @@
         "period": "2"
       }
     ],
+    "1417886": [
+      {
+        "minute": 9,
+        "type": 43,
+        "player": "A. Rabiot",
+        "number": 14,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 22,
+        "type": 37,
+        "player": "Mikel Oyarzabal",
+        "number": 21,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 31,
+        "type": 43,
+        "player": "Marc Cucurella",
+        "number": 24,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 58,
+        "type": 36,
+        "player": "Pedro Porro",
+        "number": 12,
+        "score": "0-2",
+        "period": "2"
+      },
+      {
+        "minute": 58,
+        "type": 63,
+        "player": "Dani Olmo",
+        "number": 10,
+        "score": "0-2",
+        "period": "2"
+      },
+      {
+        "minute": 86,
+        "type": 43,
+        "player": "K. Mbappé",
+        "number": 10,
+        "score": "",
+        "period": "2"
+      }
+    ],
     "1417887": [
       {
         "minute": 37,
@@ -6400,5 +6450,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-08-30T15:12:06Z"
+  "last_updated": "2026-08-30T18:44:31Z"
 }
