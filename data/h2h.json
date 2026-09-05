@@ -1946,6 +1946,18 @@
         "status": "FT"
       }
     ],
+    "1691881": [
+      {
+        "date": "20101117",
+        "home": "Egypt",
+        "away": "Australia",
+        "home_score": 3,
+        "away_score": 0,
+        "stage": "Internationals 2010",
+        "competition": "Egypt",
+        "status": "FT"
+      }
+    ],
     "1417902": [
       {
         "date": "20221201",
@@ -2950,5 +2962,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-09-05T18:34:20Z"
+  "last_updated": "2026-09-05T20:56:36Z"
 }
