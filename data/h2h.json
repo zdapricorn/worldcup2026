@@ -256,70 +256,6 @@
         "status": "FT"
       }
     ],
-    "1417945": [
-      {
-        "date": "20221118",
-        "home": "Belgium",
-        "away": "Egypt",
-        "home_score": 1,
-        "away_score": 2,
-        "stage": "Internationals 2022",
-        "competition": "Kuwait",
-        "status": "FT"
-      },
-      {
-        "date": "20180606",
-        "home": "Belgium",
-        "away": "Egypt",
-        "home_score": 3,
-        "away_score": 0,
-        "stage": "Internationals 2018",
-        "competition": "Belgium",
-        "status": "FT"
-      },
-      {
-        "date": "20050209",
-        "home": "Egypt",
-        "away": "Belgium",
-        "home_score": 4,
-        "away_score": 0,
-        "stage": "Internationals 2005",
-        "competition": "Egypt",
-        "status": "FT"
-      },
-      {
-        "date": "19990329",
-        "home": "Belgium",
-        "away": "Egypt",
-        "home_score": 0,
-        "away_score": 1,
-        "stage": "Internationals 1999",
-        "competition": "Belgium",
-        "status": "FT"
-      }
-    ],
-    "1417952": [
-      {
-        "date": "20180620",
-        "home": "Uruguay",
-        "away": "Saudi Arabia",
-        "home_score": 1,
-        "away_score": 0,
-        "stage": "FIFA World Cup 2018 Russia",
-        "competition": "Russia",
-        "status": "FT"
-      },
-      {
-        "date": "20141010",
-        "home": "Saudi Arabia",
-        "away": "Uruguay",
-        "home_score": 1,
-        "away_score": 1,
-        "stage": "Internationals 2014",
-        "competition": "Saudi Arabia",
-        "status": "FT"
-      }
-    ],
     "1417957": [
       {
         "date": "20020531",
@@ -2962,5 +2898,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-09-12T18:55:58Z"
+  "last_updated": "2026-09-12T21:10:46Z"
 }
