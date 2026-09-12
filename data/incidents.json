@@ -824,6 +824,166 @@
         "period": "2"
       }
     ],
+    "1417951": [
+      {
+        "minute": 16,
+        "type": 43,
+        "player": "Sidny Cabral",
+        "number": 13,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 90,
+        "type": 43,
+        "player": "Pedri",
+        "number": 20,
+        "score": "",
+        "period": "2"
+      }
+    ],
+    "1417945": [
+      {
+        "minute": 13,
+        "type": 43,
+        "player": "Marwan Attia",
+        "number": 19,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 14,
+        "type": 43,
+        "player": "T. Castagne",
+        "number": 21,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 19,
+        "type": 36,
+        "player": "Emam Ashour",
+        "number": 8,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 19,
+        "type": 63,
+        "player": "Mohamed Salah",
+        "number": 10,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 34,
+        "type": 43,
+        "player": "Ahmed Fatouh",
+        "number": 13,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 66,
+        "type": 39,
+        "player": "Mohamed Hany",
+        "number": 3,
+        "score": "1-1",
+        "period": "2"
+      },
+      {
+        "minute": 75,
+        "type": 43,
+        "player": "M. De Cuyper",
+        "number": 5,
+        "score": "",
+        "period": "2"
+      }
+    ],
+    "1417952": [
+      {
+        "minute": 41,
+        "type": 36,
+        "player": "Abdulelah Al Amri",
+        "number": 4,
+        "score": "1-0",
+        "period": "1"
+      },
+      {
+        "minute": 44,
+        "type": 43,
+        "player": "Abdulelah Al Amri",
+        "number": 4,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 80,
+        "type": 36,
+        "player": "M. Araújo",
+        "number": 20,
+        "score": "1-1",
+        "period": "2"
+      }
+    ],
+    "1417946": [
+      {
+        "minute": 7,
+        "type": 36,
+        "player": "E. Just",
+        "number": 11,
+        "score": "0-1",
+        "period": "1"
+      },
+      {
+        "minute": 32,
+        "type": 36,
+        "player": "R. Rezaeian",
+        "number": 23,
+        "score": "1-1",
+        "period": "1"
+      },
+      {
+        "minute": 54,
+        "type": 36,
+        "player": "E. Just",
+        "number": 11,
+        "score": "1-2",
+        "period": "2"
+      },
+      {
+        "minute": 54,
+        "type": 63,
+        "player": "C. Wood",
+        "number": 9,
+        "score": "1-2",
+        "period": "2"
+      },
+      {
+        "minute": 64,
+        "type": 36,
+        "player": "M. Mohebbi",
+        "number": 8,
+        "score": "2-2",
+        "period": "2"
+      },
+      {
+        "minute": 64,
+        "type": 63,
+        "player": "R. Rezaeian",
+        "number": 23,
+        "score": "2-2",
+        "period": "2"
+      },
+      {
+        "minute": 89,
+        "type": 43,
+        "player": "E. Hajisafi",
+        "number": 3,
+        "score": "",
+        "period": "2"
+      }
+    ],
     "1417957": [
       {
         "minute": 66,
@@ -6274,5 +6434,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-09-12T21:11:33Z"
+  "last_updated": "2026-09-12T23:11:04Z"
 }
