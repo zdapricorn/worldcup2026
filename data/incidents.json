@@ -692,6 +692,56 @@
         "period": "2"
       }
     ],
+    "1417934": [
+      {
+        "minute": 28,
+        "type": 43,
+        "player": "S. Fofana",
+        "number": 6,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 38,
+        "type": 43,
+        "player": "F. Kessie",
+        "number": 8,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 40,
+        "type": 43,
+        "player": "G. Doué",
+        "number": 17,
+        "score": "",
+        "period": "1"
+      },
+      {
+        "minute": 73,
+        "type": 43,
+        "player": "J. Porozo",
+        "number": 25,
+        "score": "",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 36,
+        "player": "A. Diallo",
+        "number": 15,
+        "score": "1-0",
+        "period": "2"
+      },
+      {
+        "minute": 90,
+        "type": 63,
+        "player": "W. Singo",
+        "number": 5,
+        "score": "1-0",
+        "period": "2"
+      }
+    ],
     "1417940": [
       {
         "minute": 7,
@@ -6384,5 +6434,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-09-24T19:51:03Z"
+  "last_updated": "2026-09-24T22:59:37Z"
 }

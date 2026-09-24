@@ -608,6 +608,28 @@
         "status": "FT"
       }
     ],
+    "1417923": [
+      {
+        "date": "20160608",
+        "home": "Brazil",
+        "away": "Haiti",
+        "home_score": 7,
+        "away_score": 1,
+        "stage": "CONMEBOL Copa America 2016 USA",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "19590830",
+        "home": "Brazil",
+        "away": "Haiti",
+        "home_score": 9,
+        "away_score": 1,
+        "stage": "Pan American Games 1959 United States",
+        "competition": "",
+        "status": "FT"
+      }
+    ],
     "1417929": [
       {
         "date": "19950617",
@@ -617,6 +639,108 @@
         "away_score": 0,
         "stage": "Internationals 1995",
         "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417942": [
+      {
+        "date": "20171010",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "UEFA World Cup Qualifiers 2018 Russia",
+        "competition": "Netherlands",
+        "status": "FT"
+      },
+      {
+        "date": "20160906",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "UEFA World Cup Qualifiers 2018 Russia",
+        "competition": "Sweden",
+        "status": "FT"
+      },
+      {
+        "date": "20111011",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 3,
+        "away_score": 2,
+        "stage": "UEFA European Championship Qualifiers 2012 Poland/Ukraine",
+        "competition": "Sweden",
+        "status": "FT"
+      },
+      {
+        "date": "20101012",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 4,
+        "away_score": 1,
+        "stage": "UEFA European Championship Qualifiers 2012 Poland/Ukraine",
+        "competition": "Netherlands",
+        "status": "FT"
+      },
+      {
+        "date": "20081119",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "Internationals 2008",
+        "competition": "Netherlands",
+        "status": "FT"
+      },
+      {
+        "date": "20040818",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Internationals 2004",
+        "competition": "Sweden",
+        "status": "FT"
+      },
+      {
+        "date": "20040626",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "UEFA European Championship Finals 2004 Portugal",
+        "competition": "Portugal",
+        "status": "FT"
+      },
+      {
+        "date": "19830427",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 0,
+        "away_score": 3,
+        "stage": "Internationals 1983",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19740904",
+        "home": "Sweden",
+        "away": "Netherlands",
+        "home_score": 1,
+        "away_score": 5,
+        "stage": "Internationals 1974",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19740619",
+        "home": "Netherlands",
+        "away": "Sweden",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1974 Germany",
+        "competition": "Germany",
         "status": "FT"
       }
     ],
@@ -2838,5 +2962,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-09-24T19:48:42Z"
+  "last_updated": "2026-09-24T22:58:49Z"
 }
