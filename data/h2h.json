@@ -1980,6 +1980,122 @@
         "status": "FT"
       }
     ],
+    "1417901": [
+      {
+        "date": "20170602",
+        "home": "France",
+        "away": "Paraguay",
+        "home_score": 5,
+        "away_score": 0,
+        "stage": "Internationals 2017",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "20140601",
+        "home": "France",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2014",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "20080531",
+        "home": "France",
+        "away": "Paraguay",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "Internationals 2008",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "19980628",
+        "home": "France",
+        "away": "Paraguay",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1998 France",
+        "competition": "France",
+        "status": "FT"
+      },
+      {
+        "date": "19580608",
+        "home": "France",
+        "away": "Paraguay",
+        "home_score": 7,
+        "away_score": 3,
+        "stage": "FIFA World Cup 1958 Sweden",
+        "competition": "Sweden",
+        "status": "FT"
+      }
+    ],
+    "1417903": [
+      {
+        "date": "20060815",
+        "home": "Norway",
+        "away": "Brazil",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2006",
+        "competition": "Norway",
+        "status": "FT"
+      },
+      {
+        "date": "19980623",
+        "home": "Brazil",
+        "away": "Norway",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "FIFA World Cup 1998 France",
+        "competition": "France",
+        "status": "FT"
+      }
+    ],
+    "1417904": [
+      {
+        "date": "20100524",
+        "home": "England",
+        "away": "Mexico",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "Internationals 2010",
+        "competition": "England",
+        "status": "FT"
+      },
+      {
+        "date": "20010524",
+        "home": "England",
+        "away": "Mexico",
+        "home_score": 4,
+        "away_score": 0,
+        "stage": "Internationals 2001",
+        "competition": "England",
+        "status": "FT"
+      },
+      {
+        "date": "19970328",
+        "home": "England",
+        "away": "Mexico",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "Internationals 1997",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19660716",
+        "home": "England",
+        "away": "Mexico",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1966 England",
+        "competition": "England",
+        "status": "FT"
+      }
+    ],
     "1417905": [
       {
         "date": "20250608",
@@ -2151,6 +2267,18 @@
         "away_score": 0,
         "stage": "FIFA World Cup 1930 Uruguay",
         "competition": "Uruguay",
+        "status": "FT"
+      }
+    ],
+    "1417907": [
+      {
+        "date": "20080325",
+        "home": "Egypt",
+        "away": "Argentina",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "Internationals 2008",
+        "competition": "Egypt",
         "status": "FT"
       }
     ],
@@ -2419,6 +2547,58 @@
         "away_score": 0,
         "stage": "UEFA World Cup Qualifiers 1982 Spain",
         "competition": "",
+        "status": "FT"
+      }
+    ],
+    "1417900": [
+      {
+        "date": "20140701",
+        "home": "Argentina",
+        "away": "Switzerland",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "FIFA World Cup 2014 Brazil",
+        "competition": "Brazil",
+        "status": "FT"
+      },
+      {
+        "date": "20120229",
+        "home": "Switzerland",
+        "away": "Argentina",
+        "home_score": 1,
+        "away_score": 3,
+        "stage": "Internationals 2012",
+        "competition": "Switzerland",
+        "status": "FT"
+      },
+      {
+        "date": "20070602",
+        "home": "Switzerland",
+        "away": "Argentina",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 2007",
+        "competition": "Switzerland",
+        "status": "FT"
+      },
+      {
+        "date": "19900508",
+        "home": "Switzerland",
+        "away": "Argentina",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "Internationals 1990",
+        "competition": "",
+        "status": "FT"
+      },
+      {
+        "date": "19660719",
+        "home": "Argentina",
+        "away": "Switzerland",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "FIFA World Cup 1966 England",
+        "competition": "England",
         "status": "FT"
       }
     ],
@@ -2782,5 +2962,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-10-20T15:38:09Z"
+  "last_updated": "2026-10-20T19:50:04Z"
 }
