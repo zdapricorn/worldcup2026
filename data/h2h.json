@@ -1872,6 +1872,516 @@
         "status": "FT"
       }
     ],
+    "1696481": [
+      {
+        "date": "20261010",
+        "home": "Toronto FC",
+        "away": "CF Montreal",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "MLS",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20250830",
+        "home": "Toronto FC",
+        "away": "CF Montreal",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "MLS 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20250517",
+        "home": "CF Montreal",
+        "away": "Toronto FC",
+        "home_score": 1,
+        "away_score": 6,
+        "stage": "MLS 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20250430",
+        "home": "Toronto FC",
+        "away": "CF Montreal",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Canadian Championship",
+        "competition": "Canada",
+        "status": "AP"
+      },
+      {
+        "date": "20240720",
+        "home": "CF Montreal",
+        "away": "Toronto FC",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20240518",
+        "home": "Toronto FC",
+        "away": "CF Montreal",
+        "home_score": 5,
+        "away_score": 1,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230820",
+        "home": "Toronto FC",
+        "away": "CF Montreal",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230513",
+        "home": "CF Montreal",
+        "away": "Toronto FC",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230509",
+        "home": "Toronto FC",
+        "away": "CF Montreal",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "Canadian Championship",
+        "competition": "Canada",
+        "status": "FT"
+      },
+      {
+        "date": "20220904",
+        "home": "Toronto FC",
+        "away": "CF Montreal",
+        "home_score": 3,
+        "away_score": 4,
+        "stage": "Major League Soccer 2022",
+        "competition": "USA",
+        "status": "FT"
+      }
+    ],
+    "1696482": [
+      {
+        "date": "20260820",
+        "home": "Sporting Kansas City",
+        "away": "St. Louis City",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "MLS",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20250515",
+        "home": "St. Louis City",
+        "away": "Sporting Kansas City",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "MLS 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20250406",
+        "home": "Sporting Kansas City",
+        "away": "St. Louis City",
+        "home_score": 2,
+        "away_score": 0,
+        "stage": "MLS 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20240929",
+        "home": "St. Louis City",
+        "away": "Sporting Kansas City",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20240721",
+        "home": "Sporting Kansas City",
+        "away": "St. Louis City",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20240421",
+        "home": "Sporting Kansas City",
+        "away": "St. Louis City",
+        "home_score": 3,
+        "away_score": 3,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20231105",
+        "home": "Sporting Kansas City",
+        "away": "St. Louis City",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "MLS: Play-off",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20231030",
+        "home": "St. Louis City",
+        "away": "Sporting Kansas City",
+        "home_score": 1,
+        "away_score": 4,
+        "stage": "MLS: Play-off",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20231001",
+        "home": "St. Louis City",
+        "away": "Sporting Kansas City",
+        "home_score": 4,
+        "away_score": 1,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230903",
+        "home": "Sporting Kansas City",
+        "away": "St. Louis City",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      }
+    ],
+    "1696485": [
+      {
+        "date": "20260802",
+        "home": "Portland Timbers",
+        "away": "Seattle Sounders FC",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "MLS",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20251005",
+        "home": "Seattle Sounders FC",
+        "away": "Portland Timbers",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "MLS 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20250518",
+        "home": "Portland Timbers",
+        "away": "Seattle Sounders FC",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "MLS 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20241020",
+        "home": "Seattle Sounders FC",
+        "away": "Portland Timbers",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20240901",
+        "home": "Portland Timbers",
+        "away": "Seattle Sounders FC",
+        "home_score": 1,
+        "away_score": 0,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20240512",
+        "home": "Portland Timbers",
+        "away": "Seattle Sounders FC",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230903",
+        "home": "Seattle Sounders FC",
+        "away": "Portland Timbers",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230603",
+        "home": "Seattle Sounders FC",
+        "away": "Portland Timbers",
+        "home_score": 0,
+        "away_score": 0,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230416",
+        "home": "Portland Timbers",
+        "away": "Seattle Sounders FC",
+        "home_score": 4,
+        "away_score": 1,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20220827",
+        "home": "Portland Timbers",
+        "away": "Seattle Sounders FC",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "Major League Soccer 2022",
+        "competition": "USA",
+        "status": "FT"
+      }
+    ],
+    "1696483": [
+      {
+        "date": "20260418",
+        "home": "Atlanta United",
+        "away": "Nashville SC",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "MLS",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20250831",
+        "home": "Nashville SC",
+        "away": "Atlanta United",
+        "home_score": 0,
+        "away_score": 1,
+        "stage": "MLS 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20250503",
+        "home": "Atlanta United",
+        "away": "Nashville SC",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "MLS 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20240914",
+        "home": "Atlanta United",
+        "away": "Nashville SC",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20240518",
+        "home": "Nashville SC",
+        "away": "Atlanta United",
+        "home_score": 1,
+        "away_score": 1,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230826",
+        "home": "Atlanta United",
+        "away": "Nashville SC",
+        "home_score": 4,
+        "away_score": 0,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230429",
+        "home": "Nashville SC",
+        "away": "Atlanta United",
+        "home_score": 3,
+        "away_score": 1,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20220521",
+        "home": "Nashville SC",
+        "away": "Atlanta United",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "Major League Soccer 2022",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20220512",
+        "home": "Nashville SC",
+        "away": "Atlanta United",
+        "home_score": 3,
+        "away_score": 2,
+        "stage": "US Open Cup",
+        "competition": "USA",
+        "status": "AET"
+      },
+      {
+        "date": "20210828",
+        "home": "Atlanta United",
+        "away": "Nashville SC",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "Major League Soccer 2021",
+        "competition": "USA",
+        "status": "FT"
+      }
+    ],
+    "1696484": [
+      {
+        "date": "20261026",
+        "home": "Los Angeles FC",
+        "away": "LA Galaxy",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "MLS",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20250720",
+        "home": "Los Angeles FC",
+        "away": "LA Galaxy",
+        "home_score": 3,
+        "away_score": 3,
+        "stage": "MLS 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20250519",
+        "home": "LA Galaxy",
+        "away": "Los Angeles FC",
+        "home_score": 2,
+        "away_score": 2,
+        "stage": "MLS 2025",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20240915",
+        "home": "LA Galaxy",
+        "away": "Los Angeles FC",
+        "home_score": 4,
+        "away_score": 2,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20240705",
+        "home": "LA Galaxy",
+        "away": "Los Angeles FC",
+        "home_score": 1,
+        "away_score": 2,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20240406",
+        "home": "Los Angeles FC",
+        "away": "LA Galaxy",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "MLS 2024",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230917",
+        "home": "Los Angeles FC",
+        "away": "LA Galaxy",
+        "home_score": 4,
+        "away_score": 2,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230705",
+        "home": "LA Galaxy",
+        "away": "Los Angeles FC",
+        "home_score": 2,
+        "away_score": 1,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230524",
+        "home": "Los Angeles FC",
+        "away": "LA Galaxy",
+        "home_score": 0,
+        "away_score": 2,
+        "stage": "US Open Cup",
+        "competition": "USA",
+        "status": "FT"
+      },
+      {
+        "date": "20230416",
+        "home": "LA Galaxy",
+        "away": "Los Angeles FC",
+        "home_score": 2,
+        "away_score": 3,
+        "stage": "MLS 2023",
+        "competition": "USA",
+        "status": "FT"
+      }
+    ],
     "1691883": [
       {
         "date": "20221210",
@@ -1998,5 +2508,5 @@
     ]
   },
   "source": "livescore",
-  "last_updated": "2026-11-16T02:19:52Z"
+  "last_updated": "2026-11-16T20:47:43Z"
 }

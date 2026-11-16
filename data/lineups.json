@@ -30384,6 +30384,1211 @@
         }
       }
     },
+    "1696481": {
+      "home_team": "CF Montreal",
+      "away_team": "Toronto FC",
+      "lineups": {
+        "home": {
+          "formation": "4-3-3",
+          "starting_xi": [
+            {
+              "number": 31,
+              "name": "Thomas Gillier",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 13,
+              "name": "Luca Petrasso",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 4,
+              "name": "Brayan Vera",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 2,
+              "name": "Jalen Neal",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 27,
+              "name": "Dawid Bugaj",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 8,
+              "name": "Matty Longstaff",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 6,
+              "name": "Samuel Piette",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 22,
+              "name": "Victor Loturi",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 23,
+              "name": "Noah Streit",
+              "pos": 4,
+              "grid": "4:3"
+            },
+            {
+              "number": 14,
+              "name": "Daniel Rios",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 18,
+              "name": "Hennadii Synchuk",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 25,
+              "name": "Frankie Amaya",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Sébastian Breza",
+              "pos": 5
+            },
+            {
+              "number": 5,
+              "name": "Brandan Craig",
+              "pos": 5
+            },
+            {
+              "number": 29,
+              "name": "Olger Escobar",
+              "pos": 5
+            },
+            {
+              "number": 35,
+              "name": "Owen Graham-Roache",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Fabian Herbers",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Efrain Morales",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Daniel Pereira",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Dagur Dan Thorhallsson",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "3-4-2-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Luka Gavran",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 38,
+              "name": "Jackson Gilman",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 25,
+              "name": "Walker Zimmerman",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 12,
+              "name": "Zane Monlouis",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 20,
+              "name": "Dániel Sallói",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 14,
+              "name": "Alonso Coello",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 22,
+              "name": "Richie Laryea",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 19,
+              "name": "Kobe Franklin",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 11,
+              "name": "Derrick Etienne Jr.",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 7,
+              "name": "Theo Corbeanu",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 9,
+              "name": "Josh Sargent",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 17,
+              "name": "Emilio Aristizabal",
+              "pos": 5
+            },
+            {
+              "number": 96,
+              "name": "Richard Chukwu",
+              "pos": 5
+            },
+            {
+              "number": 44,
+              "name": "Raheem Edwards",
+              "pos": 5
+            },
+            {
+              "number": 78,
+              "name": "Malik Henry",
+              "pos": 5
+            },
+            {
+              "number": 29,
+              "name": "Deandre Kerr",
+              "pos": 5
+            },
+            {
+              "number": 13,
+              "name": "Benjamin Kuscevic",
+              "pos": 5
+            },
+            {
+              "number": 10,
+              "name": "Djordje Mihailovic",
+              "pos": 5
+            },
+            {
+              "number": 99,
+              "name": "Jules-Anthony Vilsaint",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "William Yarbrough",
+              "pos": 5
+            }
+          ]
+        }
+      }
+    },
+    "1696482": {
+      "home_team": "St. Louis City",
+      "away_team": "Sporting Kansas City",
+      "lineups": {
+        "home": {
+          "formation": "3-4-3",
+          "starting_xi": [
+            {
+              "number": 39,
+              "name": "Ben Lundt",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 21,
+              "name": "Dante Polvara",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 32,
+              "name": "Timo Baumgartl",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 5,
+              "name": "Lukas MacNaughton",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 14,
+              "name": "Tomas Totland",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 24,
+              "name": "Daniel Edelman",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 10,
+              "name": "Eduard Lowen",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 6,
+              "name": "Conrad Wallem",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 17,
+              "name": "Marcel Hartel",
+              "pos": 4,
+              "grid": "4:3"
+            },
+            {
+              "number": 11,
+              "name": "Simon Becher",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 77,
+              "name": "Sang-Bin Jeong",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 29,
+              "name": "Palmer Ault",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Rafael Santos",
+              "pos": 5
+            },
+            {
+              "number": 27,
+              "name": "Fallou Fall",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Kyle Hiebert",
+              "pos": 5
+            },
+            {
+              "number": 59,
+              "name": "MyKhi Joyner",
+              "pos": 5
+            },
+            {
+              "number": 31,
+              "name": "Christian Olivares",
+              "pos": 5
+            },
+            {
+              "number": 99,
+              "name": "Jaziel Orozco",
+              "pos": 5
+            },
+            {
+              "number": 7,
+              "name": "Tomas Ostrak",
+              "pos": 5
+            },
+            {
+              "number": 28,
+              "name": "Miguel Perez",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 30,
+              "name": "Stefan Cleveland",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 99,
+              "name": "Jayden Reid",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 5,
+              "name": "Or Blorian",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 15,
+              "name": "Jansen Miller",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 2,
+              "name": "Ian James",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 22,
+              "name": "Zorhan Bassong",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 4,
+              "name": "Lasse Berg Johnsen",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 11,
+              "name": "Calvin Harris",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 6,
+              "name": "Manu Garcia",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 7,
+              "name": "Osvaldo Pedro Capemba",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 9,
+              "name": "Dejan Joveljic",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 17,
+              "name": "Stephen Afrifa",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Kwaku Agyabeng",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Jacob Bartlett",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Ethan Bartlow",
+              "pos": 5
+            },
+            {
+              "number": 8,
+              "name": "Jacob Davis",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Emir Karic",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "John Pulskamp",
+              "pos": 5
+            },
+            {
+              "number": 93,
+              "name": "Shapi Suleymanov",
+              "pos": 5
+            },
+            {
+              "number": 14,
+              "name": "Macielo Tschantret",
+              "pos": 5
+            }
+          ]
+        }
+      }
+    },
+    "1696485": {
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Portland Timbers",
+      "lineups": {
+        "home": {
+          "formation": "4-2-3-1",
+          "starting_xi": [
+            {
+              "number": 26,
+              "name": "Andrew Thomas",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 5,
+              "name": "Nouhou Tolo",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 25,
+              "name": "Jackson Ragen",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 35,
+              "name": "Antino Lopez",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 85,
+              "name": "Kalani Kossa-Rienzi",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 31,
+              "name": "Hassani Dotson",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 37,
+              "name": "Snyder Brunell",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 14,
+              "name": "Paul Rothrock",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 11,
+              "name": "Albert Rusnak",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 9,
+              "name": "Jesus Ferreira",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 13,
+              "name": "Jordan Morris",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 17,
+              "name": "Paul Arriola",
+              "pos": 5
+            },
+            {
+              "number": 95,
+              "name": "Osaze De Rosario",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Stefan Frei",
+              "pos": 5
+            },
+            {
+              "number": 90,
+              "name": "Sebastian Gomez",
+              "pos": 5
+            },
+            {
+              "number": 39,
+              "name": "Stuart Russell Hawkins",
+              "pos": 5
+            },
+            {
+              "number": 45,
+              "name": "Peter Kingston",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Danny Musovski",
+              "pos": 5
+            },
+            {
+              "number": 36,
+              "name": "Yu Tsukanome",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-1-4-1",
+          "starting_xi": [
+            {
+              "number": 41,
+              "name": "James Pantemis",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 27,
+              "name": "Jimer Fory",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 4,
+              "name": "Kamal Miller",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 20,
+              "name": "Finn Surman",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 5,
+              "name": "Brandon Bye",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 21,
+              "name": "Diego Chara",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 11,
+              "name": "Antony Alves Santos",
+              "pos": 3,
+              "grid": "4:4"
+            },
+            {
+              "number": 10,
+              "name": "David Pereira da Costa",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 17,
+              "name": "Cole Bassett",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 7,
+              "name": "Ariel Lassister",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 19,
+              "name": "Kevin Kelsy",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 28,
+              "name": "Alexander Aravena",
+              "pos": 5
+            },
+            {
+              "number": 6,
+              "name": "Alex Bonetig",
+              "pos": 5
+            },
+            {
+              "number": 30,
+              "name": "Jose Caicedo",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Sawyer Jura",
+              "pos": 5
+            },
+            {
+              "number": 15,
+              "name": "Eric Miller",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Felipe Mora",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Trey Muse",
+              "pos": 5
+            },
+            {
+              "number": 80,
+              "name": "Joao Ortiz",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Ian Smith",
+              "pos": 5
+            }
+          ]
+        }
+      }
+    },
+    "1696483": {
+      "home_team": "Nashville SC",
+      "away_team": "Atlanta United",
+      "lineups": {
+        "home": {
+          "formation": "4-4-2",
+          "starting_xi": [
+            {
+              "number": 99,
+              "name": "Brian Schwake",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 2,
+              "name": "Daniel Lovitz",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 3,
+              "name": "Maxwell Woledzi",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 5,
+              "name": "Jack Maher",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 22,
+              "name": "Josh Bauer",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 37,
+              "name": "Ahmed Qasem",
+              "pos": 3,
+              "grid": "3:4"
+            },
+            {
+              "number": 20,
+              "name": "Edvard Tagseth",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 16,
+              "name": "Matthew Corcoran",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 14,
+              "name": "Shak Mohammed",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 9,
+              "name": "Sam Surridge",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 10,
+              "name": "Hany Mukhtar",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 6,
+              "name": "Bryan Acosta",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Charles-Emile Brunet",
+              "pos": 5
+            },
+            {
+              "number": 23,
+              "name": "Jordan Knight",
+              "pos": 5
+            },
+            {
+              "number": 19,
+              "name": "Alex Muyl",
+              "pos": 5
+            },
+            {
+              "number": 31,
+              "name": "Andy Najar",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Woobens Pacius",
+              "pos": 5
+            },
+            {
+              "number": 4,
+              "name": "Jeisson Palacios",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Thomas Williams",
+              "pos": 5
+            },
+            {
+              "number": 1,
+              "name": "Joe Willis",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-1-4-1",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Lucas Hoyos",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 3,
+              "name": "Elías Báez",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 4,
+              "name": "Enea Mihaj",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 55,
+              "name": "Tomas Jacob",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 47,
+              "name": "Matt Edwards",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 8,
+              "name": "Tristan Muyumba",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 10,
+              "name": "Miguel Almirón",
+              "pos": 3,
+              "grid": "4:4"
+            },
+            {
+              "number": 35,
+              "name": "Ajani Fortune",
+              "pos": 3,
+              "grid": "4:3"
+            },
+            {
+              "number": 48,
+              "name": "Cooper Sanchez",
+              "pos": 3,
+              "grid": "4:2"
+            },
+            {
+              "number": 20,
+              "name": "Luke Brennan",
+              "pos": 3,
+              "grid": "4:1"
+            },
+            {
+              "number": 59,
+              "name": "Aleksey Miranchuk",
+              "pos": 4,
+              "grid": "5:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 16,
+              "name": "Adrian Gill",
+              "pos": 5
+            },
+            {
+              "number": 30,
+              "name": "Cayman Togashi",
+              "pos": 5
+            },
+            {
+              "number": 2,
+              "name": "Ronald Hernandez",
+              "pos": 5
+            },
+            {
+              "number": 42,
+              "name": "Jayden Hibbert",
+              "pos": 5
+            },
+            {
+              "number": 9,
+              "name": "Emmanuel Latte Lath",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Fafà Picault",
+              "pos": 5
+            },
+            {
+              "number": 28,
+              "name": "Will Reilly",
+              "pos": 5
+            },
+            {
+              "number": 18,
+              "name": "Pedro Amador",
+              "pos": 5
+            },
+            {
+              "number": 56,
+              "name": "Ignacio Suarez",
+              "pos": 5
+            }
+          ]
+        }
+      }
+    },
+    "1696484": {
+      "home_team": "LA Galaxy",
+      "away_team": "Los Angeles FC",
+      "lineups": {
+        "home": {
+          "formation": "4-3-3",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Novak Micovic",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 14,
+              "name": "John Nelson",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 15,
+              "name": "Justin Haak",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 5,
+              "name": "Jakob Glesnes",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 2,
+              "name": "Miki Yamane",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 22,
+              "name": "Elijah Wynder",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 6,
+              "name": "Edwin Cerrillo",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 8,
+              "name": "Lucas Sanabria",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 27,
+              "name": "Erik Thommy",
+              "pos": 4,
+              "grid": "4:3"
+            },
+            {
+              "number": 18,
+              "name": "Marco Reus",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 28,
+              "name": "Joseph Paintsil",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 3,
+              "name": "Julian Aude",
+              "pos": 5
+            },
+            {
+              "number": 25,
+              "name": "Carlos Garces",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "JT Marcinkowski",
+              "pos": 5
+            },
+            {
+              "number": 16,
+              "name": "Isaiah Parente",
+              "pos": 5
+            },
+            {
+              "number": 24,
+              "name": "Ruben Ramos",
+              "pos": 5
+            },
+            {
+              "number": 20,
+              "name": "Christopher Rindov",
+              "pos": 5
+            },
+            {
+              "number": 26,
+              "name": "Harbor Miller",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Robert Taylor",
+              "pos": 5
+            },
+            {
+              "number": 4,
+              "name": "Maya Yoshida",
+              "pos": 5
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-3-3",
+          "starting_xi": [
+            {
+              "number": 1,
+              "name": "Hugo Lloris",
+              "pos": 1,
+              "grid": "1:1"
+            },
+            {
+              "number": 23,
+              "name": "Yevgen Cheberko",
+              "pos": 2,
+              "grid": "2:4"
+            },
+            {
+              "number": 33,
+              "name": "Aaron Long",
+              "pos": 2,
+              "grid": "2:3"
+            },
+            {
+              "number": 5,
+              "name": "Ryan Porteous",
+              "pos": 2,
+              "grid": "2:2"
+            },
+            {
+              "number": 24,
+              "name": "Ryan Hollingshead",
+              "pos": 2,
+              "grid": "2:1"
+            },
+            {
+              "number": 8,
+              "name": "Mark Delgado",
+              "pos": 3,
+              "grid": "3:3"
+            },
+            {
+              "number": 4,
+              "name": "Eddie Segura",
+              "pos": 3,
+              "grid": "3:2"
+            },
+            {
+              "number": 66,
+              "name": "Mathieu Choinière",
+              "pos": 3,
+              "grid": "3:1"
+            },
+            {
+              "number": 99,
+              "name": "Denis Bouanga",
+              "pos": 4,
+              "grid": "4:3"
+            },
+            {
+              "number": 7,
+              "name": "Son Heung-min",
+              "pos": 4,
+              "grid": "4:2"
+            },
+            {
+              "number": 18,
+              "name": "Jacob Shaffelburg",
+              "pos": 4,
+              "grid": "4:1"
+            }
+          ],
+          "substitutes": [
+            {
+              "number": 19,
+              "name": "Tyler Boyd",
+              "pos": 5
+            },
+            {
+              "number": 17,
+              "name": "Jeremy Ebobisse",
+              "pos": 5
+            },
+            {
+              "number": 12,
+              "name": "Thomas Hasal",
+              "pos": 5
+            },
+            {
+              "number": 30,
+              "name": "David Martinez",
+              "pos": 5
+            },
+            {
+              "number": 40,
+              "name": "Sebastian Nava",
+              "pos": 5
+            },
+            {
+              "number": 45,
+              "name": "Kenny Nielsen",
+              "pos": 5
+            },
+            {
+              "number": 21,
+              "name": "Ryan Raposo",
+              "pos": 5
+            },
+            {
+              "number": 91,
+              "name": "Nkosi Tafari",
+              "pos": 5
+            },
+            {
+              "number": 22,
+              "name": "Jude Terry",
+              "pos": 5
+            }
+          ]
+        }
+      }
+    },
     "1691883": {
       "home_team": "France",
       "away_team": "England",
@@ -30985,5 +32190,5 @@
     }
   },
   "source": "livescore",
-  "last_updated": "2026-11-16T02:19:13Z"
+  "last_updated": "2026-11-16T20:47:08Z"
 }
